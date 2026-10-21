@@ -1,0 +1,2385 @@
+participation_id,student_id,hackathon_id,team_id,role,result,performance_score
+PA00001,ST0202,H001,T0001,Data Scientist,Finalist,68.77
+PA00002,ST0332,H001,T0001,AI/ML Developer,Finalist,68.77
+PA00003,ST0539,H001,T0001,AI/ML Developer,Finalist,68.77
+PA00004,ST0902,H001,T0002,AI/ML Developer,Winner,81.77
+PA00005,ST0722,H001,T0002,Data Scientist,Winner,81.77
+PA00006,ST0815,H001,T0002,AI/ML Developer,Winner,81.77
+PA00007,ST1091,H001,T0002,AI/ML Developer,Winner,81.77
+PA00008,ST0579,H001,T0003,AI/ML Developer,Runner-up,73.08
+PA00009,ST0608,H001,T0003,AI/ML Developer,Runner-up,73.08
+PA00010,ST0892,H001,T0003,AI/ML Developer,Runner-up,73.08
+PA00011,ST0238,H001,T0003,Data Scientist,Runner-up,73.08
+PA00012,ST1145,H001,T0003,AI/ML Developer,Runner-up,73.08
+PA00013,ST0847,H001,T0004,Data Scientist,Shortlisted,58.01
+PA00014,ST0134,H001,T0004,AI/ML Developer,Shortlisted,58.01
+PA00015,ST0986,H001,T0004,Backend Developer,Shortlisted,58.01
+PA00016,ST0869,H001,T0004,AI/ML Developer,Shortlisted,58.01
+PA00017,ST0785,H001,T0004,Data Scientist,Shortlisted,58.01
+PA00018,ST0569,H001,T0005,AI/ML Developer,Finalist,63.53
+PA00019,ST1067,H001,T0005,Data Scientist,Finalist,63.53
+PA00020,ST0453,H001,T0005,AI/ML Developer,Finalist,63.53
+PA00021,ST0179,H001,T0005,Data Scientist,Finalist,63.53
+PA00022,ST0466,H001,T0005,Data Analyst,Finalist,63.53
+PA00023,ST1019,H002,T0006,Backend Developer,Finalist,68.48
+PA00024,ST0986,H002,T0006,Backend Developer,Finalist,68.48
+PA00025,ST1116,H002,T0006,Backend Developer,Finalist,68.48
+PA00026,ST0648,H002,T0006,Backend Developer,Finalist,68.48
+PA00027,ST0556,H002,T0007,Cybersecurity,Winner,87.93
+PA00028,ST0505,H002,T0007,Backend Developer,Winner,87.93
+PA00029,ST1135,H002,T0007,Backend Developer,Winner,87.93
+PA00030,ST0302,H002,T0007,Backend Developer,Winner,87.93
+PA00031,ST1075,H002,T0007,Backend Developer,Winner,87.93
+PA00032,ST0412,H002,T0008,Backend Developer,Finalist,62.02
+PA00033,ST0654,H002,T0008,Full Stack Developer,Finalist,62.02
+PA00034,ST0035,H002,T0008,Full Stack Developer,Finalist,62.02
+PA00035,ST0689,H002,T0008,Frontend Developer,Finalist,62.02
+PA00036,ST0132,H002,T0009,Backend Developer,Runner-up,70.38
+PA00037,ST0651,H002,T0009,Backend Developer,Runner-up,70.38
+PA00038,ST0852,H002,T0009,Full Stack Developer,Runner-up,70.38
+PA00039,ST0223,H002,T0010,Backend Developer,Participant,49.29
+PA00040,ST1161,H002,T0010,Backend Developer,Participant,49.29
+PA00041,ST1160,H002,T0010,Backend Developer,Participant,49.29
+PA00042,ST0428,H002,T0010,Backend Developer,Participant,49.29
+PA00043,ST0587,H002,T0010,Backend Developer,Participant,49.29
+PA00044,ST1135,H003,T0011,Backend Developer,Winner,75.24
+PA00045,ST0773,H003,T0011,Backend Developer,Winner,75.24
+PA00046,ST0892,H003,T0011,AI/ML Developer,Winner,75.24
+PA00047,ST0531,H003,T0011,Backend Developer,Winner,75.24
+PA00048,ST0917,H003,T0012,Data Scientist,Participant,33.22
+PA00049,ST0223,H003,T0012,Backend Developer,Participant,33.22
+PA00050,ST0492,H003,T0012,Full Stack Developer,Participant,33.22
+PA00051,ST1019,H003,T0013,Backend Developer,Finalist,70.99
+PA00052,ST0781,H003,T0013,Frontend Developer,Finalist,70.99
+PA00053,ST1116,H003,T0013,Backend Developer,Finalist,70.99
+PA00054,ST0623,H003,T0014,Full Stack Developer,Runner-up,71.41
+PA00055,ST0848,H003,T0014,Backend Developer,Runner-up,71.41
+PA00056,ST0374,H003,T0014,Backend Developer,Runner-up,71.41
+PA00057,ST0302,H003,T0015,Backend Developer,Shortlisted,59.47
+PA00058,ST1189,H003,T0015,Backend Developer,Shortlisted,59.47
+PA00059,ST0648,H003,T0015,Backend Developer,Shortlisted,59.47
+PA00060,ST1135,H004,T0016,Backend Developer,Runner-up,67.76
+PA00061,ST0846,H004,T0016,Backend Developer,Runner-up,67.76
+PA00062,ST0319,H004,T0016,Android Developer,Runner-up,67.76
+PA00063,ST0268,H004,T0016,Android Developer,Runner-up,67.76
+PA00064,ST0119,H004,T0017,Backend Developer,Finalist,65.5
+PA00065,ST0199,H004,T0017,UI/UX Designer,Finalist,65.5
+PA00066,ST0219,H004,T0017,Backend Developer,Finalist,65.5
+PA00067,ST0527,H004,T0017,Full Stack Developer,Finalist,65.5
+PA00068,ST1042,H004,T0017,Cybersecurity,Finalist,65.5
+PA00069,ST0214,H004,T0018,UI/UX Designer,Shortlisted,53.79
+PA00070,ST0139,H004,T0018,Full Stack Developer,Shortlisted,53.79
+PA00071,ST1106,H004,T0018,Backend Developer,Shortlisted,53.79
+PA00072,ST0158,H004,T0019,Full Stack Developer,Winner,73.28
+PA00073,ST0623,H004,T0019,Full Stack Developer,Winner,73.28
+PA00074,ST0991,H004,T0019,Full Stack Developer,Winner,73.28
+PA00075,ST0654,H004,T0020,Full Stack Developer,Shortlisted,57.05
+PA00076,ST1089,H004,T0020,Full Stack Developer,Shortlisted,57.05
+PA00077,ST1072,H004,T0020,Backend Developer,Shortlisted,57.05
+PA00078,ST0663,H004,T0020,Backend Developer,Shortlisted,57.05
+PA00079,ST1182,H004,T0020,Full Stack Developer,Shortlisted,57.05
+PA00080,ST0261,H005,T0021,Full Stack Developer,Finalist,64.98
+PA00081,ST0251,H005,T0021,Data Analyst,Finalist,64.98
+PA00082,ST1017,H005,T0021,Data Analyst,Finalist,64.98
+PA00083,ST0475,H005,T0022,IoT Developer,Winner,87.84
+PA00084,ST0505,H005,T0022,Backend Developer,Winner,87.84
+PA00085,ST0074,H005,T0022,IoT Developer,Winner,87.84
+PA00086,ST0651,H005,T0022,Backend Developer,Winner,87.84
+PA00087,ST0558,H005,T0023,IoT Developer,Finalist,66.67
+PA00088,ST0163,H005,T0023,Blockchain Developer,Finalist,66.67
+PA00089,ST0430,H005,T0023,Backend Developer,Finalist,66.67
+PA00090,ST0183,H005,T0024,IoT Developer,Finalist,65.69
+PA00091,ST1097,H005,T0024,Data Analyst,Finalist,65.69
+PA00092,ST0490,H005,T0024,IoT Developer,Finalist,65.69
+PA00093,ST0192,H005,T0025,Data Analyst,Runner-up,79.61
+PA00094,ST0915,H005,T0025,IoT Developer,Runner-up,79.61
+PA00095,ST0291,H005,T0025,Backend Developer,Runner-up,79.61
+PA00096,ST0659,H006,T0026,Cybersecurity,Finalist,69.24
+PA00097,ST0217,H006,T0026,Cybersecurity,Finalist,69.24
+PA00098,ST0064,H006,T0026,Data Analyst,Finalist,69.24
+PA00099,ST0216,H006,T0026,UI/UX Designer,Finalist,69.24
+PA00100,ST0823,H006,T0027,Cybersecurity,Runner-up,76.54
+PA00101,ST1059,H006,T0027,Cybersecurity,Runner-up,76.54
+PA00102,ST1056,H006,T0027,Cybersecurity,Runner-up,76.54
+PA00103,ST1121,H006,T0028,Cybersecurity,Finalist,66.59
+PA00104,ST0611,H006,T0028,Cybersecurity,Finalist,66.59
+PA00105,ST0786,H006,T0028,Cybersecurity,Finalist,66.59
+PA00106,ST0698,H006,T0028,Cybersecurity,Finalist,66.59
+PA00107,ST0372,H006,T0029,Cybersecurity,Shortlisted,58.53
+PA00108,ST0556,H006,T0029,Cybersecurity,Shortlisted,58.53
+PA00109,ST1093,H006,T0029,Cybersecurity,Shortlisted,58.53
+PA00110,ST0504,H006,T0029,Cybersecurity,Shortlisted,58.53
+PA00111,ST0407,H006,T0030,Cybersecurity,Winner,99.3
+PA00112,ST0324,H006,T0030,Cybersecurity,Winner,99.3
+PA00113,ST0709,H006,T0030,Cybersecurity,Winner,99.3
+PA00114,ST0240,H006,T0030,Data Analyst,Winner,99.3
+PA00115,ST0520,H007,T0031,Blockchain Developer,Winner,83.04
+PA00116,ST1110,H007,T0031,Blockchain Developer,Winner,83.04
+PA00117,ST0901,H007,T0031,Blockchain Developer,Winner,83.04
+PA00118,ST0778,H007,T0031,Blockchain Developer,Winner,83.04
+PA00119,ST0029,H007,T0032,Blockchain Developer,Finalist,65.41
+PA00120,ST0346,H007,T0032,Blockchain Developer,Finalist,65.41
+PA00121,ST1048,H007,T0032,Blockchain Developer,Finalist,65.41
+PA00122,ST0195,H007,T0033,Blockchain Developer,Finalist,75.01
+PA00123,ST0431,H007,T0033,Blockchain Developer,Finalist,75.01
+PA00124,ST0667,H007,T0033,Blockchain Developer,Finalist,75.01
+PA00125,ST0992,H007,T0033,Blockchain Developer,Finalist,75.01
+PA00126,ST1159,H007,T0034,Blockchain Developer,Runner-up,75.83
+PA00127,ST0467,H007,T0034,Blockchain Developer,Runner-up,75.83
+PA00128,ST0249,H007,T0034,Blockchain Developer,Runner-up,75.83
+PA00129,ST0201,H007,T0034,Blockchain Developer,Runner-up,75.83
+PA00130,ST0941,H007,T0034,Android Developer,Runner-up,75.83
+PA00131,ST1027,H007,T0034,Blockchain Developer,Runner-up,75.83
+PA00132,ST0849,H007,T0035,Blockchain Developer,Finalist,64.66
+PA00133,ST1047,H007,T0035,Blockchain Developer,Finalist,64.66
+PA00134,ST0112,H007,T0035,Blockchain Developer,Finalist,64.66
+PA00135,ST0971,H007,T0035,Blockchain Developer,Finalist,64.66
+PA00136,ST0748,H007,T0035,Cybersecurity,Finalist,64.66
+PA00137,ST0183,H008,T0036,IoT Developer,Finalist,64.84
+PA00138,ST0047,H008,T0036,IoT Developer,Finalist,64.84
+PA00139,ST0963,H008,T0036,IoT Developer,Finalist,64.84
+PA00140,ST0558,H008,T0037,IoT Developer,Finalist,82.2
+PA00141,ST0612,H008,T0037,IoT Developer,Finalist,82.2
+PA00142,ST0663,H008,T0037,Backend Developer,Finalist,82.2
+PA00143,ST0846,H008,T0037,Backend Developer,Finalist,82.2
+PA00144,ST0915,H008,T0038,IoT Developer,Runner-up,86.41
+PA00145,ST0572,H008,T0038,IoT Developer,Runner-up,86.41
+PA00146,ST0982,H008,T0038,IoT Developer,Runner-up,86.41
+PA00147,ST0810,H008,T0039,IoT Developer,Finalist,65.47
+PA00148,ST0473,H008,T0039,IoT Developer,Finalist,65.47
+PA00149,ST0686,H008,T0039,IoT Developer,Finalist,65.47
+PA00150,ST0566,H008,T0039,IoT Developer,Finalist,65.47
+PA00151,ST0312,H008,T0040,IoT Developer,Winner,95.33
+PA00152,ST0509,H008,T0040,IoT Developer,Winner,95.33
+PA00153,ST0768,H008,T0040,IoT Developer,Winner,95.33
+PA00154,ST0475,H008,T0040,IoT Developer,Winner,95.33
+PA00155,ST0074,H008,T0040,IoT Developer,Winner,95.33
+PA00156,ST0991,H009,T0041,Full Stack Developer,Runner-up,67.96
+PA00157,ST0911,H009,T0041,Full Stack Developer,Runner-up,67.96
+PA00158,ST0390,H009,T0041,IoT Developer,Runner-up,67.96
+PA00159,ST0261,H009,T0042,Full Stack Developer,Finalist,67.36
+PA00160,ST0945,H009,T0042,IoT Developer,Finalist,67.36
+PA00161,ST0810,H009,T0042,IoT Developer,Finalist,67.36
+PA00162,ST0898,H009,T0042,IoT Developer,Finalist,67.36
+PA00163,ST0074,H009,T0043,IoT Developer,Shortlisted,52.06
+PA00164,ST0572,H009,T0043,IoT Developer,Shortlisted,52.06
+PA00165,ST1164,H009,T0043,IoT Developer,Shortlisted,52.06
+PA00166,ST0158,H009,T0043,Full Stack Developer,Shortlisted,52.06
+PA00167,ST0461,H009,T0044,IoT Developer,Winner,98.11
+PA00168,ST0114,H009,T0044,Full Stack Developer,Winner,98.11
+PA00169,ST0558,H009,T0044,IoT Developer,Winner,98.11
+PA00170,ST1063,H009,T0044,IoT Developer,Winner,98.11
+PA00171,ST0852,H009,T0045,Full Stack Developer,Participant,49.42
+PA00172,ST1129,H009,T0045,Full Stack Developer,Participant,49.42
+PA00173,ST0492,H009,T0045,Full Stack Developer,Participant,49.42
+PA00174,ST1118,H010,T0046,Data Analyst,Runner-up,88.56
+PA00175,ST0459,H010,T0046,Cloud Developer,Runner-up,88.56
+PA00176,ST0436,H010,T0046,AI/ML Developer,Runner-up,88.56
+PA00177,ST1015,H010,T0047,Data Analyst,Finalist,78.0
+PA00178,ST0044,H010,T0047,Cloud Developer,Finalist,78.0
+PA00179,ST0121,H010,T0047,IoT Developer,Finalist,78.0
+PA00180,ST0179,H010,T0048,Data Scientist,Shortlisted,50.67
+PA00181,ST0387,H010,T0048,IoT Developer,Shortlisted,50.67
+PA00182,ST0208,H010,T0048,UI/UX Designer,Shortlisted,50.67
+PA00183,ST1029,H010,T0048,Cloud Developer,Shortlisted,50.67
+PA00184,ST0261,H010,T0049,Full Stack Developer,Winner,99.94
+PA00185,ST0390,H010,T0049,IoT Developer,Winner,99.94
+PA00186,ST0860,H010,T0049,Backend Developer,Winner,99.94
+PA00187,ST0759,H010,T0050,IoT Developer,Finalist,75.53
+PA00188,ST0556,H010,T0050,Cybersecurity,Finalist,75.53
+PA00189,ST1164,H010,T0050,IoT Developer,Finalist,75.53
+PA00190,ST0207,H010,T0050,Data Analyst,Finalist,75.53
+PA00191,ST0397,H011,T0051,Frontend Developer,Finalist,64.0
+PA00192,ST0720,H011,T0051,Frontend Developer,Finalist,64.0
+PA00193,ST0301,H011,T0051,Full Stack Developer,Finalist,64.0
+PA00194,ST0960,H011,T0051,Frontend Developer,Finalist,64.0
+PA00195,ST0349,H011,T0052,Frontend Developer,Finalist,68.35
+PA00196,ST0944,H011,T0052,Frontend Developer,Finalist,68.35
+PA00197,ST1014,H011,T0052,Full Stack Developer,Finalist,68.35
+PA00198,ST0208,H011,T0052,UI/UX Designer,Finalist,68.35
+PA00199,ST1129,H011,T0053,Full Stack Developer,Runner-up,91.59
+PA00200,ST0114,H011,T0053,Full Stack Developer,Runner-up,91.59
+PA00201,ST1011,H011,T0053,Full Stack Developer,Runner-up,91.59
+PA00202,ST0426,H011,T0053,Full Stack Developer,Runner-up,91.59
+PA00203,ST0861,H011,T0054,Full Stack Developer,Finalist,62.65
+PA00204,ST0732,H011,T0054,Full Stack Developer,Finalist,62.65
+PA00205,ST0277,H011,T0054,Full Stack Developer,Finalist,62.65
+PA00206,ST0481,H011,T0054,Full Stack Developer,Finalist,62.65
+PA00207,ST1152,H011,T0055,Full Stack Developer,Winner,100
+PA00208,ST0932,H011,T0055,UI/UX Designer,Winner,100
+PA00209,ST0781,H011,T0055,Frontend Developer,Winner,100
+PA00210,ST0492,H011,T0055,Full Stack Developer,Winner,100
+PA00211,ST0040,H012,T0056,AI/ML Developer,Runner-up,83.79
+PA00212,ST1191,H012,T0056,Data Scientist,Runner-up,83.79
+PA00213,ST0466,H012,T0056,Data Analyst,Runner-up,83.79
+PA00214,ST0722,H012,T0057,Data Scientist,Finalist,69.77
+PA00215,ST0949,H012,T0057,Data Scientist,Finalist,69.77
+PA00216,ST0179,H012,T0057,Data Scientist,Finalist,69.77
+PA00217,ST1168,H012,T0057,Data Analyst,Finalist,69.77
+PA00218,ST0418,H012,T0057,Data Scientist,Finalist,69.77
+PA00219,ST0365,H012,T0058,Data Scientist,Winner,90.31
+PA00220,ST0315,H012,T0058,Data Scientist,Winner,90.31
+PA00221,ST0847,H012,T0058,Data Scientist,Winner,90.31
+PA00222,ST0424,H012,T0058,Data Scientist,Winner,90.31
+PA00223,ST0660,H012,T0059,Data Scientist,Finalist,64.59
+PA00224,ST0113,H012,T0059,Data Scientist,Finalist,64.59
+PA00225,ST0839,H012,T0059,Data Scientist,Finalist,64.59
+PA00226,ST0708,H012,T0059,Data Scientist,Finalist,64.59
+PA00227,ST0548,H012,T0059,AI/ML Developer,Finalist,64.59
+PA00228,ST0202,H012,T0060,Data Scientist,Finalist,70.63
+PA00229,ST0815,H012,T0060,AI/ML Developer,Finalist,70.63
+PA00230,ST1017,H012,T0060,Data Analyst,Finalist,70.63
+PA00231,ST0645,H012,T0060,Data Scientist,Finalist,70.63
+PA00232,ST0624,H013,T0061,DevOps,Shortlisted,57.18
+PA00233,ST0221,H013,T0061,DevOps,Shortlisted,57.18
+PA00234,ST0200,H013,T0061,DevOps,Shortlisted,57.18
+PA00235,ST0419,H013,T0061,DevOps,Shortlisted,57.18
+PA00236,ST0969,H013,T0061,DevOps,Shortlisted,57.18
+PA00237,ST0683,H013,T0062,Frontend Developer,Participant,47.96
+PA00238,ST0626,H013,T0062,DevOps,Participant,47.96
+PA00239,ST0775,H013,T0062,Cloud Developer,Participant,47.96
+PA00240,ST0811,H013,T0063,DevOps,Runner-up,78.63
+PA00241,ST0524,H013,T0063,DevOps,Runner-up,78.63
+PA00242,ST0265,H013,T0063,DevOps,Runner-up,78.63
+PA00243,ST0820,H013,T0063,DevOps,Runner-up,78.63
+PA00244,ST0679,H013,T0063,Frontend Developer,Runner-up,78.63
+PA00245,ST0322,H013,T0064,DevOps,Winner,78.87
+PA00246,ST0726,H013,T0064,DevOps,Winner,78.87
+PA00247,ST0126,H013,T0064,DevOps,Winner,78.87
+PA00248,ST0616,H013,T0064,DevOps,Winner,78.87
+PA00249,ST0668,H013,T0064,Cloud Developer,Winner,78.87
+PA00250,ST0970,H013,T0064,DevOps,Winner,78.87
+PA00251,ST0719,H013,T0065,DevOps,Shortlisted,57.57
+PA00252,ST0912,H013,T0065,DevOps,Shortlisted,57.57
+PA00253,ST0373,H013,T0065,DevOps,Shortlisted,57.57
+PA00254,ST0606,H013,T0065,DevOps,Shortlisted,57.57
+PA00255,ST1019,H014,T0066,Backend Developer,Runner-up,73.22
+PA00256,ST0651,H014,T0066,Backend Developer,Runner-up,73.22
+PA00257,ST0114,H014,T0066,Full Stack Developer,Runner-up,73.22
+PA00258,ST0673,H014,T0066,Cloud Developer,Runner-up,73.22
+PA00259,ST0462,H014,T0066,Frontend Developer,Runner-up,73.22
+PA00260,ST0208,H014,T0067,UI/UX Designer,Winner,88.78
+PA00261,ST0158,H014,T0067,Full Stack Developer,Winner,88.78
+PA00262,ST0991,H014,T0067,Full Stack Developer,Winner,88.78
+PA00263,ST0556,H014,T0067,Cybersecurity,Winner,88.78
+PA00264,ST0781,H014,T0067,Frontend Developer,Winner,88.78
+PA00265,ST0357,H014,T0068,Android Developer,Participant,49.27
+PA00266,ST0119,H014,T0068,Backend Developer,Participant,49.27
+PA00267,ST1118,H014,T0068,Data Analyst,Participant,49.27
+PA00268,ST0986,H014,T0068,Backend Developer,Participant,49.27
+PA00269,ST0623,H014,T0069,Full Stack Developer,Shortlisted,54.53
+PA00270,ST0848,H014,T0069,Backend Developer,Shortlisted,54.53
+PA00271,ST0261,H014,T0069,Full Stack Developer,Shortlisted,54.53
+PA00272,ST1194,H014,T0069,AI/ML Developer,Shortlisted,54.53
+PA00273,ST0174,H014,T0070,Backend Developer,Finalist,68.38
+PA00274,ST0759,H014,T0070,IoT Developer,Finalist,68.38
+PA00275,ST0503,H014,T0070,Cloud Developer,Finalist,68.38
+PA00276,ST0967,H015,T0071,Full Stack Developer,Runner-up,66.73
+PA00277,ST0158,H015,T0071,Full Stack Developer,Runner-up,66.73
+PA00278,ST1129,H015,T0071,Full Stack Developer,Runner-up,66.73
+PA00279,ST0261,H015,T0071,Full Stack Developer,Runner-up,66.73
+PA00280,ST0552,H015,T0071,Full Stack Developer,Runner-up,66.73
+PA00281,ST0426,H015,T0072,Full Stack Developer,Shortlisted,56.61
+PA00282,ST1126,H015,T0072,Frontend Developer,Shortlisted,56.61
+PA00283,ST1106,H015,T0072,Backend Developer,Shortlisted,56.61
+PA00284,ST1117,H015,T0072,Full Stack Developer,Shortlisted,56.61
+PA00285,ST0291,H015,T0072,Backend Developer,Shortlisted,56.61
+PA00286,ST0293,H015,T0073,UI/UX Designer,Winner,72.66
+PA00287,ST0715,H015,T0073,Blockchain Developer,Winner,72.66
+PA00288,ST1131,H015,T0073,Frontend Developer,Winner,72.66
+PA00289,ST0648,H015,T0073,Backend Developer,Winner,72.66
+PA00290,ST0571,H015,T0074,Frontend Developer,Finalist,62.37
+PA00291,ST0386,H015,T0074,Full Stack Developer,Finalist,62.37
+PA00292,ST1135,H015,T0074,Backend Developer,Finalist,62.37
+PA00293,ST0277,H015,T0075,Full Stack Developer,Finalist,65.6
+PA00294,ST0606,H015,T0075,DevOps,Finalist,65.6
+PA00295,ST1077,H015,T0075,Backend Developer,Finalist,65.6
+PA00296,ST0322,H015,T0075,DevOps,Finalist,65.6
+PA00297,ST0845,H015,T0075,Backend Developer,Finalist,65.6
+PA00298,ST0722,H016,T0076,Data Scientist,Finalist,82.66
+PA00299,ST0202,H016,T0076,Data Scientist,Finalist,82.66
+PA00300,ST0539,H016,T0076,AI/ML Developer,Finalist,82.66
+PA00301,ST0365,H016,T0077,Data Scientist,Winner,96.65
+PA00302,ST0708,H016,T0077,Data Scientist,Winner,96.65
+PA00303,ST0812,H016,T0077,Data Scientist,Winner,96.65
+PA00304,ST0072,H016,T0078,AI/ML Developer,Finalist,86.01
+PA00305,ST0751,H016,T0078,AI/ML Developer,Finalist,86.01
+PA00306,ST0040,H016,T0078,AI/ML Developer,Finalist,86.01
+PA00307,ST0608,H016,T0079,AI/ML Developer,Finalist,87.22
+PA00308,ST0453,H016,T0079,AI/ML Developer,Finalist,87.22
+PA00309,ST0815,H016,T0079,AI/ML Developer,Finalist,87.22
+PA00310,ST0436,H016,T0080,AI/ML Developer,Runner-up,87.38
+PA00311,ST0873,H016,T0080,AI/ML Developer,Runner-up,87.38
+PA00312,ST0581,H016,T0080,Data Scientist,Runner-up,87.38
+PA00313,ST0847,H016,T0080,Data Scientist,Runner-up,87.38
+PA00314,ST0291,H017,T0081,Backend Developer,Winner,80.21
+PA00315,ST1121,H017,T0081,Cybersecurity,Winner,80.21
+PA00316,ST0324,H017,T0081,Cybersecurity,Winner,80.21
+PA00317,ST0648,H017,T0082,Backend Developer,Runner-up,76.77
+PA00318,ST0781,H017,T0082,Frontend Developer,Runner-up,76.77
+PA00319,ST0850,H017,T0082,Backend Developer,Runner-up,76.77
+PA00320,ST0773,H017,T0082,Backend Developer,Runner-up,76.77
+PA00321,ST0986,H017,T0082,Backend Developer,Runner-up,76.77
+PA00322,ST1019,H017,T0082,Backend Developer,Runner-up,76.77
+PA00323,ST0848,H017,T0083,Backend Developer,Shortlisted,59.31
+PA00324,ST0860,H017,T0083,Backend Developer,Shortlisted,59.31
+PA00325,ST0064,H017,T0083,Data Analyst,Shortlisted,59.31
+PA00326,ST0659,H017,T0083,Cybersecurity,Shortlisted,59.31
+PA00327,ST0238,H017,T0084,Data Scientist,Shortlisted,59.16
+PA00328,ST0717,H017,T0084,Full Stack Developer,Shortlisted,59.16
+PA00329,ST0611,H017,T0084,Cybersecurity,Shortlisted,59.16
+PA00330,ST0827,H017,T0084,Cybersecurity,Shortlisted,59.16
+PA00331,ST1057,H017,T0084,Cybersecurity,Shortlisted,59.16
+PA00332,ST0449,H017,T0084,Blockchain Developer,Shortlisted,59.16
+PA00333,ST1077,H017,T0085,Backend Developer,Finalist,61.07
+PA00334,ST0132,H017,T0085,Backend Developer,Finalist,61.07
+PA00335,ST1075,H017,T0085,Backend Developer,Finalist,61.07
+PA00336,ST1189,H017,T0085,Backend Developer,Finalist,61.07
+PA00337,ST0949,H018,T0086,Data Scientist,Participant,42.85
+PA00338,ST1037,H018,T0086,Frontend Developer,Participant,42.85
+PA00339,ST0958,H018,T0086,Full Stack Developer,Participant,42.85
+PA00340,ST0334,H018,T0086,UI/UX Designer,Participant,42.85
+PA00341,ST0306,H018,T0086,Data Scientist,Participant,42.85
+PA00342,ST0848,H018,T0087,Backend Developer,Runner-up,77.46
+PA00343,ST0648,H018,T0087,Backend Developer,Runner-up,77.46
+PA00344,ST1189,H018,T0087,Backend Developer,Runner-up,77.46
+PA00345,ST1077,H018,T0088,Backend Developer,Winner,90.5
+PA00346,ST0132,H018,T0088,Backend Developer,Winner,90.5
+PA00347,ST0302,H018,T0088,Backend Developer,Winner,90.5
+PA00348,ST0850,H018,T0088,Backend Developer,Winner,90.5
+PA00349,ST1160,H018,T0088,Backend Developer,Winner,90.5
+PA00350,ST1019,H018,T0089,Backend Developer,Finalist,64.62
+PA00351,ST1135,H018,T0089,Backend Developer,Finalist,64.62
+PA00352,ST0505,H018,T0089,Backend Developer,Finalist,64.62
+PA00353,ST0860,H018,T0089,Backend Developer,Finalist,64.62
+PA00354,ST1116,H018,T0089,Backend Developer,Finalist,64.62
+PA00355,ST0986,H018,T0090,Backend Developer,Finalist,73.27
+PA00356,ST0291,H018,T0090,Backend Developer,Finalist,73.27
+PA00357,ST0781,H018,T0090,Frontend Developer,Finalist,73.27
+PA00358,ST0430,H018,T0090,Backend Developer,Finalist,73.27
+PA00359,ST0531,H018,T0090,Backend Developer,Finalist,73.27
+PA00360,ST0158,H019,T0091,Full Stack Developer,Participant,44.15
+PA00361,ST0543,H019,T0091,Full Stack Developer,Participant,44.15
+PA00362,ST0114,H019,T0091,Full Stack Developer,Participant,44.15
+PA00363,ST0388,H019,T0092,Android Developer,Finalist,66.35
+PA00364,ST0430,H019,T0092,Backend Developer,Finalist,66.35
+PA00365,ST0221,H019,T0092,DevOps,Finalist,66.35
+PA00366,ST0279,H019,T0092,Frontend Developer,Finalist,66.35
+PA00367,ST0799,H019,T0093,Backend Developer,Runner-up,67.72
+PA00368,ST1129,H019,T0093,Full Stack Developer,Runner-up,67.72
+PA00369,ST0846,H019,T0093,Backend Developer,Runner-up,67.72
+PA00370,ST0991,H019,T0094,Full Stack Developer,Winner,67.86
+PA00371,ST0663,H019,T0094,Backend Developer,Winner,67.86
+PA00372,ST0552,H019,T0094,Full Stack Developer,Winner,67.86
+PA00373,ST1182,H019,T0094,Full Stack Developer,Winner,67.86
+PA00374,ST0623,H019,T0095,Full Stack Developer,Participant,32.89
+PA00375,ST0433,H019,T0095,Full Stack Developer,Participant,32.89
+PA00376,ST1078,H019,T0095,Backend Developer,Participant,32.89
+PA00377,ST0649,H020,T0096,IoT Developer,Finalist,62.71
+PA00378,ST0291,H020,T0096,Backend Developer,Finalist,62.71
+PA00379,ST0509,H020,T0096,IoT Developer,Finalist,62.71
+PA00380,ST0898,H020,T0096,IoT Developer,Finalist,62.71
+PA00381,ST0074,H020,T0096,IoT Developer,Finalist,62.71
+PA00382,ST0793,H020,T0096,Data Analyst,Finalist,62.71
+PA00383,ST0183,H020,T0097,IoT Developer,Runner-up,87.63
+PA00384,ST0878,H020,T0097,IoT Developer,Runner-up,87.63
+PA00385,ST1121,H020,T0097,Cybersecurity,Runner-up,87.63
+PA00386,ST0611,H020,T0097,Cybersecurity,Runner-up,87.63
+PA00387,ST0653,H020,T0097,Cloud Developer,Runner-up,87.63
+PA00388,ST0475,H020,T0098,IoT Developer,Participant,35.91
+PA00389,ST1063,H020,T0098,IoT Developer,Participant,35.91
+PA00390,ST0047,H020,T0098,IoT Developer,Participant,35.91
+PA00391,ST0915,H020,T0098,IoT Developer,Participant,35.91
+PA00392,ST0390,H020,T0099,IoT Developer,Finalist,85.32
+PA00393,ST0485,H020,T0099,Data Analyst,Finalist,85.32
+PA00394,ST0336,H020,T0099,Data Analyst,Finalist,85.32
+PA00395,ST0318,H020,T0099,Cloud Developer,Finalist,85.32
+PA00396,ST0982,H020,T0100,IoT Developer,Winner,100
+PA00397,ST0490,H020,T0100,IoT Developer,Winner,100
+PA00398,ST1134,H020,T0100,IoT Developer,Winner,100
+PA00399,ST1017,H020,T0100,Data Analyst,Winner,100
+PA00400,ST0533,H020,T0100,AI/ML Developer,Winner,100
+PA00401,ST1056,H021,T0101,Cybersecurity,Runner-up,76.37
+PA00402,ST0659,H021,T0101,Cybersecurity,Runner-up,76.37
+PA00403,ST0786,H021,T0101,Cybersecurity,Runner-up,76.37
+PA00404,ST0324,H021,T0101,Cybersecurity,Runner-up,76.37
+PA00405,ST0823,H021,T0102,Cybersecurity,Shortlisted,54.49
+PA00406,ST0372,H021,T0102,Cybersecurity,Shortlisted,54.49
+PA00407,ST0124,H021,T0102,Cybersecurity,Shortlisted,54.49
+PA00408,ST0213,H021,T0103,Cybersecurity,Finalist,69.32
+PA00409,ST0407,H021,T0103,Cybersecurity,Finalist,69.32
+PA00410,ST1059,H021,T0103,Cybersecurity,Finalist,69.32
+PA00411,ST0556,H021,T0103,Cybersecurity,Finalist,69.32
+PA00412,ST0748,H021,T0104,Cybersecurity,Finalist,75.39
+PA00413,ST0307,H021,T0104,Cybersecurity,Finalist,75.39
+PA00414,ST0611,H021,T0104,Cybersecurity,Finalist,75.39
+PA00415,ST0709,H021,T0105,Cybersecurity,Winner,85.34
+PA00416,ST0771,H021,T0105,Cybersecurity,Winner,85.34
+PA00417,ST0827,H021,T0105,Cybersecurity,Winner,85.34
+PA00418,ST0625,H021,T0105,Cybersecurity,Winner,85.34
+PA00419,ST0520,H022,T0106,Blockchain Developer,Runner-up,83.6
+PA00420,ST0715,H022,T0106,Blockchain Developer,Runner-up,83.6
+PA00421,ST1110,H022,T0106,Blockchain Developer,Runner-up,83.6
+PA00422,ST0901,H022,T0107,Blockchain Developer,Finalist,72.91
+PA00423,ST0182,H022,T0107,Blockchain Developer,Finalist,72.91
+PA00424,ST0339,H022,T0107,Blockchain Developer,Finalist,72.91
+PA00425,ST0778,H022,T0107,Blockchain Developer,Finalist,72.91
+PA00426,ST0992,H022,T0107,Blockchain Developer,Finalist,72.91
+PA00427,ST0249,H022,T0107,Blockchain Developer,Finalist,72.91
+PA00428,ST0667,H022,T0108,Blockchain Developer,Winner,95.21
+PA00429,ST0346,H022,T0108,Blockchain Developer,Winner,95.21
+PA00430,ST1124,H022,T0108,Blockchain Developer,Winner,95.21
+PA00431,ST0431,H022,T0109,Blockchain Developer,Shortlisted,58.69
+PA00432,ST0024,H022,T0109,Blockchain Developer,Shortlisted,58.69
+PA00433,ST0467,H022,T0109,Blockchain Developer,Shortlisted,58.69
+PA00434,ST0671,H022,T0109,Blockchain Developer,Shortlisted,58.69
+PA00435,ST0828,H022,T0110,Blockchain Developer,Finalist,66.29
+PA00436,ST0253,H022,T0110,Blockchain Developer,Finalist,66.29
+PA00437,ST0547,H022,T0110,Blockchain Developer,Finalist,66.29
+PA00438,ST0047,H023,T0111,IoT Developer,Runner-up,71.86
+PA00439,ST0387,H023,T0111,IoT Developer,Runner-up,71.86
+PA00440,ST0963,H023,T0111,IoT Developer,Runner-up,71.86
+PA00441,ST0028,H023,T0111,IoT Developer,Runner-up,71.86
+PA00442,ST0390,H023,T0111,IoT Developer,Runner-up,71.86
+PA00443,ST0283,H023,T0111,IoT Developer,Runner-up,71.86
+PA00444,ST0490,H023,T0112,IoT Developer,Participant,33.12
+PA00445,ST0048,H023,T0112,IoT Developer,Participant,33.12
+PA00446,ST0475,H023,T0112,IoT Developer,Participant,33.12
+PA00447,ST0676,H023,T0112,IoT Developer,Participant,33.12
+PA00448,ST0878,H023,T0112,IoT Developer,Participant,33.12
+PA00449,ST1180,H023,T0112,IoT Developer,Participant,33.12
+PA00450,ST0183,H023,T0113,IoT Developer,Finalist,67.08
+PA00451,ST0612,H023,T0113,IoT Developer,Finalist,67.08
+PA00452,ST0074,H023,T0113,IoT Developer,Finalist,67.08
+PA00453,ST0558,H023,T0113,IoT Developer,Finalist,67.08
+PA00454,ST0740,H023,T0113,IoT Developer,Finalist,67.08
+PA00455,ST0566,H023,T0113,IoT Developer,Finalist,67.08
+PA00456,ST0768,H023,T0114,IoT Developer,Winner,92.22
+PA00457,ST1134,H023,T0114,IoT Developer,Winner,92.22
+PA00458,ST1164,H023,T0114,IoT Developer,Winner,92.22
+PA00459,ST0982,H023,T0114,IoT Developer,Winner,92.22
+PA00460,ST0561,H023,T0114,IoT Developer,Winner,92.22
+PA00461,ST0915,H023,T0115,IoT Developer,Finalist,70.66
+PA00462,ST0461,H023,T0115,IoT Developer,Finalist,70.66
+PA00463,ST0473,H023,T0115,IoT Developer,Finalist,70.66
+PA00464,ST0927,H023,T0115,IoT Developer,Finalist,70.66
+PA00465,ST1051,H023,T0115,IoT Developer,Finalist,70.66
+PA00466,ST0759,H023,T0115,IoT Developer,Finalist,70.66
+PA00467,ST0261,H024,T0116,Full Stack Developer,Winner,81.07
+PA00468,ST0461,H024,T0116,IoT Developer,Winner,81.07
+PA00469,ST0183,H024,T0116,IoT Developer,Winner,81.07
+PA00470,ST1164,H024,T0116,IoT Developer,Winner,81.07
+PA00471,ST0283,H024,T0116,IoT Developer,Winner,81.07
+PA00472,ST0649,H024,T0116,IoT Developer,Winner,81.07
+PA00473,ST0927,H024,T0117,IoT Developer,Runner-up,76.11
+PA00474,ST0158,H024,T0117,Full Stack Developer,Runner-up,76.11
+PA00475,ST0387,H024,T0117,IoT Developer,Runner-up,76.11
+PA00476,ST1015,H024,T0117,Data Analyst,Runner-up,76.11
+PA00477,ST0474,H024,T0117,Backend Developer,Runner-up,76.11
+PA00478,ST1151,H024,T0117,IoT Developer,Runner-up,76.11
+PA00479,ST0898,H024,T0118,IoT Developer,Finalist,73.3
+PA00480,ST0774,H024,T0118,Frontend Developer,Finalist,73.3
+PA00481,ST0374,H024,T0118,Backend Developer,Finalist,73.3
+PA00482,ST0074,H024,T0119,IoT Developer,Participant,49.61
+PA00483,ST1053,H024,T0119,IoT Developer,Participant,49.61
+PA00484,ST0810,H024,T0119,IoT Developer,Participant,49.61
+PA00485,ST0196,H024,T0119,IoT Developer,Participant,49.61
+PA00486,ST0982,H024,T0119,IoT Developer,Participant,49.61
+PA00487,ST0490,H024,T0120,IoT Developer,Participant,21.57
+PA00488,ST0241,H024,T0120,IoT Developer,Participant,21.57
+PA00489,ST0945,H024,T0120,IoT Developer,Participant,21.57
+PA00490,ST0572,H024,T0120,IoT Developer,Participant,21.57
+PA00491,ST1118,H025,T0121,Data Analyst,Finalist,71.36
+PA00492,ST0759,H025,T0121,IoT Developer,Finalist,71.36
+PA00493,ST1164,H025,T0121,IoT Developer,Finalist,71.36
+PA00494,ST0390,H025,T0122,IoT Developer,Winner,80.71
+PA00495,ST0107,H025,T0122,Data Analyst,Winner,80.71
+PA00496,ST0768,H025,T0122,IoT Developer,Winner,80.71
+PA00497,ST0261,H025,T0123,Full Stack Developer,Runner-up,77.21
+PA00498,ST0781,H025,T0123,Frontend Developer,Runner-up,77.21
+PA00499,ST0475,H025,T0123,IoT Developer,Runner-up,77.21
+PA00500,ST1147,H025,T0124,Cybersecurity,Finalist,67.45
+PA00501,ST0241,H025,T0124,IoT Developer,Finalist,67.45
+PA00502,ST0436,H025,T0124,AI/ML Developer,Finalist,67.45
+PA00503,ST0649,H025,T0125,IoT Developer,Finalist,62.22
+PA00504,ST0446,H025,T0125,Data Analyst,Finalist,62.22
+PA00505,ST1171,H025,T0125,Frontend Developer,Finalist,62.22
+PA00506,ST0444,H025,T0125,Data Analyst,Finalist,62.22
+PA00507,ST0543,H026,T0126,Full Stack Developer,Finalist,83.39
+PA00508,ST0426,H026,T0126,Full Stack Developer,Finalist,83.39
+PA00509,ST0114,H026,T0126,Full Stack Developer,Finalist,83.39
+PA00510,ST0911,H026,T0126,Full Stack Developer,Finalist,83.39
+PA00511,ST0720,H026,T0127,Frontend Developer,Runner-up,85.15
+PA00512,ST1141,H026,T0127,Full Stack Developer,Runner-up,85.15
+PA00513,ST0732,H026,T0127,Full Stack Developer,Runner-up,85.15
+PA00514,ST0861,H026,T0128,Full Stack Developer,Winner,86.63
+PA00515,ST1129,H026,T0128,Full Stack Developer,Winner,86.63
+PA00516,ST0386,H026,T0128,Full Stack Developer,Winner,86.63
+PA00517,ST0158,H026,T0128,Full Stack Developer,Winner,86.63
+PA00518,ST0991,H026,T0129,Full Stack Developer,Finalist,80.43
+PA00519,ST0781,H026,T0129,Frontend Developer,Finalist,80.43
+PA00520,ST0738,H026,T0129,Full Stack Developer,Finalist,80.43
+PA00521,ST1011,H026,T0130,Full Stack Developer,Participant,49.27
+PA00522,ST0542,H026,T0130,Full Stack Developer,Participant,49.27
+PA00523,ST0960,H026,T0130,Frontend Developer,Participant,49.27
+PA00524,ST0179,H027,T0131,Data Scientist,Finalist,66.42
+PA00525,ST0949,H027,T0131,Data Scientist,Finalist,66.42
+PA00526,ST0418,H027,T0131,Data Scientist,Finalist,66.42
+PA00527,ST0238,H027,T0131,Data Scientist,Finalist,66.42
+PA00528,ST1168,H027,T0131,Data Analyst,Finalist,66.42
+PA00529,ST0839,H027,T0132,Data Scientist,Winner,89.4
+PA00530,ST0847,H027,T0132,Data Scientist,Winner,89.4
+PA00531,ST0722,H027,T0132,Data Scientist,Winner,89.4
+PA00532,ST1191,H027,T0132,Data Scientist,Winner,89.4
+PA00533,ST0365,H027,T0133,Data Scientist,Shortlisted,59.71
+PA00534,ST0285,H027,T0133,Data Scientist,Shortlisted,59.71
+PA00535,ST0040,H027,T0133,AI/ML Developer,Shortlisted,59.71
+PA00536,ST0812,H027,T0133,Data Scientist,Shortlisted,59.71
+PA00537,ST1109,H027,T0133,Data Analyst,Shortlisted,59.71
+PA00538,ST0236,H027,T0134,Data Scientist,Finalist,68.08
+PA00539,ST0631,H027,T0134,Data Scientist,Finalist,68.08
+PA00540,ST0276,H027,T0134,Data Analyst,Finalist,68.08
+PA00541,ST0718,H027,T0135,Data Scientist,Runner-up,78.54
+PA00542,ST0117,H027,T0135,Data Scientist,Runner-up,78.54
+PA00543,ST1143,H027,T0135,Data Scientist,Runner-up,78.54
+PA00544,ST0064,H027,T0135,Data Analyst,Runner-up,78.54
+PA00545,ST0869,H027,T0135,AI/ML Developer,Runner-up,78.54
+PA00546,ST0933,H028,T0136,DevOps,Winner,89.97
+PA00547,ST0969,H028,T0136,DevOps,Winner,89.97
+PA00548,ST0970,H028,T0136,DevOps,Winner,89.97
+PA00549,ST0560,H028,T0136,DevOps,Winner,89.97
+PA00550,ST0912,H028,T0137,DevOps,Runner-up,83.55
+PA00551,ST0626,H028,T0137,DevOps,Runner-up,83.55
+PA00552,ST0668,H028,T0137,Cloud Developer,Runner-up,83.55
+PA00553,ST0200,H028,T0137,DevOps,Runner-up,83.55
+PA00554,ST0265,H028,T0137,DevOps,Runner-up,83.55
+PA00555,ST0378,H028,T0138,DevOps,Finalist,69.31
+PA00556,ST0789,H028,T0138,Full Stack Developer,Finalist,69.31
+PA00557,ST0439,H028,T0138,Cloud Developer,Finalist,69.31
+PA00558,ST0522,H028,T0138,Cloud Developer,Finalist,69.31
+PA00559,ST0473,H028,T0138,IoT Developer,Finalist,69.31
+PA00560,ST0126,H028,T0139,DevOps,Participant,33.96
+PA00561,ST0765,H028,T0139,Cloud Developer,Participant,33.96
+PA00562,ST0443,H028,T0139,DevOps,Participant,33.96
+PA00563,ST0043,H028,T0139,DevOps,Participant,33.96
+PA00564,ST0950,H028,T0140,Cloud Developer,Finalist,77.8
+PA00565,ST1019,H028,T0140,Backend Developer,Finalist,77.8
+PA00566,ST0980,H028,T0140,Cloud Developer,Finalist,77.8
+PA00567,ST0719,H028,T0140,DevOps,Finalist,77.8
+PA00568,ST0673,H028,T0140,Cloud Developer,Finalist,77.8
+PA00569,ST0781,H029,T0141,Frontend Developer,Runner-up,70.53
+PA00570,ST0852,H029,T0141,Full Stack Developer,Runner-up,70.53
+PA00571,ST0623,H029,T0141,Full Stack Developer,Runner-up,70.53
+PA00572,ST0599,H029,T0142,UI/UX Designer,Winner,94.1
+PA00573,ST0261,H029,T0142,Full Stack Developer,Winner,94.1
+PA00574,ST1077,H029,T0142,Backend Developer,Winner,94.1
+PA00575,ST0543,H029,T0142,Full Stack Developer,Winner,94.1
+PA00576,ST0648,H029,T0143,Backend Developer,Participant,34.0
+PA00577,ST0939,H029,T0143,Backend Developer,Participant,34.0
+PA00578,ST1135,H029,T0143,Backend Developer,Participant,34.0
+PA00579,ST0300,H029,T0143,Backend Developer,Participant,34.0
+PA00580,ST0297,H029,T0144,Full Stack Developer,Shortlisted,59.89
+PA00581,ST1037,H029,T0144,Frontend Developer,Shortlisted,59.89
+PA00582,ST0692,H029,T0144,Frontend Developer,Shortlisted,59.89
+PA00583,ST0708,H029,T0144,Data Scientist,Shortlisted,59.89
+PA00584,ST0119,H029,T0145,Backend Developer,Finalist,60.55
+PA00585,ST0158,H029,T0145,Full Stack Developer,Finalist,60.55
+PA00586,ST0505,H029,T0145,Backend Developer,Finalist,60.55
+PA00587,ST0503,H029,T0145,Cloud Developer,Finalist,60.55
+PA00588,ST0130,H029,T0145,Cloud Developer,Finalist,60.55
+PA00589,ST0679,H030,T0146,Frontend Developer,Winner,100
+PA00590,ST0696,H030,T0146,Data Analyst,Winner,100
+PA00591,ST1011,H030,T0146,Full Stack Developer,Winner,100
+PA00592,ST0848,H030,T0146,Backend Developer,Winner,100
+PA00593,ST0293,H030,T0146,UI/UX Designer,Winner,100
+PA00594,ST1019,H030,T0146,Backend Developer,Winner,100
+PA00595,ST0430,H030,T0147,Backend Developer,Runner-up,73.1
+PA00596,ST0114,H030,T0147,Full Stack Developer,Runner-up,73.1
+PA00597,ST0571,H030,T0147,Frontend Developer,Runner-up,73.1
+PA00598,ST0038,H030,T0147,UI/UX Designer,Runner-up,73.1
+PA00599,ST0158,H030,T0148,Full Stack Developer,Shortlisted,58.93
+PA00600,ST1129,H030,T0148,Full Stack Developer,Shortlisted,58.93
+PA00601,ST1077,H030,T0148,Backend Developer,Shortlisted,58.93
+PA00602,ST0789,H030,T0149,Full Stack Developer,Shortlisted,50.23
+PA00603,ST0951,H030,T0149,Full Stack Developer,Shortlisted,50.23
+PA00604,ST1106,H030,T0149,Backend Developer,Shortlisted,50.23
+PA00605,ST0433,H030,T0150,Full Stack Developer,Shortlisted,59.96
+PA00606,ST1010,H030,T0150,Frontend Developer,Shortlisted,59.96
+PA00607,ST0302,H030,T0150,Backend Developer,Shortlisted,59.96
+PA00608,ST0202,H031,T0151,Data Scientist,Winner,92.1
+PA00609,ST0579,H031,T0151,AI/ML Developer,Winner,92.1
+PA00610,ST0365,H031,T0151,Data Scientist,Winner,92.1
+PA00611,ST0040,H031,T0152,AI/ML Developer,Runner-up,78.62
+PA00612,ST0539,H031,T0152,AI/ML Developer,Runner-up,78.62
+PA00613,ST1021,H031,T0152,AI/ML Developer,Runner-up,78.62
+PA00614,ST0614,H031,T0153,AI/ML Developer,Participant,48.41
+PA00615,ST0569,H031,T0153,AI/ML Developer,Participant,48.41
+PA00616,ST1070,H031,T0153,AI/ML Developer,Participant,48.41
+PA00617,ST0238,H031,T0153,Data Scientist,Participant,48.41
+PA00618,ST0902,H031,T0154,AI/ML Developer,Finalist,60.24
+PA00619,ST1175,H031,T0154,AI/ML Developer,Finalist,60.24
+PA00620,ST0838,H031,T0154,AI/ML Developer,Finalist,60.24
+PA00621,ST0804,H031,T0154,Data Analyst,Finalist,60.24
+PA00622,ST1091,H031,T0155,AI/ML Developer,Participant,44.76
+PA00623,ST1085,H031,T0155,AI/ML Developer,Participant,44.76
+PA00624,ST0949,H031,T0155,Data Scientist,Participant,44.76
+PA00625,ST0860,H032,T0156,Backend Developer,Finalist,63.38
+PA00626,ST0850,H032,T0156,Backend Developer,Finalist,63.38
+PA00627,ST0848,H032,T0156,Backend Developer,Finalist,63.38
+PA00628,ST0986,H032,T0157,Backend Developer,Finalist,65.63
+PA00629,ST1135,H032,T0157,Backend Developer,Finalist,65.63
+PA00630,ST1075,H032,T0157,Backend Developer,Finalist,65.63
+PA00631,ST1077,H032,T0157,Backend Developer,Finalist,65.63
+PA00632,ST0302,H032,T0158,Backend Developer,Finalist,67.93
+PA00633,ST1019,H032,T0158,Backend Developer,Finalist,67.93
+PA00634,ST0430,H032,T0158,Backend Developer,Finalist,67.93
+PA00635,ST0939,H032,T0158,Backend Developer,Finalist,67.93
+PA00636,ST0300,H032,T0159,Backend Developer,Runner-up,69.28
+PA00637,ST0792,H032,T0159,Cybersecurity,Runner-up,69.28
+PA00638,ST0291,H032,T0159,Backend Developer,Runner-up,69.28
+PA00639,ST0881,H032,T0159,Data Analyst,Runner-up,69.28
+PA00640,ST0651,H032,T0160,Backend Developer,Winner,77.57
+PA00641,ST0909,H032,T0160,Backend Developer,Winner,77.57
+PA00642,ST1116,H032,T0160,Backend Developer,Winner,77.57
+PA00643,ST1077,H033,T0161,Backend Developer,Shortlisted,57.44
+PA00644,ST0781,H033,T0161,Frontend Developer,Shortlisted,57.44
+PA00645,ST0601,H033,T0161,Backend Developer,Shortlisted,57.44
+PA00646,ST1116,H033,T0161,Backend Developer,Shortlisted,57.44
+PA00647,ST0430,H033,T0162,Backend Developer,Finalist,62.92
+PA00648,ST0986,H033,T0162,Backend Developer,Finalist,62.92
+PA00649,ST1189,H033,T0162,Backend Developer,Finalist,62.92
+PA00650,ST1067,H033,T0163,Data Scientist,Shortlisted,51.22
+PA00651,ST1162,H033,T0163,Backend Developer,Shortlisted,51.22
+PA00652,ST0846,H033,T0163,Backend Developer,Shortlisted,51.22
+PA00653,ST1161,H033,T0163,Backend Developer,Shortlisted,51.22
+PA00654,ST0663,H033,T0164,Backend Developer,Runner-up,66.02
+PA00655,ST0302,H033,T0164,Backend Developer,Runner-up,66.02
+PA00656,ST0374,H033,T0164,Backend Developer,Runner-up,66.02
+PA00657,ST0773,H033,T0165,Backend Developer,Winner,82.53
+PA00658,ST1160,H033,T0165,Backend Developer,Winner,82.53
+PA00659,ST0538,H033,T0165,Backend Developer,Winner,82.53
+PA00660,ST1089,H033,T0165,Full Stack Developer,Winner,82.53
+PA00661,ST1135,H033,T0165,Backend Developer,Winner,82.53
+PA00662,ST0542,H034,T0166,Full Stack Developer,Shortlisted,56.4
+PA00663,ST1019,H034,T0166,Backend Developer,Shortlisted,56.4
+PA00664,ST0543,H034,T0166,Full Stack Developer,Shortlisted,56.4
+PA00665,ST0799,H034,T0167,Backend Developer,Runner-up,61.49
+PA00666,ST0527,H034,T0167,Full Stack Developer,Runner-up,61.49
+PA00667,ST1129,H034,T0167,Full Stack Developer,Runner-up,61.49
+PA00668,ST0860,H034,T0168,Backend Developer,Shortlisted,53.98
+PA00669,ST0622,H034,T0168,Full Stack Developer,Shortlisted,53.98
+PA00670,ST0293,H034,T0168,UI/UX Designer,Shortlisted,53.98
+PA00671,ST0789,H034,T0169,Full Stack Developer,Winner,70.4
+PA00672,ST0114,H034,T0169,Full Stack Developer,Winner,70.4
+PA00673,ST0174,H034,T0169,Backend Developer,Winner,70.4
+PA00674,ST0967,H034,T0169,Full Stack Developer,Winner,70.4
+PA00675,ST0457,H034,T0170,Full Stack Developer,Participant,31.24
+PA00676,ST0119,H034,T0170,Backend Developer,Participant,31.24
+PA00677,ST0846,H034,T0170,Backend Developer,Participant,31.24
+PA00678,ST0247,H034,T0170,DevOps,Participant,31.24
+PA00679,ST0982,H035,T0171,IoT Developer,Finalist,60.16
+PA00680,ST1077,H035,T0171,Backend Developer,Finalist,60.16
+PA00681,ST1040,H035,T0171,AI/ML Developer,Finalist,60.16
+PA00682,ST0967,H035,T0171,Full Stack Developer,Finalist,60.16
+PA00683,ST0368,H035,T0171,IoT Developer,Finalist,60.16
+PA00684,ST0478,H035,T0171,Backend Developer,Finalist,60.16
+PA00685,ST1164,H035,T0172,IoT Developer,Shortlisted,54.96
+PA00686,ST1134,H035,T0172,IoT Developer,Shortlisted,54.96
+PA00687,ST0390,H035,T0172,IoT Developer,Shortlisted,54.96
+PA00688,ST0490,H035,T0173,IoT Developer,Runner-up,75.16
+PA00689,ST0668,H035,T0173,Cloud Developer,Runner-up,75.16
+PA00690,ST0430,H035,T0173,Backend Developer,Runner-up,75.16
+PA00691,ST0761,H035,T0173,Cloud Developer,Runner-up,75.16
+PA00692,ST0074,H035,T0174,IoT Developer,Winner,79.52
+PA00693,ST0261,H035,T0174,Full Stack Developer,Winner,79.52
+PA00694,ST0768,H035,T0174,IoT Developer,Winner,79.52
+PA00695,ST0810,H035,T0174,IoT Developer,Winner,79.52
+PA00696,ST0612,H035,T0174,IoT Developer,Winner,79.52
+PA00697,ST1015,H035,T0174,Data Analyst,Winner,79.52
+PA00698,ST0505,H035,T0175,Backend Developer,Participant,49.33
+PA00699,ST0241,H035,T0175,IoT Developer,Participant,49.33
+PA00700,ST0231,H035,T0175,IoT Developer,Participant,49.33
+PA00701,ST0898,H035,T0175,IoT Developer,Participant,49.33
+PA00702,ST0160,H035,T0175,Data Analyst,Participant,49.33
+PA00703,ST0436,H035,T0175,AI/ML Developer,Participant,49.33
+PA00704,ST0823,H036,T0176,Cybersecurity,Runner-up,68.8
+PA00705,ST0142,H036,T0176,Cybersecurity,Runner-up,68.8
+PA00706,ST0611,H036,T0176,Cybersecurity,Runner-up,68.8
+PA00707,ST0097,H036,T0177,Cybersecurity,Participant,48.93
+PA00708,ST0240,H036,T0177,Data Analyst,Participant,48.93
+PA00709,ST1054,H036,T0177,Cybersecurity,Participant,48.93
+PA00710,ST0869,H036,T0177,AI/ML Developer,Participant,48.93
+PA00711,ST0900,H036,T0178,Cloud Developer,Participant,36.99
+PA00712,ST0936,H036,T0178,Data Analyst,Participant,36.99
+PA00713,ST0264,H036,T0178,UI/UX Designer,Participant,36.99
+PA00714,ST0659,H036,T0179,Cybersecurity,Shortlisted,51.44
+PA00715,ST0324,H036,T0179,Cybersecurity,Shortlisted,51.44
+PA00716,ST0910,H036,T0179,Cybersecurity,Shortlisted,51.44
+PA00717,ST0556,H036,T0180,Cybersecurity,Winner,91.26
+PA00718,ST0307,H036,T0180,Cybersecurity,Winner,91.26
+PA00719,ST0504,H036,T0180,Cybersecurity,Winner,91.26
+PA00720,ST0560,H036,T0180,DevOps,Winner,91.26
+PA00721,ST0029,H037,T0181,Blockchain Developer,Runner-up,79.56
+PA00722,ST0901,H037,T0181,Blockchain Developer,Runner-up,79.56
+PA00723,ST0041,H037,T0181,Blockchain Developer,Runner-up,79.56
+PA00724,ST0908,H037,T0181,Blockchain Developer,Runner-up,79.56
+PA00725,ST0311,H037,T0182,Blockchain Developer,Finalist,66.85
+PA00726,ST0099,H037,T0182,Blockchain Developer,Finalist,66.85
+PA00727,ST0281,H037,T0182,Backend Developer,Finalist,66.85
+PA00728,ST1048,H037,T0182,Blockchain Developer,Finalist,66.85
+PA00729,ST0496,H037,T0182,Blockchain Developer,Finalist,66.85
+PA00730,ST1159,H037,T0183,Blockchain Developer,Finalist,68.51
+PA00731,ST0249,H037,T0183,Blockchain Developer,Finalist,68.51
+PA00732,ST0431,H037,T0183,Blockchain Developer,Finalist,68.51
+PA00733,ST0024,H037,T0183,Blockchain Developer,Finalist,68.51
+PA00734,ST0392,H037,T0183,Blockchain Developer,Finalist,68.51
+PA00735,ST0715,H037,T0184,Blockchain Developer,Winner,84.1
+PA00736,ST0520,H037,T0184,Blockchain Developer,Winner,84.1
+PA00737,ST0671,H037,T0184,Blockchain Developer,Winner,84.1
+PA00738,ST1020,H037,T0185,Blockchain Developer,Finalist,66.39
+PA00739,ST0224,H037,T0185,Blockchain Developer,Finalist,66.39
+PA00740,ST0195,H037,T0185,Blockchain Developer,Finalist,66.39
+PA00741,ST0109,H037,T0185,Blockchain Developer,Finalist,66.39
+PA00742,ST0183,H038,T0186,IoT Developer,Finalist,92.44
+PA00743,ST0241,H038,T0186,IoT Developer,Finalist,92.44
+PA00744,ST0196,H038,T0186,IoT Developer,Finalist,92.44
+PA00745,ST0390,H038,T0186,IoT Developer,Finalist,92.44
+PA00746,ST0982,H038,T0187,IoT Developer,Winner,99.28
+PA00747,ST0475,H038,T0187,IoT Developer,Winner,99.28
+PA00748,ST1164,H038,T0187,IoT Developer,Winner,99.28
+PA00749,ST0878,H038,T0188,IoT Developer,Shortlisted,53.82
+PA00750,ST0386,H038,T0188,Full Stack Developer,Shortlisted,53.82
+PA00751,ST0774,H038,T0188,Frontend Developer,Shortlisted,53.82
+PA00752,ST0028,H038,T0189,IoT Developer,Finalist,70.18
+PA00753,ST0740,H038,T0189,IoT Developer,Finalist,70.18
+PA00754,ST0768,H038,T0189,IoT Developer,Finalist,70.18
+PA00755,ST0612,H038,T0190,IoT Developer,Runner-up,93.47
+PA00756,ST0566,H038,T0190,IoT Developer,Runner-up,93.47
+PA00757,ST0649,H038,T0190,IoT Developer,Runner-up,93.47
+PA00758,ST0473,H038,T0190,IoT Developer,Runner-up,93.47
+PA00759,ST1141,H039,T0191,Full Stack Developer,Runner-up,72.92
+PA00760,ST0261,H039,T0191,Full Stack Developer,Runner-up,72.92
+PA00761,ST0057,H039,T0191,Full Stack Developer,Runner-up,72.92
+PA00762,ST0623,H039,T0191,Full Stack Developer,Runner-up,72.92
+PA00763,ST0074,H039,T0191,IoT Developer,Runner-up,72.92
+PA00764,ST0789,H039,T0191,Full Stack Developer,Runner-up,72.92
+PA00765,ST0759,H039,T0192,IoT Developer,Winner,78.82
+PA00766,ST0475,H039,T0192,IoT Developer,Winner,78.82
+PA00767,ST1164,H039,T0192,IoT Developer,Winner,78.82
+PA00768,ST1118,H039,T0192,Data Analyst,Winner,78.82
+PA00769,ST1181,H039,T0192,Backend Developer,Winner,78.82
+PA00770,ST0991,H039,T0193,Full Stack Developer,Finalist,62.9
+PA00771,ST1129,H039,T0193,Full Stack Developer,Finalist,62.9
+PA00772,ST0492,H039,T0193,Full Stack Developer,Finalist,62.9
+PA00773,ST0982,H039,T0193,IoT Developer,Finalist,62.9
+PA00774,ST0544,H039,T0194,Frontend Developer,Finalist,60.27
+PA00775,ST0945,H039,T0194,IoT Developer,Finalist,60.27
+PA00776,ST0740,H039,T0194,IoT Developer,Finalist,60.27
+PA00777,ST1134,H039,T0194,IoT Developer,Finalist,60.27
+PA00778,ST0397,H039,T0194,Frontend Developer,Finalist,60.27
+PA00779,ST0459,H039,T0194,Cloud Developer,Finalist,60.27
+PA00780,ST0852,H039,T0195,Full Stack Developer,Finalist,67.25
+PA00781,ST0911,H039,T0195,Full Stack Developer,Finalist,67.25
+PA00782,ST1011,H039,T0195,Full Stack Developer,Finalist,67.25
+PA00783,ST1118,H040,T0196,Data Analyst,Finalist,83.67
+PA00784,ST1164,H040,T0196,IoT Developer,Finalist,83.67
+PA00785,ST0302,H040,T0196,Backend Developer,Finalist,83.67
+PA00786,ST1017,H040,T0196,Data Analyst,Finalist,83.67
+PA00787,ST0296,H040,T0196,Data Analyst,Finalist,83.67
+PA00788,ST0377,H040,T0197,Data Analyst,Winner,100
+PA00789,ST0135,H040,T0197,Frontend Developer,Winner,100
+PA00790,ST0074,H040,T0197,IoT Developer,Winner,100
+PA00791,ST0428,H040,T0197,Backend Developer,Winner,100
+PA00792,ST0982,H040,T0198,IoT Developer,Runner-up,85.44
+PA00793,ST1097,H040,T0198,Data Analyst,Runner-up,85.44
+PA00794,ST0863,H040,T0198,Data Analyst,Runner-up,85.44
+PA00795,ST0130,H040,T0198,Cloud Developer,Runner-up,85.44
+PA00796,ST0107,H040,T0199,Data Analyst,Participant,41.55
+PA00797,ST0044,H040,T0199,Cloud Developer,Participant,41.55
+PA00798,ST0916,H040,T0199,Cloud Developer,Participant,41.55
+PA00799,ST0156,H040,T0199,Data Scientist,Participant,41.55
+PA00800,ST0991,H040,T0200,Full Stack Developer,Participant,44.46
+PA00801,ST0665,H040,T0200,DevOps,Participant,44.46
+PA00802,ST0393,H040,T0200,IoT Developer,Participant,44.46
+PA00803,ST1129,H041,T0201,Full Stack Developer,Finalist,80.91
+PA00804,ST0543,H041,T0201,Full Stack Developer,Finalist,80.91
+PA00805,ST1011,H041,T0201,Full Stack Developer,Finalist,80.91
+PA00806,ST0301,H041,T0201,Full Stack Developer,Finalist,80.91
+PA00807,ST1141,H041,T0202,Full Stack Developer,Runner-up,94.96
+PA00808,ST0114,H041,T0202,Full Stack Developer,Runner-up,94.96
+PA00809,ST0861,H041,T0202,Full Stack Developer,Runner-up,94.96
+PA00810,ST0991,H041,T0203,Full Stack Developer,Finalist,62.09
+PA00811,ST0426,H041,T0203,Full Stack Developer,Finalist,62.09
+PA00812,ST1152,H041,T0203,Full Stack Developer,Finalist,62.09
+PA00813,ST0781,H041,T0204,Frontend Developer,Winner,100
+PA00814,ST0158,H041,T0204,Full Stack Developer,Winner,100
+PA00815,ST0738,H041,T0204,Full Stack Developer,Winner,100
+PA00816,ST0152,H041,T0204,Full Stack Developer,Winner,100
+PA00817,ST0340,H041,T0205,Full Stack Developer,Finalist,62.9
+PA00818,ST0489,H041,T0205,Full Stack Developer,Finalist,62.9
+PA00819,ST1182,H041,T0205,Full Stack Developer,Finalist,62.9
+PA00820,ST0623,H041,T0205,Full Stack Developer,Finalist,62.9
+PA00821,ST0660,H042,T0206,Data Scientist,Winner,100
+PA00822,ST0179,H042,T0206,Data Scientist,Winner,100
+PA00823,ST0949,H042,T0206,Data Scientist,Winner,100
+PA00824,ST0156,H042,T0206,Data Scientist,Winner,100
+PA00825,ST0839,H042,T0207,Data Scientist,Shortlisted,59.18
+PA00826,ST0418,H042,T0207,Data Scientist,Shortlisted,59.18
+PA00827,ST0722,H042,T0207,Data Scientist,Shortlisted,59.18
+PA00828,ST0236,H042,T0208,Data Scientist,Shortlisted,59.6
+PA00829,ST0040,H042,T0208,AI/ML Developer,Shortlisted,59.6
+PA00830,ST0749,H042,T0208,Data Analyst,Shortlisted,59.6
+PA00831,ST1143,H042,T0208,Data Scientist,Shortlisted,59.6
+PA00832,ST0365,H042,T0209,Data Scientist,Finalist,82.43
+PA00833,ST0708,H042,T0209,Data Scientist,Finalist,82.43
+PA00834,ST0315,H042,T0209,Data Scientist,Finalist,82.43
+PA00835,ST0113,H042,T0209,Data Scientist,Finalist,82.43
+PA00836,ST0202,H042,T0210,Data Scientist,Runner-up,86.93
+PA00837,ST0238,H042,T0210,Data Scientist,Runner-up,86.93
+PA00838,ST0539,H042,T0210,AI/ML Developer,Runner-up,86.93
+PA00839,ST1138,H042,T0210,Data Scientist,Runner-up,86.93
+PA00840,ST0126,H043,T0211,DevOps,Finalist,78.35
+PA00841,ST0200,H043,T0211,DevOps,Finalist,78.35
+PA00842,ST0419,H043,T0211,DevOps,Finalist,78.35
+PA00843,ST0265,H043,T0211,DevOps,Finalist,78.35
+PA00844,ST0560,H043,T0212,DevOps,Finalist,77.36
+PA00845,ST1177,H043,T0212,UI/UX Designer,Finalist,77.36
+PA00846,ST0184,H043,T0212,DevOps,Finalist,77.36
+PA00847,ST0973,H043,T0212,Cloud Developer,Finalist,77.36
+PA00848,ST0324,H043,T0212,Cybersecurity,Finalist,77.36
+PA00849,ST0726,H043,T0213,DevOps,Runner-up,82.85
+PA00850,ST0476,H043,T0213,DevOps,Runner-up,82.85
+PA00851,ST0765,H043,T0213,Cloud Developer,Runner-up,82.85
+PA00852,ST0113,H043,T0213,Data Scientist,Runner-up,82.85
+PA00853,ST0674,H043,T0214,DevOps,Finalist,79.27
+PA00854,ST0626,H043,T0214,DevOps,Finalist,79.27
+PA00855,ST0933,H043,T0214,DevOps,Finalist,79.27
+PA00856,ST0322,H043,T0215,DevOps,Winner,100
+PA00857,ST0811,H043,T0215,DevOps,Winner,100
+PA00858,ST0665,H043,T0215,DevOps,Winner,100
+PA00859,ST0158,H044,T0216,Full Stack Developer,Shortlisted,52.18
+PA00860,ST0119,H044,T0216,Backend Developer,Shortlisted,52.18
+PA00861,ST0939,H044,T0216,Backend Developer,Shortlisted,52.18
+PA00862,ST1011,H044,T0217,Full Stack Developer,Finalist,61.34
+PA00863,ST0478,H044,T0217,Backend Developer,Finalist,61.34
+PA00864,ST0850,H044,T0217,Backend Developer,Finalist,61.34
+PA00865,ST0773,H044,T0217,Backend Developer,Finalist,61.34
+PA00866,ST0208,H044,T0218,UI/UX Designer,Shortlisted,57.41
+PA00867,ST0846,H044,T0218,Backend Developer,Shortlisted,57.41
+PA00868,ST0546,H044,T0218,Full Stack Developer,Shortlisted,57.41
+PA00869,ST1131,H044,T0218,Frontend Developer,Shortlisted,57.41
+PA00870,ST0991,H044,T0219,Full Stack Developer,Runner-up,68.82
+PA00871,ST1135,H044,T0219,Backend Developer,Runner-up,68.82
+PA00872,ST0623,H044,T0219,Full Stack Developer,Runner-up,68.82
+PA00873,ST1136,H044,T0220,UI/UX Designer,Winner,74.11
+PA00874,ST1194,H044,T0220,AI/ML Developer,Winner,74.11
+PA00875,ST0300,H044,T0220,Backend Developer,Winner,74.11
+PA00876,ST0539,H045,T0221,AI/ML Developer,Finalist,67.3
+PA00877,ST0773,H045,T0221,Backend Developer,Finalist,67.3
+PA00878,ST0789,H045,T0221,Full Stack Developer,Finalist,67.3
+PA00879,ST0285,H045,T0221,Data Scientist,Finalist,67.3
+PA00880,ST0219,H045,T0221,Backend Developer,Finalist,67.3
+PA00881,ST0862,H045,T0221,AI/ML Developer,Finalist,67.3
+PA00882,ST0651,H045,T0222,Backend Developer,Shortlisted,58.57
+PA00883,ST0706,H045,T0222,AI/ML Developer,Shortlisted,58.57
+PA00884,ST0135,H045,T0222,Frontend Developer,Shortlisted,58.57
+PA00885,ST0967,H045,T0223,Full Stack Developer,Runner-up,76.88
+PA00886,ST0860,H045,T0223,Backend Developer,Runner-up,76.88
+PA00887,ST1191,H045,T0223,Data Scientist,Runner-up,76.88
+PA00888,ST0082,H045,T0223,UI/UX Designer,Runner-up,76.88
+PA00889,ST0986,H045,T0224,Backend Developer,Finalist,72.84
+PA00890,ST0478,H045,T0224,Backend Developer,Finalist,72.84
+PA00891,ST0663,H045,T0224,Backend Developer,Finalist,72.84
+PA00892,ST0369,H045,T0224,UI/UX Designer,Finalist,72.84
+PA00893,ST0531,H045,T0224,Backend Developer,Finalist,72.84
+PA00894,ST0911,H045,T0224,Full Stack Developer,Finalist,72.84
+PA00895,ST0781,H045,T0225,Frontend Developer,Winner,95.65
+PA00896,ST1011,H045,T0225,Full Stack Developer,Winner,95.65
+PA00897,ST0322,H045,T0225,DevOps,Winner,95.65
+PA00898,ST0673,H045,T0225,Cloud Developer,Winner,95.65
+PA00899,ST0506,H045,T0225,UI/UX Designer,Winner,95.65
+PA00900,ST0132,H045,T0225,Backend Developer,Winner,95.65
+PA00901,ST0352,H046,T0226,AI/ML Developer,Shortlisted,58.77
+PA00902,ST1085,H046,T0226,AI/ML Developer,Shortlisted,58.77
+PA00903,ST0039,H046,T0226,AI/ML Developer,Shortlisted,58.77
+PA00904,ST0815,H046,T0227,AI/ML Developer,Runner-up,82.65
+PA00905,ST0579,H046,T0227,AI/ML Developer,Runner-up,82.65
+PA00906,ST0070,H046,T0227,AI/ML Developer,Runner-up,82.65
+PA00907,ST0672,H046,T0228,AI/ML Developer,Winner,85.36
+PA00908,ST0902,H046,T0228,AI/ML Developer,Winner,85.36
+PA00909,ST1091,H046,T0228,AI/ML Developer,Winner,85.36
+PA00910,ST0365,H046,T0228,Data Scientist,Winner,85.36
+PA00911,ST0862,H046,T0229,AI/ML Developer,Finalist,65.76
+PA00912,ST0614,H046,T0229,AI/ML Developer,Finalist,65.76
+PA00913,ST1194,H046,T0229,AI/ML Developer,Finalist,65.76
+PA00914,ST0488,H046,T0229,AI/ML Developer,Finalist,65.76
+PA00915,ST0453,H046,T0230,AI/ML Developer,Finalist,71.53
+PA00916,ST0892,H046,T0230,AI/ML Developer,Finalist,71.53
+PA00917,ST0202,H046,T0230,Data Scientist,Finalist,71.53
+PA00918,ST0531,H047,T0231,Backend Developer,Runner-up,65.41
+PA00919,ST0324,H047,T0231,Cybersecurity,Runner-up,65.41
+PA00920,ST0330,H047,T0231,Backend Developer,Runner-up,65.41
+PA00921,ST0520,H047,T0231,Blockchain Developer,Runner-up,65.41
+PA00922,ST0773,H047,T0232,Backend Developer,Finalist,63.56
+PA00923,ST1189,H047,T0232,Backend Developer,Finalist,63.56
+PA00924,ST0179,H047,T0232,Data Scientist,Finalist,63.56
+PA00925,ST0850,H047,T0233,Backend Developer,Finalist,64.86
+PA00926,ST0302,H047,T0233,Backend Developer,Finalist,64.86
+PA00927,ST0132,H047,T0233,Backend Developer,Finalist,64.86
+PA00928,ST0986,H047,T0234,Backend Developer,Participant,42.52
+PA00929,ST1019,H047,T0234,Backend Developer,Participant,42.52
+PA00930,ST1116,H047,T0234,Backend Developer,Participant,42.52
+PA00931,ST0860,H047,T0235,Backend Developer,Winner,67.61
+PA00932,ST0625,H047,T0235,Cybersecurity,Winner,67.61
+PA00933,ST0909,H047,T0235,Backend Developer,Winner,67.61
+PA00934,ST0132,H048,T0236,Backend Developer,Runner-up,85.93
+PA00935,ST1040,H048,T0236,AI/ML Developer,Runner-up,85.93
+PA00936,ST1116,H048,T0236,Backend Developer,Runner-up,85.93
+PA00937,ST0892,H048,T0236,AI/ML Developer,Runner-up,85.93
+PA00938,ST0291,H048,T0237,Backend Developer,Participant,44.79
+PA00939,ST0539,H048,T0237,AI/ML Developer,Participant,44.79
+PA00940,ST0773,H048,T0237,Backend Developer,Participant,44.79
+PA00941,ST1194,H048,T0237,AI/ML Developer,Participant,44.79
+PA00942,ST0645,H048,T0238,Data Scientist,Finalist,60.98
+PA00943,ST0238,H048,T0238,Data Scientist,Finalist,60.98
+PA00944,ST1135,H048,T0238,Backend Developer,Finalist,60.98
+PA00945,ST0365,H048,T0238,Data Scientist,Finalist,60.98
+PA00946,ST0708,H048,T0238,Data Scientist,Finalist,60.98
+PA00947,ST0986,H048,T0239,Backend Developer,Winner,88.57
+PA00948,ST0202,H048,T0239,Data Scientist,Winner,88.57
+PA00949,ST0991,H048,T0239,Full Stack Developer,Winner,88.57
+PA00950,ST1129,H048,T0239,Full Stack Developer,Winner,88.57
+PA00951,ST0848,H048,T0239,Backend Developer,Winner,88.57
+PA00952,ST1189,H048,T0240,Backend Developer,Shortlisted,51.65
+PA00953,ST0846,H048,T0240,Backend Developer,Shortlisted,51.65
+PA00954,ST0302,H048,T0240,Backend Developer,Shortlisted,51.65
+PA00955,ST0651,H048,T0240,Backend Developer,Shortlisted,51.65
+PA00956,ST0531,H048,T0240,Backend Developer,Shortlisted,51.65
+PA00957,ST0132,H049,T0241,Backend Developer,Shortlisted,50.86
+PA00958,ST1170,H049,T0241,UI/UX Designer,Shortlisted,50.86
+PA00959,ST0773,H049,T0241,Backend Developer,Shortlisted,50.86
+PA00960,ST0158,H049,T0241,Full Stack Developer,Shortlisted,50.86
+PA00961,ST0119,H049,T0242,Backend Developer,Participant,24.79
+PA00962,ST1089,H049,T0242,Full Stack Developer,Participant,24.79
+PA00963,ST0489,H049,T0242,Full Stack Developer,Participant,24.79
+PA00964,ST0991,H049,T0243,Full Stack Developer,Winner,89.52
+PA00965,ST0738,H049,T0243,Full Stack Developer,Winner,89.52
+PA00966,ST0654,H049,T0243,Full Stack Developer,Winner,89.52
+PA00967,ST0911,H049,T0244,Full Stack Developer,Runner-up,70.38
+PA00968,ST0789,H049,T0244,Full Stack Developer,Runner-up,70.38
+PA00969,ST0860,H049,T0244,Backend Developer,Runner-up,70.38
+PA00970,ST0261,H049,T0244,Full Stack Developer,Runner-up,70.38
+PA00971,ST1129,H049,T0245,Full Stack Developer,Shortlisted,50.41
+PA00972,ST1135,H049,T0245,Backend Developer,Shortlisted,50.41
+PA00973,ST1019,H049,T0245,Backend Developer,Shortlisted,50.41
+PA00974,ST0433,H049,T0245,Full Stack Developer,Shortlisted,50.41
+PA00975,ST0461,H050,T0246,IoT Developer,Shortlisted,55.97
+PA00976,ST0696,H050,T0246,Data Analyst,Shortlisted,55.97
+PA00977,ST0768,H050,T0246,IoT Developer,Shortlisted,55.97
+PA00978,ST0585,H050,T0246,IoT Developer,Shortlisted,55.97
+PA00979,ST0047,H050,T0247,IoT Developer,Shortlisted,57.76
+PA00980,ST0390,H050,T0247,IoT Developer,Shortlisted,57.76
+PA00981,ST0898,H050,T0247,IoT Developer,Shortlisted,57.76
+PA00982,ST0283,H050,T0247,IoT Developer,Shortlisted,57.76
+PA00983,ST1164,H050,T0248,IoT Developer,Participant,38.17
+PA00984,ST0183,H050,T0248,IoT Developer,Participant,38.17
+PA00985,ST0490,H050,T0248,IoT Developer,Participant,38.17
+PA00986,ST0982,H050,T0249,IoT Developer,Shortlisted,55.72
+PA00987,ST0412,H050,T0249,Backend Developer,Shortlisted,55.72
+PA00988,ST0164,H050,T0249,Cloud Developer,Shortlisted,55.72
+PA00989,ST0945,H050,T0250,IoT Developer,Shortlisted,50.92
+PA00990,ST0336,H050,T0250,Data Analyst,Shortlisted,50.92
+PA00991,ST0558,H050,T0250,IoT Developer,Shortlisted,50.92
+PA00992,ST0028,H050,T0250,IoT Developer,Shortlisted,50.92
+PA00993,ST0625,H051,T0251,Cybersecurity,Winner,100
+PA00994,ST0910,H051,T0251,Cybersecurity,Winner,100
+PA00995,ST0307,H051,T0251,Cybersecurity,Winner,100
+PA00996,ST1121,H051,T0251,Cybersecurity,Winner,100
+PA00997,ST0988,H051,T0252,Cybersecurity,Participant,39.18
+PA00998,ST0324,H051,T0252,Cybersecurity,Participant,39.18
+PA00999,ST0687,H051,T0252,Cybersecurity,Participant,39.18
+PA01000,ST0659,H051,T0253,Cybersecurity,Runner-up,79.75
+PA01001,ST0611,H051,T0253,Cybersecurity,Runner-up,79.75
+PA01002,ST1056,H051,T0253,Cybersecurity,Runner-up,79.75
+PA01003,ST0407,H051,T0253,Cybersecurity,Runner-up,79.75
+PA01004,ST0771,H051,T0254,Cybersecurity,Finalist,62.91
+PA01005,ST0474,H051,T0254,Backend Developer,Finalist,62.91
+PA01006,ST0581,H051,T0254,Data Scientist,Finalist,62.91
+PA01007,ST0262,H051,T0254,Cybersecurity,Finalist,62.91
+PA01008,ST1104,H051,T0254,Backend Developer,Finalist,62.91
+PA01009,ST1059,H051,T0255,Cybersecurity,Finalist,71.03
+PA01010,ST0709,H051,T0255,Cybersecurity,Finalist,71.03
+PA01011,ST0556,H051,T0255,Cybersecurity,Finalist,71.03
+PA01012,ST0786,H051,T0255,Cybersecurity,Finalist,71.03
+PA01013,ST0432,H051,T0255,Cybersecurity,Finalist,71.03
+PA01014,ST0142,H051,T0255,Cybersecurity,Finalist,71.03
+PA01015,ST0901,H052,T0256,Blockchain Developer,Winner,100
+PA01016,ST0029,H052,T0256,Blockchain Developer,Winner,100
+PA01017,ST0182,H052,T0256,Blockchain Developer,Winner,100
+PA01018,ST0849,H052,T0257,Blockchain Developer,Finalist,95.92
+PA01019,ST1110,H052,T0257,Blockchain Developer,Finalist,95.92
+PA01020,ST0195,H052,T0257,Blockchain Developer,Finalist,95.92
+PA01021,ST1048,H052,T0257,Blockchain Developer,Finalist,95.92
+PA01022,ST0520,H052,T0258,Blockchain Developer,Runner-up,100
+PA01023,ST0715,H052,T0258,Blockchain Developer,Runner-up,100
+PA01024,ST0992,H052,T0258,Blockchain Developer,Runner-up,100
+PA01025,ST0431,H052,T0258,Blockchain Developer,Runner-up,100
+PA01026,ST0667,H052,T0259,Blockchain Developer,Finalist,88.01
+PA01027,ST0778,H052,T0259,Blockchain Developer,Finalist,88.01
+PA01028,ST0099,H052,T0259,Blockchain Developer,Finalist,88.01
+PA01029,ST0671,H052,T0260,Blockchain Developer,Finalist,73.77
+PA01030,ST0278,H052,T0260,Blockchain Developer,Finalist,73.77
+PA01031,ST1124,H052,T0260,Blockchain Developer,Finalist,73.77
+PA01032,ST0982,H053,T0261,IoT Developer,Winner,97.28
+PA01033,ST0047,H053,T0261,IoT Developer,Winner,97.28
+PA01034,ST0490,H053,T0261,IoT Developer,Winner,97.28
+PA01035,ST0183,H053,T0262,IoT Developer,Runner-up,95.7
+PA01036,ST0074,H053,T0262,IoT Developer,Runner-up,95.7
+PA01037,ST0768,H053,T0262,IoT Developer,Runner-up,95.7
+PA01038,ST0558,H053,T0263,IoT Developer,Finalist,84.66
+PA01039,ST0740,H053,T0263,IoT Developer,Finalist,84.66
+PA01040,ST0390,H053,T0263,IoT Developer,Finalist,84.66
+PA01041,ST1149,H053,T0263,IoT Developer,Finalist,84.66
+PA01042,ST0387,H053,T0264,IoT Developer,Finalist,74.04
+PA01043,ST0963,H053,T0264,IoT Developer,Finalist,74.04
+PA01044,ST0878,H053,T0264,IoT Developer,Finalist,74.04
+PA01045,ST1104,H053,T0265,Backend Developer,Participant,36.65
+PA01046,ST0561,H053,T0265,IoT Developer,Participant,36.65
+PA01047,ST0265,H053,T0265,DevOps,Participant,36.65
+PA01048,ST0261,H054,T0266,Full Stack Developer,Winner,92.52
+PA01049,ST0543,H054,T0266,Full Stack Developer,Winner,92.52
+PA01050,ST0047,H054,T0266,IoT Developer,Winner,92.52
+PA01051,ST0991,H054,T0267,Full Stack Developer,Participant,47.41
+PA01052,ST1129,H054,T0267,Full Stack Developer,Participant,47.41
+PA01053,ST0121,H054,T0267,IoT Developer,Participant,47.41
+PA01054,ST0461,H054,T0267,IoT Developer,Participant,47.41
+PA01055,ST0852,H054,T0267,Full Stack Developer,Participant,47.41
+PA01056,ST0686,H054,T0268,IoT Developer,Participant,37.39
+PA01057,ST1068,H054,T0268,UI/UX Designer,Participant,37.39
+PA01058,ST0462,H054,T0268,Frontend Developer,Participant,37.39
+PA01059,ST0618,H054,T0268,Data Analyst,Participant,37.39
+PA01060,ST0774,H054,T0268,Frontend Developer,Participant,37.39
+PA01061,ST0810,H054,T0269,IoT Developer,Runner-up,69.22
+PA01062,ST1011,H054,T0269,Full Stack Developer,Runner-up,69.22
+PA01063,ST0196,H054,T0269,IoT Developer,Runner-up,69.22
+PA01064,ST0489,H054,T0270,Full Stack Developer,Participant,22.37
+PA01065,ST0279,H054,T0270,Frontend Developer,Participant,22.37
+PA01066,ST1152,H054,T0270,Full Stack Developer,Participant,22.37
+PA01067,ST0074,H055,T0271,IoT Developer,Shortlisted,59.83
+PA01068,ST0579,H055,T0271,AI/ML Developer,Shortlisted,59.83
+PA01069,ST0686,H055,T0271,IoT Developer,Shortlisted,59.83
+PA01070,ST0261,H055,T0272,Full Stack Developer,Winner,82.23
+PA01071,ST0047,H055,T0272,IoT Developer,Winner,82.23
+PA01072,ST0982,H055,T0272,IoT Developer,Winner,82.23
+PA01073,ST0390,H055,T0272,IoT Developer,Winner,82.23
+PA01074,ST0183,H055,T0273,IoT Developer,Shortlisted,57.94
+PA01075,ST0387,H055,T0273,IoT Developer,Shortlisted,57.94
+PA01076,ST0207,H055,T0273,Data Analyst,Shortlisted,57.94
+PA01077,ST0898,H055,T0273,IoT Developer,Shortlisted,57.94
+PA01078,ST0283,H055,T0274,IoT Developer,Runner-up,66.09
+PA01079,ST0336,H055,T0274,Data Analyst,Runner-up,66.09
+PA01080,ST0251,H055,T0274,Data Analyst,Runner-up,66.09
+PA01081,ST0025,H055,T0274,AI/ML Developer,Runner-up,66.09
+PA01082,ST0231,H055,T0275,IoT Developer,Shortlisted,58.32
+PA01083,ST1129,H055,T0275,Full Stack Developer,Shortlisted,58.32
+PA01084,ST1068,H055,T0275,UI/UX Designer,Shortlisted,58.32
+PA01085,ST0878,H055,T0275,IoT Developer,Shortlisted,58.32
+PA01086,ST1011,H056,T0276,Full Stack Developer,Winner,97.29
+PA01087,ST1117,H056,T0276,Full Stack Developer,Winner,97.29
+PA01088,ST0492,H056,T0276,Full Stack Developer,Winner,97.29
+PA01089,ST0114,H056,T0277,Full Stack Developer,Finalist,78.01
+PA01090,ST0991,H056,T0277,Full Stack Developer,Finalist,78.01
+PA01091,ST0152,H056,T0277,Full Stack Developer,Finalist,78.01
+PA01092,ST0781,H056,T0278,Frontend Developer,Participant,49.58
+PA01093,ST0952,H056,T0278,Frontend Developer,Participant,49.58
+PA01094,ST0506,H056,T0278,UI/UX Designer,Participant,49.58
+PA01095,ST0433,H056,T0278,Full Stack Developer,Participant,49.58
+PA01096,ST0543,H056,T0279,Full Stack Developer,Runner-up,95.66
+PA01097,ST0277,H056,T0279,Full Stack Developer,Runner-up,95.66
+PA01098,ST0655,H056,T0279,Full Stack Developer,Runner-up,95.66
+PA01099,ST0340,H056,T0280,Full Stack Developer,Finalist,63.04
+PA01100,ST0789,H056,T0280,Full Stack Developer,Finalist,63.04
+PA01101,ST0162,H056,T0280,Full Stack Developer,Finalist,63.04
+PA01102,ST0660,H057,T0281,Data Scientist,Finalist,62.21
+PA01103,ST1168,H057,T0281,Data Analyst,Finalist,62.21
+PA01104,ST0179,H057,T0281,Data Scientist,Finalist,62.21
+PA01105,ST0285,H057,T0281,Data Scientist,Finalist,62.21
+PA01106,ST0025,H057,T0281,AI/ML Developer,Finalist,62.21
+PA01107,ST0722,H057,T0282,Data Scientist,Winner,87.92
+PA01108,ST0315,H057,T0282,Data Scientist,Winner,87.92
+PA01109,ST0424,H057,T0282,Data Scientist,Winner,87.92
+PA01110,ST1015,H057,T0283,Data Analyst,Finalist,67.85
+PA01111,ST0202,H057,T0283,Data Scientist,Finalist,67.85
+PA01112,ST1085,H057,T0283,AI/ML Developer,Finalist,67.85
+PA01113,ST0793,H057,T0283,Data Analyst,Finalist,67.85
+PA01114,ST0226,H057,T0283,Data Scientist,Finalist,67.85
+PA01115,ST0365,H057,T0284,Data Scientist,Runner-up,76.41
+PA01116,ST0236,H057,T0284,Data Scientist,Runner-up,76.41
+PA01117,ST0238,H057,T0284,Data Scientist,Runner-up,76.41
+PA01118,ST0839,H057,T0284,Data Scientist,Runner-up,76.41
+PA01119,ST0614,H057,T0284,AI/ML Developer,Runner-up,76.41
+PA01120,ST0873,H057,T0285,AI/ML Developer,Finalist,70.13
+PA01121,ST1038,H057,T0285,AI/ML Developer,Finalist,70.13
+PA01122,ST0645,H057,T0285,Data Scientist,Finalist,70.13
+PA01123,ST0847,H057,T0285,Data Scientist,Finalist,70.13
+PA01124,ST0632,H057,T0285,Data Scientist,Finalist,70.13
+PA01125,ST0726,H058,T0286,DevOps,Participant,42.24
+PA01126,ST0265,H058,T0286,DevOps,Participant,42.24
+PA01127,ST0616,H058,T0286,DevOps,Participant,42.24
+PA01128,ST0322,H058,T0286,DevOps,Participant,42.24
+PA01129,ST0126,H058,T0286,DevOps,Participant,42.24
+PA01130,ST0668,H058,T0286,Cloud Developer,Participant,42.24
+PA01131,ST0811,H058,T0287,DevOps,Shortlisted,56.45
+PA01132,ST0200,H058,T0287,DevOps,Shortlisted,56.45
+PA01133,ST0933,H058,T0287,DevOps,Shortlisted,56.45
+PA01134,ST0378,H058,T0288,DevOps,Winner,97.81
+PA01135,ST0305,H058,T0288,DevOps,Winner,97.81
+PA01136,ST0373,H058,T0288,DevOps,Winner,97.81
+PA01137,ST0626,H058,T0288,DevOps,Winner,97.81
+PA01138,ST0918,H058,T0288,DevOps,Winner,97.81
+PA01139,ST0970,H058,T0289,DevOps,Runner-up,61.98
+PA01140,ST0419,H058,T0289,DevOps,Runner-up,61.98
+PA01141,ST0969,H058,T0289,DevOps,Runner-up,61.98
+PA01142,ST0079,H058,T0289,Cloud Developer,Runner-up,61.98
+PA01143,ST0912,H058,T0290,DevOps,Shortlisted,53.4
+PA01144,ST0244,H058,T0290,DevOps,Shortlisted,53.4
+PA01145,ST0043,H058,T0290,DevOps,Shortlisted,53.4
+PA01146,ST0442,H058,T0290,DevOps,Shortlisted,53.4
+PA01147,ST0039,H058,T0290,AI/ML Developer,Shortlisted,53.4
+PA01148,ST0860,H059,T0291,Backend Developer,Finalist,63.8
+PA01149,ST0114,H059,T0291,Full Stack Developer,Finalist,63.8
+PA01150,ST0158,H059,T0291,Full Stack Developer,Finalist,63.8
+PA01151,ST0430,H059,T0292,Backend Developer,Finalist,76.47
+PA01152,ST0773,H059,T0292,Backend Developer,Finalist,76.47
+PA01153,ST0799,H059,T0292,Backend Developer,Finalist,76.47
+PA01154,ST1129,H059,T0292,Full Stack Developer,Finalist,76.47
+PA01155,ST0459,H059,T0293,Cloud Developer,Winner,86.65
+PA01156,ST0261,H059,T0293,Full Stack Developer,Winner,86.65
+PA01157,ST0892,H059,T0293,AI/ML Developer,Winner,86.65
+PA01158,ST0986,H059,T0293,Backend Developer,Winner,86.65
+PA01159,ST0852,H059,T0294,Full Stack Developer,Shortlisted,56.35
+PA01160,ST0208,H059,T0294,UI/UX Designer,Shortlisted,56.35
+PA01161,ST1011,H059,T0294,Full Stack Developer,Shortlisted,56.35
+PA01162,ST0991,H059,T0295,Full Stack Developer,Runner-up,85.03
+PA01163,ST0019,H059,T0295,Cloud Developer,Runner-up,85.03
+PA01164,ST0543,H059,T0295,Full Stack Developer,Runner-up,85.03
+PA01165,ST1116,H059,T0295,Backend Developer,Runner-up,85.03
+PA01166,ST0538,H060,T0296,Backend Developer,Shortlisted,52.34
+PA01167,ST0991,H060,T0296,Full Stack Developer,Shortlisted,52.34
+PA01168,ST0861,H060,T0296,Full Stack Developer,Shortlisted,52.34
+PA01169,ST0301,H060,T0296,Full Stack Developer,Shortlisted,52.34
+PA01170,ST0789,H060,T0296,Full Stack Developer,Shortlisted,52.34
+PA01171,ST0430,H060,T0297,Backend Developer,Finalist,70.85
+PA01172,ST0158,H060,T0297,Full Stack Developer,Finalist,70.85
+PA01173,ST0277,H060,T0297,Full Stack Developer,Finalist,70.85
+PA01174,ST0356,H060,T0297,Full Stack Developer,Finalist,70.85
+PA01175,ST0625,H060,T0297,Cybersecurity,Finalist,70.85
+PA01176,ST0773,H060,T0298,Backend Developer,Winner,85.2
+PA01177,ST1135,H060,T0298,Backend Developer,Winner,85.2
+PA01178,ST0967,H060,T0298,Full Stack Developer,Winner,85.2
+PA01179,ST1077,H060,T0298,Backend Developer,Winner,85.2
+PA01180,ST0651,H060,T0298,Backend Developer,Winner,85.2
+PA01181,ST0132,H060,T0299,Backend Developer,Runner-up,76.19
+PA01182,ST1129,H060,T0299,Full Stack Developer,Runner-up,76.19
+PA01183,ST0852,H060,T0299,Full Stack Developer,Runner-up,76.19
+PA01184,ST0543,H060,T0299,Full Stack Developer,Runner-up,76.19
+PA01185,ST0738,H060,T0300,Full Stack Developer,Participant,46.63
+PA01186,ST0492,H060,T0300,Full Stack Developer,Participant,46.63
+PA01187,ST0850,H060,T0300,Backend Developer,Participant,46.63
+PA01188,ST0800,H060,T0300,Full Stack Developer,Participant,46.63
+PA01189,ST0892,H061,T0301,AI/ML Developer,Winner,89.34
+PA01190,ST0722,H061,T0301,Data Scientist,Winner,89.34
+PA01191,ST0614,H061,T0301,AI/ML Developer,Winner,89.34
+PA01192,ST0869,H061,T0301,AI/ML Developer,Winner,89.34
+PA01193,ST0365,H061,T0302,Data Scientist,Finalist,78.39
+PA01194,ST0202,H061,T0302,Data Scientist,Finalist,78.39
+PA01195,ST0539,H061,T0302,AI/ML Developer,Finalist,78.39
+PA01196,ST1085,H061,T0303,AI/ML Developer,Finalist,63.32
+PA01197,ST1094,H061,T0303,AI/ML Developer,Finalist,63.32
+PA01198,ST0070,H061,T0303,AI/ML Developer,Finalist,63.32
+PA01199,ST0025,H061,T0303,AI/ML Developer,Finalist,63.32
+PA01200,ST0949,H061,T0303,Data Scientist,Finalist,63.32
+PA01201,ST0579,H061,T0304,AI/ML Developer,Runner-up,84.62
+PA01202,ST0440,H061,T0304,AI/ML Developer,Runner-up,84.62
+PA01203,ST0040,H061,T0304,AI/ML Developer,Runner-up,84.62
+PA01204,ST0714,H061,T0304,Data Scientist,Runner-up,84.62
+PA01205,ST0545,H061,T0304,AI/ML Developer,Runner-up,84.62
+PA01206,ST0453,H061,T0305,AI/ML Developer,Shortlisted,57.83
+PA01207,ST0361,H061,T0305,AI/ML Developer,Shortlisted,57.83
+PA01208,ST0815,H061,T0305,AI/ML Developer,Shortlisted,57.83
+PA01209,ST0860,H062,T0306,Backend Developer,Runner-up,62.54
+PA01210,ST0412,H062,T0306,Backend Developer,Runner-up,62.54
+PA01211,ST0699,H062,T0306,Backend Developer,Runner-up,62.54
+PA01212,ST1118,H062,T0306,Data Analyst,Runner-up,62.54
+PA01213,ST0302,H062,T0306,Backend Developer,Runner-up,62.54
+PA01214,ST0132,H062,T0307,Backend Developer,Finalist,61.49
+PA01215,ST1077,H062,T0307,Backend Developer,Finalist,61.49
+PA01216,ST0909,H062,T0307,Backend Developer,Finalist,61.49
+PA01217,ST0850,H062,T0308,Backend Developer,Winner,86.92
+PA01218,ST0986,H062,T0308,Backend Developer,Winner,86.92
+PA01219,ST1019,H062,T0308,Backend Developer,Winner,86.92
+PA01220,ST0291,H062,T0308,Backend Developer,Winner,86.92
+PA01221,ST0625,H062,T0308,Cybersecurity,Winner,86.92
+PA01222,ST0651,H062,T0309,Backend Developer,Participant,49.65
+PA01223,ST0848,H062,T0309,Backend Developer,Participant,49.65
+PA01224,ST1161,H062,T0309,Backend Developer,Participant,49.65
+PA01225,ST0648,H062,T0310,Backend Developer,Shortlisted,59.22
+PA01226,ST1189,H062,T0310,Backend Developer,Shortlisted,59.22
+PA01227,ST1116,H062,T0310,Backend Developer,Shortlisted,59.22
+PA01228,ST0773,H063,T0311,Backend Developer,Shortlisted,57.26
+PA01229,ST0376,H063,T0311,Data Scientist,Shortlisted,57.26
+PA01230,ST0080,H063,T0311,Data Scientist,Shortlisted,57.26
+PA01231,ST0986,H063,T0312,Backend Developer,Finalist,77.97
+PA01232,ST0781,H063,T0312,Frontend Developer,Finalist,77.97
+PA01233,ST1116,H063,T0312,Backend Developer,Finalist,77.97
+PA01234,ST1019,H063,T0312,Backend Developer,Finalist,77.97
+PA01235,ST0848,H063,T0313,Backend Developer,Winner,87.26
+PA01236,ST0648,H063,T0313,Backend Developer,Winner,87.26
+PA01237,ST0706,H063,T0313,AI/ML Developer,Winner,87.26
+PA01238,ST1189,H063,T0313,Backend Developer,Winner,87.26
+PA01239,ST0302,H063,T0314,Backend Developer,Runner-up,84.03
+PA01240,ST1040,H063,T0314,AI/ML Developer,Runner-up,84.03
+PA01241,ST1194,H063,T0314,AI/ML Developer,Runner-up,84.03
+PA01242,ST0132,H063,T0315,Backend Developer,Shortlisted,56.02
+PA01243,ST0291,H063,T0315,Backend Developer,Shortlisted,56.02
+PA01244,ST0300,H063,T0315,Backend Developer,Shortlisted,56.02
+PA01245,ST0645,H063,T0315,Data Scientist,Shortlisted,56.02
+PA01246,ST0158,H064,T0316,Full Stack Developer,Finalist,62.51
+PA01247,ST0663,H064,T0316,Backend Developer,Finalist,62.51
+PA01248,ST1135,H064,T0316,Backend Developer,Finalist,62.51
+PA01249,ST0599,H064,T0317,UI/UX Designer,Winner,100
+PA01250,ST1129,H064,T0317,Full Stack Developer,Winner,100
+PA01251,ST1019,H064,T0317,Backend Developer,Winner,100
+PA01252,ST0297,H064,T0317,Full Stack Developer,Winner,100
+PA01253,ST0623,H064,T0318,Full Stack Developer,Participant,41.6
+PA01254,ST0911,H064,T0318,Full Stack Developer,Participant,41.6
+PA01255,ST0426,H064,T0318,Full Stack Developer,Participant,41.6
+PA01256,ST0799,H064,T0318,Backend Developer,Participant,41.6
+PA01257,ST0717,H064,T0319,Full Stack Developer,Finalist,64.15
+PA01258,ST0720,H064,T0319,Frontend Developer,Finalist,64.15
+PA01259,ST0556,H064,T0319,Cybersecurity,Finalist,64.15
+PA01260,ST0114,H064,T0320,Full Stack Developer,Runner-up,73.28
+PA01261,ST1182,H064,T0320,Full Stack Developer,Runner-up,73.28
+PA01262,ST0357,H064,T0320,Android Developer,Runner-up,73.28
+PA01263,ST0686,H065,T0321,IoT Developer,Winner,100
+PA01264,ST0645,H065,T0321,Data Scientist,Winner,100
+PA01265,ST0390,H065,T0321,IoT Developer,Winner,100
+PA01266,ST1151,H065,T0321,IoT Developer,Winner,100
+PA01267,ST0183,H065,T0321,IoT Developer,Winner,100
+PA01268,ST0192,H065,T0322,Data Analyst,Participant,39.48
+PA01269,ST1097,H065,T0322,Data Analyst,Participant,39.48
+PA01270,ST0945,H065,T0322,IoT Developer,Participant,39.48
+PA01271,ST1194,H065,T0323,AI/ML Developer,Participant,37.13
+PA01272,ST1171,H065,T0323,Frontend Developer,Participant,37.13
+PA01273,ST0202,H065,T0323,Data Scientist,Participant,37.13
+PA01274,ST0542,H065,T0323,Full Stack Developer,Participant,37.13
+PA01275,ST1164,H065,T0324,IoT Developer,Shortlisted,57.27
+PA01276,ST0915,H065,T0324,IoT Developer,Shortlisted,57.27
+PA01277,ST0047,H065,T0324,IoT Developer,Shortlisted,57.27
+PA01278,ST1109,H065,T0325,Data Analyst,Participant,47.6
+PA01279,ST0780,H065,T0325,Data Analyst,Participant,47.6
+PA01280,ST0361,H065,T0325,AI/ML Developer,Participant,47.6
+PA01281,ST0499,H065,T0325,Cloud Developer,Participant,47.6
+PA01282,ST0225,H065,T0325,IoT Developer,Participant,47.6
+PA01283,ST0773,H065,T0325,Backend Developer,Participant,47.6
+PA01284,ST0748,H066,T0326,Cybersecurity,Finalist,63.55
+PA01285,ST1042,H066,T0326,Cybersecurity,Finalist,63.55
+PA01286,ST0823,H066,T0326,Cybersecurity,Finalist,63.55
+PA01287,ST0213,H066,T0327,Cybersecurity,Participant,40.91
+PA01288,ST0307,H066,T0327,Cybersecurity,Participant,40.91
+PA01289,ST0142,H066,T0327,Cybersecurity,Participant,40.91
+PA01290,ST0372,H066,T0327,Cybersecurity,Participant,40.91
+PA01291,ST0786,H066,T0328,Cybersecurity,Shortlisted,56.79
+PA01292,ST0556,H066,T0328,Cybersecurity,Shortlisted,56.79
+PA01293,ST0611,H066,T0328,Cybersecurity,Shortlisted,56.79
+PA01294,ST0625,H066,T0328,Cybersecurity,Shortlisted,56.79
+PA01295,ST0659,H066,T0329,Cybersecurity,Winner,78.19
+PA01296,ST1121,H066,T0329,Cybersecurity,Winner,78.19
+PA01297,ST1056,H066,T0329,Cybersecurity,Winner,78.19
+PA01298,ST1059,H066,T0330,Cybersecurity,Runner-up,77.74
+PA01299,ST0910,H066,T0330,Cybersecurity,Runner-up,77.74
+PA01300,ST0324,H066,T0330,Cybersecurity,Runner-up,77.74
+PA01301,ST0195,H067,T0331,Blockchain Developer,Runner-up,92.11
+PA01302,ST1124,H067,T0331,Blockchain Developer,Runner-up,92.11
+PA01303,ST1048,H067,T0331,Blockchain Developer,Runner-up,92.11
+PA01304,ST0520,H067,T0332,Blockchain Developer,Winner,97.83
+PA01305,ST0715,H067,T0332,Blockchain Developer,Winner,97.83
+PA01306,ST1159,H067,T0332,Blockchain Developer,Winner,97.83
+PA01307,ST0667,H067,T0332,Blockchain Developer,Winner,97.83
+PA01308,ST0182,H067,T0333,Blockchain Developer,Finalist,63.06
+PA01309,ST0778,H067,T0333,Blockchain Developer,Finalist,63.06
+PA01310,ST0431,H067,T0333,Blockchain Developer,Finalist,63.06
+PA01311,ST0099,H067,T0334,Blockchain Developer,Finalist,86.01
+PA01312,ST1110,H067,T0334,Blockchain Developer,Finalist,86.01
+PA01313,ST0203,H067,T0334,Blockchain Developer,Finalist,86.01
+PA01314,ST0777,H067,T0334,Blockchain Developer,Finalist,86.01
+PA01315,ST0849,H067,T0335,Blockchain Developer,Shortlisted,52.69
+PA01316,ST0992,H067,T0335,Blockchain Developer,Shortlisted,52.69
+PA01317,ST0392,H067,T0335,Blockchain Developer,Shortlisted,52.69
+PA01318,ST0566,H068,T0336,IoT Developer,Runner-up,76.58
+PA01319,ST0492,H068,T0336,Full Stack Developer,Runner-up,76.58
+PA01320,ST0180,H068,T0336,IoT Developer,Runner-up,76.58
+PA01321,ST0849,H068,T0336,Blockchain Developer,Runner-up,76.58
+PA01322,ST0183,H068,T0337,IoT Developer,Winner,83.44
+PA01323,ST0768,H068,T0337,IoT Developer,Winner,83.44
+PA01324,ST0558,H068,T0337,IoT Developer,Winner,83.44
+PA01325,ST1134,H068,T0337,IoT Developer,Winner,83.44
+PA01326,ST0686,H068,T0338,IoT Developer,Shortlisted,59.41
+PA01327,ST0915,H068,T0338,IoT Developer,Shortlisted,59.41
+PA01328,ST0509,H068,T0338,IoT Developer,Shortlisted,59.41
+PA01329,ST0612,H068,T0339,IoT Developer,Participant,40.62
+PA01330,ST0927,H068,T0339,IoT Developer,Participant,40.62
+PA01331,ST0963,H068,T0339,IoT Developer,Participant,40.62
+PA01332,ST0649,H068,T0340,IoT Developer,Shortlisted,59.65
+PA01333,ST0312,H068,T0340,IoT Developer,Shortlisted,59.65
+PA01334,ST0434,H068,T0340,IoT Developer,Shortlisted,59.65
+PA01335,ST0204,H068,T0340,IoT Developer,Shortlisted,59.65
+PA01336,ST0261,H069,T0341,Full Stack Developer,Finalist,64.54
+PA01337,ST0911,H069,T0341,Full Stack Developer,Finalist,64.54
+PA01338,ST1011,H069,T0341,Full Stack Developer,Finalist,64.54
+PA01339,ST1051,H069,T0342,IoT Developer,Finalist,70.56
+PA01340,ST0623,H069,T0342,Full Stack Developer,Finalist,70.56
+PA01341,ST0152,H069,T0342,Full Stack Developer,Finalist,70.56
+PA01342,ST0991,H069,T0343,Full Stack Developer,Winner,89.34
+PA01343,ST1118,H069,T0343,Data Analyst,Winner,89.34
+PA01344,ST0461,H069,T0343,IoT Developer,Winner,89.34
+PA01345,ST1129,H069,T0343,Full Stack Developer,Winner,89.34
+PA01346,ST0982,H069,T0344,IoT Developer,Runner-up,79.44
+PA01347,ST0852,H069,T0344,Full Stack Developer,Runner-up,79.44
+PA01348,ST0738,H069,T0344,Full Stack Developer,Runner-up,79.44
+PA01349,ST0768,H069,T0345,IoT Developer,Finalist,62.19
+PA01350,ST1089,H069,T0345,Full Stack Developer,Finalist,62.19
+PA01351,ST0572,H069,T0345,IoT Developer,Finalist,62.19
+PA01352,ST0492,H069,T0345,Full Stack Developer,Finalist,62.19
+PA01353,ST0285,H070,T0346,Data Scientist,Finalist,77.77
+PA01354,ST0192,H070,T0346,Data Analyst,Finalist,77.77
+PA01355,ST0759,H070,T0346,IoT Developer,Finalist,77.77
+PA01356,ST1024,H070,T0346,Cloud Developer,Finalist,77.77
+PA01357,ST0982,H070,T0347,IoT Developer,Participant,46.04
+PA01358,ST1051,H070,T0347,IoT Developer,Participant,46.04
+PA01359,ST1038,H070,T0347,AI/ML Developer,Participant,46.04
+PA01360,ST0343,H070,T0347,Data Analyst,Participant,46.04
+PA01361,ST0464,H070,T0347,IoT Developer,Participant,46.04
+PA01362,ST0134,H070,T0347,AI/ML Developer,Participant,46.04
+PA01363,ST0261,H070,T0348,Full Stack Developer,Winner,90.02
+PA01364,ST0336,H070,T0348,Data Analyst,Winner,90.02
+PA01365,ST0390,H070,T0348,IoT Developer,Winner,90.02
+PA01366,ST0436,H070,T0349,AI/ML Developer,Runner-up,80.17
+PA01367,ST0556,H070,T0349,Cybersecurity,Runner-up,80.17
+PA01368,ST1127,H070,T0349,Data Analyst,Runner-up,80.17
+PA01369,ST0618,H070,T0349,Data Analyst,Runner-up,80.17
+PA01370,ST1017,H070,T0350,Data Analyst,Finalist,71.53
+PA01371,ST0485,H070,T0350,Data Analyst,Finalist,71.53
+PA01372,ST0461,H070,T0350,IoT Developer,Finalist,71.53
+PA01373,ST1118,H070,T0350,Data Analyst,Finalist,71.53
+PA01374,ST0927,H070,T0350,IoT Developer,Finalist,71.53
+PA01375,ST0397,H071,T0351,Frontend Developer,Winner,81.89
+PA01376,ST0861,H071,T0351,Full Stack Developer,Winner,81.89
+PA01377,ST0991,H071,T0351,Full Stack Developer,Winner,81.89
+PA01378,ST0158,H071,T0351,Full Stack Developer,Winner,81.89
+PA01379,ST0114,H071,T0352,Full Stack Developer,Shortlisted,59.62
+PA01380,ST0135,H071,T0352,Frontend Developer,Shortlisted,59.62
+PA01381,ST0643,H071,T0352,Frontend Developer,Shortlisted,59.62
+PA01382,ST0277,H071,T0353,Full Stack Developer,Runner-up,80.22
+PA01383,ST0817,H071,T0353,Full Stack Developer,Runner-up,80.22
+PA01384,ST0774,H071,T0353,Frontend Developer,Runner-up,80.22
+PA01385,ST0692,H071,T0354,Frontend Developer,Finalist,68.03
+PA01386,ST0738,H071,T0354,Full Stack Developer,Finalist,68.03
+PA01387,ST0623,H071,T0354,Full Stack Developer,Finalist,68.03
+PA01388,ST0954,H071,T0354,Frontend Developer,Finalist,68.03
+PA01389,ST0799,H071,T0354,Backend Developer,Finalist,68.03
+PA01390,ST1048,H071,T0354,Blockchain Developer,Finalist,68.03
+PA01391,ST0543,H071,T0355,Full Stack Developer,Finalist,73.82
+PA01392,ST0720,H071,T0355,Frontend Developer,Finalist,73.82
+PA01393,ST1089,H071,T0355,Full Stack Developer,Finalist,73.82
+PA01394,ST0381,H071,T0355,Frontend Developer,Finalist,73.82
+PA01395,ST0216,H071,T0355,UI/UX Designer,Finalist,73.82
+PA01396,ST0556,H071,T0355,Cybersecurity,Finalist,73.82
+PA01397,ST0236,H072,T0356,Data Scientist,Winner,100
+PA01398,ST0722,H072,T0356,Data Scientist,Winner,100
+PA01399,ST0315,H072,T0356,Data Scientist,Winner,100
+PA01400,ST0365,H072,T0356,Data Scientist,Winner,100
+PA01401,ST1168,H072,T0356,Data Analyst,Winner,100
+PA01402,ST0502,H072,T0357,Data Scientist,Finalist,66.99
+PA01403,ST0645,H072,T0357,Data Scientist,Finalist,66.99
+PA01404,ST0877,H072,T0357,AI/ML Developer,Finalist,66.99
+PA01405,ST0049,H072,T0357,Data Scientist,Finalist,66.99
+PA01406,ST0059,H072,T0357,Data Scientist,Finalist,66.99
+PA01407,ST0714,H072,T0358,Data Scientist,Participant,45.1
+PA01408,ST1015,H072,T0358,Data Analyst,Participant,45.1
+PA01409,ST0876,H072,T0358,Data Analyst,Participant,45.1
+PA01410,ST0243,H072,T0358,AI/ML Developer,Participant,45.1
+PA01411,ST0660,H072,T0359,Data Scientist,Runner-up,100
+PA01412,ST0202,H072,T0359,Data Scientist,Runner-up,100
+PA01413,ST1191,H072,T0359,Data Scientist,Runner-up,100
+PA01414,ST0708,H072,T0360,Data Scientist,Finalist,80.9
+PA01415,ST0238,H072,T0360,Data Scientist,Finalist,80.9
+PA01416,ST0179,H072,T0360,Data Scientist,Finalist,80.9
+PA01417,ST0113,H072,T0360,Data Scientist,Finalist,80.9
+PA01418,ST0812,H072,T0360,Data Scientist,Finalist,80.9
+PA01419,ST0200,H073,T0361,DevOps,Winner,76.06
+PA01420,ST0665,H073,T0361,DevOps,Winner,76.06
+PA01421,ST0679,H073,T0361,Frontend Developer,Winner,76.06
+PA01422,ST0626,H073,T0361,DevOps,Winner,76.06
+PA01423,ST0624,H073,T0361,DevOps,Winner,76.06
+PA01424,ST0265,H073,T0361,DevOps,Winner,76.06
+PA01425,ST0543,H073,T0362,Full Stack Developer,Runner-up,70.02
+PA01426,ST0100,H073,T0362,Cloud Developer,Runner-up,70.02
+PA01427,ST1041,H073,T0362,DevOps,Runner-up,70.02
+PA01428,ST0920,H073,T0362,IoT Developer,Runner-up,70.02
+PA01429,ST1181,H073,T0362,Backend Developer,Runner-up,70.02
+PA01430,ST0970,H073,T0363,DevOps,Shortlisted,52.19
+PA01431,ST0126,H073,T0363,DevOps,Shortlisted,52.19
+PA01432,ST0442,H073,T0363,DevOps,Shortlisted,52.19
+PA01433,ST0726,H073,T0364,DevOps,Finalist,68.21
+PA01434,ST0322,H073,T0364,DevOps,Finalist,68.21
+PA01435,ST0820,H073,T0364,DevOps,Finalist,68.21
+PA01436,ST0842,H073,T0364,Cloud Developer,Finalist,68.21
+PA01437,ST0912,H073,T0365,DevOps,Participant,49.9
+PA01438,ST0811,H073,T0365,DevOps,Participant,49.9
+PA01439,ST0079,H073,T0365,Cloud Developer,Participant,49.9
+PA01440,ST0969,H073,T0365,DevOps,Participant,49.9
+PA01441,ST0305,H073,T0365,DevOps,Participant,49.9
+PA01442,ST0815,H074,T0366,AI/ML Developer,Finalist,60.17
+PA01443,ST0599,H074,T0366,UI/UX Designer,Finalist,60.17
+PA01444,ST0965,H074,T0366,Cloud Developer,Finalist,60.17
+PA01445,ST0625,H074,T0366,Cybersecurity,Finalist,60.17
+PA01446,ST0430,H074,T0367,Backend Developer,Runner-up,77.86
+PA01447,ST0158,H074,T0367,Full Stack Developer,Runner-up,77.86
+PA01448,ST1135,H074,T0367,Backend Developer,Runner-up,77.86
+PA01449,ST0613,H074,T0367,UI/UX Designer,Runner-up,77.86
+PA01450,ST0860,H074,T0368,Backend Developer,Winner,100
+PA01451,ST0708,H074,T0368,Data Scientist,Winner,100
+PA01452,ST0543,H074,T0368,Full Stack Developer,Winner,100
+PA01453,ST0903,H074,T0368,UI/UX Designer,Winner,100
+PA01454,ST0236,H074,T0368,Data Scientist,Winner,100
+PA01455,ST0909,H074,T0369,Backend Developer,Finalist,72.79
+PA01456,ST1191,H074,T0369,Data Scientist,Finalist,72.79
+PA01457,ST1106,H074,T0369,Backend Developer,Finalist,72.79
+PA01458,ST0130,H074,T0369,Cloud Developer,Finalist,72.79
+PA01459,ST0773,H074,T0369,Backend Developer,Finalist,72.79
+PA01460,ST0967,H074,T0369,Full Stack Developer,Finalist,72.79
+PA01461,ST0132,H074,T0370,Backend Developer,Finalist,68.89
+PA01462,ST0478,H074,T0370,Backend Developer,Finalist,68.89
+PA01463,ST0848,H074,T0370,Backend Developer,Finalist,68.89
+PA01464,ST0357,H074,T0370,Android Developer,Finalist,68.89
+PA01465,ST1019,H074,T0370,Backend Developer,Finalist,68.89
+PA01466,ST0967,H075,T0371,Full Stack Developer,Participant,38.42
+PA01467,ST0302,H075,T0371,Backend Developer,Participant,38.42
+PA01468,ST0852,H075,T0371,Full Stack Developer,Participant,38.42
+PA01469,ST0625,H075,T0371,Cybersecurity,Participant,38.42
+PA01470,ST0789,H075,T0372,Full Stack Developer,Finalist,61.52
+PA01471,ST0277,H075,T0372,Full Stack Developer,Finalist,61.52
+PA01472,ST0648,H075,T0372,Backend Developer,Finalist,61.52
+PA01473,ST0911,H075,T0373,Full Stack Developer,Participant,49.88
+PA01474,ST1068,H075,T0373,UI/UX Designer,Participant,49.88
+PA01475,ST1131,H075,T0373,Frontend Developer,Participant,49.88
+PA01476,ST0238,H075,T0373,Data Scientist,Participant,49.88
+PA01477,ST1019,H075,T0374,Backend Developer,Runner-up,60.08
+PA01478,ST1116,H075,T0374,Backend Developer,Runner-up,60.08
+PA01479,ST0715,H075,T0374,Blockchain Developer,Runner-up,60.08
+PA01480,ST0057,H075,T0374,Full Stack Developer,Runner-up,60.08
+PA01481,ST0114,H075,T0375,Full Stack Developer,Participant,49.4
+PA01482,ST1106,H075,T0375,Backend Developer,Participant,49.4
+PA01483,ST1117,H075,T0375,Full Stack Developer,Participant,49.4
+PA01484,ST0960,H075,T0375,Frontend Developer,Participant,49.4
+PA01485,ST0722,H076,T0376,Data Scientist,Shortlisted,56.99
+PA01486,ST0708,H076,T0376,Data Scientist,Shortlisted,56.99
+PA01487,ST0815,H076,T0376,AI/ML Developer,Shortlisted,56.99
+PA01488,ST0113,H076,T0376,Data Scientist,Shortlisted,56.99
+PA01489,ST0579,H076,T0377,AI/ML Developer,Runner-up,66.46
+PA01490,ST0453,H076,T0377,AI/ML Developer,Runner-up,66.46
+PA01491,ST0025,H076,T0377,AI/ML Developer,Runner-up,66.46
+PA01492,ST0977,H076,T0377,Data Scientist,Runner-up,66.46
+PA01493,ST0352,H076,T0377,AI/ML Developer,Runner-up,66.46
+PA01494,ST0892,H076,T0378,AI/ML Developer,Winner,72.85
+PA01495,ST0672,H076,T0378,AI/ML Developer,Winner,72.85
+PA01496,ST0070,H076,T0378,AI/ML Developer,Winner,72.85
+PA01497,ST0440,H076,T0378,AI/ML Developer,Winner,72.85
+PA01498,ST0539,H076,T0378,AI/ML Developer,Winner,72.85
+PA01499,ST0902,H076,T0379,AI/ML Developer,Finalist,62.72
+PA01500,ST0706,H076,T0379,AI/ML Developer,Finalist,62.72
+PA01501,ST1105,H076,T0379,AI/ML Developer,Finalist,62.72
+PA01502,ST0581,H076,T0379,Data Scientist,Finalist,62.72
+PA01503,ST0365,H076,T0380,Data Scientist,Finalist,65.87
+PA01504,ST0869,H076,T0380,AI/ML Developer,Finalist,65.87
+PA01505,ST1017,H076,T0380,Data Analyst,Finalist,65.87
+PA01506,ST0384,H076,T0380,AI/ML Developer,Finalist,65.87
+PA01507,ST0543,H077,T0381,Full Stack Developer,Shortlisted,58.68
+PA01508,ST0773,H077,T0381,Backend Developer,Shortlisted,58.68
+PA01509,ST0845,H077,T0381,Backend Developer,Shortlisted,58.68
+PA01510,ST0152,H077,T0381,Full Stack Developer,Shortlisted,58.68
+PA01511,ST1077,H077,T0382,Backend Developer,Participant,43.34
+PA01512,ST0137,H077,T0382,Backend Developer,Participant,43.34
+PA01513,ST0848,H077,T0382,Backend Developer,Participant,43.34
+PA01514,ST0291,H077,T0382,Backend Developer,Participant,43.34
+PA01515,ST0556,H077,T0383,Cybersecurity,Winner,81.08
+PA01516,ST0651,H077,T0383,Backend Developer,Winner,81.08
+PA01517,ST0505,H077,T0383,Backend Developer,Winner,81.08
+PA01518,ST0781,H077,T0383,Frontend Developer,Winner,81.08
+PA01519,ST0132,H077,T0384,Backend Developer,Runner-up,66.73
+PA01520,ST0300,H077,T0384,Backend Developer,Runner-up,66.73
+PA01521,ST1129,H077,T0384,Full Stack Developer,Runner-up,66.73
+PA01522,ST0179,H077,T0384,Data Scientist,Runner-up,66.73
+PA01523,ST1116,H077,T0385,Backend Developer,Shortlisted,57.45
+PA01524,ST0648,H077,T0385,Backend Developer,Shortlisted,57.45
+PA01525,ST0302,H077,T0385,Backend Developer,Shortlisted,57.45
+PA01526,ST0860,H078,T0386,Backend Developer,Winner,83.89
+PA01527,ST0781,H078,T0386,Frontend Developer,Winner,83.89
+PA01528,ST0505,H078,T0386,Backend Developer,Winner,83.89
+PA01529,ST0852,H078,T0387,Full Stack Developer,Participant,48.6
+PA01530,ST1089,H078,T0387,Full Stack Developer,Participant,48.6
+PA01531,ST0841,H078,T0387,Backend Developer,Participant,48.6
+PA01532,ST1019,H078,T0388,Backend Developer,Finalist,63.45
+PA01533,ST0132,H078,T0388,Backend Developer,Finalist,63.45
+PA01534,ST0773,H078,T0388,Backend Developer,Finalist,63.45
+PA01535,ST0291,H078,T0389,Backend Developer,Runner-up,70.28
+PA01536,ST0909,H078,T0389,Backend Developer,Runner-up,70.28
+PA01537,ST0850,H078,T0389,Backend Developer,Runner-up,70.28
+PA01538,ST0579,H078,T0389,AI/ML Developer,Runner-up,70.28
+PA01539,ST0625,H078,T0389,Cybersecurity,Runner-up,70.28
+PA01540,ST0209,H078,T0390,Android Developer,Shortlisted,52.52
+PA01541,ST0827,H078,T0390,Cybersecurity,Shortlisted,52.52
+PA01542,ST0240,H078,T0390,Data Analyst,Shortlisted,52.52
+PA01543,ST1139,H078,T0390,Data Analyst,Shortlisted,52.52
+PA01544,ST0388,H078,T0390,Android Developer,Shortlisted,52.52
+PA01545,ST0651,H078,T0390,Backend Developer,Shortlisted,52.52
+PA01546,ST0158,H079,T0391,Full Stack Developer,Runner-up,61.91
+PA01547,ST0425,H079,T0391,Full Stack Developer,Runner-up,61.91
+PA01548,ST0139,H079,T0391,Full Stack Developer,Runner-up,61.91
+PA01549,ST1012,H079,T0391,Backend Developer,Runner-up,61.91
+PA01550,ST0451,H079,T0391,Backend Developer,Runner-up,61.91
+PA01551,ST1129,H079,T0392,Full Stack Developer,Shortlisted,57.19
+PA01552,ST0426,H079,T0392,Full Stack Developer,Shortlisted,57.19
+PA01553,ST0430,H079,T0392,Backend Developer,Shortlisted,57.19
+PA01554,ST0542,H079,T0393,Full Stack Developer,Participant,37.19
+PA01555,ST0291,H079,T0393,Backend Developer,Participant,37.19
+PA01556,ST0277,H079,T0393,Full Stack Developer,Participant,37.19
+PA01557,ST0663,H079,T0394,Backend Developer,Finalist,63.79
+PA01558,ST1072,H079,T0394,Backend Developer,Finalist,63.79
+PA01559,ST1019,H079,T0394,Backend Developer,Finalist,63.79
+PA01560,ST0911,H079,T0394,Full Stack Developer,Finalist,63.79
+PA01561,ST1162,H079,T0394,Backend Developer,Finalist,63.79
+PA01562,ST0114,H079,T0395,Full Stack Developer,Shortlisted,57.04
+PA01563,ST0623,H079,T0395,Full Stack Developer,Shortlisted,57.04
+PA01564,ST1135,H079,T0395,Backend Developer,Shortlisted,57.04
+PA01565,ST0107,H080,T0396,Data Analyst,Runner-up,74.41
+PA01566,ST0207,H080,T0396,Data Analyst,Runner-up,74.41
+PA01567,ST1077,H080,T0396,Backend Developer,Runner-up,74.41
+PA01568,ST0368,H080,T0396,IoT Developer,Runner-up,74.41
+PA01569,ST1118,H080,T0396,Data Analyst,Runner-up,74.41
+PA01570,ST0686,H080,T0397,IoT Developer,Finalist,67.31
+PA01571,ST1015,H080,T0397,Data Analyst,Finalist,67.31
+PA01572,ST0302,H080,T0397,Backend Developer,Finalist,67.31
+PA01573,ST0612,H080,T0397,IoT Developer,Finalist,67.31
+PA01574,ST0696,H080,T0397,Data Analyst,Finalist,67.31
+PA01575,ST1164,H080,T0398,IoT Developer,Participant,44.19
+PA01576,ST0490,H080,T0398,IoT Developer,Participant,44.19
+PA01577,ST0047,H080,T0398,IoT Developer,Participant,44.19
+PA01578,ST0291,H080,T0399,Backend Developer,Winner,80.87
+PA01579,ST1097,H080,T0399,Data Analyst,Winner,80.87
+PA01580,ST0927,H080,T0399,IoT Developer,Winner,80.87
+PA01581,ST1168,H080,T0399,Data Analyst,Winner,80.87
+PA01582,ST0473,H080,T0399,IoT Developer,Winner,80.87
+PA01583,ST0183,H080,T0400,IoT Developer,Participant,40.03
+PA01584,ST0768,H080,T0400,IoT Developer,Participant,40.03
+PA01585,ST0074,H080,T0400,IoT Developer,Participant,40.03
+PA01586,ST1134,H080,T0400,IoT Developer,Participant,40.03
+PA01587,ST0687,H081,T0401,Cybersecurity,Finalist,78.04
+PA01588,ST0869,H081,T0401,AI/ML Developer,Finalist,78.04
+PA01589,ST1057,H081,T0401,Cybersecurity,Finalist,78.04
+PA01590,ST0213,H081,T0402,Cybersecurity,Winner,87.2
+PA01591,ST0659,H081,T0402,Cybersecurity,Winner,87.2
+PA01592,ST1121,H081,T0402,Cybersecurity,Winner,87.2
+PA01593,ST0625,H081,T0402,Cybersecurity,Winner,87.2
+PA01594,ST0786,H081,T0403,Cybersecurity,Finalist,66.46
+PA01595,ST0611,H081,T0403,Cybersecurity,Finalist,66.46
+PA01596,ST0709,H081,T0403,Cybersecurity,Finalist,66.46
+PA01597,ST0682,H081,T0403,Cybersecurity,Finalist,66.46
+PA01598,ST1059,H081,T0404,Cybersecurity,Runner-up,83.14
+PA01599,ST0827,H081,T0404,Cybersecurity,Runner-up,83.14
+PA01600,ST0108,H081,T0404,Cybersecurity,Runner-up,83.14
+PA01601,ST0823,H081,T0405,Cybersecurity,Finalist,71.93
+PA01602,ST0255,H081,T0405,Cybersecurity,Finalist,71.93
+PA01603,ST0771,H081,T0405,Cybersecurity,Finalist,71.93
+PA01604,ST0715,H082,T0406,Blockchain Developer,Finalist,68.65
+PA01605,ST0778,H082,T0406,Blockchain Developer,Finalist,68.65
+PA01606,ST1159,H082,T0406,Blockchain Developer,Finalist,68.65
+PA01607,ST0346,H082,T0406,Blockchain Developer,Finalist,68.65
+PA01608,ST0182,H082,T0406,Blockchain Developer,Finalist,68.65
+PA01609,ST1110,H082,T0407,Blockchain Developer,Runner-up,72.11
+PA01610,ST0671,H082,T0407,Blockchain Developer,Runner-up,72.11
+PA01611,ST0520,H082,T0407,Blockchain Developer,Runner-up,72.11
+PA01612,ST0667,H082,T0407,Blockchain Developer,Runner-up,72.11
+PA01613,ST1158,H082,T0407,Blockchain Developer,Runner-up,72.11
+PA01614,ST0195,H082,T0408,Blockchain Developer,Winner,80.81
+PA01615,ST0908,H082,T0408,Blockchain Developer,Winner,80.81
+PA01616,ST0099,H082,T0408,Blockchain Developer,Winner,80.81
+PA01617,ST0201,H082,T0408,Blockchain Developer,Winner,80.81
+PA01618,ST0777,H082,T0408,Blockchain Developer,Winner,80.81
+PA01619,ST0029,H082,T0409,Blockchain Developer,Shortlisted,58.51
+PA01620,ST0849,H082,T0409,Blockchain Developer,Shortlisted,58.51
+PA01621,ST0249,H082,T0409,Blockchain Developer,Shortlisted,58.51
+PA01622,ST0206,H082,T0409,Blockchain Developer,Shortlisted,58.51
+PA01623,ST0041,H082,T0409,Blockchain Developer,Shortlisted,58.51
+PA01624,ST0024,H082,T0409,Blockchain Developer,Shortlisted,58.51
+PA01625,ST0897,H082,T0410,Blockchain Developer,Finalist,71.32
+PA01626,ST0851,H082,T0410,Frontend Developer,Finalist,71.32
+PA01627,ST0861,H082,T0410,Full Stack Developer,Finalist,71.32
+PA01628,ST0784,H082,T0410,AI/ML Developer,Finalist,71.32
+PA01629,ST0074,H083,T0411,IoT Developer,Finalist,75.74
+PA01630,ST0982,H083,T0411,IoT Developer,Finalist,75.74
+PA01631,ST0566,H083,T0411,IoT Developer,Finalist,75.74
+PA01632,ST0649,H083,T0412,IoT Developer,Finalist,72.6
+PA01633,ST0558,H083,T0412,IoT Developer,Finalist,72.6
+PA01634,ST1180,H083,T0412,IoT Developer,Finalist,72.6
+PA01635,ST1149,H083,T0412,IoT Developer,Finalist,72.6
+PA01636,ST0473,H083,T0413,IoT Developer,Runner-up,79.83
+PA01637,ST0490,H083,T0413,IoT Developer,Runner-up,79.83
+PA01638,ST0048,H083,T0413,IoT Developer,Runner-up,79.83
+PA01639,ST1097,H083,T0413,Data Analyst,Runner-up,79.83
+PA01640,ST0464,H083,T0413,IoT Developer,Runner-up,79.83
+PA01641,ST0927,H083,T0413,IoT Developer,Runner-up,79.83
+PA01642,ST1134,H083,T0414,IoT Developer,Winner,82.23
+PA01643,ST0612,H083,T0414,IoT Developer,Winner,82.23
+PA01644,ST0810,H083,T0414,IoT Developer,Winner,82.23
+PA01645,ST0183,H083,T0414,IoT Developer,Winner,82.23
+PA01646,ST0390,H083,T0414,IoT Developer,Winner,82.23
+PA01647,ST0283,H083,T0415,IoT Developer,Finalist,75.11
+PA01648,ST0788,H083,T0415,UI/UX Designer,Finalist,75.11
+PA01649,ST0537,H083,T0415,Full Stack Developer,Finalist,75.11
+PA01650,ST0623,H084,T0416,Full Stack Developer,Participant,48.23
+PA01651,ST0945,H084,T0416,IoT Developer,Participant,48.23
+PA01652,ST0302,H084,T0416,Backend Developer,Participant,48.23
+PA01653,ST0261,H084,T0417,Full Stack Developer,Finalist,77.41
+PA01654,ST0991,H084,T0417,Full Stack Developer,Finalist,77.41
+PA01655,ST0461,H084,T0417,IoT Developer,Finalist,77.41
+PA01656,ST1129,H084,T0417,Full Stack Developer,Finalist,77.41
+PA01657,ST0505,H084,T0418,Backend Developer,Participant,44.71
+PA01658,ST0625,H084,T0418,Cybersecurity,Participant,44.71
+PA01659,ST0646,H084,T0418,IoT Developer,Participant,44.71
+PA01660,ST0841,H084,T0418,Backend Developer,Participant,44.71
+PA01661,ST1005,H084,T0418,Frontend Developer,Participant,44.71
+PA01662,ST0982,H084,T0419,IoT Developer,Runner-up,78.76
+PA01663,ST0686,H084,T0419,IoT Developer,Runner-up,78.76
+PA01664,ST0114,H084,T0419,Full Stack Developer,Runner-up,78.76
+PA01665,ST0492,H084,T0420,Full Stack Developer,Winner,82.79
+PA01666,ST1013,H084,T0420,Full Stack Developer,Winner,82.79
+PA01667,ST0283,H084,T0420,IoT Developer,Winner,82.79
+PA01668,ST0911,H084,T0420,Full Stack Developer,Winner,82.79
+PA01669,ST0261,H085,T0421,Full Stack Developer,Finalist,70.1
+PA01670,ST1172,H085,T0421,Data Analyst,Finalist,70.1
+PA01671,ST0960,H085,T0421,Frontend Developer,Finalist,70.1
+PA01672,ST1157,H085,T0421,Frontend Developer,Finalist,70.1
+PA01673,ST1118,H085,T0422,Data Analyst,Runner-up,86.98
+PA01674,ST0991,H085,T0422,Full Stack Developer,Runner-up,86.98
+PA01675,ST0759,H085,T0422,IoT Developer,Runner-up,86.98
+PA01676,ST0207,H085,T0422,Data Analyst,Runner-up,86.98
+PA01677,ST0911,H085,T0423,Full Stack Developer,Finalist,71.28
+PA01678,ST0485,H085,T0423,Data Analyst,Finalist,71.28
+PA01679,ST1051,H085,T0423,IoT Developer,Finalist,71.28
+PA01680,ST0950,H085,T0423,Cloud Developer,Finalist,71.28
+PA01681,ST0696,H085,T0424,Data Analyst,Winner,100
+PA01682,ST0649,H085,T0424,IoT Developer,Winner,100
+PA01683,ST0490,H085,T0424,IoT Developer,Winner,100
+PA01684,ST0474,H085,T0424,Backend Developer,Winner,100
+PA01685,ST0241,H085,T0425,IoT Developer,Participant,42.01
+PA01686,ST0618,H085,T0425,Data Analyst,Participant,42.01
+PA01687,ST0183,H085,T0425,IoT Developer,Participant,42.01
+PA01688,ST1129,H086,T0426,Full Stack Developer,Winner,84.77
+PA01689,ST0781,H086,T0426,Frontend Developer,Winner,84.77
+PA01690,ST0277,H086,T0426,Full Stack Developer,Winner,84.77
+PA01691,ST0717,H086,T0426,Full Stack Developer,Winner,84.77
+PA01692,ST1141,H086,T0427,Full Stack Developer,Runner-up,78.58
+PA01693,ST0991,H086,T0427,Full Stack Developer,Runner-up,78.58
+PA01694,ST1062,H086,T0427,Frontend Developer,Runner-up,78.58
+PA01695,ST1159,H086,T0428,Blockchain Developer,Participant,14.57
+PA01696,ST0490,H086,T0428,IoT Developer,Participant,14.57
+PA01697,ST0681,H086,T0428,Data Scientist,Participant,14.57
+PA01698,ST0698,H086,T0428,Cybersecurity,Participant,14.57
+PA01699,ST0114,H086,T0429,Full Stack Developer,Finalist,76.17
+PA01700,ST0543,H086,T0429,Full Stack Developer,Finalist,76.17
+PA01701,ST0732,H086,T0429,Full Stack Developer,Finalist,76.17
+PA01702,ST0091,H086,T0430,Frontend Developer,Finalist,67.41
+PA01703,ST0397,H086,T0430,Frontend Developer,Finalist,67.41
+PA01704,ST0158,H086,T0430,Full Stack Developer,Finalist,67.41
+PA01705,ST0025,H087,T0431,AI/ML Developer,Finalist,77.63
+PA01706,ST0156,H087,T0431,Data Scientist,Finalist,77.63
+PA01707,ST0040,H087,T0431,AI/ML Developer,Finalist,77.63
+PA01708,ST0614,H087,T0431,AI/ML Developer,Finalist,77.63
+PA01709,ST0365,H087,T0432,Data Scientist,Finalist,83.69
+PA01710,ST0238,H087,T0432,Data Scientist,Finalist,83.69
+PA01711,ST0113,H087,T0432,Data Scientist,Finalist,83.69
+PA01712,ST0949,H087,T0432,Data Scientist,Finalist,83.69
+PA01713,ST0722,H087,T0433,Data Scientist,Winner,90.56
+PA01714,ST1081,H087,T0433,Data Scientist,Winner,90.56
+PA01715,ST0660,H087,T0433,Data Scientist,Winner,90.56
+PA01716,ST0236,H087,T0434,Data Scientist,Runner-up,88.1
+PA01717,ST0179,H087,T0434,Data Scientist,Runner-up,88.1
+PA01718,ST0424,H087,T0434,Data Scientist,Runner-up,88.1
+PA01719,ST0117,H087,T0434,Data Scientist,Runner-up,88.1
+PA01720,ST0847,H087,T0434,Data Scientist,Runner-up,88.1
+PA01721,ST1172,H087,T0434,Data Analyst,Runner-up,88.1
+PA01722,ST0708,H087,T0435,Data Scientist,Finalist,81.28
+PA01723,ST0594,H087,T0435,Data Analyst,Finalist,81.28
+PA01724,ST0579,H087,T0435,AI/ML Developer,Finalist,81.28
+PA01725,ST0860,H087,T0435,Backend Developer,Finalist,81.28
+PA01726,ST1161,H087,T0435,Backend Developer,Finalist,81.28
+PA01727,ST1132,H087,T0435,Data Scientist,Finalist,81.28
+PA01728,ST0606,H088,T0436,DevOps,Participant,49.64
+PA01729,ST0624,H088,T0436,DevOps,Participant,49.64
+PA01730,ST0811,H088,T0436,DevOps,Participant,49.64
+PA01731,ST0419,H088,T0436,DevOps,Participant,49.64
+PA01732,ST0079,H088,T0436,Cloud Developer,Participant,49.64
+PA01733,ST0200,H088,T0437,DevOps,Finalist,79.75
+PA01734,ST0933,H088,T0437,DevOps,Finalist,79.75
+PA01735,ST0970,H088,T0437,DevOps,Finalist,79.75
+PA01736,ST0126,H088,T0437,DevOps,Finalist,79.75
+PA01737,ST0912,H088,T0437,DevOps,Finalist,79.75
+PA01738,ST0373,H088,T0438,DevOps,Runner-up,79.81
+PA01739,ST0560,H088,T0438,DevOps,Runner-up,79.81
+PA01740,ST0499,H088,T0438,Cloud Developer,Runner-up,79.81
+PA01741,ST0056,H088,T0438,Data Scientist,Runner-up,79.81
+PA01742,ST0795,H088,T0438,DevOps,Runner-up,79.81
+PA01743,ST1006,H088,T0439,Cloud Developer,Finalist,74.94
+PA01744,ST0039,H088,T0439,AI/ML Developer,Finalist,74.94
+PA01745,ST0020,H088,T0439,Data Scientist,Finalist,74.94
+PA01746,ST0616,H088,T0439,DevOps,Finalist,74.94
+PA01747,ST0918,H088,T0439,DevOps,Finalist,74.94
+PA01748,ST1165,H088,T0439,Cybersecurity,Finalist,74.94
+PA01749,ST0221,H088,T0440,DevOps,Winner,90.07
+PA01750,ST0842,H088,T0440,Cloud Developer,Winner,90.07
+PA01751,ST0973,H088,T0440,Cloud Developer,Winner,90.07
+PA01752,ST0291,H088,T0440,Backend Developer,Winner,90.07
+PA01753,ST1199,H088,T0440,Cloud Developer,Winner,90.07
+PA01754,ST0852,H089,T0441,Full Stack Developer,Shortlisted,52.43
+PA01755,ST0543,H089,T0441,Full Stack Developer,Shortlisted,52.43
+PA01756,ST0430,H089,T0441,Backend Developer,Shortlisted,52.43
+PA01757,ST0208,H089,T0441,UI/UX Designer,Shortlisted,52.43
+PA01758,ST0848,H089,T0442,Backend Developer,Finalist,64.74
+PA01759,ST0599,H089,T0442,UI/UX Designer,Finalist,64.74
+PA01760,ST0736,H089,T0442,Full Stack Developer,Finalist,64.74
+PA01761,ST1077,H089,T0443,Backend Developer,Runner-up,94.06
+PA01762,ST1191,H089,T0443,Data Scientist,Runner-up,94.06
+PA01763,ST0277,H089,T0443,Full Stack Developer,Runner-up,94.06
+PA01764,ST0357,H089,T0444,Android Developer,Finalist,84.03
+PA01765,ST0556,H089,T0444,Cybersecurity,Finalist,84.03
+PA01766,ST1170,H089,T0444,UI/UX Designer,Finalist,84.03
+PA01767,ST0911,H089,T0444,Full Stack Developer,Finalist,84.03
+PA01768,ST0158,H089,T0445,Full Stack Developer,Winner,97.26
+PA01769,ST0623,H089,T0445,Full Stack Developer,Winner,97.26
+PA01770,ST0860,H089,T0445,Backend Developer,Winner,97.26
+PA01771,ST0773,H090,T0446,Backend Developer,Shortlisted,52.91
+PA01772,ST0986,H090,T0446,Backend Developer,Shortlisted,52.91
+PA01773,ST0219,H090,T0446,Backend Developer,Shortlisted,52.91
+PA01774,ST1106,H090,T0446,Backend Developer,Shortlisted,52.91
+PA01775,ST0848,H090,T0446,Backend Developer,Shortlisted,52.91
+PA01776,ST1135,H090,T0447,Backend Developer,Participant,49.06
+PA01777,ST0478,H090,T0447,Backend Developer,Participant,49.06
+PA01778,ST0132,H090,T0447,Backend Developer,Participant,49.06
+PA01779,ST1161,H090,T0447,Backend Developer,Participant,49.06
+PA01780,ST1129,H090,T0448,Full Stack Developer,Participant,30.27
+PA01781,ST0860,H090,T0448,Backend Developer,Participant,30.27
+PA01782,ST0625,H090,T0448,Cybersecurity,Participant,30.27
+PA01783,ST1011,H090,T0449,Full Stack Developer,Shortlisted,59.05
+PA01784,ST0845,H090,T0449,Backend Developer,Shortlisted,59.05
+PA01785,ST0152,H090,T0449,Full Stack Developer,Shortlisted,59.05
+PA01786,ST0651,H090,T0449,Backend Developer,Shortlisted,59.05
+PA01787,ST1117,H090,T0450,Full Stack Developer,Winner,67.24
+PA01788,ST0543,H090,T0450,Full Stack Developer,Winner,67.24
+PA01789,ST0305,H090,T0450,DevOps,Winner,67.24
+PA01790,ST0365,H091,T0451,Data Scientist,Runner-up,75.05
+PA01791,ST0579,H091,T0451,AI/ML Developer,Runner-up,75.05
+PA01792,ST0725,H091,T0451,AI/ML Developer,Runner-up,75.05
+PA01793,ST0332,H091,T0452,AI/ML Developer,Finalist,69.85
+PA01794,ST0453,H091,T0452,AI/ML Developer,Finalist,69.85
+PA01795,ST0722,H091,T0452,Data Scientist,Finalist,69.85
+PA01796,ST0706,H091,T0452,AI/ML Developer,Finalist,69.85
+PA01797,ST0892,H091,T0453,AI/ML Developer,Winner,83.95
+PA01798,ST0862,H091,T0453,AI/ML Developer,Winner,83.95
+PA01799,ST0949,H091,T0453,Data Scientist,Winner,83.95
+PA01800,ST0040,H091,T0453,AI/ML Developer,Winner,83.95
+PA01801,ST0581,H091,T0454,Data Scientist,Shortlisted,58.12
+PA01802,ST0025,H091,T0454,AI/ML Developer,Shortlisted,58.12
+PA01803,ST0080,H091,T0454,Data Scientist,Shortlisted,58.12
+PA01804,ST0179,H091,T0454,Data Scientist,Shortlisted,58.12
+PA01805,ST0902,H091,T0455,AI/ML Developer,Finalist,74.93
+PA01806,ST1105,H091,T0455,AI/ML Developer,Finalist,74.93
+PA01807,ST0815,H091,T0455,AI/ML Developer,Finalist,74.93
+PA01808,ST0608,H091,T0455,AI/ML Developer,Finalist,74.93
+PA01809,ST0848,H092,T0456,Backend Developer,Winner,86.7
+PA01810,ST0625,H092,T0456,Cybersecurity,Winner,86.7
+PA01811,ST1189,H092,T0456,Backend Developer,Winner,86.7
+PA01812,ST0556,H092,T0456,Cybersecurity,Winner,86.7
+PA01813,ST1116,H092,T0457,Backend Developer,Runner-up,75.65
+PA01814,ST0850,H092,T0457,Backend Developer,Runner-up,75.65
+PA01815,ST0531,H092,T0457,Backend Developer,Runner-up,75.65
+PA01816,ST0372,H092,T0457,Cybersecurity,Runner-up,75.65
+PA01817,ST0432,H092,T0458,Cybersecurity,Shortlisted,56.07
+PA01818,ST0709,H092,T0458,Cybersecurity,Shortlisted,56.07
+PA01819,ST0538,H092,T0458,Backend Developer,Shortlisted,56.07
+PA01820,ST0242,H092,T0458,Data Analyst,Shortlisted,56.07
+PA01821,ST1161,H092,T0459,Backend Developer,Shortlisted,58.37
+PA01822,ST0324,H092,T0459,Cybersecurity,Shortlisted,58.37
+PA01823,ST0939,H092,T0459,Backend Developer,Shortlisted,58.37
+PA01824,ST1135,H092,T0460,Backend Developer,Finalist,67.5
+PA01825,ST0179,H092,T0460,Data Scientist,Finalist,67.5
+PA01826,ST0445,H092,T0460,Full Stack Developer,Finalist,67.5
+PA01827,ST0073,H092,T0460,AI/ML Developer,Finalist,67.5
+PA01828,ST1189,H093,T0461,Backend Developer,Winner,85.72
+PA01829,ST1019,H093,T0461,Backend Developer,Winner,85.72
+PA01830,ST0781,H093,T0461,Frontend Developer,Winner,85.72
+PA01831,ST0539,H093,T0461,AI/ML Developer,Winner,85.72
+PA01832,ST0860,H093,T0462,Backend Developer,Runner-up,82.75
+PA01833,ST0478,H093,T0462,Backend Developer,Runner-up,82.75
+PA01834,ST0261,H093,T0462,Full Stack Developer,Runner-up,82.75
+PA01835,ST1013,H093,T0462,Full Stack Developer,Runner-up,82.75
+PA01836,ST0939,H093,T0463,Backend Developer,Finalist,67.56
+PA01837,ST1072,H093,T0463,Backend Developer,Finalist,67.56
+PA01838,ST0991,H093,T0463,Full Stack Developer,Finalist,67.56
+PA01839,ST0543,H093,T0463,Full Stack Developer,Finalist,67.56
+PA01840,ST1117,H093,T0464,Full Stack Developer,Finalist,67.11
+PA01841,ST0430,H093,T0464,Backend Developer,Finalist,67.11
+PA01842,ST0538,H093,T0464,Backend Developer,Finalist,67.11
+PA01843,ST1067,H093,T0464,Data Scientist,Finalist,67.11
+PA01844,ST0623,H093,T0465,Full Stack Developer,Participant,42.8
+PA01845,ST0911,H093,T0465,Full Stack Developer,Participant,42.8
+PA01846,ST0738,H093,T0465,Full Stack Developer,Participant,42.8
+PA01847,ST0374,H094,T0466,Backend Developer,Shortlisted,50.13
+PA01848,ST1089,H094,T0466,Full Stack Developer,Shortlisted,50.13
+PA01849,ST0090,H094,T0466,Backend Developer,Shortlisted,50.13
+PA01850,ST0152,H094,T0466,Full Stack Developer,Shortlisted,50.13
+PA01851,ST1129,H094,T0467,Full Stack Developer,Winner,67.84
+PA01852,ST0158,H094,T0467,Full Stack Developer,Winner,67.84
+PA01853,ST0119,H094,T0467,Backend Developer,Winner,67.84
+PA01854,ST0654,H094,T0467,Full Stack Developer,Winner,67.84
+PA01855,ST0623,H094,T0467,Full Stack Developer,Winner,67.84
+PA01856,ST0991,H094,T0468,Full Stack Developer,Participant,40.26
+PA01857,ST0911,H094,T0468,Full Stack Developer,Participant,40.26
+PA01858,ST0114,H094,T0468,Full Stack Developer,Participant,40.26
+PA01859,ST0291,H094,T0468,Backend Developer,Participant,40.26
+PA01860,ST0543,H094,T0468,Full Stack Developer,Participant,40.26
+PA01861,ST0430,H094,T0468,Backend Developer,Participant,40.26
+PA01862,ST0426,H094,T0469,Full Stack Developer,Runner-up,60.62
+PA01863,ST1012,H094,T0469,Backend Developer,Runner-up,60.62
+PA01864,ST0340,H094,T0469,Full Stack Developer,Runner-up,60.62
+PA01865,ST0132,H094,T0470,Backend Developer,Shortlisted,54.6
+PA01866,ST0451,H094,T0470,Backend Developer,Shortlisted,54.6
+PA01867,ST0663,H094,T0470,Backend Developer,Shortlisted,54.6
+PA01868,ST0848,H094,T0470,Backend Developer,Shortlisted,54.6
+PA01869,ST0474,H094,T0470,Backend Developer,Shortlisted,54.6
+PA01870,ST0717,H094,T0470,Full Stack Developer,Shortlisted,54.6
+PA01871,ST0768,H095,T0471,IoT Developer,Finalist,71.61
+PA01872,ST0927,H095,T0471,IoT Developer,Finalist,71.61
+PA01873,ST1164,H095,T0471,IoT Developer,Finalist,71.61
+PA01874,ST0183,H095,T0471,IoT Developer,Finalist,71.61
+PA01875,ST0047,H095,T0472,IoT Developer,Finalist,68.99
+PA01876,ST1134,H095,T0472,IoT Developer,Finalist,68.99
+PA01877,ST0509,H095,T0472,IoT Developer,Finalist,68.99
+PA01878,ST0686,H095,T0473,IoT Developer,Winner,87.26
+PA01879,ST0759,H095,T0473,IoT Developer,Winner,87.26
+PA01880,ST1180,H095,T0473,IoT Developer,Winner,87.26
+PA01881,ST0982,H095,T0474,IoT Developer,Runner-up,75.88
+PA01882,ST0915,H095,T0474,IoT Developer,Runner-up,75.88
+PA01883,ST1015,H095,T0474,Data Analyst,Runner-up,75.88
+PA01884,ST1063,H095,T0474,IoT Developer,Runner-up,75.88
+PA01885,ST0028,H095,T0474,IoT Developer,Runner-up,75.88
+PA01886,ST0336,H095,T0474,Data Analyst,Runner-up,75.88
+PA01887,ST0241,H095,T0475,IoT Developer,Participant,33.2
+PA01888,ST0221,H095,T0475,DevOps,Participant,33.2
+PA01889,ST0743,H095,T0475,IoT Developer,Participant,33.2
+PA01890,ST0872,H095,T0475,Cloud Developer,Participant,33.2
+PA01891,ST0611,H096,T0476,Cybersecurity,Finalist,75.17
+PA01892,ST0213,H096,T0476,Cybersecurity,Finalist,75.17
+PA01893,ST1121,H096,T0476,Cybersecurity,Finalist,75.17
+PA01894,ST0786,H096,T0476,Cybersecurity,Finalist,75.17
+PA01895,ST0097,H096,T0477,Cybersecurity,Participant,49.95
+PA01896,ST0600,H096,T0477,Cybersecurity,Participant,49.95
+PA01897,ST0793,H096,T0477,Data Analyst,Participant,49.95
+PA01898,ST1056,H096,T0478,Cybersecurity,Shortlisted,52.73
+PA01899,ST0771,H096,T0478,Cybersecurity,Shortlisted,52.73
+PA01900,ST0372,H096,T0478,Cybersecurity,Shortlisted,52.73
+PA01901,ST0709,H096,T0478,Cybersecurity,Shortlisted,52.73
+PA01902,ST0468,H096,T0478,Cybersecurity,Shortlisted,52.73
+PA01903,ST1054,H096,T0478,Cybersecurity,Shortlisted,52.73
+PA01904,ST0988,H096,T0479,Cybersecurity,Winner,82.47
+PA01905,ST0281,H096,T0479,Backend Developer,Winner,82.47
+PA01906,ST0823,H096,T0479,Cybersecurity,Winner,82.47
+PA01907,ST1059,H096,T0479,Cybersecurity,Winner,82.47
+PA01908,ST0792,H096,T0479,Cybersecurity,Winner,82.47
+PA01909,ST0266,H096,T0479,Cloud Developer,Winner,82.47
+PA01910,ST0659,H096,T0480,Cybersecurity,Runner-up,75.39
+PA01911,ST0910,H096,T0480,Cybersecurity,Runner-up,75.39
+PA01912,ST1042,H096,T0480,Cybersecurity,Runner-up,75.39
+PA01913,ST0348,H096,T0480,Cybersecurity,Runner-up,75.39
+PA01914,ST0365,H096,T0480,Data Scientist,Runner-up,75.39
+PA01915,ST0504,H096,T0480,Cybersecurity,Runner-up,75.39
+PA01916,ST0671,H097,T0481,Blockchain Developer,Finalist,70.7
+PA01917,ST0991,H097,T0481,Full Stack Developer,Finalist,70.7
+PA01918,ST0106,H097,T0481,AI/ML Developer,Finalist,70.7
+PA01919,ST0308,H097,T0481,Frontend Developer,Finalist,70.7
+PA01920,ST1110,H097,T0482,Blockchain Developer,Runner-up,98.87
+PA01921,ST0849,H097,T0482,Blockchain Developer,Runner-up,98.87
+PA01922,ST0715,H097,T0482,Blockchain Developer,Runner-up,98.87
+PA01923,ST0520,H097,T0482,Blockchain Developer,Runner-up,98.87
+PA01924,ST0431,H097,T0483,Blockchain Developer,Participant,35.81
+PA01925,ST0992,H097,T0483,Blockchain Developer,Participant,35.81
+PA01926,ST0182,H097,T0483,Blockchain Developer,Participant,35.81
+PA01927,ST0778,H097,T0483,Blockchain Developer,Participant,35.81
+PA01928,ST0029,H097,T0484,Blockchain Developer,Winner,100
+PA01929,ST0667,H097,T0484,Blockchain Developer,Winner,100
+PA01930,ST0195,H097,T0484,Blockchain Developer,Winner,100
+PA01931,ST0299,H097,T0484,Blockchain Developer,Winner,100
+PA01932,ST0112,H097,T0485,Blockchain Developer,Finalist,80.72
+PA01933,ST0249,H097,T0485,Blockchain Developer,Finalist,80.72
+PA01934,ST0851,H097,T0485,Frontend Developer,Finalist,80.72
+PA01935,ST0649,H098,T0486,IoT Developer,Winner,89.95
+PA01936,ST0558,H098,T0486,IoT Developer,Winner,89.95
+PA01937,ST0473,H098,T0486,IoT Developer,Winner,89.95
+PA01938,ST0390,H098,T0487,IoT Developer,Runner-up,80.03
+PA01939,ST0612,H098,T0487,IoT Developer,Runner-up,80.03
+PA01940,ST0074,H098,T0487,IoT Developer,Runner-up,80.03
+PA01941,ST0384,H098,T0488,AI/ML Developer,Participant,28.74
+PA01942,ST0938,H098,T0488,DevOps,Participant,28.74
+PA01943,ST1062,H098,T0488,Frontend Developer,Participant,28.74
+PA01944,ST0843,H098,T0488,UI/UX Designer,Participant,28.74
+PA01945,ST1087,H098,T0489,IoT Developer,Participant,35.62
+PA01946,ST1180,H098,T0489,IoT Developer,Participant,35.62
+PA01947,ST0121,H098,T0489,IoT Developer,Participant,35.62
+PA01948,ST0982,H098,T0490,IoT Developer,Finalist,64.91
+PA01949,ST0048,H098,T0490,IoT Developer,Finalist,64.91
+PA01950,ST0878,H098,T0490,IoT Developer,Finalist,64.91
+PA01951,ST0444,H099,T0491,Data Analyst,Shortlisted,59.41
+PA01952,ST0312,H099,T0491,IoT Developer,Shortlisted,59.41
+PA01953,ST0162,H099,T0491,Full Stack Developer,Shortlisted,59.41
+PA01954,ST0505,H099,T0492,Backend Developer,Participant,49.45
+PA01955,ST0152,H099,T0492,Full Stack Developer,Participant,49.45
+PA01956,ST0558,H099,T0492,IoT Developer,Participant,49.45
+PA01957,ST0759,H099,T0492,IoT Developer,Participant,49.45
+PA01958,ST0387,H099,T0493,IoT Developer,Shortlisted,58.32
+PA01959,ST0846,H099,T0493,Backend Developer,Shortlisted,58.32
+PA01960,ST0773,H099,T0493,Backend Developer,Shortlisted,58.32
+PA01961,ST0663,H099,T0493,Backend Developer,Shortlisted,58.32
+PA01962,ST0261,H099,T0494,Full Stack Developer,Winner,81.87
+PA01963,ST0183,H099,T0494,IoT Developer,Winner,81.87
+PA01964,ST0991,H099,T0494,Full Stack Developer,Winner,81.87
+PA01965,ST0490,H099,T0494,IoT Developer,Winner,81.87
+PA01966,ST0852,H099,T0494,Full Stack Developer,Winner,81.87
+PA01967,ST0686,H099,T0495,IoT Developer,Shortlisted,53.93
+PA01968,ST0911,H099,T0495,Full Stack Developer,Shortlisted,53.93
+PA01969,ST1118,H099,T0495,Data Analyst,Shortlisted,53.93
+PA01970,ST0241,H099,T0495,IoT Developer,Shortlisted,53.93
+PA01971,ST0261,H100,T0496,Full Stack Developer,Finalist,70.59
+PA01972,ST0759,H100,T0496,IoT Developer,Finalist,70.59
+PA01973,ST0207,H100,T0496,Data Analyst,Finalist,70.59
+PA01974,ST0208,H100,T0497,UI/UX Designer,Shortlisted,56.27
+PA01975,ST0982,H100,T0497,IoT Developer,Shortlisted,56.27
+PA01976,ST0489,H100,T0497,Full Stack Developer,Shortlisted,56.27
+PA01977,ST0622,H100,T0497,Full Stack Developer,Shortlisted,56.27
+PA01978,ST0205,H100,T0498,IoT Developer,Participant,42.64
+PA01979,ST0175,H100,T0498,Frontend Developer,Participant,42.64
+PA01980,ST0397,H100,T0498,Frontend Developer,Participant,42.64
+PA01981,ST0781,H100,T0499,Frontend Developer,Runner-up,71.5
+PA01982,ST0025,H100,T0499,AI/ML Developer,Runner-up,71.5
+PA01983,ST0837,H100,T0499,Frontend Developer,Runner-up,71.5
+PA01984,ST0696,H100,T0499,Data Analyst,Runner-up,71.5
+PA01985,ST1118,H100,T0500,Data Analyst,Winner,75.53
+PA01986,ST0991,H100,T0500,Full Stack Developer,Winner,75.53
+PA01987,ST0160,H100,T0500,Data Analyst,Winner,75.53
+PA01988,ST0543,H100,T0500,Full Stack Developer,Winner,75.53
+PA01989,ST0842,H100,T0500,Cloud Developer,Winner,75.53
+PA01990,ST1129,H101,T0501,Full Stack Developer,Runner-up,94.09
+PA01991,ST0543,H101,T0501,Full Stack Developer,Runner-up,94.09
+PA01992,ST0308,H101,T0501,Frontend Developer,Runner-up,94.09
+PA01993,ST0732,H101,T0501,Full Stack Developer,Runner-up,94.09
+PA01994,ST0720,H101,T0502,Frontend Developer,Finalist,77.62
+PA01995,ST0397,H101,T0502,Frontend Developer,Finalist,77.62
+PA01996,ST1011,H101,T0502,Full Stack Developer,Finalist,77.62
+PA01997,ST0643,H101,T0502,Frontend Developer,Finalist,77.62
+PA01998,ST0091,H101,T0502,Frontend Developer,Finalist,77.62
+PA01999,ST0216,H101,T0503,UI/UX Designer,Finalist,63.94
+PA02000,ST0896,H101,T0503,Frontend Developer,Finalist,63.94
+PA02001,ST0133,H101,T0503,Frontend Developer,Finalist,63.94
+PA02002,ST0492,H101,T0503,Full Stack Developer,Finalist,63.94
+PA02003,ST0114,H101,T0504,Full Stack Developer,Finalist,85.59
+PA02004,ST0277,H101,T0504,Full Stack Developer,Finalist,85.59
+PA02005,ST1089,H101,T0504,Full Stack Developer,Finalist,85.59
+PA02006,ST0552,H101,T0504,Full Stack Developer,Finalist,85.59
+PA02007,ST0120,H101,T0504,Full Stack Developer,Finalist,85.59
+PA02008,ST0559,H101,T0504,UI/UX Designer,Finalist,85.59
+PA02009,ST0135,H101,T0505,Frontend Developer,Winner,100
+PA02010,ST1141,H101,T0505,Full Stack Developer,Winner,100
+PA02011,ST0991,H101,T0505,Full Stack Developer,Winner,100
+PA02012,ST0660,H102,T0506,Data Scientist,Shortlisted,51.67
+PA02013,ST0847,H102,T0506,Data Scientist,Shortlisted,51.67
+PA02014,ST0418,H102,T0506,Data Scientist,Shortlisted,51.67
+PA02015,ST0631,H102,T0506,Data Scientist,Shortlisted,51.67
+PA02016,ST0892,H102,T0506,AI/ML Developer,Shortlisted,51.67
+PA02017,ST0025,H102,T0506,AI/ML Developer,Shortlisted,51.67
+PA02018,ST0708,H102,T0507,Data Scientist,Winner,95.31
+PA02019,ST0156,H102,T0507,Data Scientist,Winner,95.31
+PA02020,ST0197,H102,T0507,Data Scientist,Winner,95.31
+PA02021,ST0435,H102,T0507,Data Scientist,Winner,95.31
+PA02022,ST0285,H102,T0507,Data Scientist,Winner,95.31
+PA02023,ST0641,H102,T0507,Data Scientist,Winner,95.31
+PA02024,ST0365,H102,T0508,Data Scientist,Finalist,75.1
+PA02025,ST0117,H102,T0508,Data Scientist,Finalist,75.1
+PA02026,ST0424,H102,T0508,Data Scientist,Finalist,75.1
+PA02027,ST1168,H102,T0508,Data Analyst,Finalist,75.1
+PA02028,ST0306,H102,T0508,Data Scientist,Finalist,75.1
+PA02029,ST0420,H102,T0508,Data Scientist,Finalist,75.1
+PA02030,ST0179,H102,T0509,Data Scientist,Runner-up,87.5
+PA02031,ST0238,H102,T0509,Data Scientist,Runner-up,87.5
+PA02032,ST1109,H102,T0509,Data Analyst,Runner-up,87.5
+PA02033,ST0315,H102,T0509,Data Scientist,Runner-up,87.5
+PA02034,ST0186,H102,T0509,AI/ML Developer,Runner-up,87.5
+PA02035,ST1191,H102,T0510,Data Scientist,Finalist,77.47
+PA02036,ST0722,H102,T0510,Data Scientist,Finalist,77.47
+PA02037,ST0839,H102,T0510,Data Scientist,Finalist,77.47
+PA02038,ST0202,H102,T0510,Data Scientist,Finalist,77.47
+PA02039,ST0664,H102,T0510,Data Scientist,Finalist,77.47
+PA02040,ST0811,H103,T0511,DevOps,Runner-up,77.94
+PA02041,ST0668,H103,T0511,Cloud Developer,Runner-up,77.94
+PA02042,ST0560,H103,T0511,DevOps,Runner-up,77.94
+PA02043,ST0624,H103,T0512,DevOps,Finalist,75.47
+PA02044,ST0200,H103,T0512,DevOps,Finalist,75.47
+PA02045,ST0820,H103,T0512,DevOps,Finalist,75.47
+PA02046,ST0219,H103,T0512,Backend Developer,Finalist,75.47
+PA02047,ST0126,H103,T0513,DevOps,Winner,80.13
+PA02048,ST0665,H103,T0513,DevOps,Winner,80.13
+PA02049,ST0221,H103,T0513,DevOps,Winner,80.13
+PA02050,ST0912,H103,T0513,DevOps,Winner,80.13
+PA02051,ST0378,H103,T0514,DevOps,Shortlisted,58.99
+PA02052,ST0079,H103,T0514,Cloud Developer,Shortlisted,58.99
+PA02053,ST0522,H103,T0514,Cloud Developer,Shortlisted,58.99
+PA02054,ST0419,H103,T0515,DevOps,Finalist,63.57
+PA02055,ST0606,H103,T0515,DevOps,Finalist,63.57
+PA02056,ST0616,H103,T0515,DevOps,Finalist,63.57
+PA02057,ST0158,H104,T0516,Full Stack Developer,Participant,49.63
+PA02058,ST0208,H104,T0516,UI/UX Designer,Participant,49.63
+PA02059,ST0114,H104,T0516,Full Stack Developer,Participant,49.63
+PA02060,ST0789,H104,T0516,Full Stack Developer,Participant,49.63
+PA02061,ST0599,H104,T0516,UI/UX Designer,Participant,49.63
+PA02062,ST0543,H104,T0517,Full Stack Developer,Shortlisted,58.02
+PA02063,ST1116,H104,T0517,Backend Developer,Shortlisted,58.02
+PA02064,ST0135,H104,T0517,Frontend Developer,Shortlisted,58.02
+PA02065,ST1031,H104,T0517,Frontend Developer,Shortlisted,58.02
+PA02066,ST0759,H104,T0517,IoT Developer,Shortlisted,58.02
+PA02067,ST0738,H104,T0518,Full Stack Developer,Runner-up,65.24
+PA02068,ST1118,H104,T0518,Data Analyst,Runner-up,65.24
+PA02069,ST0556,H104,T0518,Cybersecurity,Runner-up,65.24
+PA02070,ST0119,H104,T0518,Backend Developer,Runner-up,65.24
+PA02071,ST1013,H104,T0519,Full Stack Developer,Winner,79.65
+PA02072,ST0911,H104,T0519,Full Stack Developer,Winner,79.65
+PA02073,ST0397,H104,T0519,Frontend Developer,Winner,79.65
+PA02074,ST0932,H104,T0519,UI/UX Designer,Winner,79.65
+PA02075,ST0781,H104,T0519,Frontend Developer,Winner,79.65
+PA02076,ST1129,H104,T0520,Full Stack Developer,Participant,30.62
+PA02077,ST0717,H104,T0520,Full Stack Developer,Participant,30.62
+PA02078,ST0774,H104,T0520,Frontend Developer,Participant,30.62
+PA02079,ST1191,H105,T0521,Data Scientist,Winner,88.04
+PA02080,ST0986,H105,T0521,Backend Developer,Winner,88.04
+PA02081,ST0132,H105,T0521,Backend Developer,Winner,88.04
+PA02082,ST0773,H105,T0522,Backend Developer,Participant,36.53
+PA02083,ST0846,H105,T0522,Backend Developer,Participant,36.53
+PA02084,ST0990,H105,T0522,UI/UX Designer,Participant,36.53
+PA02085,ST0848,H105,T0523,Backend Developer,Runner-up,73.43
+PA02086,ST0789,H105,T0523,Full Stack Developer,Runner-up,73.43
+PA02087,ST1170,H105,T0523,UI/UX Designer,Runner-up,73.43
+PA02088,ST0967,H105,T0523,Full Stack Developer,Runner-up,73.43
+PA02089,ST0158,H105,T0524,Full Stack Developer,Shortlisted,56.67
+PA02090,ST0478,H105,T0524,Backend Developer,Shortlisted,56.67
+PA02091,ST0291,H105,T0524,Backend Developer,Shortlisted,56.67
+PA02092,ST1116,H105,T0524,Backend Developer,Shortlisted,56.67
+PA02093,ST0430,H105,T0525,Backend Developer,Participant,34.6
+PA02094,ST1019,H105,T0525,Backend Developer,Participant,34.6
+PA02095,ST0648,H105,T0525,Backend Developer,Participant,34.6
+PA02096,ST0412,H105,T0525,Backend Developer,Participant,34.6
+PA02097,ST0579,H106,T0526,AI/ML Developer,Winner,92.21
+PA02098,ST0722,H106,T0526,Data Scientist,Winner,92.21
+PA02099,ST0365,H106,T0526,Data Scientist,Winner,92.21
+PA02100,ST0672,H106,T0526,AI/ML Developer,Winner,92.21
+PA02101,ST0847,H106,T0527,Data Scientist,Finalist,73.59
+PA02102,ST0862,H106,T0527,AI/ML Developer,Finalist,73.59
+PA02103,ST0040,H106,T0527,AI/ML Developer,Finalist,73.59
+PA02104,ST0352,H106,T0527,AI/ML Developer,Finalist,73.59
+PA02105,ST0892,H106,T0528,AI/ML Developer,Runner-up,77.45
+PA02106,ST0902,H106,T0528,AI/ML Developer,Runner-up,77.45
+PA02107,ST0949,H106,T0528,Data Scientist,Runner-up,77.45
+PA02108,ST1001,H106,T0528,AI/ML Developer,Runner-up,77.45
+PA02109,ST0608,H106,T0529,AI/ML Developer,Finalist,74.84
+PA02110,ST1085,H106,T0529,AI/ML Developer,Finalist,74.84
+PA02111,ST0179,H106,T0529,Data Scientist,Finalist,74.84
+PA02112,ST0453,H106,T0529,AI/ML Developer,Finalist,74.84
+PA02113,ST0615,H106,T0530,AI/ML Developer,Shortlisted,56.42
+PA02114,ST0315,H106,T0530,Data Scientist,Shortlisted,56.42
+PA02115,ST0488,H106,T0530,AI/ML Developer,Shortlisted,56.42
+PA02116,ST0324,H106,T0530,Cybersecurity,Shortlisted,56.42
+PA02117,ST1019,H107,T0531,Backend Developer,Finalist,70.52
+PA02118,ST0860,H107,T0531,Backend Developer,Finalist,70.52
+PA02119,ST1189,H107,T0531,Backend Developer,Finalist,70.52
+PA02120,ST0505,H107,T0531,Backend Developer,Finalist,70.52
+PA02121,ST1160,H107,T0531,Backend Developer,Finalist,70.52
+PA02122,ST0986,H107,T0532,Backend Developer,Shortlisted,55.65
+PA02123,ST0648,H107,T0532,Backend Developer,Shortlisted,55.65
+PA02124,ST0651,H107,T0532,Backend Developer,Shortlisted,55.65
+PA02125,ST0179,H107,T0533,Data Scientist,Runner-up,72.87
+PA02126,ST0850,H107,T0533,Backend Developer,Runner-up,72.87
+PA02127,ST0158,H107,T0533,Full Stack Developer,Runner-up,72.87
+PA02128,ST0709,H107,T0533,Cybersecurity,Runner-up,72.87
+PA02129,ST0478,H107,T0533,Backend Developer,Runner-up,72.87
+PA02130,ST0302,H107,T0534,Backend Developer,Winner,84.69
+PA02131,ST0846,H107,T0534,Backend Developer,Winner,84.69
+PA02132,ST0852,H107,T0534,Full Stack Developer,Winner,84.69
+PA02133,ST0142,H107,T0534,Cybersecurity,Winner,84.69
+PA02134,ST1011,H107,T0535,Full Stack Developer,Finalist,67.49
+PA02135,ST0412,H107,T0535,Backend Developer,Finalist,67.49
+PA02136,ST1116,H107,T0535,Backend Developer,Finalist,67.49
+PA02137,ST0773,H107,T0535,Backend Developer,Finalist,67.49
+PA02138,ST1077,H108,T0536,Backend Developer,Winner,77.76
+PA02139,ST0986,H108,T0536,Backend Developer,Winner,77.76
+PA02140,ST0291,H108,T0536,Backend Developer,Winner,77.76
+PA02141,ST1019,H108,T0536,Backend Developer,Winner,77.76
+PA02142,ST0848,H108,T0536,Backend Developer,Winner,77.76
+PA02143,ST0781,H108,T0536,Frontend Developer,Winner,77.76
+PA02144,ST1075,H108,T0537,Backend Developer,Runner-up,71.33
+PA02145,ST0939,H108,T0537,Backend Developer,Runner-up,71.33
+PA02146,ST0991,H108,T0537,Full Stack Developer,Runner-up,71.33
+PA02147,ST1160,H108,T0537,Backend Developer,Runner-up,71.33
+PA02148,ST1135,H108,T0537,Backend Developer,Runner-up,71.33
+PA02149,ST0581,H108,T0537,Data Scientist,Runner-up,71.33
+PA02150,ST1106,H108,T0538,Backend Developer,Finalist,62.97
+PA02151,ST1116,H108,T0538,Backend Developer,Finalist,62.97
+PA02152,ST0587,H108,T0538,Backend Developer,Finalist,62.97
+PA02153,ST1161,H108,T0538,Backend Developer,Finalist,62.97
+PA02154,ST0847,H108,T0538,Data Scientist,Finalist,62.97
+PA02155,ST1109,H108,T0538,Data Analyst,Finalist,62.97
+PA02156,ST0132,H108,T0539,Backend Developer,Finalist,70.82
+PA02157,ST0773,H108,T0539,Backend Developer,Finalist,70.82
+PA02158,ST0648,H108,T0539,Backend Developer,Finalist,70.82
+PA02159,ST0300,H108,T0539,Backend Developer,Finalist,70.82
+PA02160,ST0430,H108,T0540,Backend Developer,Finalist,62.9
+PA02161,ST0845,H108,T0540,Backend Developer,Finalist,62.9
+PA02162,ST0137,H108,T0540,Backend Developer,Finalist,62.9
+PA02163,ST0430,H109,T0541,Backend Developer,Runner-up,79.42
+PA02164,ST1062,H109,T0541,Frontend Developer,Runner-up,79.42
+PA02165,ST0607,H109,T0541,Android Developer,Runner-up,79.42
+PA02166,ST0314,H109,T0541,UI/UX Designer,Runner-up,79.42
+PA02167,ST0623,H109,T0542,Full Stack Developer,Finalist,62.74
+PA02168,ST0489,H109,T0542,Full Stack Developer,Finalist,62.74
+PA02169,ST1072,H109,T0542,Backend Developer,Finalist,62.74
+PA02170,ST0543,H109,T0543,Full Stack Developer,Winner,79.75
+PA02171,ST0599,H109,T0543,UI/UX Designer,Winner,79.75
+PA02172,ST1186,H109,T0543,Backend Developer,Winner,79.75
+PA02173,ST0860,H109,T0543,Backend Developer,Winner,79.75
+PA02174,ST1075,H109,T0544,Backend Developer,Participant,28.7
+PA02175,ST0529,H109,T0544,Backend Developer,Participant,28.7
+PA02176,ST1152,H109,T0544,Full Stack Developer,Participant,28.7
+PA02177,ST1135,H109,T0545,Backend Developer,Finalist,65.93
+PA02178,ST0301,H109,T0545,Full Stack Developer,Finalist,65.93
+PA02179,ST0162,H109,T0545,Full Stack Developer,Finalist,65.93
+PA02180,ST1164,H110,T0546,IoT Developer,Runner-up,65.56
+PA02181,ST0982,H110,T0546,IoT Developer,Runner-up,65.56
+PA02182,ST0585,H110,T0546,IoT Developer,Runner-up,65.56
+PA02183,ST0927,H110,T0547,IoT Developer,Finalist,60.58
+PA02184,ST0490,H110,T0547,IoT Developer,Finalist,60.58
+PA02185,ST1097,H110,T0547,Data Analyst,Finalist,60.58
+PA02186,ST1063,H110,T0548,IoT Developer,Participant,37.89
+PA02187,ST0898,H110,T0548,IoT Developer,Participant,37.89
+PA02188,ST0434,H110,T0548,IoT Developer,Participant,37.89
+PA02189,ST0155,H110,T0548,IoT Developer,Participant,37.89
+PA02190,ST0390,H110,T0549,IoT Developer,Winner,75.82
+PA02191,ST0183,H110,T0549,IoT Developer,Winner,75.82
+PA02192,ST0074,H110,T0549,IoT Developer,Winner,75.82
+PA02193,ST0261,H110,T0549,Full Stack Developer,Winner,75.82
+PA02194,ST0558,H110,T0550,IoT Developer,Shortlisted,53.64
+PA02195,ST0047,H110,T0550,IoT Developer,Shortlisted,53.64
+PA02196,ST0283,H110,T0550,IoT Developer,Shortlisted,53.64
+PA02197,ST0605,H110,T0550,IoT Developer,Shortlisted,53.64
+PA02198,ST0611,H111,T0551,Cybersecurity,Finalist,80.64
+PA02199,ST0910,H111,T0551,Cybersecurity,Finalist,80.64
+PA02200,ST0659,H111,T0551,Cybersecurity,Finalist,80.64
+PA02201,ST1054,H111,T0552,Cybersecurity,Participant,40.82
+PA02202,ST0097,H111,T0552,Cybersecurity,Participant,40.82
+PA02203,ST0946,H111,T0552,Cybersecurity,Participant,40.82
+PA02204,ST0213,H111,T0553,Cybersecurity,Winner,95.38
+PA02205,ST1121,H111,T0553,Cybersecurity,Winner,95.38
+PA02206,ST0556,H111,T0553,Cybersecurity,Winner,95.38
+PA02207,ST1056,H111,T0554,Cybersecurity,Runner-up,86.95
+PA02208,ST0324,H111,T0554,Cybersecurity,Runner-up,86.95
+PA02209,ST0786,H111,T0554,Cybersecurity,Runner-up,86.95
+PA02210,ST0307,H111,T0555,Cybersecurity,Participant,45.41
+PA02211,ST0823,H111,T0555,Cybersecurity,Participant,45.41
+PA02212,ST0600,H111,T0555,Cybersecurity,Participant,45.41
+PA02213,ST1048,H112,T0556,Blockchain Developer,Winner,83.56
+PA02214,ST0346,H112,T0556,Blockchain Developer,Winner,83.56
+PA02215,ST0029,H112,T0556,Blockchain Developer,Winner,83.56
+PA02216,ST1110,H112,T0557,Blockchain Developer,Finalist,72.01
+PA02217,ST0182,H112,T0557,Blockchain Developer,Finalist,72.01
+PA02218,ST0431,H112,T0557,Blockchain Developer,Finalist,72.01
+PA02219,ST0992,H112,T0558,Blockchain Developer,Finalist,63.45
+PA02220,ST0901,H112,T0558,Blockchain Developer,Finalist,63.45
+PA02221,ST0195,H112,T0558,Blockchain Developer,Finalist,63.45
+PA02222,ST1124,H112,T0558,Blockchain Developer,Finalist,63.45
+PA02223,ST0715,H112,T0559,Blockchain Developer,Finalist,75.56
+PA02224,ST0778,H112,T0559,Blockchain Developer,Finalist,75.56
+PA02225,ST0201,H112,T0559,Blockchain Developer,Finalist,75.56
+PA02226,ST1167,H112,T0559,Blockchain Developer,Finalist,75.56
+PA02227,ST0099,H112,T0560,Blockchain Developer,Runner-up,79.87
+PA02228,ST0520,H112,T0560,Blockchain Developer,Runner-up,79.87
+PA02229,ST0249,H112,T0560,Blockchain Developer,Runner-up,79.87
+PA02230,ST0241,H113,T0561,IoT Developer,Winner,91.18
+PA02231,ST0183,H113,T0561,IoT Developer,Winner,91.18
+PA02232,ST0464,H113,T0561,IoT Developer,Winner,91.18
+PA02233,ST0686,H113,T0561,IoT Developer,Winner,91.18
+PA02234,ST1134,H113,T0561,IoT Developer,Winner,91.18
+PA02235,ST1164,H113,T0562,IoT Developer,Finalist,70.32
+PA02236,ST0434,H113,T0562,IoT Developer,Finalist,70.32
+PA02237,ST0055,H113,T0562,IoT Developer,Finalist,70.32
+PA02238,ST0390,H113,T0562,IoT Developer,Finalist,70.32
+PA02239,ST0649,H113,T0563,IoT Developer,Runner-up,81.07
+PA02240,ST0612,H113,T0563,IoT Developer,Runner-up,81.07
+PA02241,ST1180,H113,T0563,IoT Developer,Runner-up,81.07
+PA02242,ST0490,H113,T0563,IoT Developer,Runner-up,81.07
+PA02243,ST0475,H113,T0563,IoT Developer,Runner-up,81.07
+PA02244,ST0074,H113,T0564,IoT Developer,Participant,44.23
+PA02245,ST0740,H113,T0564,IoT Developer,Participant,44.23
+PA02246,ST0196,H113,T0564,IoT Developer,Participant,44.23
+PA02247,ST0473,H113,T0564,IoT Developer,Participant,44.23
+PA02248,ST0759,H113,T0564,IoT Developer,Participant,44.23
+PA02249,ST1051,H113,T0564,IoT Developer,Participant,44.23
+PA02250,ST0982,H113,T0565,IoT Developer,Finalist,68.99
+PA02251,ST0810,H113,T0565,IoT Developer,Finalist,68.99
+PA02252,ST0963,H113,T0565,IoT Developer,Finalist,68.99
+PA02253,ST0492,H114,T0566,Full Stack Developer,Participant,35.01
+PA02254,ST0558,H114,T0566,IoT Developer,Participant,35.01
+PA02255,ST0981,H114,T0566,Frontend Developer,Participant,35.01
+PA02256,ST0261,H114,T0567,Full Stack Developer,Finalist,63.56
+PA02257,ST0759,H114,T0567,IoT Developer,Finalist,63.56
+PA02258,ST0852,H114,T0567,Full Stack Developer,Finalist,63.56
+PA02259,ST0618,H114,T0568,Data Analyst,Runner-up,64.4
+PA02260,ST0444,H114,T0568,Data Analyst,Runner-up,64.4
+PA02261,ST0720,H114,T0568,Frontend Developer,Runner-up,64.4
+PA02262,ST0842,H114,T0569,Cloud Developer,Winner,69.44
+PA02263,ST0505,H114,T0569,Backend Developer,Winner,69.44
+PA02264,ST0074,H114,T0569,IoT Developer,Winner,69.44
+PA02265,ST1013,H114,T0570,Full Stack Developer,Participant,39.45
+PA02266,ST0219,H114,T0570,Backend Developer,Participant,39.45
+PA02267,ST0300,H114,T0570,Backend Developer,Participant,39.45
+PA02268,ST1182,H114,T0570,Full Stack Developer,Participant,39.45
+PA02269,ST0505,H115,T0571,Backend Developer,Runner-up,81.29
+PA02270,ST0768,H115,T0571,IoT Developer,Runner-up,81.29
+PA02271,ST1097,H115,T0571,Data Analyst,Runner-up,81.29
+PA02272,ST0241,H115,T0571,IoT Developer,Runner-up,81.29
+PA02273,ST0261,H115,T0572,Full Stack Developer,Finalist,61.35
+PA02274,ST0461,H115,T0572,IoT Developer,Finalist,61.35
+PA02275,ST1118,H115,T0572,Data Analyst,Finalist,61.35
+PA02276,ST1147,H115,T0572,Cybersecurity,Finalist,61.35
+PA02277,ST0114,H115,T0572,Full Stack Developer,Finalist,61.35
+PA02278,ST1091,H115,T0572,AI/ML Developer,Finalist,61.35
+PA02279,ST0192,H115,T0573,Data Analyst,Finalist,69.37
+PA02280,ST0759,H115,T0573,IoT Developer,Finalist,69.37
+PA02281,ST0579,H115,T0573,AI/ML Developer,Finalist,69.37
+PA02282,ST0848,H115,T0573,Backend Developer,Finalist,69.37
+PA02283,ST0336,H115,T0573,Data Analyst,Finalist,69.37
+PA02284,ST1164,H115,T0574,IoT Developer,Shortlisted,56.58
+PA02285,ST0047,H115,T0574,IoT Developer,Shortlisted,56.58
+PA02286,ST0927,H115,T0574,IoT Developer,Shortlisted,56.58
+PA02287,ST0412,H115,T0574,Backend Developer,Shortlisted,56.58
+PA02288,ST0025,H115,T0575,AI/ML Developer,Winner,85.64
+PA02289,ST0475,H115,T0575,IoT Developer,Winner,85.64
+PA02290,ST0690,H115,T0575,Data Analyst,Winner,85.64
+PA02291,ST0478,H115,T0575,Backend Developer,Winner,85.64
+PA02292,ST1117,H116,T0576,Full Stack Developer,Finalist,72.96
+PA02293,ST0340,H116,T0576,Full Stack Developer,Finalist,72.96
+PA02294,ST0679,H116,T0576,Frontend Developer,Finalist,72.96
+PA02295,ST1182,H116,T0576,Full Stack Developer,Finalist,72.96
+PA02296,ST0543,H116,T0577,Full Stack Developer,Finalist,70.64
+PA02297,ST1129,H116,T0577,Full Stack Developer,Finalist,70.64
+PA02298,ST1141,H116,T0577,Full Stack Developer,Finalist,70.64
+PA02299,ST0481,H116,T0577,Full Stack Developer,Finalist,70.64
+PA02300,ST0738,H116,T0577,Full Stack Developer,Finalist,70.64
+PA02301,ST1011,H116,T0578,Full Stack Developer,Finalist,78.43
+PA02302,ST0135,H116,T0578,Frontend Developer,Finalist,78.43
+PA02303,ST0114,H116,T0578,Full Stack Developer,Finalist,78.43
+PA02304,ST0781,H116,T0578,Frontend Developer,Finalist,78.43
+PA02305,ST0489,H116,T0578,Full Stack Developer,Finalist,78.43
+PA02306,ST0397,H116,T0579,Frontend Developer,Winner,88.33
+PA02307,ST0571,H116,T0579,Frontend Developer,Winner,88.33
+PA02308,ST0308,H116,T0579,Frontend Developer,Winner,88.33
+PA02309,ST1062,H116,T0580,Frontend Developer,Runner-up,88.03
+PA02310,ST0623,H116,T0580,Full Stack Developer,Runner-up,88.03
+PA02311,ST0952,H116,T0580,Frontend Developer,Runner-up,88.03
+PA02312,ST0722,H117,T0581,Data Scientist,Runner-up,84.62
+PA02313,ST0949,H117,T0581,Data Scientist,Runner-up,84.62
+PA02314,ST0179,H117,T0581,Data Scientist,Runner-up,84.62
+PA02315,ST0238,H117,T0581,Data Scientist,Runner-up,84.62
+PA02316,ST0197,H117,T0582,Data Scientist,Finalist,63.37
+PA02317,ST0708,H117,T0582,Data Scientist,Finalist,63.37
+PA02318,ST0040,H117,T0582,AI/ML Developer,Finalist,63.37
+PA02319,ST1109,H117,T0583,Data Analyst,Winner,91.12
+PA02320,ST0812,H117,T0583,Data Scientist,Winner,91.12
+PA02321,ST0718,H117,T0583,Data Scientist,Winner,91.12
+PA02322,ST0236,H117,T0584,Data Scientist,Finalist,84.02
+PA02323,ST0315,H117,T0584,Data Scientist,Finalist,84.02
+PA02324,ST0117,H117,T0584,Data Scientist,Finalist,84.02
+PA02325,ST0641,H117,T0584,Data Scientist,Finalist,84.02
+PA02326,ST0645,H117,T0584,Data Scientist,Finalist,84.02
+PA02327,ST0660,H117,T0585,Data Scientist,Finalist,64.28
+PA02328,ST0424,H117,T0585,Data Scientist,Finalist,64.28
+PA02329,ST0839,H117,T0585,Data Scientist,Finalist,64.28
+PA02330,ST0156,H117,T0585,Data Scientist,Finalist,64.28
+PA02331,ST0200,H118,T0586,DevOps,Participant,46.83
+PA02332,ST0560,H118,T0586,DevOps,Participant,46.83
+PA02333,ST1006,H118,T0586,Cloud Developer,Participant,46.83
+PA02334,ST0221,H118,T0587,DevOps,Finalist,68.27
+PA02335,ST0265,H118,T0587,DevOps,Finalist,68.27
+PA02336,ST0247,H118,T0587,DevOps,Finalist,68.27
+PA02337,ST0410,H118,T0587,UI/UX Designer,Finalist,68.27
+PA02338,ST0726,H118,T0588,DevOps,Winner,72.03
+PA02339,ST0126,H118,T0588,DevOps,Winner,72.03
+PA02340,ST0668,H118,T0588,Cloud Developer,Winner,72.03
+PA02341,ST0373,H118,T0588,DevOps,Winner,72.03
+PA02342,ST0964,H118,T0589,Cloud Developer,Finalist,67.02
+PA02343,ST0989,H118,T0589,DevOps,Finalist,67.02
+PA02344,ST0244,H118,T0589,DevOps,Finalist,67.02
+PA02345,ST1041,H118,T0589,DevOps,Finalist,67.02
+PA02346,ST0624,H118,T0590,DevOps,Runner-up,71.36
+PA02347,ST0970,H118,T0590,DevOps,Runner-up,71.36
+PA02348,ST0115,H118,T0590,DevOps,Runner-up,71.36
+PA02349,ST0599,H119,T0591,UI/UX Designer,Winner,92.43
+PA02350,ST0651,H119,T0591,Backend Developer,Winner,92.43
+PA02351,ST0630,H119,T0591,Full Stack Developer,Winner,92.43
+PA02352,ST0654,H119,T0592,Full Stack Developer,Runner-up,81.99
+PA02353,ST0494,H119,T0592,Android Developer,Runner-up,81.99
+PA02354,ST0708,H119,T0592,Data Scientist,Runner-up,81.99
+PA02355,ST0119,H119,T0593,Backend Developer,Finalist,80.9
+PA02356,ST1170,H119,T0593,UI/UX Designer,Finalist,80.9
+PA02357,ST1019,H119,T0593,Backend Developer,Finalist,80.9
+PA02358,ST1129,H119,T0593,Full Stack Developer,Finalist,80.9
+PA02359,ST0789,H119,T0594,Full Stack Developer,Shortlisted,56.51
+PA02360,ST1161,H119,T0594,Backend Developer,Shortlisted,56.51
+PA02361,ST0848,H119,T0594,Backend Developer,Shortlisted,56.51
+PA02362,ST0478,H119,T0595,Backend Developer,Finalist,65.27
+PA02363,ST0663,H119,T0595,Backend Developer,Finalist,65.27
+PA02364,ST0430,H119,T0595,Backend Developer,Finalist,65.27
+PA02365,ST0773,H119,T0595,Backend Developer,Finalist,65.27
+PA02366,ST0967,H120,T0596,Full Stack Developer,Finalist,65.38
+PA02367,ST0648,H120,T0596,Backend Developer,Finalist,65.38
+PA02368,ST1170,H120,T0596,UI/UX Designer,Finalist,65.38
+PA02369,ST0492,H120,T0596,Full Stack Developer,Finalist,65.38
+PA02370,ST0305,H120,T0597,DevOps,Winner,81.73
+PA02371,ST0773,H120,T0597,Backend Developer,Winner,81.73
+PA02372,ST0852,H120,T0597,Full Stack Developer,Winner,81.73
+PA02373,ST0651,H120,T0597,Backend Developer,Winner,81.73
+PA02374,ST0277,H120,T0598,Full Stack Developer,Shortlisted,51.55
+PA02375,ST0132,H120,T0598,Backend Developer,Shortlisted,51.55
+PA02376,ST0861,H120,T0598,Full Stack Developer,Shortlisted,51.55
+PA02377,ST1191,H120,T0599,Data Scientist,Runner-up,80.12
+PA02378,ST0293,H120,T0599,UI/UX Designer,Runner-up,80.12
+PA02379,ST1135,H120,T0599,Backend Developer,Runner-up,80.12
+PA02380,ST1116,H120,T0599,Backend Developer,Runner-up,80.12
+PA02381,ST0789,H120,T0600,Full Stack Developer,Shortlisted,57.04
+PA02382,ST0986,H120,T0600,Backend Developer,Shortlisted,57.04
+PA02383,ST0430,H120,T0600,Backend Developer,Shortlisted,57.04
+PA02384,ST1019,H120,T0600,Backend Developer,Shortlisted,57.04

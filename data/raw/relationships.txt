@@ -1,0 +1,39 @@
+HackBridge relational schema
+Primary keys:
+students.csv: (student_id)
+colleges.csv: (college_id)
+skills.csv: (skill_id)
+student_skills.csv: (student_id, skill_id)
+hackathons.csv: (hackathon_id)
+hackathon_required_skills.csv: (hackathon_id, skill_id)
+teams.csv: (team_id)
+team_members.csv: (team_id, student_id)
+mentors.csv: (mentor_id)
+mentor_skills.csv: (mentor_id, skill_id)
+team_mentor_mapping.csv: (team_id, mentor_id)
+projects.csv: (project_id)
+hackathon_participation.csv: (participation_id)
+team_hackathon_compatibility.csv: (team_id, hackathon_id)
+
+Foreign keys:
+students.college_id -> colleges.college_id
+student_skills.student_id -> students.student_id
+student_skills.skill_id -> skills.skill_id
+hackathon_required_skills.hackathon_id -> hackathons.hackathon_id
+hackathon_required_skills.skill_id -> skills.skill_id
+projects.student_id -> students.student_id
+teams.leader_student_id -> students.student_id
+teams.hackathon_id -> hackathons.hackathon_id
+team_members.team_id -> teams.team_id
+team_members.student_id -> students.student_id
+hackathon_participation.student_id -> students.student_id
+hackathon_participation.hackathon_id -> hackathons.hackathon_id
+hackathon_participation.team_id -> teams.team_id
+mentor_skills.mentor_id -> mentors.mentor_id
+mentor_skills.skill_id -> skills.skill_id
+team_mentor_mapping.team_id -> teams.team_id
+team_mentor_mapping.mentor_id -> mentors.mentor_id
+team_hackathon_compatibility.team_id -> teams.team_id
+team_hackathon_compatibility.hackathon_id -> hackathons.hackathon_id
+
+Additional constraints: (student_id,hackathon_id) is unique in participation. Each participation team belongs to that event and the student has Accepted membership. Leaders are Accepted members. Team size counts Accepted members only. Mentor mappings cover current teams only and honor mentor capacity. Historical rosters can recur across different dates. Candidate compatibility pairs are not registrations.

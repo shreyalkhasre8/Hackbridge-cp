@@ -1,0 +1,61 @@
+college_id,college_name,city,state,college_type
+C001,"Sahyadri Institute of Engineering, Pune",Pune,Maharashtra,Private
+C002,"Sahyadri Institute of Engineering, Mumbai",Mumbai,Maharashtra,Private
+C003,"Sahyadri Institute of Engineering, Nagpur",Nagpur,Maharashtra,Government
+C004,"Sahyadri Institute of Engineering, Chandrapur",Chandrapur,Maharashtra,Government
+C005,"Sahyadri Institute of Engineering, Bengaluru",Bengaluru,Karnataka,Government
+C006,"Sahyadri Institute of Engineering, Mysuru",Mysuru,Karnataka,Government
+C007,"Sahyadri Institute of Engineering, Chennai",Chennai,Tamil Nadu,Autonomous
+C008,"Sahyadri Institute of Engineering, Coimbatore",Coimbatore,Tamil Nadu,Private
+C009,"Sahyadri Institute of Engineering, Hyderabad",Hyderabad,Telangana,Government
+C010,"Sahyadri Institute of Engineering, Warangal",Warangal,Telangana,Autonomous
+C011,"Sahyadri Institute of Engineering, Delhi",Delhi,Delhi,Private
+C012,"Sahyadri Institute of Engineering, Jaipur",Jaipur,Rajasthan,Private
+C013,"Sahyadri Institute of Engineering, Ahmedabad",Ahmedabad,Gujarat,Private
+C014,"Sahyadri Institute of Engineering, Surat",Surat,Gujarat,Private
+C015,"Sahyadri Institute of Engineering, Kolkata",Kolkata,West Bengal,Government
+C016,"Sahyadri Institute of Engineering, Bhubaneswar",Bhubaneswar,Odisha,Government
+C017,"Sahyadri Institute of Engineering, Ranchi",Ranchi,Jharkhand,Government
+C018,"Sahyadri Institute of Engineering, Patna",Patna,Bihar,Private
+C019,"Sahyadri Institute of Engineering, Lucknow",Lucknow,Uttar Pradesh,Autonomous
+C020,"Sahyadri Institute of Engineering, Indore",Indore,Madhya Pradesh,Autonomous
+C021,"Sahyadri Institute of Engineering, Bhopal",Bhopal,Madhya Pradesh,Autonomous
+C022,"Sahyadri Institute of Engineering, Kochi",Kochi,Kerala,Government
+C023,"Sahyadri Institute of Engineering, Thiruvananthapuram",Thiruvananthapuram,Kerala,Private
+C024,"Sahyadri Institute of Engineering, Chandigarh",Chandigarh,Chandigarh,Government
+C025,"Sahyadri Institute of Engineering, Guwahati",Guwahati,Assam,Government
+C026,"Sahyadri Institute of Engineering, Visakhapatnam",Visakhapatnam,Andhra Pradesh,Autonomous
+C027,"Sahyadri Institute of Engineering, Raipur",Raipur,Chhattisgarh,Private
+C028,"Sahyadri Institute of Engineering, Dehradun",Dehradun,Uttarakhand,Government
+C029,"Sahyadri Institute of Engineering, Panaji",Panaji,Goa,Government
+C030,"Sahyadri Institute of Engineering, Jammu",Jammu,Jammu and Kashmir,Private
+C031,"Pragati Institute of Engineering, Pune",Pune,Maharashtra,Autonomous
+C032,"Pragati Institute of Engineering, Mumbai",Mumbai,Maharashtra,Government
+C033,"Pragati Institute of Engineering, Nagpur",Nagpur,Maharashtra,Government
+C034,"Pragati Institute of Engineering, Chandrapur",Chandrapur,Maharashtra,Private
+C035,"Pragati Institute of Engineering, Bengaluru",Bengaluru,Karnataka,Private
+C036,"Pragati Institute of Engineering, Mysuru",Mysuru,Karnataka,Autonomous
+C037,"Pragati Institute of Engineering, Chennai",Chennai,Tamil Nadu,Private
+C038,"Pragati Institute of Engineering, Coimbatore",Coimbatore,Tamil Nadu,Private
+C039,"Pragati Institute of Engineering, Hyderabad",Hyderabad,Telangana,Government
+C040,"Pragati Institute of Engineering, Warangal",Warangal,Telangana,Private
+C041,"Pragati Institute of Engineering, Delhi",Delhi,Delhi,Autonomous
+C042,"Pragati Institute of Engineering, Jaipur",Jaipur,Rajasthan,Autonomous
+C043,"Pragati Institute of Engineering, Ahmedabad",Ahmedabad,Gujarat,Autonomous
+C044,"Pragati Institute of Engineering, Surat",Surat,Gujarat,Autonomous
+C045,"Pragati Institute of Engineering, Kolkata",Kolkata,West Bengal,Private
+C046,"Pragati Institute of Engineering, Bhubaneswar",Bhubaneswar,Odisha,Private
+C047,"Pragati Institute of Engineering, Ranchi",Ranchi,Jharkhand,Autonomous
+C048,"Pragati Institute of Engineering, Patna",Patna,Bihar,Government
+C049,"Pragati Institute of Engineering, Lucknow",Lucknow,Uttar Pradesh,Private
+C050,"Pragati Institute of Engineering, Indore",Indore,Madhya Pradesh,Autonomous
+C051,"Pragati Institute of Engineering, Bhopal",Bhopal,Madhya Pradesh,Autonomous
+C052,"Pragati Institute of Engineering, Kochi",Kochi,Kerala,Autonomous
+C053,"Pragati Institute of Engineering, Thiruvananthapuram",Thiruvananthapuram,Kerala,Government
+C054,"Pragati Institute of Engineering, Chandigarh",Chandigarh,Chandigarh,Autonomous
+C055,"Pragati Institute of Engineering, Guwahati",Guwahati,Assam,Private
+C056,"Pragati Institute of Engineering, Visakhapatnam",Visakhapatnam,Andhra Pradesh,Autonomous
+C057,"Pragati Institute of Engineering, Raipur",Raipur,Chhattisgarh,Autonomous
+C058,"Pragati Institute of Engineering, Dehradun",Dehradun,Uttarakhand,Government
+C059,"Pragati Institute of Engineering, Panaji",Panaji,Goa,Government
+C060,"Pragati Institute of Engineering, Jammu",Jammu,Jammu and Kashmir,Government

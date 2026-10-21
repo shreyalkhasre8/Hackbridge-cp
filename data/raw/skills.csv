@@ -1,0 +1,83 @@
+skill_id,skill_name,skill_category
+SK001,Python,Programming
+SK002,Java,Programming
+SK003,C,Programming
+SK004,C++,Programming
+SK005,JavaScript,Programming
+SK006,TypeScript,Programming
+SK007,Go,Programming
+SK008,Rust,Programming
+SK009,R,Programming
+SK010,SQL,Programming
+SK011,HTML,Frontend
+SK012,CSS,Frontend
+SK013,React,Frontend
+SK014,Angular,Frontend
+SK015,Vue.js,Frontend
+SK016,Next.js,Frontend
+SK017,Tailwind CSS,Frontend
+SK018,Node.js,Backend
+SK019,Express.js,Backend
+SK020,REST API,Backend
+SK021,FastAPI,Backend
+SK022,Flask,Backend
+SK023,Django,Backend
+SK024,Spring Boot,Backend
+SK025,GraphQL,Backend
+SK026,MongoDB,Database
+SK027,MySQL,Database
+SK028,PostgreSQL,Database
+SK029,Firebase,Database
+SK030,Supabase,Database
+SK031,Redis,Database
+SK032,TensorFlow,AI/ML
+SK033,PyTorch,AI/ML
+SK034,Scikit-learn,AI/ML
+SK035,OpenCV,AI/ML
+SK036,NLP,AI/ML
+SK037,Machine Learning,AI/ML
+SK038,Deep Learning,AI/ML
+SK039,LLMs,AI/ML
+SK040,Pandas,Data Science
+SK041,NumPy,Data Science
+SK042,Data Analytics,Data Science
+SK043,Power BI,Data Science
+SK044,Tableau,Data Science
+SK045,Statistics,Data Science
+SK046,Apache Spark,Data Science
+SK047,AWS,Cloud
+SK048,Azure,Cloud
+SK049,Google Cloud,Cloud
+SK050,Serverless,Cloud
+SK051,Docker,DevOps
+SK052,Git,DevOps
+SK053,GitHub,DevOps
+SK054,Kubernetes,DevOps
+SK055,CI/CD,DevOps
+SK056,Linux,DevOps
+SK057,Terraform,DevOps
+SK058,Figma,Design
+SK059,UI Design,Design
+SK060,UX Research,Design
+SK061,Prototyping,Design
+SK062,Flutter,Mobile
+SK063,React Native,Mobile
+SK064,Kotlin,Mobile
+SK065,Android SDK,Mobile
+SK066,Dart,Mobile
+SK067,Arduino,IoT
+SK068,ESP32,IoT
+SK069,IoT,IoT
+SK070,Sensors,IoT
+SK071,Embedded Programming,IoT
+SK072,MQTT,IoT
+SK073,Raspberry Pi,IoT
+SK074,Cybersecurity,Security
+SK075,Network Security,Security
+SK076,Cryptography,Security
+SK077,Ethical Hacking,Security
+SK078,OAuth,Security
+SK079,Blockchain,Blockchain
+SK080,Solidity,Blockchain
+SK081,Web3.js,Blockchain
+SK082,Smart Contracts,Blockchain

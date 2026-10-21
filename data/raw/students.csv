@@ -1,0 +1,1201 @@
+student_id,student_name,college_id,branch,year,cgpa,city,state,primary_role,experience_level,hackathons_participated,hackathons_won,projects_completed,github_available,portfolio_available,preferred_team_size,availability_hours_per_week
+ST0001,Nisha Menon,C021,Computer Science and Engineering,2,7.33,Bhopal,Madhya Pradesh,AI/ML Developer,Intermediate,0,0,0,0,1,6,16
+ST0002,Ananya Sharma,C021,CSE (AI & ML),2,6.86,Bhopal,Madhya Pradesh,Frontend Developer,Beginner,0,0,1,0,0,4,7
+ST0003,Ishaan Bhat,C032,Electronics and Telecommunication,4,7.1,Mumbai,Maharashtra,Blockchain Developer,Intermediate,0,0,1,0,1,4,16
+ST0004,Meera Verma,C018,Electrical Engineering,3,7.83,Patna,Bihar,Data Scientist,Advanced,0,0,1,1,0,6,16
+ST0005,Sanika Pawar,C025,CSE (AI & ML),2,7.02,Guwahati,Assam,Full Stack Developer,Intermediate,0,0,1,0,1,3,13
+ST0006,Rohan Sahu,C025,Electrical Engineering,3,9.07,Guwahati,Assam,Full Stack Developer,Intermediate,0,0,1,0,0,4,14
+ST0007,Anushka Menon,C012,Computer Engineering,3,7.78,Jaipur,Rajasthan,UI/UX Designer,Advanced,0,0,1,1,0,4,17
+ST0008,Aniket Khan,C036,Computer Science and Engineering,1,7.94,Mysuru,Karnataka,Blockchain Developer,Beginner,0,0,0,0,0,5,14
+ST0009,Yash Menon,C050,Electronics and Telecommunication,2,6.79,Indore,Madhya Pradesh,Frontend Developer,Intermediate,0,0,0,0,0,4,10
+ST0010,Nisha Sinha,C040,Mechanical Engineering,2,6.45,Warangal,Telangana,IoT Developer,Intermediate,0,0,1,0,1,3,9
+ST0011,Nisha Mehta,C043,Information Technology,2,7.92,Ahmedabad,Gujarat,Data Analyst,Intermediate,0,0,0,0,0,3,17
+ST0012,Sanika Sharma,C034,Electrical Engineering,3,7.18,Chandrapur,Maharashtra,Full Stack Developer,Intermediate,0,0,0,0,0,5,14
+ST0013,Neha Verma,C038,Electrical Engineering,4,7.9,Coimbatore,Tamil Nadu,IoT Developer,Advanced,0,0,1,1,1,6,17
+ST0014,Aditya Trivedi,C037,Civil Engineering,2,7.62,Chennai,Tamil Nadu,Frontend Developer,Advanced,0,0,0,0,1,4,10
+ST0015,Zara Gowda,C060,Civil Engineering,2,8.28,Jammu,Jammu and Kashmir,Android Developer,Intermediate,0,0,1,0,1,4,17
+ST0016,Sanika Bhat,C030,Electrical Engineering,3,7.23,Jammu,Jammu and Kashmir,IoT Developer,Intermediate,0,0,0,1,0,5,10
+ST0017,Nikhil Pawar,C041,Electrical Engineering,3,7.57,Delhi,Delhi,Full Stack Developer,Advanced,0,0,0,0,0,5,13
+ST0018,Neha Kulkarni,C048,Electrical Engineering,3,9.35,Patna,Bihar,Backend Developer,Advanced,0,0,1,1,1,3,13
+ST0019,Akash Jain,C034,Electrical Engineering,4,8.28,Chandrapur,Maharashtra,Cloud Developer,Expert,1,0,4,1,1,4,22
+ST0020,Aarav Khan,C059,CSE (AI & ML),3,7.01,Panaji,Goa,Data Scientist,Intermediate,1,0,1,1,0,6,16
+ST0021,Manav Naidu,C027,Information Technology,3,7.42,Raipur,Chhattisgarh,UI/UX Designer,Advanced,0,0,3,1,1,5,14
+ST0022,Sanika Behera,C055,CSE (AI & ML),2,7.88,Guwahati,Assam,AI/ML Developer,Intermediate,0,0,0,1,1,4,13
+ST0023,Shreya Nair,C039,Information Technology,1,7.84,Hyderabad,Telangana,Frontend Developer,Intermediate,0,0,4,1,0,3,8
+ST0024,Meera Shetty,C038,CSE (AI & ML),4,8.92,Coimbatore,Tamil Nadu,Blockchain Developer,Advanced,3,0,5,0,0,5,20
+ST0025,Zara More,C041,Information Technology,4,8.52,Delhi,Delhi,AI/ML Developer,Advanced,9,1,1,1,0,6,12
+ST0026,Kavya Gupta,C059,Computer Science and Engineering,3,6.97,Panaji,Goa,UI/UX Designer,Intermediate,0,0,0,1,0,5,14
+ST0027,Arjun Naidu,C059,Mechanical Engineering,2,8.24,Panaji,Goa,Android Developer,Intermediate,0,0,2,0,1,6,11
+ST0028,Nikhil Sahu,C054,Computer Science and Engineering,3,7.76,Chandigarh,Chandigarh,IoT Developer,Intermediate,4,0,2,0,0,3,9
+ST0029,Neha Patel,C054,Computer Science and Engineering,4,8.61,Chandigarh,Chandigarh,Blockchain Developer,Advanced,6,3,2,1,1,4,15
+ST0030,Atharv Banerjee,C021,Computer Engineering,3,8.69,Bhopal,Madhya Pradesh,Android Developer,Advanced,0,0,3,0,1,3,16
+ST0031,Karan Rao,C037,Computer Science and Engineering,1,5.27,Chennai,Tamil Nadu,Android Developer,Intermediate,0,0,0,1,1,4,11
+ST0032,Ananya Pawar,C006,Civil Engineering,2,7.28,Mysuru,Karnataka,Android Developer,Intermediate,0,0,3,0,0,3,13
+ST0033,Avani Kulkarni,C053,Electrical Engineering,1,8.31,Thiruvananthapuram,Kerala,DevOps,Intermediate,0,0,2,1,0,4,13
+ST0034,Shreya Iyer,C059,Electrical Engineering,1,6.95,Panaji,Goa,IoT Developer,Intermediate,0,0,2,0,0,4,15
+ST0035,Dhruv Behera,C048,Computer Engineering,3,8.64,Patna,Bihar,Full Stack Developer,Advanced,1,0,4,1,1,3,11
+ST0036,Aditya Shetty,C006,Civil Engineering,3,8.13,Mysuru,Karnataka,IoT Developer,Expert,0,0,4,1,1,3,21
+ST0037,Dhruv Pawar,C049,Electronics and Telecommunication,3,7.74,Lucknow,Uttar Pradesh,Data Scientist,Intermediate,0,0,4,0,0,3,13
+ST0038,Riya Verma,C038,Electronics and Telecommunication,4,8.6,Coimbatore,Tamil Nadu,UI/UX Designer,Advanced,1,0,3,0,0,4,13
+ST0039,Riya Mehta,C024,Electronics and Telecommunication,1,8.35,Chandigarh,Chandigarh,AI/ML Developer,Advanced,3,0,6,1,0,6,18
+ST0040,Manav Singh,C022,Civil Engineering,1,8.2,Kochi,Kerala,AI/ML Developer,Advanced,10,1,4,1,0,3,13
+ST0041,Ishaan Menon,C026,Electrical Engineering,3,8.07,Visakhapatnam,Andhra Pradesh,Blockchain Developer,Advanced,2,0,5,1,1,6,17
+ST0042,Meera Fernandes,C032,Computer Science and Engineering,3,7.21,Mumbai,Maharashtra,Data Analyst,Advanced,0,0,2,0,1,6,10
+ST0043,Nisha Jadhav,C059,Civil Engineering,4,7.77,Panaji,Goa,DevOps,Intermediate,2,0,3,0,0,5,10
+ST0044,Shruti More,C043,CSE (AI & ML),3,7.94,Ahmedabad,Gujarat,Cloud Developer,Advanced,2,0,6,1,0,6,12
+ST0045,Rohan Mehta,C042,Computer Science and Engineering,2,7.47,Jaipur,Rajasthan,Cybersecurity,Intermediate,0,0,2,0,0,5,11
+ST0046,Vihaan Reddy,C029,Mechanical Engineering,1,7.34,Panaji,Goa,Data Scientist,Advanced,0,0,4,0,0,5,12
+ST0047,Yash Gowda,C015,Computer Science and Engineering,3,9.13,Kolkata,West Bengal,IoT Developer,Advanced,12,3,2,1,1,6,15
+ST0048,Shruti Patel,C004,CSE (AI & ML),4,6.89,Chandrapur,Maharashtra,IoT Developer,Intermediate,3,0,2,0,0,4,14
+ST0049,Zara Kulkarni,C024,Information Technology,2,7.26,Chandigarh,Chandigarh,Data Scientist,Intermediate,1,0,3,1,0,3,9
+ST0050,Sahil Shetty,C040,Civil Engineering,2,6.9,Warangal,Telangana,Data Scientist,Advanced,0,0,2,1,1,3,17
+ST0051,Zara Verma,C045,Information Technology,2,7.21,Kolkata,West Bengal,Blockchain Developer,Beginner,0,0,2,1,0,3,12
+ST0052,Sanika Chatterjee,C033,Civil Engineering,3,6.9,Nagpur,Maharashtra,Cloud Developer,Intermediate,0,0,3,0,0,4,10
+ST0053,Anushka Kulkarni,C019,Computer Engineering,2,7.53,Lucknow,Uttar Pradesh,UI/UX Designer,Intermediate,0,0,1,1,0,4,10
+ST0054,Vaishnavi Deshmukh,C060,Civil Engineering,2,8.61,Jammu,Jammu and Kashmir,Data Analyst,Intermediate,0,0,1,0,1,3,14
+ST0055,Neha Iyer,C043,Computer Science and Engineering,4,8.26,Ahmedabad,Gujarat,IoT Developer,Advanced,1,0,2,0,0,3,14
+ST0056,Kavya Patel,C033,Computer Science and Engineering,4,8.16,Nagpur,Maharashtra,Data Scientist,Expert,1,0,2,1,1,5,18
+ST0057,Anushka Reddy,C032,Computer Engineering,2,6.92,Mumbai,Maharashtra,Full Stack Developer,Intermediate,2,0,2,1,0,6,16
+ST0058,Anushka Naidu,C057,Mechanical Engineering,2,7.66,Raipur,Chhattisgarh,Android Developer,Advanced,0,0,3,1,1,3,18
+ST0059,Aditi Joshi,C001,Information Technology,1,7.54,Pune,Maharashtra,Data Scientist,Beginner,1,0,2,0,1,3,13
+ST0060,Ananya Gupta,C006,Computer Engineering,2,6.6,Mysuru,Karnataka,Cybersecurity,Beginner,0,0,2,1,0,5,6
+ST0061,Vihaan Iyer,C007,Computer Science and Engineering,1,7.79,Chennai,Tamil Nadu,Cloud Developer,Advanced,0,0,3,1,0,3,10
+ST0062,Nikhil Singh,C021,Electronics and Telecommunication,1,7.8,Bhopal,Madhya Pradesh,Blockchain Developer,Intermediate,0,0,4,0,1,6,10
+ST0063,Shreya Singh,C014,CSE (AI & ML),2,6.74,Surat,Gujarat,Full Stack Developer,Intermediate,0,0,2,1,0,3,9
+ST0064,Tanvi Roy,C031,Information Technology,1,7.6,Pune,Maharashtra,Data Analyst,Advanced,3,0,1,1,0,3,16
+ST0065,Rahul Mehta,C008,Electronics and Telecommunication,3,6.92,Coimbatore,Tamil Nadu,UI/UX Designer,Advanced,0,0,3,0,1,4,14
+ST0066,Aarav Mishra,C015,Computer Science and Engineering,3,7.66,Kolkata,West Bengal,UI/UX Designer,Intermediate,0,0,3,0,1,5,12
+ST0067,Dhruv Roy,C040,Computer Engineering,1,6.43,Warangal,Telangana,Cybersecurity,Intermediate,0,0,1,0,0,3,13
+ST0068,Sakshi Nair,C006,Electrical Engineering,3,8.08,Mysuru,Karnataka,Cloud Developer,Advanced,0,0,2,0,0,5,14
+ST0069,Yash Verma,C039,Information Technology,2,8.34,Hyderabad,Telangana,Data Analyst,Advanced,0,0,2,0,1,3,15
+ST0070,Nikhil Kulkarni,C039,Electrical Engineering,3,8.42,Hyderabad,Telangana,AI/ML Developer,Intermediate,3,1,2,1,1,4,15
+ST0071,Arjun Menon,C026,Information Technology,4,7.34,Visakhapatnam,Andhra Pradesh,Data Scientist,Intermediate,0,0,3,1,0,6,16
+ST0072,Neha Behera,C034,Computer Engineering,3,8.03,Chandrapur,Maharashtra,AI/ML Developer,Advanced,1,0,1,1,0,6,19
+ST0073,Pooja Khan,C001,Information Technology,1,6.2,Pune,Maharashtra,AI/ML Developer,Beginner,1,0,1,0,0,4,7
+ST0074,Shruti Roy,C010,CSE (AI & ML),3,8.07,Warangal,Telangana,IoT Developer,Advanced,17,6,2,1,1,4,20
+ST0075,Aditya Gowda,C013,Electrical Engineering,2,6.55,Ahmedabad,Gujarat,UI/UX Designer,Intermediate,0,0,2,1,0,4,7
+ST0076,Vaishnavi More,C049,Electronics and Telecommunication,4,8.68,Lucknow,Uttar Pradesh,Data Analyst,Advanced,0,0,4,1,0,4,18
+ST0077,Aditi Qureshi,C014,Computer Science and Engineering,3,6.35,Surat,Gujarat,Backend Developer,Intermediate,0,0,3,1,1,4,11
+ST0078,Riya Menon,C027,Computer Science and Engineering,3,7.32,Raipur,Chhattisgarh,Data Analyst,Intermediate,0,0,2,1,0,6,13
+ST0079,Akash Roy,C028,Mechanical Engineering,3,8.06,Dehradun,Uttarakhand,Cloud Developer,Advanced,4,0,2,1,1,4,16
+ST0080,Anushka Jadhav,C054,Mechanical Engineering,3,8.36,Chandigarh,Chandigarh,Data Scientist,Advanced,2,0,2,1,0,5,12
+ST0081,Isha Bhat,C002,Mechanical Engineering,1,6.9,Mumbai,Maharashtra,Full Stack Developer,Intermediate,0,0,1,0,0,5,11
+ST0082,Ananya Shinde,C041,Mechanical Engineering,3,8.44,Delhi,Delhi,UI/UX Designer,Expert,1,0,3,1,1,3,17
+ST0083,Dhruv Menon,C030,CSE (AI & ML),3,7.0,Jammu,Jammu and Kashmir,AI/ML Developer,Intermediate,0,0,1,1,0,5,9
+ST0084,Isha Kulkarni,C046,CSE (AI & ML),3,7.6,Bhubaneswar,Odisha,Full Stack Developer,Intermediate,0,0,2,0,0,4,9
+ST0085,Advait Rao,C040,Civil Engineering,4,7.71,Warangal,Telangana,Data Analyst,Advanced,0,0,4,0,0,5,15
+ST0086,Yash Behera,C019,CSE (AI & ML),1,7.37,Lucknow,Uttar Pradesh,IoT Developer,Beginner,0,0,0,1,0,4,13
+ST0087,Sneha Nair,C047,Electronics and Telecommunication,3,8.01,Ranchi,Jharkhand,AI/ML Developer,Advanced,0,0,2,0,1,3,20
+ST0088,Advait Reddy,C021,Mechanical Engineering,2,7.87,Bhopal,Madhya Pradesh,Android Developer,Advanced,0,0,5,0,1,3,16
+ST0089,Yash Mishra,C007,Civil Engineering,2,7.56,Chennai,Tamil Nadu,Frontend Developer,Advanced,0,0,6,1,0,5,15
+ST0090,Karan Verma,C053,CSE (AI & ML),3,7.74,Thiruvananthapuram,Kerala,Backend Developer,Expert,1,0,3,1,1,3,18
+ST0091,Varun Jadhav,C047,Computer Engineering,2,7.46,Ranchi,Jharkhand,Frontend Developer,Advanced,2,0,4,1,1,4,16
+ST0092,Karan Joshi,C030,CSE (AI & ML),3,7.57,Jammu,Jammu and Kashmir,Android Developer,Advanced,0,0,3,1,1,3,17
+ST0093,Manav Kumar,C023,Electronics and Telecommunication,2,8.12,Thiruvananthapuram,Kerala,UI/UX Designer,Advanced,0,0,4,1,0,6,14
+ST0094,Advait Fernandes,C019,Electronics and Telecommunication,1,6.5,Lucknow,Uttar Pradesh,Data Analyst,Intermediate,0,0,2,0,0,5,15
+ST0095,Sakshi Kumar,C038,Electronics and Telecommunication,1,7.53,Coimbatore,Tamil Nadu,AI/ML Developer,Intermediate,0,0,3,1,1,3,16
+ST0096,Anushka Mishra,C057,Civil Engineering,4,7.54,Raipur,Chhattisgarh,Cloud Developer,Advanced,0,0,2,1,1,4,11
+ST0097,Akash Chatterjee,C040,Electrical Engineering,3,7.46,Warangal,Telangana,Cybersecurity,Advanced,3,0,2,1,1,3,15
+ST0098,Rahul More,C019,Electronics and Telecommunication,4,7.26,Lucknow,Uttar Pradesh,AI/ML Developer,Intermediate,0,0,1,1,1,3,14
+ST0099,Shreya Joshi,C035,Computer Engineering,3,8.01,Bengaluru,Karnataka,Blockchain Developer,Advanced,5,1,5,0,1,6,10
+ST0100,Aditya Patil,C053,CSE (AI & ML),3,7.89,Thiruvananthapuram,Kerala,Cloud Developer,Intermediate,1,0,4,0,0,5,12
+ST0101,Manav Pawar,C055,Electrical Engineering,2,7.98,Guwahati,Assam,Frontend Developer,Intermediate,0,0,1,1,0,4,14
+ST0102,Rahul Joshi,C035,Civil Engineering,3,9.0,Bengaluru,Karnataka,Frontend Developer,Expert,0,0,3,1,1,6,13
+ST0103,Dhruv Qureshi,C003,Mechanical Engineering,3,7.95,Nagpur,Maharashtra,Backend Developer,Intermediate,0,0,3,1,1,3,9
+ST0104,Avani Chatterjee,C008,Electrical Engineering,2,8.24,Coimbatore,Tamil Nadu,Android Developer,Advanced,0,0,3,0,0,4,19
+ST0105,Ananya Roy,C015,Mechanical Engineering,2,6.62,Kolkata,West Bengal,Full Stack Developer,Intermediate,0,0,1,0,0,5,17
+ST0106,Shreya Gowda,C015,Civil Engineering,2,6.82,Kolkata,West Bengal,AI/ML Developer,Advanced,1,0,2,0,1,6,11
+ST0107,Dhruv Gupta,C006,Computer Science and Engineering,3,8.47,Mysuru,Karnataka,Data Analyst,Advanced,3,1,5,1,0,6,13
+ST0108,Kavya Iyer,C010,Electrical Engineering,3,7.92,Warangal,Telangana,Cybersecurity,Advanced,1,0,3,1,1,3,12
+ST0109,Shreyas Gupta,C039,Information Technology,1,7.03,Hyderabad,Telangana,Blockchain Developer,Intermediate,1,0,3,1,0,5,11
+ST0110,Vihaan Mehta,C001,Electronics and Telecommunication,3,8.55,Pune,Maharashtra,Data Scientist,Expert,0,0,3,0,0,4,20
+ST0111,Vaishnavi Jadhav,C001,Computer Science and Engineering,3,7.19,Pune,Maharashtra,Cloud Developer,Intermediate,0,0,2,1,1,5,9
+ST0112,Dhruv Sharma,C056,Computer Engineering,3,7.85,Visakhapatnam,Andhra Pradesh,Blockchain Developer,Advanced,2,0,1,0,1,6,15
+ST0113,Vaishnavi Shinde,C039,Computer Science and Engineering,3,9.13,Hyderabad,Telangana,Data Scientist,Expert,6,0,3,1,1,6,20
+ST0114,Aniket Mishra,C050,Mechanical Engineering,2,8.07,Indore,Madhya Pradesh,Full Stack Developer,Advanced,21,2,2,0,1,3,13
+ST0115,Sakshi Shetty,C033,Computer Engineering,2,8.31,Nagpur,Maharashtra,DevOps,Advanced,1,0,4,1,0,4,14
+ST0116,Isha Banerjee,C035,Information Technology,2,6.66,Bengaluru,Karnataka,Android Developer,Intermediate,0,0,4,0,0,6,14
+ST0117,Sakshi Pawar,C006,Computer Science and Engineering,4,9.37,Mysuru,Karnataka,Data Scientist,Expert,4,0,4,1,0,6,19
+ST0118,Isha Mohanty,C017,Information Technology,1,5.35,Ranchi,Jharkhand,IoT Developer,Beginner,0,0,1,1,0,5,6
+ST0119,Nisha Shah,C018,Information Technology,4,7.51,Patna,Bihar,Backend Developer,Advanced,9,1,1,1,0,5,16
+ST0120,Pooja Kumar,C004,Mechanical Engineering,3,8.65,Chandrapur,Maharashtra,Full Stack Developer,Advanced,1,0,1,0,1,6,15
+ST0121,Riya Mohanty,C060,Computer Engineering,4,8.12,Jammu,Jammu and Kashmir,IoT Developer,Advanced,3,0,4,0,0,6,14
+ST0122,Aarav Verma,C055,Civil Engineering,1,8.04,Guwahati,Assam,Frontend Developer,Advanced,0,0,1,1,0,5,16
+ST0123,Sanika Mishra,C024,Mechanical Engineering,2,7.85,Chandigarh,Chandigarh,IoT Developer,Advanced,0,0,2,0,0,3,19
+ST0124,Aditi Khan,C022,Mechanical Engineering,2,8.01,Kochi,Kerala,Cybersecurity,Advanced,1,0,4,1,1,3,12
+ST0125,Ishaan Mohanty,C047,Mechanical Engineering,2,7.79,Ranchi,Jharkhand,Full Stack Developer,Advanced,0,0,4,0,0,4,14
+ST0126,Neha Shinde,C028,Civil Engineering,3,8.05,Dehradun,Uttarakhand,DevOps,Advanced,8,3,2,0,0,3,15
+ST0127,Tanvi Shetty,C054,Mechanical Engineering,2,7.56,Chandigarh,Chandigarh,Android Developer,Advanced,0,0,3,0,0,3,18
+ST0128,Shruti Sinha,C046,CSE (AI & ML),3,8.63,Bhubaneswar,Odisha,Android Developer,Advanced,0,0,4,1,1,5,10
+ST0129,Akash Singh,C003,Civil Engineering,1,6.37,Nagpur,Maharashtra,Data Scientist,Beginner,0,0,0,1,0,4,7
+ST0130,Isha Gupta,C053,Electronics and Telecommunication,4,8.25,Thiruvananthapuram,Kerala,Cloud Developer,Advanced,3,0,3,1,0,6,15
+ST0131,Shreya Banerjee,C045,Computer Engineering,2,6.24,Kolkata,West Bengal,UI/UX Designer,Advanced,0,0,1,1,0,3,10
+ST0132,Neha Reddy,C039,CSE (AI & ML),3,9.0,Hyderabad,Telangana,Backend Developer,Expert,18,3,4,0,1,4,15
+ST0133,Vihaan Kulkarni,C046,Information Technology,3,8.1,Bhubaneswar,Odisha,Frontend Developer,Advanced,1,0,1,0,1,5,12
+ST0134,Atharv Kulkarni,C038,Information Technology,2,7.44,Coimbatore,Tamil Nadu,AI/ML Developer,Intermediate,2,0,3,0,0,6,11
+ST0135,Aditi Bhat,C044,CSE (AI & ML),3,7.66,Surat,Gujarat,Frontend Developer,Advanced,6,2,4,1,0,6,12
+ST0136,Pooja Jain,C001,Civil Engineering,2,8.31,Pune,Maharashtra,Android Developer,Intermediate,0,0,2,1,0,4,10
+ST0137,Zara Das,C003,CSE (AI & ML),4,7.6,Nagpur,Maharashtra,Backend Developer,Advanced,2,0,1,0,0,5,15
+ST0138,Zara Kumar,C053,Mechanical Engineering,1,6.54,Thiruvananthapuram,Kerala,Data Analyst,Beginner,0,0,2,0,1,4,11
+ST0139,Pranav Verma,C048,Electronics and Telecommunication,2,6.69,Patna,Bihar,Full Stack Developer,Intermediate,2,0,0,1,0,5,7
+ST0140,Sakshi Kulkarni,C027,Electronics and Telecommunication,4,7.02,Raipur,Chhattisgarh,Cloud Developer,Intermediate,0,0,2,0,0,4,11
+ST0141,Avani Mohanty,C037,Civil Engineering,1,7.14,Chennai,Tamil Nadu,Full Stack Developer,Advanced,0,0,3,1,0,4,15
+ST0142,Meera Rao,C046,Mechanical Engineering,4,7.69,Bhubaneswar,Odisha,Cybersecurity,Advanced,4,1,2,1,1,4,13
+ST0143,Sahil Shah,C050,Mechanical Engineering,1,8.77,Indore,Madhya Pradesh,Backend Developer,Advanced,0,0,3,0,0,6,14
+ST0144,Ananya Sahu,C053,Civil Engineering,4,7.22,Thiruvananthapuram,Kerala,Android Developer,Intermediate,0,0,2,1,0,4,12
+ST0145,Anushka Jain,C025,Computer Engineering,4,8.07,Guwahati,Assam,Frontend Developer,Advanced,0,0,1,1,1,6,11
+ST0146,Varun Banerjee,C052,Computer Science and Engineering,1,7.17,Kochi,Kerala,Android Developer,Intermediate,0,0,2,1,0,6,15
+ST0147,Vaishnavi Pawar,C017,Computer Science and Engineering,1,7.51,Ranchi,Jharkhand,Backend Developer,Intermediate,0,0,3,1,0,4,10
+ST0148,Sakshi Joshi,C057,Mechanical Engineering,3,7.52,Raipur,Chhattisgarh,Cybersecurity,Intermediate,0,0,2,1,1,4,12
+ST0149,Pooja Qureshi,C016,CSE (AI & ML),1,7.12,Bhubaneswar,Odisha,DevOps,Beginner,0,0,2,0,0,5,8
+ST0150,Pranav Nair,C049,Information Technology,4,7.65,Lucknow,Uttar Pradesh,Cybersecurity,Intermediate,0,0,3,0,0,6,13
+ST0151,Vaishnavi Patel,C027,Mechanical Engineering,1,5.86,Raipur,Chhattisgarh,Frontend Developer,Beginner,0,0,2,1,0,6,13
+ST0152,Manav Jadhav,C014,Electrical Engineering,3,8.09,Surat,Gujarat,Full Stack Developer,Advanced,7,1,2,1,0,5,14
+ST0153,Manav Reddy,C054,Electrical Engineering,2,7.54,Chandigarh,Chandigarh,Cloud Developer,Intermediate,0,0,2,1,1,5,9
+ST0154,Shreyas Yadav,C030,Civil Engineering,1,6.87,Jammu,Jammu and Kashmir,Blockchain Developer,Beginner,0,0,2,0,0,6,12
+ST0155,Pranav Mehta,C032,Civil Engineering,1,6.63,Mumbai,Maharashtra,IoT Developer,Beginner,1,0,3,0,0,4,14
+ST0156,Neha Chatterjee,C017,Civil Engineering,1,7.79,Ranchi,Jharkhand,Data Scientist,Advanced,5,2,4,0,1,6,12
+ST0157,Pranav Deshmukh,C059,Civil Engineering,1,7.74,Panaji,Goa,Cloud Developer,Advanced,0,0,5,0,0,6,11
+ST0158,Shreya Patel,C012,CSE (AI & ML),4,7.94,Jaipur,Rajasthan,Full Stack Developer,Advanced,24,7,3,1,0,5,17
+ST0159,Priya Kumar,C029,Electronics and Telecommunication,4,6.93,Panaji,Goa,Android Developer,Intermediate,0,0,3,1,0,5,12
+ST0160,Isha Sinha,C047,Mechanical Engineering,4,7.84,Ranchi,Jharkhand,Data Analyst,Advanced,2,1,1,1,0,6,13
+ST0161,Om Shetty,C028,Civil Engineering,3,7.33,Dehradun,Uttarakhand,UI/UX Designer,Intermediate,0,0,2,0,1,6,8
+ST0162,Sanika Sahu,C051,Computer Engineering,4,7.9,Bhopal,Madhya Pradesh,Full Stack Developer,Intermediate,3,0,2,1,1,5,13
+ST0163,Harsh Jain,C038,Civil Engineering,1,7.12,Coimbatore,Tamil Nadu,Blockchain Developer,Intermediate,1,0,3,0,0,6,12
+ST0164,Kavya Fernandes,C058,Information Technology,2,6.99,Dehradun,Uttarakhand,Cloud Developer,Intermediate,1,0,1,0,0,6,14
+ST0165,Shreyas Naidu,C052,Electrical Engineering,3,7.49,Kochi,Kerala,Cloud Developer,Advanced,0,0,3,1,0,5,13
+ST0166,Neha More,C052,Mechanical Engineering,4,7.74,Kochi,Kerala,Cybersecurity,Advanced,0,0,2,1,0,5,12
+ST0167,Meera Jadhav,C011,CSE (AI & ML),3,8.18,Delhi,Delhi,Backend Developer,Expert,0,0,4,1,1,5,13
+ST0168,Sakshi Mohanty,C022,Computer Engineering,1,7.17,Kochi,Kerala,DevOps,Advanced,0,0,0,1,1,5,18
+ST0169,Pooja Shah,C050,CSE (AI & ML),2,7.51,Indore,Madhya Pradesh,Cybersecurity,Beginner,0,0,1,1,0,6,11
+ST0170,Om Patel,C048,CSE (AI & ML),1,7.77,Patna,Bihar,Backend Developer,Advanced,0,0,2,1,1,5,13
+ST0171,Karan Deshmukh,C032,Electronics and Telecommunication,4,7.73,Mumbai,Maharashtra,Backend Developer,Advanced,0,0,1,0,1,6,13
+ST0172,Manav Mohanty,C041,Electrical Engineering,2,7.84,Delhi,Delhi,Blockchain Developer,Advanced,0,0,1,0,1,5,17
+ST0173,Neha Fernandes,C011,Electronics and Telecommunication,2,9.05,Delhi,Delhi,AI/ML Developer,Advanced,0,0,1,1,0,5,12
+ST0174,Neha Menon,C039,Civil Engineering,2,6.61,Hyderabad,Telangana,Backend Developer,Intermediate,2,1,0,0,0,5,8
+ST0175,Sneha Das,C059,Civil Engineering,2,8.31,Panaji,Goa,Frontend Developer,Intermediate,1,0,2,0,0,5,10
+ST0176,Karan Kulkarni,C002,Electrical Engineering,2,7.08,Mumbai,Maharashtra,IoT Developer,Intermediate,0,0,1,1,0,6,11
+ST0177,Karan Chatterjee,C009,Electronics and Telecommunication,2,7.84,Hyderabad,Telangana,DevOps,Intermediate,0,0,1,1,1,5,13
+ST0178,Manav Trivedi,C001,Computer Engineering,2,7.69,Pune,Maharashtra,DevOps,Intermediate,0,0,2,0,0,5,9
+ST0179,Sakshi Mehta,C004,Civil Engineering,4,8.44,Chandrapur,Maharashtra,Data Scientist,Expert,16,1,2,0,1,4,21
+ST0180,Advait Deshmukh,C005,Civil Engineering,2,8.28,Bengaluru,Karnataka,IoT Developer,Intermediate,1,0,3,0,0,5,14
+ST0181,Atharv Gowda,C010,Computer Science and Engineering,2,7.87,Warangal,Telangana,Frontend Developer,Advanced,0,0,2,1,0,5,17
+ST0182,Shruti Chatterjee,C059,Information Technology,3,7.72,Panaji,Goa,Blockchain Developer,Intermediate,6,1,2,1,1,4,12
+ST0183,Kavya Das,C048,Computer Science and Engineering,4,9.57,Patna,Bihar,IoT Developer,Expert,18,7,3,0,1,3,14
+ST0184,Aniket Nair,C027,CSE (AI & ML),1,6.42,Raipur,Chhattisgarh,DevOps,Beginner,1,0,3,1,1,6,9
+ST0185,Pranav Gowda,C003,Electrical Engineering,3,7.63,Nagpur,Maharashtra,AI/ML Developer,Advanced,0,0,4,1,0,5,10
+ST0186,Ananya Joshi,C025,Civil Engineering,1,7.24,Guwahati,Assam,AI/ML Developer,Intermediate,1,0,2,1,1,3,15
+ST0187,Varun Khan,C021,CSE (AI & ML),1,7.43,Bhopal,Madhya Pradesh,Frontend Developer,Intermediate,0,0,1,1,0,5,14
+ST0188,Varun Deshmukh,C032,CSE (AI & ML),1,8.09,Mumbai,Maharashtra,Full Stack Developer,Advanced,0,0,4,1,0,6,17
+ST0189,Isha Qureshi,C050,Information Technology,3,8.11,Indore,Madhya Pradesh,Frontend Developer,Advanced,0,0,5,0,0,5,17
+ST0190,Aditi Jain,C060,Computer Engineering,3,7.61,Jammu,Jammu and Kashmir,UI/UX Designer,Advanced,0,0,2,1,1,6,12
+ST0191,Harsh Mehta,C047,Electronics and Telecommunication,2,8.07,Ranchi,Jharkhand,Cloud Developer,Advanced,0,0,1,1,1,4,11
+ST0192,Vaishnavi Iyer,C012,Mechanical Engineering,2,8.51,Jaipur,Rajasthan,Data Analyst,Advanced,4,0,4,1,0,4,18
+ST0193,Shreyas Joshi,C029,Computer Science and Engineering,4,8.83,Panaji,Goa,Data Analyst,Expert,0,0,3,1,1,3,17
+ST0194,Shreyas Menon,C021,Civil Engineering,2,6.93,Bhopal,Madhya Pradesh,AI/ML Developer,Intermediate,0,0,2,1,0,3,15
+ST0195,Neha Sharma,C058,Electrical Engineering,3,8.18,Dehradun,Uttarakhand,Blockchain Developer,Advanced,7,2,3,1,0,3,15
+ST0196,Dhruv Joshi,C059,Mechanical Engineering,4,7.18,Panaji,Goa,IoT Developer,Advanced,4,0,3,1,0,5,16
+ST0197,Riya Joshi,C049,Computer Engineering,3,6.86,Lucknow,Uttar Pradesh,Data Scientist,Intermediate,2,1,0,0,0,3,16
+ST0198,Rohan Sharma,C011,Information Technology,2,7.9,Delhi,Delhi,Cloud Developer,Intermediate,0,0,0,1,0,3,15
+ST0199,Rohan Khan,C022,Information Technology,4,8.17,Kochi,Kerala,UI/UX Designer,Advanced,1,0,4,1,1,5,12
+ST0200,Yash Shinde,C003,Mechanical Engineering,2,8.55,Nagpur,Maharashtra,DevOps,Advanced,8,1,3,1,1,4,15
+ST0201,Priya Sinha,C018,Computer Engineering,4,8.89,Patna,Bihar,Blockchain Developer,Advanced,3,1,2,0,0,5,15
+ST0202,Aarav Jain,C022,Computer Science and Engineering,4,9.0,Kochi,Kerala,Data Scientist,Expert,12,2,6,1,0,4,21
+ST0203,Neha Naidu,C060,Information Technology,4,7.61,Jammu,Jammu and Kashmir,Blockchain Developer,Intermediate,1,0,1,1,0,3,8
+ST0204,Nisha Patil,C032,Electrical Engineering,3,6.19,Mumbai,Maharashtra,IoT Developer,Intermediate,1,0,4,0,0,3,14
+ST0205,Sahil Deshmukh,C007,CSE (AI & ML),2,7.99,Chennai,Tamil Nadu,IoT Developer,Advanced,1,0,3,1,0,5,19
+ST0206,Nisha Khan,C055,Computer Science and Engineering,1,8.41,Guwahati,Assam,Blockchain Developer,Advanced,1,0,2,1,0,3,17
+ST0207,Shreya Verma,C035,Computer Engineering,1,7.25,Bengaluru,Karnataka,Data Analyst,Advanced,5,0,4,1,0,5,11
+ST0208,Karan More,C026,CSE (AI & ML),4,7.66,Visakhapatnam,Andhra Pradesh,UI/UX Designer,Advanced,8,1,2,1,1,4,19
+ST0209,Aniket Jadhav,C056,Computer Science and Engineering,2,6.37,Visakhapatnam,Andhra Pradesh,Android Developer,Intermediate,1,0,0,1,1,6,14
+ST0210,Varun Mishra,C043,Mechanical Engineering,1,6.5,Ahmedabad,Gujarat,DevOps,Beginner,0,0,2,0,0,6,13
+ST0211,Diya Khan,C031,Civil Engineering,1,8.32,Pune,Maharashtra,Backend Developer,Advanced,0,0,3,0,0,6,14
+ST0212,Shreyas Mohanty,C043,Mechanical Engineering,2,7.29,Ahmedabad,Gujarat,Data Scientist,Beginner,0,0,3,1,0,5,8
+ST0213,Sneha Fernandes,C014,Mechanical Engineering,4,8.21,Surat,Gujarat,Cybersecurity,Advanced,5,2,5,1,0,5,20
+ST0214,Advait Iyer,C044,Computer Engineering,2,7.87,Surat,Gujarat,UI/UX Designer,Advanced,1,0,3,1,0,4,11
+ST0215,Akash Qureshi,C035,Electrical Engineering,3,7.03,Bengaluru,Karnataka,Data Scientist,Intermediate,0,0,1,1,1,3,11
+ST0216,Yash Nair,C031,Civil Engineering,1,8.84,Pune,Maharashtra,UI/UX Designer,Advanced,3,0,2,0,1,4,12
+ST0217,Sneha Sahu,C006,CSE (AI & ML),3,8.35,Mysuru,Karnataka,Cybersecurity,Intermediate,1,0,3,0,0,4,9
+ST0218,Diya Gupta,C025,Mechanical Engineering,3,7.29,Guwahati,Assam,DevOps,Intermediate,0,0,3,1,1,6,8
+ST0219,Riya Shinde,C009,Information Technology,3,7.37,Hyderabad,Telangana,Backend Developer,Advanced,5,0,1,1,0,4,18
+ST0220,Kavya Rao,C026,Civil Engineering,3,8.21,Visakhapatnam,Andhra Pradesh,UI/UX Designer,Advanced,0,0,4,0,0,6,12
+ST0221,Karan Yadav,C018,Electronics and Telecommunication,3,6.8,Patna,Bihar,DevOps,Intermediate,6,2,3,1,1,4,12
+ST0222,Sakshi Rao,C008,Computer Engineering,3,7.62,Coimbatore,Tamil Nadu,Blockchain Developer,Advanced,0,0,3,1,1,5,11
+ST0223,Sahil Mishra,C057,Electrical Engineering,2,6.84,Raipur,Chhattisgarh,Backend Developer,Intermediate,2,0,3,1,0,5,14
+ST0224,Dhruv Sinha,C005,Mechanical Engineering,2,7.88,Bengaluru,Karnataka,Blockchain Developer,Advanced,1,0,2,1,0,6,18
+ST0225,Pooja Sahu,C048,Electrical Engineering,1,7.43,Patna,Bihar,IoT Developer,Beginner,1,0,1,1,0,6,8
+ST0226,Sakshi Shinde,C002,Information Technology,3,7.33,Mumbai,Maharashtra,Data Scientist,Intermediate,1,0,1,1,0,5,17
+ST0227,Kavya Jain,C008,Electrical Engineering,1,7.01,Coimbatore,Tamil Nadu,Cloud Developer,Intermediate,0,0,2,0,0,3,13
+ST0228,Aditya Nair,C044,Information Technology,3,6.26,Surat,Gujarat,Android Developer,Intermediate,0,0,3,0,0,4,10
+ST0229,Varun Verma,C024,Computer Science and Engineering,3,7.16,Chandigarh,Chandigarh,DevOps,Intermediate,0,0,1,1,0,4,14
+ST0230,Riya Sahu,C026,Civil Engineering,3,7.61,Visakhapatnam,Andhra Pradesh,UI/UX Designer,Advanced,0,0,5,1,0,6,11
+ST0231,Aditya Kumar,C002,Civil Engineering,1,7.34,Mumbai,Maharashtra,IoT Developer,Advanced,2,0,3,1,1,5,16
+ST0232,Sahil Gupta,C035,Mechanical Engineering,4,8.33,Bengaluru,Karnataka,Frontend Developer,Expert,0,0,3,0,1,5,17
+ST0233,Aarav Qureshi,C054,Electronics and Telecommunication,4,8.55,Chandigarh,Chandigarh,Android Developer,Advanced,0,0,3,0,0,5,12
+ST0234,Zara Trivedi,C014,Electrical Engineering,1,7.74,Surat,Gujarat,Android Developer,Intermediate,0,0,2,1,1,3,15
+ST0235,Zara Khan,C034,CSE (AI & ML),2,6.4,Chandrapur,Maharashtra,Cybersecurity,Intermediate,0,0,4,1,1,3,11
+ST0236,Sneha Pawar,C048,CSE (AI & ML),3,7.91,Patna,Bihar,Data Scientist,Advanced,7,2,2,1,0,4,14
+ST0237,Isha Shetty,C032,Electronics and Telecommunication,4,7.97,Mumbai,Maharashtra,Android Developer,Advanced,0,0,0,1,0,3,15
+ST0238,Sakshi Patel,C023,Computer Engineering,2,8.45,Thiruvananthapuram,Kerala,Data Scientist,Advanced,12,0,2,0,0,4,19
+ST0239,Sanika Trivedi,C028,Computer Engineering,2,8.18,Dehradun,Uttarakhand,Android Developer,Advanced,0,0,2,1,1,5,16
+ST0240,Isha Trivedi,C033,Computer Science and Engineering,1,7.66,Nagpur,Maharashtra,Data Analyst,Advanced,3,1,1,1,0,6,17
+ST0241,Zara Reddy,C049,Electrical Engineering,2,8.72,Lucknow,Uttar Pradesh,IoT Developer,Advanced,9,1,4,1,0,5,16
+ST0242,Manav Yadav,C022,Civil Engineering,3,8.55,Kochi,Kerala,Data Analyst,Advanced,1,0,3,1,1,4,20
+ST0243,Ishaan Sharma,C039,Computer Engineering,3,8.14,Hyderabad,Telangana,AI/ML Developer,Advanced,1,0,4,0,0,5,14
+ST0244,Yash Bhat,C055,Mechanical Engineering,2,7.31,Guwahati,Assam,DevOps,Intermediate,2,0,1,1,0,6,14
+ST0245,Sakshi Iyer,C015,Electronics and Telecommunication,1,7.32,Kolkata,West Bengal,AI/ML Developer,Intermediate,0,0,1,1,0,5,15
+ST0246,Shruti Kumar,C032,Civil Engineering,3,8.06,Mumbai,Maharashtra,DevOps,Advanced,0,0,4,0,0,5,15
+ST0247,Arjun Sharma,C024,Electronics and Telecommunication,2,7.84,Chandigarh,Chandigarh,DevOps,Advanced,2,0,3,1,1,5,17
+ST0248,Arjun Rao,C059,CSE (AI & ML),3,7.43,Panaji,Goa,Blockchain Developer,Beginner,0,0,1,1,0,5,13
+ST0249,Nisha Reddy,C045,Information Technology,4,7.4,Kolkata,West Bengal,Blockchain Developer,Advanced,6,0,2,0,0,5,15
+ST0250,Avani Fernandes,C059,Computer Science and Engineering,4,7.76,Panaji,Goa,Data Analyst,Advanced,0,0,3,1,1,3,12
+ST0251,Yash Patil,C004,CSE (AI & ML),3,7.7,Chandrapur,Maharashtra,Data Analyst,Advanced,2,0,3,0,1,5,13
+ST0252,Vihaan Das,C043,Electronics and Telecommunication,1,7.41,Ahmedabad,Gujarat,Android Developer,Intermediate,0,0,2,0,0,4,14
+ST0253,Shruti Deshmukh,C047,Computer Science and Engineering,3,6.77,Ranchi,Jharkhand,Blockchain Developer,Intermediate,1,0,3,1,1,5,10
+ST0254,Om Menon,C002,Electrical Engineering,2,8.1,Mumbai,Maharashtra,Frontend Developer,Advanced,0,0,1,1,0,3,10
+ST0255,Harsh Banerjee,C008,CSE (AI & ML),1,7.38,Coimbatore,Tamil Nadu,Cybersecurity,Intermediate,1,0,1,0,0,3,16
+ST0256,Shreyas Patel,C056,Electronics and Telecommunication,3,8.04,Visakhapatnam,Andhra Pradesh,Backend Developer,Advanced,0,0,2,0,1,5,18
+ST0257,Nikhil Reddy,C056,Electronics and Telecommunication,3,8.31,Visakhapatnam,Andhra Pradesh,Cloud Developer,Advanced,0,0,2,1,1,5,20
+ST0258,Priya Khan,C049,Mechanical Engineering,1,7.39,Lucknow,Uttar Pradesh,Backend Developer,Beginner,0,0,0,0,0,4,8
+ST0259,Ishaan Naidu,C035,Mechanical Engineering,2,7.49,Bengaluru,Karnataka,UI/UX Designer,Intermediate,0,0,1,1,0,5,8
+ST0260,Sakshi Sahu,C037,CSE (AI & ML),2,7.64,Chennai,Tamil Nadu,Data Scientist,Intermediate,0,0,0,0,0,5,15
+ST0261,Diya More,C011,CSE (AI & ML),3,9.31,Delhi,Delhi,Full Stack Developer,Expert,24,10,4,1,1,4,18
+ST0262,Arjun Reddy,C001,Electrical Engineering,2,6.69,Pune,Maharashtra,Cybersecurity,Intermediate,1,0,2,1,0,6,13
+ST0263,Pooja Fernandes,C020,Civil Engineering,3,6.49,Indore,Madhya Pradesh,Cloud Developer,Intermediate,0,0,3,0,0,4,9
+ST0264,Ananya Kumar,C006,Mechanical Engineering,3,7.37,Mysuru,Karnataka,UI/UX Designer,Intermediate,1,0,1,0,0,5,9
+ST0265,Sneha Patil,C008,CSE (AI & ML),3,8.23,Coimbatore,Tamil Nadu,DevOps,Advanced,7,1,3,1,1,6,16
+ST0266,Om Sinha,C043,CSE (AI & ML),3,7.44,Ahmedabad,Gujarat,Cloud Developer,Advanced,1,1,2,0,0,5,12
+ST0267,Advait Yadav,C047,CSE (AI & ML),4,8.04,Ranchi,Jharkhand,UI/UX Designer,Expert,0,0,5,0,1,3,18
+ST0268,Rahul Kumar,C016,Computer Science and Engineering,3,7.22,Bhubaneswar,Odisha,Android Developer,Intermediate,1,0,3,0,0,5,9
+ST0269,Aarav Trivedi,C003,Civil Engineering,3,8.4,Nagpur,Maharashtra,Android Developer,Intermediate,0,0,2,0,0,6,15
+ST0270,Yash Rao,C038,Electrical Engineering,1,7.81,Coimbatore,Tamil Nadu,Cloud Developer,Beginner,0,0,1,1,0,3,14
+ST0271,Sneha Kulkarni,C005,Electrical Engineering,4,8.12,Bengaluru,Karnataka,Frontend Developer,Expert,0,0,4,1,1,6,17
+ST0272,Advait Shah,C038,Information Technology,4,7.79,Coimbatore,Tamil Nadu,DevOps,Advanced,0,0,3,0,1,4,18
+ST0273,Nikhil Verma,C025,Computer Science and Engineering,4,7.49,Guwahati,Assam,AI/ML Developer,Advanced,0,0,1,0,1,6,12
+ST0274,Akash Nair,C052,CSE (AI & ML),3,7.84,Kochi,Kerala,Android Developer,Intermediate,0,0,4,1,1,5,13
+ST0275,Aditi Sinha,C010,Computer Science and Engineering,4,7.95,Warangal,Telangana,Android Developer,Advanced,0,0,4,1,0,3,20
+ST0276,Rahul Das,C045,Information Technology,3,8.49,Kolkata,West Bengal,Data Analyst,Advanced,1,0,3,1,0,5,17
+ST0277,Harsh Naidu,C037,Computer Science and Engineering,3,7.92,Chennai,Tamil Nadu,Full Stack Developer,Advanced,11,1,1,0,0,3,13
+ST0278,Diya Sinha,C033,Information Technology,2,7.41,Nagpur,Maharashtra,Blockchain Developer,Intermediate,1,0,2,0,0,3,16
+ST0279,Anushka Roy,C001,Computer Engineering,3,9.46,Pune,Maharashtra,Frontend Developer,Advanced,2,0,4,1,1,5,12
+ST0280,Avani Nair,C053,Information Technology,2,7.33,Thiruvananthapuram,Kerala,Cloud Developer,Intermediate,0,0,2,0,1,4,11
+ST0281,Rahul Shah,C050,Mechanical Engineering,4,8.32,Indore,Madhya Pradesh,Backend Developer,Expert,2,1,2,1,1,6,16
+ST0282,Akash Sinha,C007,Information Technology,1,7.77,Chennai,Tamil Nadu,Frontend Developer,Advanced,0,0,2,1,1,5,11
+ST0283,Akash Iyer,C014,Mechanical Engineering,3,7.87,Surat,Gujarat,IoT Developer,Advanced,7,2,4,1,0,4,10
+ST0284,Akash Gowda,C023,CSE (AI & ML),1,7.13,Thiruvananthapuram,Kerala,IoT Developer,Intermediate,0,0,1,1,0,4,9
+ST0285,Advait Chatterjee,C043,Information Technology,2,8.77,Ahmedabad,Gujarat,Data Scientist,Advanced,5,1,4,1,1,4,15
+ST0286,Isha Iyer,C026,Computer Engineering,4,6.93,Visakhapatnam,Andhra Pradesh,UI/UX Designer,Intermediate,0,0,3,0,1,4,11
+ST0287,Nisha Iyer,C023,Mechanical Engineering,2,6.62,Thiruvananthapuram,Kerala,AI/ML Developer,Intermediate,0,0,1,1,1,4,10
+ST0288,Neha Jain,C041,Information Technology,1,6.58,Delhi,Delhi,Backend Developer,Intermediate,0,0,1,1,0,4,10
+ST0289,Arjun Shinde,C044,Mechanical Engineering,3,8.53,Surat,Gujarat,Frontend Developer,Expert,0,0,2,1,1,3,13
+ST0290,Advait Sahu,C033,Information Technology,1,6.91,Nagpur,Maharashtra,Data Analyst,Intermediate,0,0,3,1,0,5,7
+ST0291,Aditya More,C058,CSE (AI & ML),3,7.42,Dehradun,Uttarakhand,Backend Developer,Advanced,17,5,5,1,0,3,12
+ST0292,Advait Naidu,C052,Computer Science and Engineering,4,7.1,Kochi,Kerala,UI/UX Designer,Intermediate,0,0,1,1,0,6,16
+ST0293,Ananya Yadav,C031,Information Technology,1,8.1,Pune,Maharashtra,UI/UX Designer,Advanced,4,2,2,1,0,6,14
+ST0294,Meera Shinde,C044,CSE (AI & ML),4,7.72,Surat,Gujarat,Cybersecurity,Advanced,0,0,3,0,1,3,15
+ST0295,Zara Gupta,C056,Electronics and Telecommunication,2,6.57,Visakhapatnam,Andhra Pradesh,Backend Developer,Intermediate,0,0,2,0,0,5,13
+ST0296,Rahul Nair,C055,Electronics and Telecommunication,3,7.05,Guwahati,Assam,Data Analyst,Intermediate,1,0,2,1,1,6,10
+ST0297,Ananya Qureshi,C012,Civil Engineering,4,6.78,Jaipur,Rajasthan,Full Stack Developer,Advanced,2,1,3,0,0,6,16
+ST0298,Shreyas Das,C053,Computer Science and Engineering,4,7.77,Thiruvananthapuram,Kerala,DevOps,Intermediate,0,0,3,0,0,5,15
+ST0299,Rohan Reddy,C035,Information Technology,3,7.5,Bengaluru,Karnataka,Blockchain Developer,Advanced,1,1,3,1,1,6,12
+ST0300,Shreya Shah,C047,CSE (AI & ML),4,9.09,Ranchi,Jharkhand,Backend Developer,Advanced,7,1,3,1,0,4,11
+ST0301,Atharv Mehta,C006,Electronics and Telecommunication,3,7.35,Mysuru,Karnataka,Full Stack Developer,Advanced,4,0,2,0,1,4,12
+ST0302,Priya Menon,C054,Electrical Engineering,2,8.06,Chandigarh,Chandigarh,Backend Developer,Advanced,16,3,2,1,1,4,17
+ST0303,Priya Joshi,C035,Information Technology,4,8.45,Bengaluru,Karnataka,Blockchain Developer,Advanced,0,0,1,1,0,4,14
+ST0304,Kavya Pawar,C060,Electronics and Telecommunication,1,7.65,Jammu,Jammu and Kashmir,Cybersecurity,Intermediate,0,0,1,1,1,5,9
+ST0305,Sahil Sharma,C036,Mechanical Engineering,4,7.44,Mysuru,Karnataka,DevOps,Advanced,4,3,3,1,0,4,18
+ST0306,Avani Sharma,C059,Mechanical Engineering,2,7.74,Panaji,Goa,Data Scientist,Intermediate,2,0,2,0,1,6,15
+ST0307,Sahil Kumar,C017,Civil Engineering,4,8.72,Ranchi,Jharkhand,Cybersecurity,Expert,5,2,3,0,1,3,21
+ST0308,Aditi Singh,C055,Computer Engineering,3,8.28,Guwahati,Assam,Frontend Developer,Advanced,3,1,3,1,0,6,14
+ST0309,Sakshi Khan,C031,Civil Engineering,3,8.53,Pune,Maharashtra,UI/UX Designer,Expert,0,0,5,0,0,5,13
+ST0310,Varun Reddy,C046,Computer Engineering,2,7.13,Bhubaneswar,Odisha,AI/ML Developer,Intermediate,0,0,1,0,0,3,12
+ST0311,Harsh Gupta,C005,Civil Engineering,4,9.31,Bengaluru,Karnataka,Blockchain Developer,Expert,1,0,2,1,1,5,18
+ST0312,Anushka Fernandes,C024,Information Technology,2,8.2,Chandigarh,Chandigarh,IoT Developer,Advanced,3,1,4,1,1,4,14
+ST0313,Meera Sahu,C008,Mechanical Engineering,4,7.59,Coimbatore,Tamil Nadu,Cybersecurity,Advanced,0,0,3,1,0,4,10
+ST0314,Pranav Gupta,C045,Computer Science and Engineering,3,8.74,Kolkata,West Bengal,UI/UX Designer,Advanced,1,0,3,1,0,4,19
+ST0315,Diya Shah,C055,Electrical Engineering,1,7.08,Guwahati,Assam,Data Scientist,Intermediate,7,3,2,0,1,4,13
+ST0316,Riya Kulkarni,C012,Civil Engineering,2,7.27,Jaipur,Rajasthan,Data Analyst,Beginner,0,0,1,1,0,3,7
+ST0317,Neha Deshmukh,C048,Computer Engineering,2,8.4,Patna,Bihar,UI/UX Designer,Advanced,0,0,2,1,0,5,10
+ST0318,Avani Iyer,C008,Computer Engineering,1,8.16,Coimbatore,Tamil Nadu,Cloud Developer,Advanced,1,0,1,1,1,6,11
+ST0319,Nikhil Trivedi,C055,Mechanical Engineering,4,7.21,Guwahati,Assam,Android Developer,Advanced,1,0,2,0,0,3,15
+ST0320,Priya Yadav,C001,Electronics and Telecommunication,2,7.13,Pune,Maharashtra,IoT Developer,Advanced,0,0,3,0,0,4,16
+ST0321,Pranav Sinha,C023,Electronics and Telecommunication,4,7.24,Thiruvananthapuram,Kerala,Full Stack Developer,Intermediate,0,0,1,1,0,5,10
+ST0322,Harsh Gowda,C016,Information Technology,4,8.98,Bhubaneswar,Odisha,DevOps,Expert,6,3,2,1,1,5,21
+ST0323,Ishaan Shetty,C007,Computer Engineering,2,6.68,Chennai,Tamil Nadu,Full Stack Developer,Beginner,0,0,3,0,0,3,8
+ST0324,Pooja Nair,C008,Mechanical Engineering,4,8.38,Coimbatore,Tamil Nadu,Cybersecurity,Advanced,11,2,3,0,1,4,19
+ST0325,Nikhil Kumar,C023,Civil Engineering,1,7.78,Thiruvananthapuram,Kerala,Cloud Developer,Intermediate,0,0,2,0,0,5,16
+ST0326,Om Naidu,C048,Computer Engineering,2,8.06,Patna,Bihar,Android Developer,Intermediate,0,0,1,1,0,4,14
+ST0327,Ananya Nair,C051,CSE (AI & ML),1,7.47,Bhopal,Madhya Pradesh,Full Stack Developer,Intermediate,0,0,4,1,0,3,11
+ST0328,Rohan Patel,C023,Mechanical Engineering,4,9.32,Thiruvananthapuram,Kerala,Data Analyst,Expert,0,0,4,1,1,3,17
+ST0329,Atharv Shetty,C046,Information Technology,1,8.26,Bhubaneswar,Odisha,DevOps,Intermediate,0,0,2,0,0,3,7
+ST0330,Shreya Reddy,C003,Information Technology,2,8.12,Nagpur,Maharashtra,Backend Developer,Advanced,1,0,0,1,0,3,16
+ST0331,Rahul Menon,C002,Information Technology,3,7.37,Mumbai,Maharashtra,Data Scientist,Intermediate,0,0,5,1,0,3,17
+ST0332,Yash Trivedi,C017,Electrical Engineering,2,7.56,Ranchi,Jharkhand,AI/ML Developer,Advanced,2,0,2,0,0,6,12
+ST0333,Meera Sinha,C021,Civil Engineering,1,7.02,Bhopal,Madhya Pradesh,Blockchain Developer,Intermediate,0,0,3,1,0,5,15
+ST0334,Avani Gowda,C042,Computer Science and Engineering,3,8.51,Jaipur,Rajasthan,UI/UX Designer,Advanced,1,0,4,1,0,4,20
+ST0335,Sahil Mohanty,C047,Civil Engineering,2,6.65,Ranchi,Jharkhand,Data Analyst,Intermediate,0,0,2,0,0,6,12
+ST0336,Ishaan Khan,C059,Electrical Engineering,3,7.9,Panaji,Goa,Data Analyst,Advanced,6,1,4,0,1,5,15
+ST0337,Vaishnavi Kulkarni,C060,Electronics and Telecommunication,2,7.24,Jammu,Jammu and Kashmir,Cloud Developer,Intermediate,0,0,1,1,1,6,8
+ST0338,Priya Chatterjee,C059,CSE (AI & ML),2,7.74,Panaji,Goa,Frontend Developer,Advanced,0,0,1,1,0,4,17
+ST0339,Varun Bhat,C042,Electrical Engineering,2,8.14,Jaipur,Rajasthan,Blockchain Developer,Advanced,1,0,3,1,1,5,10
+ST0340,Rohan Mishra,C037,Computer Engineering,3,8.67,Chennai,Tamil Nadu,Full Stack Developer,Expert,4,0,3,1,1,4,18
+ST0341,Nisha Shinde,C030,Electrical Engineering,3,7.49,Jammu,Jammu and Kashmir,Android Developer,Intermediate,0,0,0,1,0,3,15
+ST0342,Advait More,C032,CSE (AI & ML),3,6.21,Mumbai,Maharashtra,Data Scientist,Intermediate,0,0,1,1,1,5,7
+ST0343,Shreyas Qureshi,C017,Computer Engineering,4,6.96,Ranchi,Jharkhand,Data Analyst,Intermediate,1,0,3,0,1,5,16
+ST0344,Rahul Banerjee,C017,Information Technology,1,6.45,Ranchi,Jharkhand,Data Scientist,Beginner,0,0,3,1,0,6,14
+ST0345,Zara Singh,C011,Computer Engineering,3,8.86,Delhi,Delhi,Full Stack Developer,Expert,0,0,1,1,1,6,16
+ST0346,Tanvi Khan,C028,CSE (AI & ML),2,7.77,Dehradun,Uttarakhand,Blockchain Developer,Advanced,4,2,4,1,0,5,15
+ST0347,Harsh Menon,C042,Civil Engineering,1,7.55,Jaipur,Rajasthan,Backend Developer,Intermediate,0,0,1,0,0,5,7
+ST0348,Meera Patel,C007,Civil Engineering,2,8.18,Chennai,Tamil Nadu,Cybersecurity,Advanced,1,0,4,1,0,6,13
+ST0349,Vihaan Gupta,C051,Mechanical Engineering,1,7.17,Bhopal,Madhya Pradesh,Frontend Developer,Intermediate,1,0,1,0,0,3,16
+ST0350,Vihaan Banerjee,C013,Electrical Engineering,1,6.95,Ahmedabad,Gujarat,Android Developer,Advanced,0,0,3,1,0,5,10
+ST0351,Priya Qureshi,C012,Electronics and Telecommunication,2,8.23,Jaipur,Rajasthan,Android Developer,Intermediate,0,0,2,1,0,5,14
+ST0352,Anushka Yadav,C054,Civil Engineering,4,8.47,Chandigarh,Chandigarh,AI/ML Developer,Expert,3,0,3,1,1,4,21
+ST0353,Harsh Verma,C016,Electronics and Telecommunication,3,8.14,Bhubaneswar,Odisha,UI/UX Designer,Advanced,0,0,1,0,1,5,15
+ST0354,Priya Shah,C025,Mechanical Engineering,1,7.42,Guwahati,Assam,Blockchain Developer,Intermediate,0,0,2,1,0,5,9
+ST0355,Rohan Iyer,C037,Civil Engineering,3,7.59,Chennai,Tamil Nadu,Backend Developer,Intermediate,0,0,3,0,0,4,8
+ST0356,Om Bhat,C051,Computer Science and Engineering,3,7.6,Bhopal,Madhya Pradesh,Full Stack Developer,Intermediate,1,0,5,0,0,6,12
+ST0357,Pooja Behera,C048,Electronics and Telecommunication,2,6.96,Patna,Bihar,Android Developer,Advanced,4,0,3,1,1,3,16
+ST0358,Priya Nair,C017,Electrical Engineering,1,7.42,Ranchi,Jharkhand,AI/ML Developer,Intermediate,0,0,1,0,1,6,12
+ST0359,Yash Kumar,C027,Computer Engineering,3,7.23,Raipur,Chhattisgarh,Full Stack Developer,Intermediate,0,0,2,1,1,3,15
+ST0360,Atharv Nair,C016,Mechanical Engineering,2,7.69,Bhubaneswar,Odisha,Blockchain Developer,Intermediate,0,0,3,1,0,3,12
+ST0361,Diya Singh,C059,Mechanical Engineering,3,8.58,Panaji,Goa,AI/ML Developer,Advanced,2,0,1,1,1,4,16
+ST0362,Sanika Fernandes,C009,Computer Science and Engineering,1,6.66,Hyderabad,Telangana,Android Developer,Beginner,0,0,1,0,1,4,10
+ST0363,Varun Das,C041,Information Technology,3,7.74,Delhi,Delhi,Cloud Developer,Advanced,0,0,2,1,1,4,11
+ST0364,Akash Mehta,C054,Electronics and Telecommunication,1,9.16,Chandigarh,Chandigarh,Android Developer,Intermediate,0,0,1,1,0,3,17
+ST0365,Isha Shinde,C018,Electrical Engineering,4,8.4,Patna,Bihar,Data Scientist,Expert,16,6,1,1,1,5,16
+ST0366,Vaishnavi Shah,C021,Computer Engineering,1,7.14,Bhopal,Madhya Pradesh,Backend Developer,Intermediate,0,0,2,1,0,6,8
+ST0367,Sakshi Reddy,C038,Electrical Engineering,1,6.18,Coimbatore,Tamil Nadu,AI/ML Developer,Intermediate,0,0,3,0,0,5,12
+ST0368,Aditya Sinha,C025,Electrical Engineering,4,8.85,Guwahati,Assam,IoT Developer,Expert,2,0,4,1,1,6,18
+ST0369,Aditya Naidu,C056,Information Technology,2,7.18,Visakhapatnam,Andhra Pradesh,UI/UX Designer,Advanced,1,0,2,0,0,4,13
+ST0370,Rohan Roy,C053,Electronics and Telecommunication,2,6.89,Thiruvananthapuram,Kerala,Android Developer,Intermediate,0,0,2,1,0,5,9
+ST0371,Shreya Khan,C053,Civil Engineering,4,7.5,Thiruvananthapuram,Kerala,Android Developer,Advanced,0,0,3,0,1,6,19
+ST0372,Advait Qureshi,C037,CSE (AI & ML),4,6.66,Chennai,Tamil Nadu,Cybersecurity,Intermediate,5,0,1,1,0,5,14
+ST0373,Vaishnavi Das,C059,Information Technology,4,8.09,Panaji,Goa,DevOps,Advanced,4,2,2,0,0,4,14
+ST0374,Atharv Pawar,C052,Computer Engineering,2,7.08,Kochi,Kerala,Backend Developer,Advanced,4,0,3,0,1,6,14
+ST0375,Rahul Qureshi,C049,Computer Science and Engineering,3,7.98,Lucknow,Uttar Pradesh,DevOps,Expert,0,0,3,0,1,4,13
+ST0376,Vaishnavi Chatterjee,C006,Electronics and Telecommunication,4,6.94,Mysuru,Karnataka,Data Scientist,Advanced,1,0,4,0,1,4,15
+ST0377,Pooja Gowda,C038,Information Technology,2,8.25,Coimbatore,Tamil Nadu,Data Analyst,Advanced,1,1,1,1,1,6,17
+ST0378,Pranav Shetty,C001,Electrical Engineering,1,7.59,Pune,Maharashtra,DevOps,Intermediate,3,1,1,1,0,6,14
+ST0379,Kavya Mehta,C016,Electrical Engineering,1,6.93,Bhubaneswar,Odisha,DevOps,Advanced,0,0,3,1,0,6,18
+ST0380,Neha Bhat,C050,Information Technology,1,9.44,Indore,Madhya Pradesh,Data Scientist,Advanced,0,0,3,0,1,3,11
+ST0381,Aditi Pawar,C018,Electronics and Telecommunication,4,9.21,Patna,Bihar,Frontend Developer,Advanced,1,0,2,0,1,5,16
+ST0382,Diya Patil,C010,CSE (AI & ML),2,6.82,Warangal,Telangana,UI/UX Designer,Advanced,0,0,4,1,0,3,18
+ST0383,Aniket Chatterjee,C058,CSE (AI & ML),3,7.71,Dehradun,Uttarakhand,UI/UX Designer,Advanced,0,0,5,1,1,3,16
+ST0384,Rohan Singh,C016,Electronics and Telecommunication,2,6.78,Bhubaneswar,Odisha,AI/ML Developer,Intermediate,2,0,3,1,1,5,15
+ST0385,Advait Singh,C010,Computer Engineering,3,6.69,Warangal,Telangana,Backend Developer,Intermediate,0,0,3,1,1,4,7
+ST0386,Neha Das,C002,Information Technology,4,7.04,Mumbai,Maharashtra,Full Stack Developer,Intermediate,3,1,2,1,0,5,17
+ST0387,Sneha Patel,C006,Electronics and Telecommunication,3,7.45,Mysuru,Karnataka,IoT Developer,Advanced,6,0,2,1,0,6,16
+ST0388,Varun Nair,C003,Mechanical Engineering,3,7.51,Nagpur,Maharashtra,Android Developer,Advanced,2,0,2,1,0,5,17
+ST0389,Shreyas Shah,C024,Computer Science and Engineering,1,7.05,Chandigarh,Chandigarh,Data Scientist,Beginner,0,0,3,0,0,3,13
+ST0390,Zara Iyer,C052,Computer Science and Engineering,3,8.51,Kochi,Kerala,IoT Developer,Expert,16,7,3,1,0,5,18
+ST0391,Vihaan Sahu,C019,Civil Engineering,3,8.52,Lucknow,Uttar Pradesh,Cybersecurity,Advanced,0,0,3,1,0,3,18
+ST0392,Nikhil Banerjee,C001,Computer Engineering,1,7.66,Pune,Maharashtra,Blockchain Developer,Intermediate,2,0,4,1,0,3,11
+ST0393,Pooja Mehta,C042,Computer Science and Engineering,2,8.63,Jaipur,Rajasthan,IoT Developer,Intermediate,1,0,0,1,0,3,8
+ST0394,Riya Gowda,C024,Computer Engineering,4,8.79,Chandigarh,Chandigarh,Data Analyst,Advanced,0,0,3,0,0,4,18
+ST0395,Nisha Das,C040,CSE (AI & ML),1,6.47,Warangal,Telangana,Backend Developer,Beginner,0,0,1,0,1,3,6
+ST0396,Advait Jadhav,C033,Computer Engineering,3,8.85,Nagpur,Maharashtra,UI/UX Designer,Expert,0,0,1,1,0,6,14
+ST0397,Dhruv Shah,C003,Computer Engineering,4,8.43,Nagpur,Maharashtra,Frontend Developer,Expert,8,3,3,1,1,6,21
+ST0398,Diya Joshi,C013,Civil Engineering,3,7.84,Ahmedabad,Gujarat,Full Stack Developer,Intermediate,0,0,3,1,0,5,14
+ST0399,Meera Mohanty,C021,Electronics and Telecommunication,2,7.24,Bhopal,Madhya Pradesh,Cybersecurity,Intermediate,0,0,1,0,1,4,14
+ST0400,Shreya Trivedi,C016,Computer Science and Engineering,2,7.29,Bhubaneswar,Odisha,Data Scientist,Intermediate,0,0,2,1,0,5,11
+ST0401,Rohan Sinha,C041,Civil Engineering,2,8.24,Delhi,Delhi,Frontend Developer,Intermediate,0,0,3,1,0,5,10
+ST0402,Diya Nair,C057,Information Technology,2,7.49,Raipur,Chhattisgarh,Cybersecurity,Intermediate,0,0,2,1,1,5,13
+ST0403,Aniket Banerjee,C035,Mechanical Engineering,1,7.58,Bengaluru,Karnataka,UI/UX Designer,Advanced,0,0,2,1,1,6,18
+ST0404,Rohan Mohanty,C048,Information Technology,3,7.7,Patna,Bihar,Full Stack Developer,Advanced,0,0,3,1,1,5,13
+ST0405,Aditya Mishra,C041,CSE (AI & ML),4,8.7,Delhi,Delhi,Cloud Developer,Advanced,0,0,4,1,0,6,13
+ST0406,Sanika Reddy,C009,Electrical Engineering,2,7.41,Hyderabad,Telangana,UI/UX Designer,Intermediate,0,0,2,0,1,5,7
+ST0407,Manav Sahu,C005,Computer Engineering,1,8.07,Bengaluru,Karnataka,Cybersecurity,Advanced,3,1,3,1,1,6,12
+ST0408,Sahil Joshi,C024,Mechanical Engineering,2,7.43,Chandigarh,Chandigarh,DevOps,Intermediate,0,0,2,1,0,3,17
+ST0409,Neha Sahu,C002,Computer Engineering,1,7.44,Mumbai,Maharashtra,Full Stack Developer,Intermediate,0,0,1,0,0,5,14
+ST0410,Aditi Mishra,C059,Electrical Engineering,2,7.36,Panaji,Goa,UI/UX Designer,Intermediate,1,0,5,0,0,4,17
+ST0411,Vihaan Shetty,C046,Mechanical Engineering,2,8.75,Bhubaneswar,Odisha,Blockchain Developer,Intermediate,0,0,0,1,1,5,17
+ST0412,Kavya Joshi,C059,CSE (AI & ML),1,7.58,Panaji,Goa,Backend Developer,Advanced,6,0,2,1,1,6,13
+ST0413,Aarav Shah,C043,Mechanical Engineering,3,7.86,Ahmedabad,Gujarat,AI/ML Developer,Intermediate,0,0,3,0,0,4,10
+ST0414,Tanvi Rao,C011,Civil Engineering,4,9.37,Delhi,Delhi,AI/ML Developer,Expert,0,0,5,1,1,4,13
+ST0415,Isha Deshmukh,C053,Computer Engineering,4,5.93,Thiruvananthapuram,Kerala,Cloud Developer,Intermediate,0,0,2,1,1,5,11
+ST0416,Sneha Gupta,C018,Electronics and Telecommunication,3,7.2,Patna,Bihar,Full Stack Developer,Intermediate,0,0,2,1,0,6,13
+ST0417,Sneha Qureshi,C007,Computer Science and Engineering,3,7.72,Chennai,Tamil Nadu,Android Developer,Intermediate,0,0,1,0,0,4,11
+ST0418,Vaishnavi Mehta,C033,Electronics and Telecommunication,4,9.14,Nagpur,Maharashtra,Data Scientist,Expert,4,0,4,1,1,6,13
+ST0419,Anushka Nair,C058,Electronics and Telecommunication,3,7.85,Dehradun,Uttarakhand,DevOps,Advanced,5,0,3,1,1,4,11
+ST0420,Riya Patil,C024,CSE (AI & ML),2,7.3,Chandigarh,Chandigarh,Data Scientist,Intermediate,1,0,5,1,0,6,16
+ST0421,Avani Shinde,C054,Information Technology,2,6.56,Chandigarh,Chandigarh,Cloud Developer,Beginner,0,0,0,0,0,5,7
+ST0422,Shreya Jain,C047,Civil Engineering,2,7.78,Ranchi,Jharkhand,Cybersecurity,Intermediate,0,0,3,1,1,6,17
+ST0423,Harsh Kulkarni,C032,Electrical Engineering,1,9.39,Mumbai,Maharashtra,Data Analyst,Advanced,0,0,3,1,0,6,18
+ST0424,Vaishnavi Yadav,C002,Electronics and Telecommunication,2,7.54,Mumbai,Maharashtra,Data Scientist,Advanced,5,2,0,1,0,5,13
+ST0425,Pranav Das,C013,Electronics and Telecommunication,2,7.93,Ahmedabad,Gujarat,Full Stack Developer,Advanced,1,0,3,0,1,5,12
+ST0426,Isha Roy,C029,Mechanical Engineering,3,9.38,Panaji,Goa,Full Stack Developer,Advanced,7,0,3,1,1,5,10
+ST0427,Shreya Qureshi,C038,Electrical Engineering,3,6.3,Coimbatore,Tamil Nadu,UI/UX Designer,Intermediate,0,0,0,1,0,6,8
+ST0428,Tanvi Yadav,C034,CSE (AI & ML),2,7.71,Chandrapur,Maharashtra,Backend Developer,Advanced,2,1,3,1,0,3,13
+ST0429,Aniket Pawar,C007,Civil Engineering,4,7.41,Chennai,Tamil Nadu,Full Stack Developer,Advanced,0,0,2,1,0,4,18
+ST0430,Manav Mishra,C043,Computer Science and Engineering,4,7.91,Ahmedabad,Gujarat,Backend Developer,Advanced,19,0,2,1,0,4,17
+ST0431,Manav Menon,C019,Electronics and Telecommunication,3,7.23,Lucknow,Uttar Pradesh,Blockchain Developer,Advanced,7,0,3,1,1,4,12
+ST0432,Nikhil More,C028,Civil Engineering,1,7.85,Dehradun,Uttarakhand,Cybersecurity,Advanced,2,0,2,1,0,6,15
+ST0433,Meera Qureshi,C038,CSE (AI & ML),2,8.31,Coimbatore,Tamil Nadu,Full Stack Developer,Advanced,4,0,5,1,0,4,10
+ST0434,Pranav Singh,C033,Electrical Engineering,3,8.36,Nagpur,Maharashtra,IoT Developer,Advanced,3,0,3,1,0,5,14
+ST0435,Varun Kulkarni,C029,Electronics and Telecommunication,3,8.21,Panaji,Goa,Data Scientist,Advanced,1,1,4,1,0,6,17
+ST0436,Akash Menon,C026,Electrical Engineering,4,7.65,Visakhapatnam,Andhra Pradesh,AI/ML Developer,Advanced,5,0,2,1,0,4,13
+ST0437,Aniket Patel,C007,Civil Engineering,2,7.82,Chennai,Tamil Nadu,Data Scientist,Intermediate,0,0,2,1,0,5,11
+ST0438,Harsh Das,C054,Civil Engineering,2,6.36,Chandigarh,Chandigarh,Frontend Developer,Intermediate,0,0,1,0,1,5,10
+ST0439,Varun More,C042,Computer Engineering,1,7.41,Jaipur,Rajasthan,Cloud Developer,Advanced,1,0,1,1,0,5,13
+ST0440,Sakshi Gupta,C042,CSE (AI & ML),4,8.29,Jaipur,Rajasthan,AI/ML Developer,Advanced,2,1,1,0,1,3,15
+ST0441,Tanvi Banerjee,C035,Information Technology,3,6.79,Bengaluru,Karnataka,Frontend Developer,Intermediate,0,0,2,1,0,5,8
+ST0442,Sahil Mehta,C047,Mechanical Engineering,4,7.62,Ranchi,Jharkhand,DevOps,Intermediate,2,0,1,0,1,6,15
+ST0443,Aditi Naidu,C022,Civil Engineering,1,8.08,Kochi,Kerala,DevOps,Intermediate,1,0,0,1,0,6,15
+ST0444,Pranav Iyer,C009,Mechanical Engineering,2,8.09,Hyderabad,Telangana,Data Analyst,Advanced,3,0,3,0,0,4,16
+ST0445,Aditi Das,C055,Mechanical Engineering,3,6.49,Guwahati,Assam,Full Stack Developer,Intermediate,1,0,2,1,0,6,9
+ST0446,Tanvi Jadhav,C002,Information Technology,2,7.65,Mumbai,Maharashtra,Data Analyst,Advanced,1,0,4,0,0,3,11
+ST0447,Isha Jain,C038,Electronics and Telecommunication,1,7.13,Coimbatore,Tamil Nadu,Cybersecurity,Intermediate,0,0,2,0,1,4,14
+ST0448,Shreyas Singh,C030,Electrical Engineering,4,8.71,Jammu,Jammu and Kashmir,Android Developer,Advanced,0,0,3,1,1,4,18
+ST0449,Shruti Naidu,C011,Electrical Engineering,2,7.71,Delhi,Delhi,Blockchain Developer,Advanced,1,0,4,0,0,5,13
+ST0450,Sakshi Patil,C014,Information Technology,3,9.25,Surat,Gujarat,Cloud Developer,Advanced,0,0,1,1,0,5,17
+ST0451,Manav Patil,C016,Information Technology,3,7.27,Bhubaneswar,Odisha,Backend Developer,Intermediate,2,0,1,1,0,5,16
+ST0452,Zara Shah,C014,Computer Science and Engineering,2,7.64,Surat,Gujarat,Cloud Developer,Advanced,0,0,3,1,0,4,17
+ST0453,Varun Singh,C029,Civil Engineering,2,8.03,Panaji,Goa,AI/ML Developer,Advanced,7,0,3,0,0,4,18
+ST0454,Nisha Mishra,C043,CSE (AI & ML),2,6.38,Ahmedabad,Gujarat,Android Developer,Intermediate,0,0,2,0,0,3,15
+ST0455,Sneha Mohanty,C055,Computer Science and Engineering,2,7.31,Guwahati,Assam,UI/UX Designer,Intermediate,0,0,2,0,0,5,12
+ST0456,Sahil Fernandes,C034,Computer Science and Engineering,3,9.3,Chandrapur,Maharashtra,Cloud Developer,Expert,0,0,4,0,1,3,14
+ST0457,Riya Fernandes,C029,Electronics and Telecommunication,4,5.8,Panaji,Goa,Full Stack Developer,Intermediate,1,0,1,1,0,6,14
+ST0458,Sneha Bhat,C001,Computer Engineering,1,7.58,Pune,Maharashtra,Cybersecurity,Advanced,0,0,2,1,0,5,12
+ST0459,Tanvi Mishra,C018,Electrical Engineering,2,7.37,Patna,Bihar,Cloud Developer,Advanced,3,1,2,1,0,4,17
+ST0460,Yash Patel,C049,Computer Engineering,3,8.5,Lucknow,Uttar Pradesh,IoT Developer,Intermediate,0,0,1,0,1,3,16
+ST0461,Priya Behera,C036,Electrical Engineering,4,8.01,Mysuru,Karnataka,IoT Developer,Advanced,9,3,5,1,0,6,20
+ST0462,Riya Pawar,C046,Civil Engineering,3,7.41,Bhubaneswar,Odisha,Frontend Developer,Advanced,2,0,3,0,1,4,13
+ST0463,Om Singh,C023,Civil Engineering,4,7.42,Thiruvananthapuram,Kerala,DevOps,Intermediate,0,0,2,1,1,6,12
+ST0464,Sneha Jain,C028,Electrical Engineering,1,8.61,Dehradun,Uttarakhand,IoT Developer,Advanced,3,1,2,1,1,4,14
+ST0465,Aarav Shinde,C036,Computer Science and Engineering,2,7.44,Mysuru,Karnataka,UI/UX Designer,Intermediate,0,0,3,1,0,3,11
+ST0466,Priya Shinde,C021,Mechanical Engineering,3,7.99,Bhopal,Madhya Pradesh,Data Analyst,Advanced,2,0,3,1,0,6,13
+ST0467,Vaishnavi Fernandes,C001,Computer Science and Engineering,2,8.75,Pune,Maharashtra,Blockchain Developer,Advanced,2,0,4,0,0,6,19
+ST0468,Dhruv Banerjee,C023,Computer Engineering,1,7.12,Thiruvananthapuram,Kerala,Cybersecurity,Intermediate,1,0,3,0,1,6,10
+ST0469,Pooja Mishra,C023,CSE (AI & ML),4,7.45,Thiruvananthapuram,Kerala,Data Analyst,Expert,0,0,5,1,0,6,15
+ST0470,Anushka Mohanty,C044,Computer Engineering,4,7.92,Surat,Gujarat,Android Developer,Intermediate,0,0,2,0,1,4,9
+ST0471,Meera Bhat,C034,CSE (AI & ML),2,7.67,Chandrapur,Maharashtra,Cloud Developer,Intermediate,0,0,2,1,1,6,10
+ST0472,Harsh Mishra,C023,Electrical Engineering,1,7.82,Thiruvananthapuram,Kerala,UI/UX Designer,Intermediate,0,0,2,0,0,6,15
+ST0473,Anushka Sharma,C007,Electrical Engineering,1,8.55,Chennai,Tamil Nadu,IoT Developer,Intermediate,8,2,1,1,0,4,11
+ST0474,Aditya Menon,C048,Civil Engineering,4,9.14,Patna,Bihar,Backend Developer,Expert,4,1,2,1,1,6,13
+ST0475,Shruti Shinde,C046,Electronics and Telecommunication,2,8.01,Bhubaneswar,Odisha,IoT Developer,Advanced,9,5,3,0,0,6,20
+ST0476,Akash Kulkarni,C033,Electronics and Telecommunication,1,6.74,Nagpur,Maharashtra,DevOps,Advanced,1,0,3,1,1,3,17
+ST0477,Yash Mehta,C003,CSE (AI & ML),3,6.7,Nagpur,Maharashtra,AI/ML Developer,Intermediate,0,0,2,0,0,3,11
+ST0478,Ishaan Shinde,C021,Electrical Engineering,4,9.15,Bhopal,Madhya Pradesh,Backend Developer,Expert,10,1,1,0,0,5,20
+ST0479,Meera Kumar,C005,Computer Engineering,3,7.41,Bengaluru,Karnataka,Android Developer,Intermediate,0,0,3,1,0,4,13
+ST0480,Advait Bhat,C056,Civil Engineering,3,8.14,Visakhapatnam,Andhra Pradesh,Cloud Developer,Advanced,0,0,3,1,0,5,17
+ST0481,Vaishnavi Kumar,C009,Electrical Engineering,1,8.47,Hyderabad,Telangana,Full Stack Developer,Advanced,2,0,2,0,1,6,15
+ST0482,Ishaan Shah,C035,Mechanical Engineering,1,6.74,Bengaluru,Karnataka,Frontend Developer,Intermediate,0,0,2,1,0,4,10
+ST0483,Yash Sharma,C045,Computer Engineering,2,6.79,Kolkata,West Bengal,Blockchain Developer,Intermediate,0,0,2,0,0,4,14
+ST0484,Diya Trivedi,C024,Electrical Engineering,4,8.8,Chandigarh,Chandigarh,Data Scientist,Advanced,0,0,2,1,1,4,13
+ST0485,Advait Behera,C016,Information Technology,3,9.38,Bhubaneswar,Odisha,Data Analyst,Expert,3,0,3,1,1,5,17
+ST0486,Anushka Iyer,C022,CSE (AI & ML),3,7.21,Kochi,Kerala,Blockchain Developer,Intermediate,0,0,4,1,0,6,9
+ST0487,Dhruv Yadav,C024,Electrical Engineering,2,7.63,Chandigarh,Chandigarh,Full Stack Developer,Intermediate,0,0,2,0,1,3,9
+ST0488,Pranav Shinde,C001,Mechanical Engineering,2,9.11,Pune,Maharashtra,AI/ML Developer,Advanced,2,0,2,1,1,5,12
+ST0489,Ishaan Iyer,C056,Mechanical Engineering,2,7.22,Visakhapatnam,Andhra Pradesh,Full Stack Developer,Intermediate,6,0,2,0,0,6,9
+ST0490,Priya Trivedi,C022,Civil Engineering,2,7.67,Kochi,Kerala,IoT Developer,Advanced,14,4,2,1,1,6,14
+ST0491,Nisha Patel,C016,Information Technology,2,7.38,Bhubaneswar,Odisha,Android Developer,Advanced,0,0,3,0,1,5,13
+ST0492,Pooja Mohanty,C024,Mechanical Engineering,1,7.24,Chandigarh,Chandigarh,Full Stack Developer,Intermediate,12,3,4,0,1,4,14
+ST0493,Rahul Bhat,C012,Electronics and Telecommunication,1,7.19,Jaipur,Rajasthan,Cybersecurity,Intermediate,0,0,0,0,1,4,13
+ST0494,Sakshi Gowda,C057,Computer Science and Engineering,3,8.86,Raipur,Chhattisgarh,Android Developer,Advanced,1,0,3,1,0,4,16
+ST0495,Tanvi Jain,C026,Computer Engineering,2,7.66,Visakhapatnam,Andhra Pradesh,Blockchain Developer,Intermediate,0,0,2,0,0,5,11
+ST0496,Shruti Singh,C047,Electrical Engineering,4,7.94,Ranchi,Jharkhand,Blockchain Developer,Expert,1,0,2,1,0,6,16
+ST0497,Meera Roy,C026,Computer Engineering,1,8.22,Visakhapatnam,Andhra Pradesh,Android Developer,Intermediate,0,0,0,1,0,3,13
+ST0498,Ananya Rao,C002,Computer Science and Engineering,2,7.6,Mumbai,Maharashtra,Data Scientist,Intermediate,0,0,3,1,0,4,9
+ST0499,Shruti Rao,C001,Computer Science and Engineering,1,7.61,Pune,Maharashtra,Cloud Developer,Advanced,2,0,2,0,0,4,18
+ST0500,Dhruv Jadhav,C020,Computer Engineering,1,7.77,Indore,Madhya Pradesh,Backend Developer,Advanced,0,0,5,1,0,3,18
+ST0501,Yash Jain,C014,Mechanical Engineering,2,7.02,Surat,Gujarat,Full Stack Developer,Intermediate,0,0,1,1,0,5,9
+ST0502,Riya Sinha,C023,Computer Science and Engineering,2,7.77,Thiruvananthapuram,Kerala,Data Scientist,Intermediate,1,0,2,1,0,4,12
+ST0503,Shreyas Khan,C023,Electrical Engineering,4,7.14,Thiruvananthapuram,Kerala,Cloud Developer,Intermediate,2,0,2,1,1,3,13
+ST0504,Aarav Pawar,C016,Computer Engineering,1,6.21,Bhubaneswar,Odisha,Cybersecurity,Intermediate,3,1,2,1,0,3,15
+ST0505,Riya Nair,C011,Mechanical Engineering,4,7.6,Delhi,Delhi,Backend Developer,Advanced,12,5,3,0,0,3,13
+ST0506,Harsh Reddy,C007,Information Technology,3,8.21,Chennai,Tamil Nadu,UI/UX Designer,Advanced,2,1,2,0,1,6,20
+ST0507,Arjun Chatterjee,C027,Electronics and Telecommunication,3,8.05,Raipur,Chhattisgarh,Android Developer,Expert,0,0,4,1,0,6,18
+ST0508,Isha Shah,C048,Electronics and Telecommunication,2,6.75,Patna,Bihar,Android Developer,Intermediate,0,0,3,0,0,3,12
+ST0509,Anushka Shetty,C059,CSE (AI & ML),3,7.99,Panaji,Goa,IoT Developer,Expert,4,1,3,1,0,6,18
+ST0510,Sanika Roy,C042,Information Technology,1,7.74,Jaipur,Rajasthan,Backend Developer,Advanced,0,0,4,1,0,3,15
+ST0511,Karan Banerjee,C041,Electronics and Telecommunication,2,8.82,Delhi,Delhi,Backend Developer,Advanced,0,0,2,1,0,6,12
+ST0512,Aditi Patil,C055,Electronics and Telecommunication,2,6.96,Guwahati,Assam,Android Developer,Intermediate,0,0,1,0,1,4,8
+ST0513,Sneha Sharma,C009,Electronics and Telecommunication,1,7.69,Hyderabad,Telangana,Data Analyst,Intermediate,0,0,2,1,0,6,11
+ST0514,Sanika Sinha,C012,Electronics and Telecommunication,1,7.78,Jaipur,Rajasthan,Blockchain Developer,Intermediate,0,0,3,0,1,6,15
+ST0515,Priya Singh,C007,Information Technology,4,8.87,Chennai,Tamil Nadu,UI/UX Designer,Advanced,0,0,2,1,1,4,13
+ST0516,Neha Trivedi,C015,Computer Science and Engineering,1,6.8,Kolkata,West Bengal,Blockchain Developer,Intermediate,0,0,1,1,0,4,15
+ST0517,Akash Das,C003,Electronics and Telecommunication,3,7.01,Nagpur,Maharashtra,Backend Developer,Intermediate,0,0,2,1,0,3,10
+ST0518,Arjun Mehta,C041,Information Technology,1,7.13,Delhi,Delhi,Frontend Developer,Intermediate,0,0,1,1,0,4,13
+ST0519,Vaishnavi Menon,C053,Electronics and Telecommunication,4,8.49,Thiruvananthapuram,Kerala,Data Analyst,Advanced,0,0,3,1,1,5,15
+ST0520,Shreyas Trivedi,C051,Computer Engineering,2,8.14,Bhopal,Madhya Pradesh,Blockchain Developer,Expert,9,3,5,1,1,4,14
+ST0521,Avani Deshmukh,C049,Electronics and Telecommunication,4,7.87,Lucknow,Uttar Pradesh,Android Developer,Intermediate,0,0,2,1,0,5,8
+ST0522,Ananya Das,C018,Computer Engineering,3,7.19,Patna,Bihar,Cloud Developer,Advanced,2,0,1,1,1,4,11
+ST0523,Om Yadav,C005,Electrical Engineering,2,7.84,Bengaluru,Karnataka,Android Developer,Advanced,0,0,3,0,0,4,14
+ST0524,Ishaan Gupta,C032,CSE (AI & ML),2,8.38,Mumbai,Maharashtra,DevOps,Advanced,1,0,1,1,0,6,12
+ST0525,Tanvi Reddy,C006,CSE (AI & ML),3,6.68,Mysuru,Karnataka,AI/ML Developer,Intermediate,0,0,2,0,0,5,11
+ST0526,Shreyas More,C027,Mechanical Engineering,3,9.08,Raipur,Chhattisgarh,Android Developer,Advanced,0,0,4,1,1,4,12
+ST0527,Shruti Banerjee,C047,Computer Science and Engineering,4,8.47,Ranchi,Jharkhand,Full Stack Developer,Intermediate,2,0,4,1,0,5,9
+ST0528,Karan Mehta,C035,Electronics and Telecommunication,2,7.69,Bengaluru,Karnataka,Blockchain Developer,Intermediate,0,0,2,1,0,4,13
+ST0529,Nisha Banerjee,C005,Civil Engineering,4,7.78,Bengaluru,Karnataka,Backend Developer,Intermediate,1,0,2,0,0,6,8
+ST0530,Atharv Mishra,C059,CSE (AI & ML),1,7.0,Panaji,Goa,Blockchain Developer,Intermediate,0,0,4,1,0,5,11
+ST0531,Manav Fernandes,C034,Civil Engineering,2,7.59,Chandrapur,Maharashtra,Backend Developer,Advanced,6,1,3,1,0,3,10
+ST0532,Ishaan Nair,C048,Electrical Engineering,2,6.7,Patna,Bihar,IoT Developer,Beginner,0,0,3,1,0,3,8
+ST0533,Nisha Mohanty,C001,Computer Engineering,4,7.49,Pune,Maharashtra,AI/ML Developer,Advanced,1,1,4,1,1,5,15
+ST0534,Neha Sinha,C054,Electronics and Telecommunication,4,8.66,Chandigarh,Chandigarh,Android Developer,Expert,0,0,5,1,1,6,20
+ST0535,Aditi Fernandes,C031,CSE (AI & ML),1,7.61,Pune,Maharashtra,Blockchain Developer,Intermediate,0,0,3,1,0,6,8
+ST0536,Varun Patel,C026,Computer Engineering,2,7.85,Visakhapatnam,Andhra Pradesh,Backend Developer,Intermediate,0,0,2,1,1,3,12
+ST0537,Rohan Fernandes,C039,Computer Engineering,2,8.63,Hyderabad,Telangana,Full Stack Developer,Intermediate,1,0,1,1,1,4,9
+ST0538,Avani Kumar,C021,Information Technology,3,7.08,Bhopal,Madhya Pradesh,Backend Developer,Intermediate,4,1,1,1,1,4,14
+ST0539,Diya Sharma,C034,Information Technology,3,8.2,Chandrapur,Maharashtra,AI/ML Developer,Advanced,9,2,3,0,1,6,14
+ST0540,Vihaan Shah,C058,Electronics and Telecommunication,3,7.15,Dehradun,Uttarakhand,UI/UX Designer,Intermediate,0,0,0,1,0,5,15
+ST0541,Atharv Patil,C009,CSE (AI & ML),4,7.43,Hyderabad,Telangana,Data Scientist,Intermediate,0,0,2,1,0,6,17
+ST0542,Akash Mishra,C047,Information Technology,3,7.26,Ranchi,Jharkhand,Full Stack Developer,Advanced,4,0,3,1,0,6,17
+ST0543,Zara Sahu,C045,Information Technology,4,8.93,Kolkata,West Bengal,Full Stack Developer,Expert,23,6,4,1,0,4,15
+ST0544,Nisha Sharma,C047,Electrical Engineering,2,7.84,Ranchi,Jharkhand,Frontend Developer,Advanced,1,0,3,1,0,4,14
+ST0545,Neha Roy,C050,Information Technology,1,7.25,Indore,Madhya Pradesh,AI/ML Developer,Intermediate,1,0,2,0,1,5,9
+ST0546,Pooja Chatterjee,C039,Electronics and Telecommunication,2,8.21,Hyderabad,Telangana,Full Stack Developer,Intermediate,1,0,3,0,0,3,13
+ST0547,Sanika Kulkarni,C035,Computer Engineering,3,8.57,Bengaluru,Karnataka,Blockchain Developer,Advanced,1,0,3,1,1,5,14
+ST0548,Priya Mohanty,C006,CSE (AI & ML),2,7.51,Mysuru,Karnataka,AI/ML Developer,Advanced,1,0,2,1,0,6,19
+ST0549,Zara Fernandes,C006,Mechanical Engineering,3,7.97,Mysuru,Karnataka,Cybersecurity,Advanced,0,0,4,1,1,4,20
+ST0550,Dhruv Shetty,C024,Computer Engineering,3,7.11,Chandigarh,Chandigarh,Frontend Developer,Advanced,0,0,1,1,1,5,10
+ST0551,Pooja Joshi,C044,CSE (AI & ML),2,6.91,Surat,Gujarat,AI/ML Developer,Intermediate,0,0,1,1,1,3,12
+ST0552,Shruti Gowda,C008,Civil Engineering,4,7.79,Coimbatore,Tamil Nadu,Full Stack Developer,Expert,3,1,4,1,1,3,16
+ST0553,Priya Patil,C047,Mechanical Engineering,1,7.0,Ranchi,Jharkhand,Data Scientist,Advanced,0,0,3,1,1,6,13
+ST0554,Ishaan Das,C028,Computer Engineering,2,7.8,Dehradun,Uttarakhand,Blockchain Developer,Intermediate,0,0,3,1,1,5,10
+ST0555,Zara Behera,C012,Electrical Engineering,2,7.75,Jaipur,Rajasthan,Backend Developer,Expert,0,0,2,1,1,6,19
+ST0556,Pranav Joshi,C046,Mechanical Engineering,4,8.76,Bhubaneswar,Odisha,Cybersecurity,Advanced,16,6,4,1,0,3,14
+ST0557,Vihaan Joshi,C020,Computer Engineering,1,7.9,Indore,Madhya Pradesh,Full Stack Developer,Intermediate,0,0,3,0,0,4,11
+ST0558,Manav Behera,C033,CSE (AI & ML),3,8.73,Nagpur,Maharashtra,IoT Developer,Advanced,12,3,5,0,1,5,15
+ST0559,Avani More,C048,Civil Engineering,2,7.53,Patna,Bihar,UI/UX Designer,Advanced,1,0,2,1,0,5,13
+ST0560,Diya Sahu,C049,Mechanical Engineering,2,8.26,Lucknow,Uttar Pradesh,DevOps,Advanced,6,2,3,1,0,5,16
+ST0561,Sakshi Naidu,C055,Computer Science and Engineering,3,7.28,Guwahati,Assam,IoT Developer,Intermediate,2,1,4,1,1,5,11
+ST0562,Riya Gupta,C048,Electronics and Telecommunication,3,7.6,Patna,Bihar,Full Stack Developer,Advanced,0,0,4,1,0,6,13
+ST0563,Diya Kumar,C042,Mechanical Engineering,3,7.05,Jaipur,Rajasthan,Cybersecurity,Intermediate,0,0,3,1,1,6,13
+ST0564,Aarav Singh,C018,Mechanical Engineering,1,6.69,Patna,Bihar,Backend Developer,Intermediate,0,0,1,1,0,4,10
+ST0565,Zara Nair,C030,CSE (AI & ML),2,8.19,Jammu,Jammu and Kashmir,AI/ML Developer,Beginner,0,0,2,1,1,4,10
+ST0566,Nisha Joshi,C017,Information Technology,2,7.14,Ranchi,Jharkhand,IoT Developer,Advanced,5,0,2,0,0,3,15
+ST0567,Aarav Patel,C011,Civil Engineering,2,7.93,Delhi,Delhi,Backend Developer,Intermediate,0,0,2,0,1,4,10
+ST0568,Rohan Das,C001,Electrical Engineering,3,6.2,Pune,Maharashtra,Cybersecurity,Intermediate,0,0,3,0,0,6,14
+ST0569,Sanika Rao,C045,CSE (AI & ML),3,8.7,Kolkata,West Bengal,AI/ML Developer,Intermediate,2,0,2,1,1,4,15
+ST0570,Karan Pawar,C047,Mechanical Engineering,2,7.31,Ranchi,Jharkhand,Backend Developer,Intermediate,0,0,3,1,1,5,10
+ST0571,Anushka More,C040,Information Technology,2,8.24,Warangal,Telangana,Frontend Developer,Advanced,3,1,4,1,1,5,11
+ST0572,Nikhil Mishra,C006,Electrical Engineering,4,7.83,Mysuru,Karnataka,IoT Developer,Advanced,4,0,3,1,0,3,11
+ST0573,Ananya Fernandes,C037,Electronics and Telecommunication,2,7.41,Chennai,Tamil Nadu,Android Developer,Intermediate,0,0,1,1,0,5,10
+ST0574,Akash Sahu,C005,Mechanical Engineering,2,8.3,Bengaluru,Karnataka,DevOps,Intermediate,0,0,2,0,0,6,11
+ST0575,Aditya Sahu,C010,Electrical Engineering,2,7.05,Warangal,Telangana,AI/ML Developer,Intermediate,0,0,0,1,0,4,15
+ST0576,Vihaan Chatterjee,C015,CSE (AI & ML),2,7.13,Kolkata,West Bengal,Cloud Developer,Beginner,0,0,2,0,0,4,8
+ST0577,Avani Roy,C025,Civil Engineering,2,6.7,Guwahati,Assam,Cybersecurity,Beginner,0,0,1,1,0,6,6
+ST0578,Tanvi Chatterjee,C024,Electronics and Telecommunication,1,8.32,Chandigarh,Chandigarh,AI/ML Developer,Advanced,0,0,3,0,1,3,12
+ST0579,Shreya Sinha,C008,Information Technology,4,7.93,Coimbatore,Tamil Nadu,AI/ML Developer,Expert,11,2,2,1,1,3,13
+ST0580,Sahil Pawar,C043,Electronics and Telecommunication,2,8.22,Ahmedabad,Gujarat,Frontend Developer,Advanced,0,0,3,1,1,4,15
+ST0581,Arjun Shetty,C012,Electronics and Telecommunication,4,7.76,Jaipur,Rajasthan,Data Scientist,Advanced,5,0,4,0,0,4,11
+ST0582,Sakshi Sinha,C012,Civil Engineering,4,9.53,Jaipur,Rajasthan,Data Analyst,Expert,0,0,4,0,0,5,19
+ST0583,Dhruv Trivedi,C026,Electrical Engineering,2,6.34,Visakhapatnam,Andhra Pradesh,Data Analyst,Intermediate,0,0,0,0,1,3,7
+ST0584,Shreyas Sinha,C006,Computer Science and Engineering,4,7.57,Mysuru,Karnataka,Cloud Developer,Intermediate,0,0,2,0,0,3,11
+ST0585,Vihaan Singh,C022,Mechanical Engineering,4,8.09,Kochi,Kerala,IoT Developer,Expert,2,0,4,1,1,5,16
+ST0586,Shruti Yadav,C015,Information Technology,1,8.15,Kolkata,West Bengal,IoT Developer,Advanced,0,0,5,1,0,6,12
+ST0587,Shreya Rao,C002,Electrical Engineering,1,8.02,Mumbai,Maharashtra,Backend Developer,Advanced,2,0,2,1,1,5,18
+ST0588,Om Rao,C019,Civil Engineering,4,8.2,Lucknow,Uttar Pradesh,UI/UX Designer,Intermediate,0,0,2,1,0,6,17
+ST0589,Shreyas Patil,C039,Computer Engineering,2,7.42,Hyderabad,Telangana,Full Stack Developer,Intermediate,0,0,1,0,1,5,16
+ST0590,Shreyas Bhat,C029,CSE (AI & ML),4,7.65,Panaji,Goa,Frontend Developer,Intermediate,0,0,2,1,1,4,12
+ST0591,Shreyas Banerjee,C024,Computer Engineering,2,6.89,Chandigarh,Chandigarh,Data Analyst,Intermediate,0,0,3,1,0,5,11
+ST0592,Shreyas Sharma,C037,Mechanical Engineering,2,6.87,Chennai,Tamil Nadu,Blockchain Developer,Advanced,0,0,3,1,1,6,17
+ST0593,Rohan Gupta,C060,Computer Engineering,4,7.21,Jammu,Jammu and Kashmir,Android Developer,Intermediate,0,0,2,1,1,5,15
+ST0594,Priya Sahu,C038,Electronics and Telecommunication,1,6.94,Coimbatore,Tamil Nadu,Data Analyst,Intermediate,1,0,2,0,0,6,11
+ST0595,Shruti Shah,C038,Mechanical Engineering,2,7.95,Coimbatore,Tamil Nadu,UI/UX Designer,Expert,0,0,3,1,0,5,15
+ST0596,Tanvi Qureshi,C037,Electrical Engineering,3,7.28,Chennai,Tamil Nadu,UI/UX Designer,Intermediate,0,0,1,1,1,4,9
+ST0597,Aditi Roy,C020,Information Technology,3,7.51,Indore,Madhya Pradesh,Data Scientist,Intermediate,0,0,1,1,1,6,13
+ST0598,Anushka Shinde,C039,Computer Science and Engineering,2,8.17,Hyderabad,Telangana,IoT Developer,Intermediate,0,0,1,1,0,4,15
+ST0599,Advait Shinde,C045,Mechanical Engineering,4,8.14,Kolkata,West Bengal,UI/UX Designer,Advanced,7,4,5,1,0,5,12
+ST0600,Akash Behera,C024,Computer Engineering,2,7.62,Chandigarh,Chandigarh,Cybersecurity,Intermediate,2,0,3,1,0,4,14
+ST0601,Rahul Deshmukh,C018,Computer Science and Engineering,3,7.73,Patna,Bihar,Backend Developer,Advanced,1,0,0,0,1,4,14
+ST0602,Ananya Iyer,C047,CSE (AI & ML),3,6.9,Ranchi,Jharkhand,Backend Developer,Advanced,0,0,3,0,1,3,16
+ST0603,Varun Mohanty,C021,Computer Science and Engineering,2,6.32,Bhopal,Madhya Pradesh,IoT Developer,Intermediate,0,0,3,1,0,3,11
+ST0604,Meera Yadav,C058,CSE (AI & ML),1,7.16,Dehradun,Uttarakhand,AI/ML Developer,Intermediate,0,0,1,0,0,4,10
+ST0605,Vaishnavi Nair,C017,Computer Engineering,1,7.38,Ranchi,Jharkhand,IoT Developer,Intermediate,1,0,3,0,1,4,17
+ST0606,Vihaan Khan,C054,Electrical Engineering,4,7.3,Chandigarh,Chandigarh,DevOps,Advanced,4,0,6,0,0,5,12
+ST0607,Om Kulkarni,C046,Electrical Engineering,3,7.36,Bhubaneswar,Odisha,Android Developer,Intermediate,1,0,2,0,1,4,15
+ST0608,Arjun Patel,C017,Information Technology,4,7.52,Ranchi,Jharkhand,AI/ML Developer,Expert,4,0,1,1,1,6,21
+ST0609,Harsh Roy,C030,Civil Engineering,1,7.69,Jammu,Jammu and Kashmir,Frontend Developer,Advanced,0,0,6,0,1,6,14
+ST0610,Aarav Sahu,C003,Electrical Engineering,3,7.85,Nagpur,Maharashtra,Backend Developer,Advanced,0,0,4,0,0,6,11
+ST0611,Anushka Verma,C029,Electrical Engineering,2,8.47,Panaji,Goa,Cybersecurity,Advanced,10,0,5,0,1,3,17
+ST0612,Sahil Das,C037,Mechanical Engineering,3,7.84,Chennai,Tamil Nadu,IoT Developer,Advanced,9,2,1,0,1,3,11
+ST0613,Priya Bhat,C001,Civil Engineering,4,7.94,Pune,Maharashtra,UI/UX Designer,Advanced,1,0,2,1,1,4,11
+ST0614,Arjun Mohanty,C024,Electronics and Telecommunication,2,7.76,Chandigarh,Chandigarh,AI/ML Developer,Advanced,5,1,2,0,1,5,14
+ST0615,Sahil Trivedi,C029,Computer Engineering,2,6.94,Panaji,Goa,AI/ML Developer,Intermediate,1,0,2,1,0,5,16
+ST0616,Riya Patel,C018,CSE (AI & ML),3,8.05,Patna,Bihar,DevOps,Advanced,4,1,4,0,1,3,14
+ST0617,Dhruv Patil,C011,Civil Engineering,3,7.48,Delhi,Delhi,Backend Developer,Advanced,0,0,2,1,0,5,13
+ST0618,Isha Jadhav,C048,CSE (AI & ML),2,7.71,Patna,Bihar,Data Analyst,Intermediate,4,0,3,1,1,4,15
+ST0619,Meera Pawar,C058,Electronics and Telecommunication,3,6.59,Dehradun,Uttarakhand,Cybersecurity,Intermediate,0,0,2,0,0,5,7
+ST0620,Tanvi Naidu,C003,Electrical Engineering,2,7.72,Nagpur,Maharashtra,Backend Developer,Intermediate,0,0,2,0,0,4,14
+ST0621,Karan Mohanty,C039,Electrical Engineering,2,7.08,Hyderabad,Telangana,Android Developer,Intermediate,0,0,3,0,1,6,8
+ST0622,Shreyas Mishra,C060,Information Technology,4,8.84,Jammu,Jammu and Kashmir,Full Stack Developer,Intermediate,2,0,3,1,1,6,16
+ST0623,Meera Mishra,C060,Electronics and Telecommunication,3,8.06,Jammu,Jammu and Kashmir,Full Stack Developer,Advanced,18,3,3,0,0,5,16
+ST0624,Rohan Nair,C027,Computer Science and Engineering,4,8.24,Raipur,Chhattisgarh,DevOps,Advanced,5,1,1,1,0,6,13
+ST0625,Om Sharma,C047,CSE (AI & ML),4,7.97,Ranchi,Jharkhand,Cybersecurity,Advanced,13,6,1,1,1,6,17
+ST0626,Shreya Kumar,C020,Civil Engineering,4,8.76,Indore,Madhya Pradesh,DevOps,Advanced,5,2,4,1,0,4,14
+ST0627,Avani Das,C006,Electrical Engineering,3,6.17,Mysuru,Karnataka,Cloud Developer,Beginner,0,0,0,1,0,5,8
+ST0628,Pooja More,C012,Information Technology,1,7.13,Jaipur,Rajasthan,Data Analyst,Intermediate,0,0,2,1,1,3,14
+ST0629,Sahil Singh,C029,Computer Engineering,2,7.58,Panaji,Goa,Data Analyst,Intermediate,0,0,0,0,0,4,15
+ST0630,Sneha Chatterjee,C005,Computer Science and Engineering,3,8.77,Bengaluru,Karnataka,Full Stack Developer,Advanced,1,1,4,0,1,3,15
+ST0631,Atharv Mohanty,C034,Civil Engineering,2,7.32,Chandrapur,Maharashtra,Data Scientist,Advanced,2,0,2,1,0,5,18
+ST0632,Aarav Das,C039,Civil Engineering,2,6.73,Hyderabad,Telangana,Data Scientist,Intermediate,1,0,4,1,0,3,9
+ST0633,Shreya Pawar,C009,Information Technology,3,7.84,Hyderabad,Telangana,Cybersecurity,Intermediate,0,0,4,0,0,6,13
+ST0634,Anushka Deshmukh,C035,Computer Science and Engineering,2,7.48,Bengaluru,Karnataka,Android Developer,Intermediate,0,0,2,1,1,3,17
+ST0635,Tanvi Deshmukh,C024,Civil Engineering,2,7.54,Chandigarh,Chandigarh,Cloud Developer,Advanced,0,0,4,0,0,5,13
+ST0636,Shruti Joshi,C036,CSE (AI & ML),3,7.28,Mysuru,Karnataka,AI/ML Developer,Intermediate,0,0,4,1,1,5,17
+ST0637,Anushka Qureshi,C003,Computer Engineering,1,7.55,Nagpur,Maharashtra,DevOps,Intermediate,0,0,2,0,1,6,13
+ST0638,Isha Yadav,C003,Civil Engineering,3,8.1,Nagpur,Maharashtra,Blockchain Developer,Intermediate,0,0,3,0,0,5,13
+ST0639,Advait Mishra,C001,Electrical Engineering,2,7.58,Pune,Maharashtra,Cybersecurity,Intermediate,0,0,2,0,1,4,14
+ST0640,Shruti Qureshi,C048,CSE (AI & ML),4,7.8,Patna,Bihar,Blockchain Developer,Advanced,0,0,1,1,1,5,10
+ST0641,Vihaan Sharma,C002,Computer Engineering,2,7.77,Mumbai,Maharashtra,Data Scientist,Intermediate,2,1,2,1,0,6,17
+ST0642,Ananya Jadhav,C017,Mechanical Engineering,3,8.22,Ranchi,Jharkhand,UI/UX Designer,Intermediate,0,0,2,0,0,6,12
+ST0643,Sneha Trivedi,C043,Electrical Engineering,4,7.85,Ahmedabad,Gujarat,Frontend Developer,Advanced,2,0,2,0,0,4,11
+ST0644,Kavya Qureshi,C036,CSE (AI & ML),3,7.91,Mysuru,Karnataka,Android Developer,Advanced,0,0,4,1,0,3,14
+ST0645,Rahul Sahu,C018,Computer Engineering,3,8.53,Patna,Bihar,Data Scientist,Advanced,7,1,4,0,1,4,15
+ST0646,Meera Kulkarni,C056,Electronics and Telecommunication,2,6.7,Visakhapatnam,Andhra Pradesh,IoT Developer,Intermediate,1,0,3,1,0,6,13
+ST0647,Karan Nair,C026,Civil Engineering,1,6.55,Visakhapatnam,Andhra Pradesh,Data Scientist,Intermediate,0,0,3,0,0,3,16
+ST0648,Tanvi Kumar,C043,Electrical Engineering,3,8.69,Ahmedabad,Gujarat,Backend Developer,Expert,14,2,4,1,1,3,18
+ST0649,Karan Behera,C041,Computer Science and Engineering,4,8.24,Delhi,Delhi,IoT Developer,Advanced,9,3,2,0,0,6,19
+ST0650,Dhruv Verma,C018,Electronics and Telecommunication,3,8.32,Patna,Bihar,AI/ML Developer,Advanced,0,0,3,1,0,5,14
+ST0651,Dhruv Mishra,C049,Computer Engineering,3,8.97,Lucknow,Uttar Pradesh,Backend Developer,Advanced,14,6,4,0,0,3,17
+ST0652,Nisha Nair,C050,Computer Engineering,4,8.84,Indore,Madhya Pradesh,Android Developer,Advanced,0,0,3,0,1,6,14
+ST0653,Rahul Singh,C037,Electronics and Telecommunication,1,7.68,Chennai,Tamil Nadu,Cloud Developer,Advanced,1,0,1,0,0,4,15
+ST0654,Shruti Jadhav,C045,CSE (AI & ML),3,9.36,Kolkata,West Bengal,Full Stack Developer,Expert,5,2,2,1,1,5,13
+ST0655,Yash Roy,C014,Computer Science and Engineering,3,7.53,Surat,Gujarat,Full Stack Developer,Advanced,1,0,1,1,1,5,14
+ST0656,Nikhil Yadav,C042,CSE (AI & ML),2,7.38,Jaipur,Rajasthan,Data Scientist,Intermediate,0,0,1,0,1,6,13
+ST0657,Harsh Trivedi,C059,Electrical Engineering,3,6.67,Panaji,Goa,Cloud Developer,Intermediate,0,0,1,1,0,3,13
+ST0658,Manav Chatterjee,C008,Computer Engineering,2,6.46,Coimbatore,Tamil Nadu,Blockchain Developer,Beginner,0,0,1,0,1,4,14
+ST0659,Pooja Verma,C018,Electrical Engineering,2,8.8,Patna,Bihar,Cybersecurity,Advanced,9,2,3,1,1,5,15
+ST0660,Pranav Patel,C040,Civil Engineering,2,8.9,Warangal,Telangana,Data Scientist,Advanced,7,2,4,1,1,4,14
+ST0661,Aditi Shetty,C007,CSE (AI & ML),1,6.17,Chennai,Tamil Nadu,Frontend Developer,Beginner,0,0,1,0,0,3,14
+ST0662,Manav Rao,C045,Electronics and Telecommunication,3,8.07,Kolkata,West Bengal,Data Analyst,Intermediate,0,0,2,0,1,5,16
+ST0663,Aditya Das,C006,Electrical Engineering,2,6.96,Mysuru,Karnataka,Backend Developer,Advanced,10,1,3,1,1,5,12
+ST0664,Rohan Rao,C004,Computer Science and Engineering,3,8.59,Chandrapur,Maharashtra,Data Scientist,Advanced,1,0,5,1,0,6,17
+ST0665,Nikhil Qureshi,C058,CSE (AI & ML),3,8.16,Dehradun,Uttarakhand,DevOps,Advanced,4,3,3,0,0,6,19
+ST0666,Aditi Verma,C021,Electronics and Telecommunication,3,7.22,Bhopal,Madhya Pradesh,UI/UX Designer,Intermediate,0,0,0,0,0,5,14
+ST0667,Kavya Verma,C035,Electronics and Telecommunication,3,8.1,Bengaluru,Karnataka,Blockchain Developer,Expert,6,3,2,0,0,5,21
+ST0668,Aarav Fernandes,C049,Computer Science and Engineering,4,8.65,Lucknow,Uttar Pradesh,Cloud Developer,Advanced,6,2,3,0,1,6,17
+ST0669,Harsh More,C004,Civil Engineering,4,7.31,Chandrapur,Maharashtra,Cybersecurity,Expert,0,0,2,1,1,4,18
+ST0670,Anushka Singh,C041,CSE (AI & ML),2,6.65,Delhi,Delhi,Cloud Developer,Beginner,0,0,0,0,1,5,12
+ST0671,Priya Naidu,C017,Computer Engineering,2,7.73,Ranchi,Jharkhand,Blockchain Developer,Advanced,5,1,2,0,1,5,18
+ST0672,Pranav Bhat,C045,Civil Engineering,2,7.32,Kolkata,West Bengal,AI/ML Developer,Advanced,3,3,2,1,0,4,19
+ST0673,Rohan Joshi,C041,Mechanical Engineering,2,7.9,Delhi,Delhi,Cloud Developer,Advanced,3,1,3,1,0,3,16
+ST0674,Isha Rao,C021,Computer Science and Engineering,3,6.71,Bhopal,Madhya Pradesh,DevOps,Intermediate,1,0,2,1,0,6,10
+ST0675,Pranav Pawar,C025,Electronics and Telecommunication,3,7.52,Guwahati,Assam,Data Scientist,Advanced,0,0,1,1,0,3,13
+ST0676,Sanika Nair,C008,Computer Engineering,3,7.12,Coimbatore,Tamil Nadu,IoT Developer,Advanced,1,0,3,1,1,4,18
+ST0677,Arjun Jadhav,C027,Computer Engineering,3,8.31,Raipur,Chhattisgarh,Backend Developer,Expert,0,0,3,0,1,4,17
+ST0678,Nikhil Joshi,C042,Computer Engineering,2,6.5,Jaipur,Rajasthan,Backend Developer,Beginner,0,0,2,0,0,3,10
+ST0679,Meera Deshmukh,C006,Civil Engineering,3,7.73,Mysuru,Karnataka,Frontend Developer,Advanced,4,2,4,1,0,3,14
+ST0680,Kavya Deshmukh,C011,Electronics and Telecommunication,1,8.28,Delhi,Delhi,Android Developer,Advanced,0,0,2,1,0,4,13
+ST0681,Vihaan Sinha,C009,Computer Science and Engineering,4,7.42,Hyderabad,Telangana,Data Scientist,Intermediate,1,0,2,1,1,3,11
+ST0682,Varun Chatterjee,C005,CSE (AI & ML),3,7.16,Bengaluru,Karnataka,Cybersecurity,Advanced,1,0,2,1,1,3,15
+ST0683,Dhruv Reddy,C024,Electronics and Telecommunication,3,6.75,Chandigarh,Chandigarh,Frontend Developer,Intermediate,1,0,3,0,1,3,16
+ST0684,Atharv Shah,C032,Information Technology,1,8.08,Mumbai,Maharashtra,AI/ML Developer,Intermediate,0,0,3,0,1,4,12
+ST0685,Anushka Shah,C012,CSE (AI & ML),1,6.46,Jaipur,Rajasthan,Cloud Developer,Intermediate,0,0,4,0,0,5,11
+ST0686,Aniket Bhat,C042,Civil Engineering,2,8.51,Jaipur,Rajasthan,IoT Developer,Intermediate,10,3,3,1,1,4,10
+ST0687,Isha Sahu,C010,Information Technology,4,7.81,Warangal,Telangana,Cybersecurity,Advanced,2,0,1,0,1,6,14
+ST0688,Kavya Nair,C054,CSE (AI & ML),3,7.16,Chandigarh,Chandigarh,UI/UX Designer,Intermediate,0,0,2,1,0,4,8
+ST0689,Riya Singh,C058,Computer Science and Engineering,3,8.11,Dehradun,Uttarakhand,Frontend Developer,Intermediate,1,0,3,0,1,6,16
+ST0690,Zara Naidu,C059,Information Technology,2,7.11,Panaji,Goa,Data Analyst,Intermediate,1,1,0,1,1,4,17
+ST0691,Karan Shah,C032,Mechanical Engineering,2,7.68,Mumbai,Maharashtra,Cloud Developer,Intermediate,0,0,1,1,0,6,14
+ST0692,Pooja Rao,C021,CSE (AI & ML),2,6.66,Bhopal,Madhya Pradesh,Frontend Developer,Intermediate,2,0,0,1,0,5,16
+ST0693,Harsh Deshmukh,C048,Civil Engineering,2,7.07,Patna,Bihar,Cloud Developer,Advanced,0,0,4,1,0,4,18
+ST0694,Meera Reddy,C032,Electrical Engineering,3,6.99,Mumbai,Maharashtra,Frontend Developer,Intermediate,0,0,0,1,0,5,9
+ST0695,Vihaan Shinde,C052,Computer Science and Engineering,1,7.6,Kochi,Kerala,UI/UX Designer,Intermediate,0,0,2,1,0,4,9
+ST0696,Yash Shah,C027,Computer Science and Engineering,3,8.06,Raipur,Chhattisgarh,Data Analyst,Advanced,5,2,2,1,0,6,12
+ST0697,Atharv Behera,C051,Civil Engineering,3,8.1,Bhopal,Madhya Pradesh,Frontend Developer,Advanced,0,0,2,1,1,4,16
+ST0698,Akash More,C018,Mechanical Engineering,1,7.21,Patna,Bihar,Cybersecurity,Intermediate,2,0,1,1,1,4,12
+ST0699,Isha Patil,C050,Computer Engineering,4,7.52,Indore,Madhya Pradesh,Backend Developer,Intermediate,1,0,3,1,1,3,12
+ST0700,Pooja Pawar,C039,Computer Engineering,3,8.43,Hyderabad,Telangana,UI/UX Designer,Advanced,0,0,4,1,1,4,10
+ST0701,Avani Yadav,C027,Mechanical Engineering,4,7.36,Raipur,Chhattisgarh,Full Stack Developer,Intermediate,0,0,3,1,0,3,15
+ST0702,Varun Behera,C014,Information Technology,4,8.06,Surat,Gujarat,Data Analyst,Advanced,0,0,3,1,1,5,15
+ST0703,Harsh Sahu,C006,Computer Science and Engineering,2,8.01,Mysuru,Karnataka,Full Stack Developer,Intermediate,0,0,2,1,1,3,17
+ST0704,Riya Shetty,C031,Computer Science and Engineering,3,7.28,Pune,Maharashtra,Data Analyst,Intermediate,0,0,0,1,0,5,8
+ST0705,Pooja Reddy,C023,CSE (AI & ML),2,6.78,Thiruvananthapuram,Kerala,Data Scientist,Intermediate,0,0,3,1,1,4,16
+ST0706,Aniket Kumar,C051,CSE (AI & ML),3,7.88,Bhopal,Madhya Pradesh,AI/ML Developer,Advanced,4,1,5,1,1,5,13
+ST0707,Om Deshmukh,C049,CSE (AI & ML),3,7.39,Lucknow,Uttar Pradesh,Backend Developer,Intermediate,0,0,1,0,1,5,7
+ST0708,Om Patil,C041,Computer Science and Engineering,2,7.95,Delhi,Delhi,Data Scientist,Advanced,12,3,3,0,1,3,18
+ST0709,Manav Sharma,C011,Computer Science and Engineering,3,6.6,Delhi,Delhi,Cybersecurity,Intermediate,7,2,2,1,1,5,10
+ST0710,Shreya Patil,C048,CSE (AI & ML),3,8.34,Patna,Bihar,Blockchain Developer,Advanced,0,0,2,0,1,6,19
+ST0711,Meera Gupta,C023,Electrical Engineering,2,7.88,Thiruvananthapuram,Kerala,Android Developer,Intermediate,0,0,3,0,0,6,15
+ST0712,Aarav Sinha,C048,Information Technology,1,7.45,Patna,Bihar,Cybersecurity,Intermediate,0,0,3,1,0,4,12
+ST0713,Sahil Bhat,C038,Mechanical Engineering,2,8.22,Coimbatore,Tamil Nadu,Android Developer,Advanced,0,0,3,0,0,3,18
+ST0714,Shreya Deshmukh,C056,Computer Science and Engineering,3,7.98,Visakhapatnam,Andhra Pradesh,Data Scientist,Advanced,2,0,2,1,0,5,15
+ST0715,Nikhil Shah,C009,CSE (AI & ML),4,8.58,Hyderabad,Telangana,Blockchain Developer,Expert,9,3,3,1,1,5,17
+ST0716,Advait Kumar,C055,Electronics and Telecommunication,4,8.41,Guwahati,Assam,Backend Developer,Advanced,0,0,2,1,1,4,17
+ST0717,Akash Patel,C047,Information Technology,3,6.77,Ranchi,Jharkhand,Full Stack Developer,Intermediate,5,1,1,1,0,6,9
+ST0718,Aarav More,C025,Civil Engineering,2,8.35,Guwahati,Assam,Data Scientist,Advanced,2,1,2,1,0,5,11
+ST0719,Aditya Patel,C013,Civil Engineering,3,7.89,Ahmedabad,Gujarat,DevOps,Advanced,2,0,2,1,0,5,11
+ST0720,Karan Naidu,C039,Civil Engineering,2,7.37,Hyderabad,Telangana,Frontend Developer,Advanced,6,0,4,1,0,5,19
+ST0721,Shreya Behera,C022,Electrical Engineering,1,5.94,Kochi,Kerala,Blockchain Developer,Beginner,0,0,2,1,0,4,7
+ST0722,Sanika Khan,C016,Computer Science and Engineering,4,9.04,Bhubaneswar,Odisha,Data Scientist,Expert,14,7,5,0,1,4,18
+ST0723,Shreyas Kumar,C056,Computer Science and Engineering,4,8.23,Visakhapatnam,Andhra Pradesh,Full Stack Developer,Advanced,0,0,1,1,1,3,14
+ST0724,Yash Khan,C015,Civil Engineering,3,7.25,Kolkata,West Bengal,AI/ML Developer,Intermediate,0,0,1,1,0,3,11
+ST0725,Sneha More,C037,Mechanical Engineering,3,8.6,Chennai,Tamil Nadu,AI/ML Developer,Advanced,1,0,6,1,1,5,17
+ST0726,Manav Shinde,C045,Mechanical Engineering,3,7.32,Kolkata,West Bengal,DevOps,Advanced,5,2,4,0,1,3,12
+ST0727,Riya More,C039,Electrical Engineering,2,7.57,Hyderabad,Telangana,Cybersecurity,Intermediate,0,0,3,1,1,4,7
+ST0728,Pranav Kulkarni,C015,Computer Science and Engineering,2,6.96,Kolkata,West Bengal,Blockchain Developer,Intermediate,0,0,1,1,0,6,12
+ST0729,Isha Mishra,C043,Computer Engineering,3,8.77,Ahmedabad,Gujarat,AI/ML Developer,Expert,0,0,3,1,0,4,21
+ST0730,Om Mishra,C053,CSE (AI & ML),3,7.26,Thiruvananthapuram,Kerala,Backend Developer,Intermediate,0,0,0,0,1,4,13
+ST0731,Varun Jain,C044,Information Technology,3,7.67,Surat,Gujarat,Cloud Developer,Advanced,0,0,5,0,1,5,18
+ST0732,Kavya Gowda,C048,Civil Engineering,2,8.4,Patna,Bihar,Full Stack Developer,Advanced,4,0,2,1,1,6,20
+ST0733,Rahul Jadhav,C019,Mechanical Engineering,1,7.46,Lucknow,Uttar Pradesh,UI/UX Designer,Intermediate,0,0,1,1,0,5,8
+ST0734,Avani Banerjee,C019,Mechanical Engineering,3,7.15,Lucknow,Uttar Pradesh,UI/UX Designer,Intermediate,0,0,2,1,0,6,11
+ST0735,Rahul Trivedi,C017,Mechanical Engineering,1,7.54,Ranchi,Jharkhand,Data Scientist,Intermediate,0,0,1,0,0,3,16
+ST0736,Riya Iyer,C014,Computer Science and Engineering,3,7.25,Surat,Gujarat,Full Stack Developer,Intermediate,1,0,2,1,1,6,14
+ST0737,Yash Deshmukh,C013,Electronics and Telecommunication,3,7.75,Ahmedabad,Gujarat,Blockchain Developer,Advanced,0,0,3,1,1,3,16
+ST0738,Nisha Singh,C035,Electronics and Telecommunication,4,8.59,Bengaluru,Karnataka,Full Stack Developer,Advanced,9,2,2,1,0,4,11
+ST0739,Om Gowda,C044,Mechanical Engineering,2,6.55,Surat,Gujarat,Full Stack Developer,Beginner,0,0,1,1,0,5,9
+ST0740,Aditya Shah,C033,Computer Engineering,2,7.79,Nagpur,Maharashtra,IoT Developer,Advanced,5,0,2,1,1,5,11
+ST0741,Dhruv Khan,C047,Information Technology,4,7.2,Ranchi,Jharkhand,Data Scientist,Intermediate,0,0,2,1,0,5,10
+ST0742,Rohan Naidu,C038,Electrical Engineering,2,6.78,Coimbatore,Tamil Nadu,AI/ML Developer,Intermediate,0,0,1,1,1,3,9
+ST0743,Advait Roy,C013,Electronics and Telecommunication,1,8.28,Ahmedabad,Gujarat,IoT Developer,Intermediate,1,0,1,1,0,3,15
+ST0744,Tanvi Bhat,C012,Computer Engineering,2,7.52,Jaipur,Rajasthan,DevOps,Intermediate,0,0,1,1,0,3,13
+ST0745,Shruti Gupta,C032,Computer Engineering,1,7.78,Mumbai,Maharashtra,IoT Developer,Intermediate,0,0,1,1,0,4,15
+ST0746,Manav Qureshi,C019,Civil Engineering,4,7.67,Lucknow,Uttar Pradesh,Android Developer,Advanced,0,0,2,0,0,3,10
+ST0747,Dhruv Fernandes,C036,Computer Engineering,3,7.82,Mysuru,Karnataka,Android Developer,Advanced,0,0,4,1,0,5,15
+ST0748,Dhruv Gowda,C017,Information Technology,1,7.48,Ranchi,Jharkhand,Cybersecurity,Advanced,3,0,3,0,1,3,18
+ST0749,Priya Jadhav,C043,Civil Engineering,2,8.11,Ahmedabad,Gujarat,Data Analyst,Advanced,1,0,2,1,0,4,12
+ST0750,Ishaan More,C043,Information Technology,1,6.81,Ahmedabad,Gujarat,UI/UX Designer,Beginner,0,0,1,0,0,3,9
+ST0751,Sneha Behera,C030,Information Technology,1,7.78,Jammu,Jammu and Kashmir,AI/ML Developer,Intermediate,1,0,2,0,0,3,11
+ST0752,Sakshi Bhat,C027,CSE (AI & ML),2,8.4,Raipur,Chhattisgarh,Cloud Developer,Advanced,0,0,2,1,0,6,16
+ST0753,Vaishnavi Gupta,C033,Civil Engineering,4,6.68,Nagpur,Maharashtra,Blockchain Developer,Intermediate,0,0,3,1,1,6,12
+ST0754,Anushka Sahu,C030,Mechanical Engineering,2,7.38,Jammu,Jammu and Kashmir,Android Developer,Beginner,0,0,2,0,1,5,13
+ST0755,Varun Mehta,C004,Computer Engineering,3,6.46,Chandrapur,Maharashtra,Data Scientist,Intermediate,0,0,1,1,0,5,15
+ST0756,Akash Joshi,C034,Civil Engineering,3,7.5,Chandrapur,Maharashtra,UI/UX Designer,Intermediate,0,0,0,0,0,6,13
+ST0757,Priya Sharma,C029,Computer Engineering,1,7.28,Panaji,Goa,Data Analyst,Intermediate,0,0,2,1,0,5,15
+ST0758,Zara Joshi,C003,CSE (AI & ML),2,8.67,Nagpur,Maharashtra,UI/UX Designer,Advanced,0,0,2,1,1,6,15
+ST0759,Ananya Banerjee,C027,Mechanical Engineering,3,7.65,Raipur,Chhattisgarh,IoT Developer,Advanced,14,2,2,1,1,6,11
+ST0760,Aditya Mehta,C055,Electronics and Telecommunication,3,7.99,Guwahati,Assam,DevOps,Intermediate,0,0,4,0,1,5,17
+ST0761,Karan Jain,C009,Civil Engineering,2,7.84,Hyderabad,Telangana,Cloud Developer,Advanced,1,0,3,1,1,3,18
+ST0762,Nisha Deshmukh,C038,CSE (AI & ML),3,7.09,Coimbatore,Tamil Nadu,Full Stack Developer,Intermediate,0,0,4,0,0,6,14
+ST0763,Avani Patel,C029,CSE (AI & ML),2,6.36,Panaji,Goa,Blockchain Developer,Intermediate,0,0,2,0,0,4,17
+ST0764,Diya Naidu,C003,Civil Engineering,2,9.12,Nagpur,Maharashtra,AI/ML Developer,Advanced,0,0,3,1,1,5,13
+ST0765,Atharv Sharma,C059,Information Technology,2,7.77,Panaji,Goa,Cloud Developer,Advanced,2,0,5,0,1,5,16
+ST0766,Ananya Mishra,C059,Electrical Engineering,2,7.66,Panaji,Goa,Frontend Developer,Intermediate,0,0,2,1,0,6,13
+ST0767,Om Gupta,C019,Computer Science and Engineering,2,6.81,Lucknow,Uttar Pradesh,Data Analyst,Intermediate,0,0,1,0,1,6,10
+ST0768,Aarav Deshmukh,C056,Mechanical Engineering,4,8.83,Visakhapatnam,Andhra Pradesh,IoT Developer,Advanced,12,5,3,1,1,6,17
+ST0769,Vihaan Mishra,C009,Information Technology,2,6.88,Hyderabad,Telangana,AI/ML Developer,Beginner,0,0,1,0,0,5,10
+ST0770,Sahil Jadhav,C019,Computer Engineering,3,8.84,Lucknow,Uttar Pradesh,Cloud Developer,Advanced,0,0,3,1,1,5,14
+ST0771,Varun Fernandes,C023,Computer Engineering,4,9.03,Thiruvananthapuram,Kerala,Cybersecurity,Expert,4,1,5,1,1,5,16
+ST0772,Karan Roy,C023,Information Technology,4,8.26,Thiruvananthapuram,Kerala,Full Stack Developer,Advanced,0,0,2,1,1,4,15
+ST0773,Dhruv Naidu,C013,CSE (AI & ML),4,8.71,Ahmedabad,Gujarat,Backend Developer,Advanced,22,4,4,1,0,3,11
+ST0774,Om Shinde,C008,Civil Engineering,3,8.78,Coimbatore,Tamil Nadu,Frontend Developer,Advanced,5,0,1,1,0,5,14
+ST0775,Neha Gupta,C023,Computer Engineering,1,8.26,Thiruvananthapuram,Kerala,Cloud Developer,Advanced,1,0,1,1,0,5,18
+ST0776,Karan Das,C052,Computer Science and Engineering,2,8.49,Kochi,Kerala,Cloud Developer,Expert,0,0,2,0,1,4,18
+ST0777,Rohan Bhat,C019,CSE (AI & ML),4,8.06,Lucknow,Uttar Pradesh,Blockchain Developer,Advanced,2,1,3,0,1,3,16
+ST0778,Karan Sahu,C025,Computer Engineering,4,8.43,Guwahati,Assam,Blockchain Developer,Expert,7,1,2,0,1,5,21
+ST0779,Pooja Kulkarni,C038,Mechanical Engineering,2,6.63,Coimbatore,Tamil Nadu,DevOps,Advanced,0,0,4,0,0,3,16
+ST0780,Advait Mehta,C026,Mechanical Engineering,2,7.67,Visakhapatnam,Andhra Pradesh,Data Analyst,Intermediate,1,0,0,0,0,6,11
+ST0781,Dhruv Mehta,C016,Computer Science and Engineering,4,7.44,Bhubaneswar,Odisha,Frontend Developer,Advanced,21,10,5,1,1,6,12
+ST0782,Ishaan Sahu,C004,Civil Engineering,3,7.87,Chandrapur,Maharashtra,Data Scientist,Intermediate,0,0,2,0,0,6,11
+ST0783,Riya Behera,C001,Civil Engineering,2,7.16,Pune,Maharashtra,Data Analyst,Intermediate,0,0,2,1,0,5,10
+ST0784,Zara Rao,C011,Information Technology,4,8.5,Delhi,Delhi,AI/ML Developer,Advanced,1,0,4,1,1,3,16
+ST0785,Anushka Chatterjee,C056,Mechanical Engineering,4,9.72,Visakhapatnam,Andhra Pradesh,Data Scientist,Expert,1,0,4,1,0,4,16
+ST0786,Rahul Shinde,C045,Electronics and Telecommunication,4,8.42,Kolkata,West Bengal,Cybersecurity,Expert,7,0,4,1,1,5,15
+ST0787,Riya Roy,C043,Mechanical Engineering,1,6.12,Ahmedabad,Gujarat,Cloud Developer,Beginner,0,0,2,0,0,4,10
+ST0788,Sneha Naidu,C003,Computer Science and Engineering,2,7.7,Nagpur,Maharashtra,UI/UX Designer,Advanced,1,0,3,0,0,4,16
+ST0789,Tanvi Menon,C055,Electronics and Telecommunication,4,7.41,Guwahati,Assam,Full Stack Developer,Advanced,13,1,2,1,0,5,19
+ST0790,Manav Patel,C029,Information Technology,3,7.5,Panaji,Goa,AI/ML Developer,Advanced,0,0,3,1,0,4,12
+ST0791,Varun Gupta,C002,Civil Engineering,3,7.08,Mumbai,Maharashtra,Blockchain Developer,Intermediate,0,0,3,1,0,6,9
+ST0792,Priya Mishra,C016,Civil Engineering,3,7.56,Bhubaneswar,Odisha,Cybersecurity,Advanced,2,1,3,0,1,6,15
+ST0793,Dhruv Rao,C033,Information Technology,2,8.56,Nagpur,Maharashtra,Data Analyst,Advanced,3,0,2,1,1,5,18
+ST0794,Sakshi Qureshi,C051,Computer Engineering,2,8.07,Bhopal,Madhya Pradesh,Frontend Developer,Advanced,0,0,3,1,1,3,12
+ST0795,Rahul Patil,C019,Computer Engineering,2,8.29,Lucknow,Uttar Pradesh,DevOps,Advanced,1,0,3,0,1,3,13
+ST0796,Nikhil Khan,C036,CSE (AI & ML),3,7.01,Mysuru,Karnataka,Blockchain Developer,Beginner,0,0,1,0,0,3,10
+ST0797,Ishaan Deshmukh,C053,Computer Engineering,1,7.08,Thiruvananthapuram,Kerala,UI/UX Designer,Intermediate,0,0,2,0,0,3,9
+ST0798,Arjun Verma,C011,Electronics and Telecommunication,3,8.02,Delhi,Delhi,Frontend Developer,Advanced,0,0,2,0,1,5,12
+ST0799,Vihaan Jain,C020,Electronics and Telecommunication,2,8.51,Indore,Madhya Pradesh,Backend Developer,Intermediate,5,0,2,1,0,6,10
+ST0800,Diya Behera,C020,CSE (AI & ML),1,7.46,Indore,Madhya Pradesh,Full Stack Developer,Advanced,1,0,2,0,1,6,13
+ST0801,Aniket Behera,C033,Electrical Engineering,4,7.7,Nagpur,Maharashtra,Data Analyst,Intermediate,0,0,3,1,0,6,17
+ST0802,Rahul Kulkarni,C047,Civil Engineering,4,7.95,Ranchi,Jharkhand,AI/ML Developer,Advanced,0,0,2,1,0,4,13
+ST0803,Aarav Behera,C052,Computer Science and Engineering,4,8.92,Kochi,Kerala,IoT Developer,Advanced,0,0,3,1,0,4,16
+ST0804,Arjun Patil,C053,CSE (AI & ML),3,6.38,Thiruvananthapuram,Kerala,Data Analyst,Intermediate,1,0,2,0,0,5,10
+ST0805,Rahul Mishra,C005,Electronics and Telecommunication,2,8.51,Bengaluru,Karnataka,Cloud Developer,Intermediate,0,0,3,1,1,6,16
+ST0806,Aditya Joshi,C035,Civil Engineering,1,6.29,Bengaluru,Karnataka,Android Developer,Beginner,0,0,0,1,1,5,12
+ST0807,Dhruv Singh,C034,Information Technology,3,6.82,Chandrapur,Maharashtra,Blockchain Developer,Intermediate,0,0,2,0,1,6,15
+ST0808,Aditi Behera,C035,Electrical Engineering,3,7.94,Bengaluru,Karnataka,Frontend Developer,Intermediate,0,0,1,1,0,6,11
+ST0809,Anushka Mehta,C022,Electrical Engineering,4,8.85,Kochi,Kerala,Frontend Developer,Advanced,0,0,4,1,1,5,20
+ST0810,Nikhil Iyer,C012,Electronics and Telecommunication,3,9.28,Jaipur,Rajasthan,IoT Developer,Advanced,7,2,4,1,1,3,11
+ST0811,Karan Mishra,C030,Mechanical Engineering,3,9.56,Jammu,Jammu and Kashmir,DevOps,Advanced,6,1,3,1,0,5,16
+ST0812,Varun Naidu,C050,Civil Engineering,2,7.65,Indore,Madhya Pradesh,Data Scientist,Advanced,4,2,3,1,1,5,10
+ST0813,Shreya Kulkarni,C050,Computer Science and Engineering,2,7.73,Indore,Madhya Pradesh,Android Developer,Intermediate,0,0,3,0,0,5,15
+ST0814,Rahul Behera,C037,Computer Science and Engineering,1,8.1,Chennai,Tamil Nadu,Data Scientist,Intermediate,0,0,4,0,0,5,13
+ST0815,Shreyas Iyer,C028,CSE (AI & ML),2,7.25,Dehradun,Uttarakhand,AI/ML Developer,Advanced,8,1,3,1,0,3,17
+ST0816,Rohan Behera,C057,Electrical Engineering,4,8.51,Raipur,Chhattisgarh,Android Developer,Expert,0,0,2,1,1,6,16
+ST0817,Sanika Singh,C035,Computer Engineering,2,6.73,Bengaluru,Karnataka,Full Stack Developer,Intermediate,1,0,4,0,1,5,11
+ST0818,Ishaan Reddy,C026,Mechanical Engineering,1,6.67,Visakhapatnam,Andhra Pradesh,IoT Developer,Beginner,0,0,2,0,1,5,10
+ST0819,Priya Banerjee,C054,Computer Science and Engineering,4,6.55,Chandigarh,Chandigarh,Android Developer,Intermediate,0,0,2,1,1,4,15
+ST0820,Yash Das,C004,Computer Science and Engineering,4,8.36,Chandrapur,Maharashtra,DevOps,Advanced,3,0,4,1,0,4,17
+ST0821,Karan Shetty,C010,Civil Engineering,1,6.12,Warangal,Telangana,DevOps,Beginner,0,0,1,0,0,5,14
+ST0822,Advait Trivedi,C030,Civil Engineering,1,6.42,Jammu,Jammu and Kashmir,Full Stack Developer,Intermediate,0,0,1,1,0,5,10
+ST0823,Isha Joshi,C049,Mechanical Engineering,3,7.55,Lucknow,Uttar Pradesh,Cybersecurity,Advanced,7,1,2,1,1,4,10
+ST0824,Nisha Fernandes,C008,CSE (AI & ML),1,7.32,Coimbatore,Tamil Nadu,Full Stack Developer,Beginner,0,0,2,0,0,5,9
+ST0825,Sanika Naidu,C012,Civil Engineering,3,6.7,Jaipur,Rajasthan,Android Developer,Advanced,0,0,2,0,0,4,16
+ST0826,Akash Patil,C013,Electrical Engineering,2,7.58,Ahmedabad,Gujarat,IoT Developer,Intermediate,0,0,3,1,1,6,17
+ST0827,Diya Fernandes,C015,Computer Science and Engineering,3,6.51,Kolkata,West Bengal,Cybersecurity,Intermediate,4,1,2,0,0,3,13
+ST0828,Aditi Reddy,C042,Civil Engineering,4,8.56,Jaipur,Rajasthan,Blockchain Developer,Expert,1,0,2,1,1,3,16
+ST0829,Diya Verma,C045,Computer Engineering,2,5.89,Kolkata,West Bengal,AI/ML Developer,Beginner,0,0,2,1,1,3,8
+ST0830,Neha Yadav,C031,Mechanical Engineering,1,7.51,Pune,Maharashtra,IoT Developer,Intermediate,0,0,2,0,0,3,11
+ST0831,Advait Joshi,C046,Electronics and Telecommunication,4,7.85,Bhubaneswar,Odisha,UI/UX Designer,Advanced,0,0,3,1,0,4,14
+ST0832,Aarav Bhat,C020,Mechanical Engineering,3,7.72,Indore,Madhya Pradesh,Frontend Developer,Intermediate,0,0,2,0,0,5,13
+ST0833,Tanvi Sinha,C020,Mechanical Engineering,3,8.07,Indore,Madhya Pradesh,AI/ML Developer,Intermediate,0,0,3,0,1,6,14
+ST0834,Shruti Sharma,C044,Computer Engineering,3,8.57,Surat,Gujarat,UI/UX Designer,Advanced,0,0,2,1,1,5,18
+ST0835,Nikhil Deshmukh,C031,Civil Engineering,4,7.06,Pune,Maharashtra,Frontend Developer,Intermediate,0,0,4,1,1,3,12
+ST0836,Vihaan Verma,C027,CSE (AI & ML),1,7.46,Raipur,Chhattisgarh,Frontend Developer,Intermediate,0,0,3,0,1,3,7
+ST0837,Shreya Sahu,C042,Computer Engineering,4,7.1,Jaipur,Rajasthan,Frontend Developer,Advanced,1,0,2,1,0,6,12
+ST0838,Aditi Mohanty,C059,Electrical Engineering,3,7.03,Panaji,Goa,AI/ML Developer,Advanced,1,0,3,1,1,5,12
+ST0839,Sakshi Deshmukh,C045,Computer Science and Engineering,3,6.87,Kolkata,West Bengal,Data Scientist,Intermediate,6,1,2,1,0,3,14
+ST0840,Harsh Bhat,C013,Computer Engineering,2,7.39,Ahmedabad,Gujarat,Android Developer,Intermediate,0,0,1,0,1,3,15
+ST0841,Rohan Shinde,C017,Mechanical Engineering,1,7.69,Ranchi,Jharkhand,Backend Developer,Intermediate,2,0,2,1,0,6,14
+ST0842,Aarav Rao,C035,Civil Engineering,3,7.95,Bengaluru,Karnataka,Cloud Developer,Advanced,4,3,4,0,1,5,16
+ST0843,Avani Joshi,C019,Civil Engineering,3,8.33,Lucknow,Uttar Pradesh,UI/UX Designer,Advanced,1,0,4,1,0,5,12
+ST0844,Ananya Behera,C009,Information Technology,2,7.18,Hyderabad,Telangana,Full Stack Developer,Intermediate,0,0,1,0,1,4,12
+ST0845,Varun Shetty,C008,Civil Engineering,4,9.22,Coimbatore,Tamil Nadu,Backend Developer,Expert,4,0,3,0,1,6,18
+ST0846,Meera Jain,C048,Electronics and Telecommunication,4,7.88,Patna,Bihar,Backend Developer,Advanced,10,1,3,1,0,4,17
+ST0847,Zara Patel,C047,Computer Science and Engineering,4,8.04,Ranchi,Jharkhand,Data Scientist,Intermediate,9,2,3,1,0,3,9
+ST0848,Kavya Chatterjee,C039,Computer Engineering,4,9.4,Hyderabad,Telangana,Backend Developer,Expert,19,5,4,0,1,3,15
+ST0849,Rahul Gupta,C008,Information Technology,3,8.37,Coimbatore,Tamil Nadu,Blockchain Developer,Expert,6,0,4,1,1,6,14
+ST0850,Isha Verma,C017,Mechanical Engineering,4,8.29,Ranchi,Jharkhand,Backend Developer,Advanced,10,2,3,1,1,4,14
+ST0851,Harsh Rao,C014,CSE (AI & ML),3,7.48,Surat,Gujarat,Frontend Developer,Advanced,2,0,3,1,1,6,12
+ST0852,Kavya Sinha,C033,Electronics and Telecommunication,4,7.27,Nagpur,Maharashtra,Full Stack Developer,Expert,15,3,4,1,0,5,20
+ST0853,Dhruv Chatterjee,C056,CSE (AI & ML),2,8.06,Visakhapatnam,Andhra Pradesh,DevOps,Intermediate,0,0,3,1,0,3,11
+ST0854,Zara Yadav,C058,Electronics and Telecommunication,1,7.12,Dehradun,Uttarakhand,Full Stack Developer,Intermediate,0,0,3,0,1,3,10
+ST0855,Yash Iyer,C001,Electronics and Telecommunication,3,6.99,Pune,Maharashtra,Cloud Developer,Intermediate,0,0,1,1,1,5,9
+ST0856,Vaishnavi Mishra,C033,Computer Science and Engineering,3,7.76,Nagpur,Maharashtra,Data Scientist,Advanced,0,0,5,1,0,4,11
+ST0857,Ananya Bhat,C036,Electronics and Telecommunication,4,6.57,Mysuru,Karnataka,Data Scientist,Intermediate,0,0,1,0,0,4,11
+ST0858,Atharv Bhat,C003,Civil Engineering,2,7.48,Nagpur,Maharashtra,Data Scientist,Intermediate,0,0,2,1,0,4,15
+ST0859,Sahil Patil,C031,Mechanical Engineering,2,7.66,Pune,Maharashtra,Frontend Developer,Intermediate,0,0,2,0,0,3,8
+ST0860,Akash Yadav,C048,Electronics and Telecommunication,4,7.41,Patna,Bihar,Backend Developer,Intermediate,18,6,4,0,1,5,10
+ST0861,Zara Banerjee,C018,Civil Engineering,4,7.47,Patna,Bihar,Full Stack Developer,Expert,7,2,4,1,1,6,15
+ST0862,Varun Patil,C009,Information Technology,4,8.88,Hyderabad,Telangana,AI/ML Developer,Advanced,4,1,2,1,1,4,16
+ST0863,Avani Sahu,C059,Electronics and Telecommunication,3,6.47,Panaji,Goa,Data Analyst,Intermediate,1,0,2,1,0,5,12
+ST0864,Aditya Jain,C029,Information Technology,4,9.25,Panaji,Goa,Cybersecurity,Expert,0,0,6,1,1,4,22
+ST0865,Sanika Mohanty,C021,Civil Engineering,4,7.3,Bhopal,Madhya Pradesh,Data Analyst,Intermediate,0,0,2,1,0,5,9
+ST0866,Pranav More,C041,Information Technology,2,7.46,Delhi,Delhi,IoT Developer,Intermediate,0,0,2,0,0,4,9
+ST0867,Om Jadhav,C037,CSE (AI & ML),1,6.44,Chennai,Tamil Nadu,AI/ML Developer,Beginner,0,0,2,0,0,6,5
+ST0868,Riya Deshmukh,C032,Computer Science and Engineering,3,7.66,Mumbai,Maharashtra,Android Developer,Intermediate,0,0,1,0,0,6,10
+ST0869,Yash Sinha,C043,Computer Science and Engineering,3,8.11,Ahmedabad,Gujarat,AI/ML Developer,Advanced,6,1,1,1,1,3,14
+ST0870,Nisha Yadav,C049,Computer Science and Engineering,4,7.28,Lucknow,Uttar Pradesh,Cloud Developer,Advanced,0,0,4,0,0,4,19
+ST0871,Zara Patil,C018,Electrical Engineering,2,6.96,Patna,Bihar,DevOps,Intermediate,0,0,3,1,0,4,17
+ST0872,Pranav Chatterjee,C007,CSE (AI & ML),3,8.18,Chennai,Tamil Nadu,Cloud Developer,Intermediate,1,0,2,0,1,4,9
+ST0873,Anushka Das,C027,Electronics and Telecommunication,2,7.22,Raipur,Chhattisgarh,AI/ML Developer,Advanced,2,0,2,1,1,3,12
+ST0874,Anushka Trivedi,C018,Electronics and Telecommunication,3,6.74,Patna,Bihar,AI/ML Developer,Intermediate,0,0,0,1,1,4,16
+ST0875,Tanvi Joshi,C045,Electronics and Telecommunication,2,7.09,Kolkata,West Bengal,Frontend Developer,Advanced,0,0,4,1,1,6,13
+ST0876,Isha Reddy,C009,Civil Engineering,2,7.29,Hyderabad,Telangana,Data Analyst,Advanced,1,0,2,1,1,3,11
+ST0877,Aarav Mehta,C014,Civil Engineering,3,7.53,Surat,Gujarat,AI/ML Developer,Advanced,1,0,3,1,0,3,16
+ST0878,Ishaan Patil,C045,Computer Engineering,1,7.32,Kolkata,West Bengal,IoT Developer,Intermediate,6,0,1,0,0,4,17
+ST0879,Dhruv Iyer,C013,Mechanical Engineering,2,6.92,Ahmedabad,Gujarat,Frontend Developer,Intermediate,0,0,2,1,0,4,13
+ST0880,Priya Gowda,C040,Information Technology,1,8.22,Warangal,Telangana,Data Scientist,Intermediate,0,0,1,1,0,4,16
+ST0881,Aditi Deshmukh,C019,Civil Engineering,3,8.08,Lucknow,Uttar Pradesh,Data Analyst,Intermediate,1,0,4,1,1,5,12
+ST0882,Akash Shah,C010,Computer Engineering,2,6.77,Warangal,Telangana,Data Scientist,Beginner,0,0,2,1,1,4,9
+ST0883,Atharv Sinha,C023,Civil Engineering,3,7.37,Thiruvananthapuram,Kerala,UI/UX Designer,Intermediate,0,0,2,1,0,6,9
+ST0884,Akash Jadhav,C022,Information Technology,2,8.37,Kochi,Kerala,UI/UX Designer,Advanced,0,0,2,1,1,6,10
+ST0885,Manav Shetty,C023,Civil Engineering,3,7.14,Thiruvananthapuram,Kerala,Data Scientist,Intermediate,0,0,2,1,0,5,14
+ST0886,Arjun Pawar,C039,Electrical Engineering,2,7.71,Hyderabad,Telangana,Cybersecurity,Intermediate,0,0,1,1,0,6,12
+ST0887,Atharv Qureshi,C023,Civil Engineering,4,7.95,Thiruvananthapuram,Kerala,UI/UX Designer,Intermediate,0,0,4,1,1,5,10
+ST0888,Pooja Menon,C037,Mechanical Engineering,2,7.16,Chennai,Tamil Nadu,Cybersecurity,Intermediate,0,0,2,0,1,6,7
+ST0889,Om Trivedi,C006,Computer Engineering,4,7.94,Mysuru,Karnataka,Android Developer,Advanced,0,0,3,1,1,3,12
+ST0890,Neha Nair,C019,Computer Science and Engineering,1,7.65,Lucknow,Uttar Pradesh,Blockchain Developer,Intermediate,0,0,2,1,0,4,16
+ST0891,Atharv Jain,C048,Computer Science and Engineering,4,8.21,Patna,Bihar,Frontend Developer,Intermediate,0,0,1,1,0,6,11
+ST0892,Meera Sharma,C044,Information Technology,3,8.28,Surat,Gujarat,AI/ML Developer,Advanced,10,5,4,0,0,4,14
+ST0893,Advait Banerjee,C017,Computer Engineering,2,7.41,Ranchi,Jharkhand,Blockchain Developer,Beginner,0,0,2,1,0,4,11
+ST0894,Shreya Fernandes,C020,Mechanical Engineering,3,7.38,Indore,Madhya Pradesh,Cloud Developer,Advanced,0,0,1,1,0,6,12
+ST0895,Pranav Jain,C004,CSE (AI & ML),3,6.73,Chandrapur,Maharashtra,IoT Developer,Beginner,0,0,0,1,0,3,8
+ST0896,Varun Kumar,C011,Mechanical Engineering,4,7.12,Delhi,Delhi,Frontend Developer,Intermediate,1,0,4,0,0,4,14
+ST0897,Yash Singh,C052,Electrical Engineering,1,7.34,Kochi,Kerala,Blockchain Developer,Intermediate,1,0,2,1,1,3,8
+ST0898,Akash Verma,C049,Electronics and Telecommunication,3,7.13,Lucknow,Uttar Pradesh,IoT Developer,Intermediate,7,0,1,1,0,5,12
+ST0899,Ishaan Pawar,C035,Computer Science and Engineering,2,7.99,Bengaluru,Karnataka,Backend Developer,Advanced,0,0,3,0,1,4,17
+ST0900,Karan Singh,C013,Computer Science and Engineering,1,7.26,Ahmedabad,Gujarat,Cloud Developer,Intermediate,1,0,2,1,1,5,9
+ST0901,Rohan Menon,C050,Mechanical Engineering,3,8.6,Indore,Madhya Pradesh,Blockchain Developer,Advanced,5,2,3,1,1,4,11
+ST0902,Diya Patel,C032,Mechanical Engineering,1,8.1,Mumbai,Maharashtra,AI/ML Developer,Intermediate,6,2,1,0,0,5,17
+ST0903,Avani Gupta,C045,Computer Science and Engineering,2,8.19,Kolkata,West Bengal,UI/UX Designer,Advanced,1,1,3,1,0,6,18
+ST0904,Vihaan Pawar,C029,Computer Science and Engineering,3,7.04,Panaji,Goa,IoT Developer,Intermediate,0,0,2,0,0,5,9
+ST0905,Sahil Menon,C049,Information Technology,3,7.66,Lucknow,Uttar Pradesh,DevOps,Advanced,0,0,2,0,0,6,15
+ST0906,Riya Sharma,C022,Civil Engineering,1,7.56,Kochi,Kerala,Data Scientist,Intermediate,0,0,2,1,1,3,10
+ST0907,Meera Das,C013,Electrical Engineering,3,8.8,Ahmedabad,Gujarat,Data Scientist,Advanced,0,0,3,1,1,4,16
+ST0908,Sanika Yadav,C057,Electronics and Telecommunication,4,7.65,Raipur,Chhattisgarh,Blockchain Developer,Intermediate,2,1,2,1,0,4,12
+ST0909,Vaishnavi Jain,C004,Mechanical Engineering,4,8.29,Chandrapur,Maharashtra,Backend Developer,Advanced,5,2,4,1,1,4,13
+ST0910,Avani Mishra,C022,Information Technology,3,8.96,Kochi,Kerala,Cybersecurity,Advanced,5,1,3,1,1,3,19
+ST0911,Sakshi Singh,C036,Information Technology,3,9.47,Mysuru,Karnataka,Full Stack Developer,Advanced,16,2,4,1,0,5,14
+ST0912,Akash Khan,C048,Information Technology,3,8.31,Patna,Bihar,DevOps,Advanced,6,1,1,1,0,3,14
+ST0913,Diya Menon,C026,Electrical Engineering,1,6.65,Visakhapatnam,Andhra Pradesh,Cloud Developer,Beginner,0,0,3,1,1,5,6
+ST0914,Pooja Sharma,C045,Electronics and Telecommunication,4,7.25,Kolkata,West Bengal,AI/ML Developer,Advanced,0,0,3,0,0,5,13
+ST0915,Ananya Gowda,C043,Information Technology,4,7.53,Ahmedabad,Gujarat,IoT Developer,Intermediate,7,0,2,0,0,4,11
+ST0916,Ishaan Sinha,C035,Computer Science and Engineering,4,8.99,Bengaluru,Karnataka,Cloud Developer,Advanced,1,0,1,1,0,6,18
+ST0917,Sneha Sinha,C041,Information Technology,2,7.96,Delhi,Delhi,Data Scientist,Intermediate,1,0,3,1,1,4,13
+ST0918,Meera Banerjee,C052,Computer Science and Engineering,2,7.26,Kochi,Kerala,DevOps,Advanced,2,1,2,1,0,4,14
+ST0919,Neha Shah,C032,Electrical Engineering,4,8.18,Mumbai,Maharashtra,UI/UX Designer,Expert,0,0,4,0,1,6,14
+ST0920,Pooja Iyer,C019,CSE (AI & ML),1,6.52,Lucknow,Uttar Pradesh,IoT Developer,Beginner,1,0,1,0,0,3,10
+ST0921,Sanika Patel,C008,CSE (AI & ML),3,6.5,Coimbatore,Tamil Nadu,DevOps,Intermediate,0,0,3,0,0,5,10
+ST0922,Pranav Sahu,C019,Computer Engineering,2,7.02,Lucknow,Uttar Pradesh,UI/UX Designer,Advanced,0,0,3,1,1,3,10
+ST0923,Karan Menon,C022,Computer Science and Engineering,1,6.91,Kochi,Kerala,AI/ML Developer,Intermediate,0,0,1,0,0,3,10
+ST0924,Aniket Naidu,C015,Electrical Engineering,2,7.38,Kolkata,West Bengal,UI/UX Designer,Intermediate,0,0,1,1,1,3,10
+ST0925,Nikhil Chatterjee,C033,Electrical Engineering,4,6.83,Nagpur,Maharashtra,Cybersecurity,Advanced,0,0,1,1,1,3,16
+ST0926,Avani Naidu,C025,Electronics and Telecommunication,2,7.62,Guwahati,Assam,AI/ML Developer,Intermediate,0,0,4,0,1,5,13
+ST0927,Rohan Chatterjee,C009,Electrical Engineering,2,7.12,Hyderabad,Telangana,IoT Developer,Advanced,9,1,3,1,1,4,15
+ST0928,Pranav Yadav,C021,Mechanical Engineering,3,6.83,Bhopal,Madhya Pradesh,Data Scientist,Intermediate,0,0,0,0,0,6,8
+ST0929,Advait Verma,C038,Mechanical Engineering,3,8.54,Coimbatore,Tamil Nadu,Android Developer,Advanced,0,0,3,0,0,5,17
+ST0930,Isha Naidu,C032,Electronics and Telecommunication,4,9.01,Mumbai,Maharashtra,Frontend Developer,Expert,0,0,4,1,1,4,16
+ST0931,Tanvi Singh,C040,Civil Engineering,2,7.12,Warangal,Telangana,DevOps,Intermediate,0,0,1,0,0,5,14
+ST0932,Yash Sahu,C016,Electrical Engineering,2,8.59,Bhubaneswar,Odisha,UI/UX Designer,Advanced,2,2,2,1,0,6,13
+ST0933,Yash Naidu,C041,CSE (AI & ML),2,8.49,Delhi,Delhi,DevOps,Advanced,4,1,1,0,0,5,16
+ST0934,Harsh Nair,C022,Civil Engineering,1,6.79,Kochi,Kerala,DevOps,Beginner,0,0,2,1,0,6,11
+ST0935,Sahil Rao,C048,Electronics and Telecommunication,1,7.39,Patna,Bihar,Cybersecurity,Beginner,0,0,1,1,1,6,8
+ST0936,Pooja Singh,C017,CSE (AI & ML),2,6.74,Ranchi,Jharkhand,Data Analyst,Intermediate,1,0,1,1,1,4,15
+ST0937,Om Jain,C048,Mechanical Engineering,1,6.72,Patna,Bihar,Backend Developer,Intermediate,0,0,3,1,1,6,11
+ST0938,Diya Iyer,C004,Computer Engineering,3,7.27,Chandrapur,Maharashtra,DevOps,Intermediate,1,0,2,1,0,6,12
+ST0939,Rohan Patil,C013,Computer Engineering,4,7.54,Ahmedabad,Gujarat,Backend Developer,Advanced,6,0,4,1,1,4,10
+ST0940,Akash Shinde,C016,CSE (AI & ML),3,8.11,Bhubaneswar,Odisha,Cloud Developer,Advanced,0,0,3,1,0,6,14
+ST0941,Yash Chatterjee,C028,CSE (AI & ML),2,7.59,Dehradun,Uttarakhand,Android Developer,Intermediate,1,0,2,0,0,6,10
+ST0942,Atharv Reddy,C041,Information Technology,3,7.89,Delhi,Delhi,UI/UX Designer,Advanced,0,0,1,0,1,3,17
+ST0943,Nisha More,C015,Information Technology,3,7.96,Kolkata,West Bengal,AI/ML Developer,Advanced,0,0,4,1,0,5,13
+ST0944,Akash Kumar,C050,Information Technology,4,8.04,Indore,Madhya Pradesh,Frontend Developer,Expert,1,0,3,1,1,4,16
+ST0945,Diya Shinde,C030,Computer Engineering,2,7.17,Jammu,Jammu and Kashmir,IoT Developer,Intermediate,6,0,3,1,1,3,15
+ST0946,Kavya Bhat,C041,CSE (AI & ML),3,7.35,Delhi,Delhi,Cybersecurity,Advanced,1,0,1,1,1,3,16
+ST0947,Vaishnavi Singh,C060,Electrical Engineering,3,7.98,Jammu,Jammu and Kashmir,Android Developer,Advanced,0,0,3,1,1,4,18
+ST0948,Manav Sinha,C030,Electrical Engineering,3,6.16,Jammu,Jammu and Kashmir,Blockchain Developer,Intermediate,0,0,4,1,1,3,12
+ST0949,Sanika Jadhav,C024,Computer Engineering,3,8.7,Chandigarh,Chandigarh,Data Scientist,Advanced,10,2,2,1,1,6,11
+ST0950,Shreya Shetty,C010,Computer Engineering,3,7.11,Warangal,Telangana,Cloud Developer,Intermediate,2,0,2,1,0,3,17
+ST0951,Kavya Naidu,C037,Electrical Engineering,2,8.14,Chennai,Tamil Nadu,Full Stack Developer,Intermediate,1,0,2,0,1,3,13
+ST0952,Advait Mohanty,C027,Mechanical Engineering,2,7.6,Raipur,Chhattisgarh,Frontend Developer,Intermediate,2,0,3,0,0,3,15
+ST0953,Vihaan Behera,C005,Civil Engineering,3,7.17,Bengaluru,Karnataka,Cybersecurity,Intermediate,0,0,2,0,1,6,14
+ST0954,Aarav Iyer,C024,Civil Engineering,3,9.81,Chandigarh,Chandigarh,Frontend Developer,Expert,1,0,3,1,1,3,18
+ST0955,Sakshi Menon,C043,Computer Science and Engineering,2,8.07,Ahmedabad,Gujarat,Backend Developer,Advanced,0,0,4,1,0,5,11
+ST0956,Pooja Das,C010,Computer Science and Engineering,4,8.53,Warangal,Telangana,Data Analyst,Intermediate,0,0,2,1,0,5,10
+ST0957,Aarav Yadav,C025,Computer Engineering,2,7.16,Guwahati,Assam,AI/ML Developer,Intermediate,0,0,1,1,0,5,9
+ST0958,Diya Jain,C001,Electronics and Telecommunication,3,7.05,Pune,Maharashtra,Full Stack Developer,Intermediate,1,0,1,1,1,4,14
+ST0959,Riya Reddy,C014,Information Technology,4,8.63,Surat,Gujarat,IoT Developer,Advanced,0,0,2,1,1,6,20
+ST0960,Sneha Reddy,C006,Electronics and Telecommunication,4,7.31,Mysuru,Karnataka,Frontend Developer,Intermediate,4,0,3,1,1,5,17
+ST0961,Sanika Das,C021,Civil Engineering,4,6.72,Bhopal,Madhya Pradesh,Backend Developer,Advanced,0,0,3,1,1,4,18
+ST0962,Shreya Shinde,C043,Electrical Engineering,4,7.79,Ahmedabad,Gujarat,Blockchain Developer,Intermediate,0,0,2,1,1,4,14
+ST0963,Tanvi Fernandes,C048,CSE (AI & ML),3,7.15,Patna,Bihar,IoT Developer,Intermediate,5,0,1,0,0,4,11
+ST0964,Sakshi More,C011,Electrical Engineering,2,7.44,Delhi,Delhi,Cloud Developer,Intermediate,1,0,2,1,0,6,17
+ST0965,Ishaan Yadav,C015,Civil Engineering,3,7.72,Kolkata,West Bengal,Cloud Developer,Intermediate,1,0,2,0,1,5,15
+ST0966,Karan Shinde,C057,Civil Engineering,3,7.6,Raipur,Chhattisgarh,Data Scientist,Intermediate,0,0,2,0,0,5,15
+ST0967,Aniket Mohanty,C018,Information Technology,3,8.07,Patna,Bihar,Full Stack Developer,Intermediate,9,2,1,1,0,6,12
+ST0968,Arjun Kulkarni,C055,Information Technology,3,7.13,Guwahati,Assam,Cloud Developer,Intermediate,0,0,0,1,1,3,8
+ST0969,Shruti Patil,C032,CSE (AI & ML),4,8.58,Mumbai,Maharashtra,DevOps,Expert,4,1,5,1,1,5,21
+ST0970,Shruti Bhat,C028,Civil Engineering,4,8.59,Dehradun,Uttarakhand,DevOps,Expert,6,2,4,1,1,5,20
+ST0971,Akash Mohanty,C026,Information Technology,3,6.58,Visakhapatnam,Andhra Pradesh,Blockchain Developer,Intermediate,1,0,1,1,0,6,13
+ST0972,Nisha Shetty,C014,Electronics and Telecommunication,2,7.18,Surat,Gujarat,Backend Developer,Advanced,0,0,2,1,1,3,18
+ST0973,Ananya Sinha,C046,CSE (AI & ML),3,7.56,Bhubaneswar,Odisha,Cloud Developer,Advanced,2,1,3,1,1,6,15
+ST0974,Diya Kulkarni,C008,Computer Engineering,4,8.51,Coimbatore,Tamil Nadu,UI/UX Designer,Expert,0,0,2,1,1,6,17
+ST0975,Vihaan Bhat,C016,Electrical Engineering,1,7.96,Bhubaneswar,Odisha,Android Developer,Intermediate,0,0,2,0,1,5,14
+ST0976,Ishaan Jain,C036,Mechanical Engineering,4,7.01,Mysuru,Karnataka,Frontend Developer,Intermediate,0,0,4,1,0,4,16
+ST0977,Riya Jadhav,C056,Mechanical Engineering,2,9.16,Visakhapatnam,Andhra Pradesh,Data Scientist,Advanced,1,0,1,1,1,3,16
+ST0978,Diya Mishra,C058,Information Technology,3,7.24,Dehradun,Uttarakhand,Cloud Developer,Intermediate,0,0,4,0,1,4,12
+ST0979,Kavya Mohanty,C005,Electrical Engineering,2,6.97,Bengaluru,Karnataka,Data Scientist,Intermediate,0,0,0,0,0,3,14
+ST0980,Isha Khan,C005,CSE (AI & ML),2,7.79,Bengaluru,Karnataka,Cloud Developer,Advanced,1,0,1,1,1,3,18
+ST0981,Advait Patel,C005,Electronics and Telecommunication,1,7.39,Bengaluru,Karnataka,Frontend Developer,Intermediate,1,0,1,1,0,3,15
+ST0982,Shreyas Mehta,C009,Computer Science and Engineering,4,7.96,Hyderabad,Telangana,IoT Developer,Expert,20,5,3,1,0,6,14
+ST0983,Advait Shetty,C014,Computer Science and Engineering,3,6.33,Surat,Gujarat,Backend Developer,Intermediate,0,0,1,1,0,6,11
+ST0984,Atharv Verma,C060,CSE (AI & ML),2,7.35,Jammu,Jammu and Kashmir,Data Analyst,Advanced,0,0,3,0,1,3,18
+ST0985,Diya Banerjee,C020,Electronics and Telecommunication,3,7.71,Indore,Madhya Pradesh,AI/ML Developer,Intermediate,0,0,1,1,1,6,7
+ST0986,Shreya Roy,C048,Computer Engineering,4,9.01,Patna,Bihar,Backend Developer,Expert,18,5,3,1,1,5,20
+ST0987,Aditya Chatterjee,C057,Civil Engineering,3,6.36,Raipur,Chhattisgarh,Android Developer,Beginner,0,0,3,1,0,4,12
+ST0988,Meera Shah,C044,Civil Engineering,3,7.35,Surat,Gujarat,Cybersecurity,Advanced,2,1,3,1,0,6,15
+ST0989,Ishaan Singh,C053,Electronics and Telecommunication,1,7.95,Thiruvananthapuram,Kerala,DevOps,Intermediate,1,0,1,1,1,3,17
+ST0990,Tanvi Sahu,C054,Mechanical Engineering,3,7.23,Chandigarh,Chandigarh,UI/UX Designer,Advanced,1,0,3,0,0,5,16
+ST0991,Sakshi Trivedi,C045,Mechanical Engineering,3,7.84,Kolkata,West Bengal,Full Stack Developer,Expert,27,10,2,1,1,4,19
+ST0992,Dhruv Mohanty,C023,Mechanical Engineering,2,7.56,Thiruvananthapuram,Kerala,Blockchain Developer,Advanced,6,0,2,0,1,3,13
+ST0993,Aditi Chatterjee,C013,Electronics and Telecommunication,4,7.9,Ahmedabad,Gujarat,IoT Developer,Advanced,0,0,3,1,0,3,15
+ST0994,Sakshi Banerjee,C021,Computer Science and Engineering,3,6.33,Bhopal,Madhya Pradesh,Data Scientist,Advanced,0,0,2,1,0,4,12
+ST0995,Sanika Gowda,C041,CSE (AI & ML),4,7.33,Delhi,Delhi,Blockchain Developer,Intermediate,0,0,1,1,0,6,11
+ST0996,Zara Menon,C005,Information Technology,3,5.67,Bengaluru,Karnataka,Backend Developer,Intermediate,0,0,2,1,0,5,9
+ST0997,Diya Reddy,C031,Electronics and Telecommunication,2,8.65,Pune,Maharashtra,DevOps,Advanced,0,0,4,0,0,4,16
+ST0998,Kavya Banerjee,C054,Electronics and Telecommunication,4,8.88,Chandigarh,Chandigarh,Cybersecurity,Advanced,0,0,2,1,0,4,12
+ST0999,Shreya Mishra,C045,Civil Engineering,3,5.85,Kolkata,West Bengal,Data Analyst,Intermediate,0,0,3,1,0,4,11
+ST1000,Shreya Jadhav,C042,Computer Engineering,1,9.0,Jaipur,Rajasthan,IoT Developer,Advanced,0,0,3,1,1,5,11
+ST1001,Harsh Sharma,C021,Electronics and Telecommunication,1,8.24,Bhopal,Madhya Pradesh,AI/ML Developer,Intermediate,1,0,0,1,0,6,15
+ST1002,Vaishnavi Sharma,C036,Electronics and Telecommunication,1,7.85,Mysuru,Karnataka,Data Scientist,Advanced,0,0,1,0,0,4,11
+ST1003,Aditya Kulkarni,C034,Civil Engineering,1,7.73,Chandrapur,Maharashtra,Blockchain Developer,Beginner,0,0,1,1,0,6,8
+ST1004,Aditya Roy,C034,Electrical Engineering,3,6.52,Chandrapur,Maharashtra,IoT Developer,Intermediate,0,0,1,1,1,5,11
+ST1005,Vihaan Menon,C029,Civil Engineering,2,7.12,Panaji,Goa,Frontend Developer,Advanced,1,0,3,0,0,3,12
+ST1006,Pooja Yadav,C041,Information Technology,1,6.75,Delhi,Delhi,Cloud Developer,Advanced,2,0,1,1,0,5,17
+ST1007,Manav Jain,C012,Information Technology,2,7.69,Jaipur,Rajasthan,Data Analyst,Intermediate,0,0,2,1,0,6,13
+ST1008,Pooja Jadhav,C033,Computer Science and Engineering,3,7.41,Nagpur,Maharashtra,Cybersecurity,Advanced,0,0,2,0,1,5,17
+ST1009,Aniket Trivedi,C035,Civil Engineering,2,7.72,Bengaluru,Karnataka,Backend Developer,Intermediate,0,0,1,1,0,6,14
+ST1010,Priya Pawar,C035,Electrical Engineering,3,7.7,Bengaluru,Karnataka,Frontend Developer,Advanced,1,0,1,0,1,4,13
+ST1011,Neha Mehta,C015,Mechanical Engineering,4,7.42,Kolkata,West Bengal,Full Stack Developer,Advanced,15,3,4,1,0,5,16
+ST1012,Kavya Roy,C027,Computer Science and Engineering,3,8.95,Raipur,Chhattisgarh,Backend Developer,Advanced,2,0,2,1,1,5,12
+ST1013,Sanika Kumar,C009,Mechanical Engineering,3,7.59,Hyderabad,Telangana,Full Stack Developer,Advanced,4,2,2,1,1,5,14
+ST1014,Isha Nair,C038,Civil Engineering,4,8.06,Coimbatore,Tamil Nadu,Full Stack Developer,Intermediate,1,0,1,1,0,3,12
+ST1015,Sahil More,C011,CSE (AI & ML),3,7.21,Delhi,Delhi,Data Analyst,Advanced,7,1,4,1,0,5,12
+ST1016,Avani Jadhav,C018,Computer Engineering,2,7.6,Patna,Bihar,Frontend Developer,Intermediate,0,0,4,1,0,5,10
+ST1017,Zara Shinde,C008,Computer Engineering,3,8.67,Coimbatore,Tamil Nadu,Data Analyst,Advanced,6,1,3,1,0,5,13
+ST1018,Aniket Gowda,C024,Information Technology,3,6.64,Chandigarh,Chandigarh,Full Stack Developer,Intermediate,0,0,3,1,0,5,9
+ST1019,Priya Reddy,C034,Computer Engineering,3,8.62,Chandrapur,Maharashtra,Backend Developer,Expert,24,5,4,1,1,5,19
+ST1020,Shreyas Jadhav,C028,Computer Engineering,1,6.53,Dehradun,Uttarakhand,Blockchain Developer,Intermediate,1,0,2,1,0,5,7
+ST1021,Aarav Gowda,C051,Electrical Engineering,1,7.06,Bhopal,Madhya Pradesh,AI/ML Developer,Intermediate,1,0,2,0,1,3,15
+ST1022,Riya Das,C040,Mechanical Engineering,4,8.75,Warangal,Telangana,Android Developer,Advanced,0,0,1,1,1,3,15
+ST1023,Karan Patel,C032,CSE (AI & ML),4,8.09,Mumbai,Maharashtra,Cloud Developer,Advanced,0,0,2,1,1,5,12
+ST1024,Tanvi Behera,C042,Electronics and Telecommunication,3,7.78,Jaipur,Rajasthan,Cloud Developer,Advanced,1,0,3,1,0,6,13
+ST1025,Meera Gowda,C044,Computer Engineering,4,8.03,Surat,Gujarat,Full Stack Developer,Intermediate,0,0,2,0,0,4,14
+ST1026,Isha Behera,C016,Electrical Engineering,3,7.5,Bhubaneswar,Odisha,Cloud Developer,Advanced,0,0,3,0,0,4,16
+ST1027,Sneha Iyer,C024,Mechanical Engineering,1,6.03,Chandigarh,Chandigarh,Blockchain Developer,Beginner,1,0,0,1,0,4,8
+ST1028,Arjun Deshmukh,C041,Information Technology,2,6.16,Delhi,Delhi,Data Scientist,Intermediate,0,0,3,0,0,3,14
+ST1029,Riya Trivedi,C013,Electronics and Telecommunication,2,7.75,Ahmedabad,Gujarat,Cloud Developer,Intermediate,1,0,1,0,0,5,14
+ST1030,Arjun Iyer,C045,Information Technology,2,6.79,Kolkata,West Bengal,AI/ML Developer,Intermediate,0,0,2,0,1,6,13
+ST1031,Atharv Fernandes,C032,Mechanical Engineering,2,8.72,Mumbai,Maharashtra,Frontend Developer,Advanced,1,0,3,0,1,6,13
+ST1032,Rohan Deshmukh,C046,Information Technology,4,7.04,Bhubaneswar,Odisha,Data Scientist,Intermediate,0,0,3,0,0,6,14
+ST1033,Akash Banerjee,C056,Electronics and Telecommunication,1,7.18,Visakhapatnam,Andhra Pradesh,Frontend Developer,Intermediate,0,0,2,0,0,4,14
+ST1034,Yash Fernandes,C052,Mechanical Engineering,2,8.0,Kochi,Kerala,Android Developer,Advanced,0,0,2,1,1,5,14
+ST1035,Sakshi Sharma,C028,Electronics and Telecommunication,4,6.55,Dehradun,Uttarakhand,Blockchain Developer,Intermediate,0,0,1,0,1,5,17
+ST1036,Sakshi Das,C021,CSE (AI & ML),3,7.69,Bhopal,Madhya Pradesh,Frontend Developer,Intermediate,0,0,1,1,0,4,17
+ST1037,Varun Pawar,C007,Information Technology,2,7.86,Chennai,Tamil Nadu,Frontend Developer,Intermediate,2,0,1,1,0,6,16
+ST1038,Meera Joshi,C017,Computer Science and Engineering,3,8.63,Ranchi,Jharkhand,AI/ML Developer,Advanced,2,0,3,1,1,5,17
+ST1039,Advait Gupta,C010,Electrical Engineering,3,6.5,Warangal,Telangana,AI/ML Developer,Intermediate,0,0,3,1,1,6,14
+ST1040,Nisha Kumar,C057,Mechanical Engineering,4,9.76,Raipur,Chhattisgarh,AI/ML Developer,Expert,3,0,4,1,1,6,16
+ST1041,Karan Gupta,C054,Electrical Engineering,2,6.96,Chandigarh,Chandigarh,DevOps,Beginner,2,0,2,0,0,3,7
+ST1042,Akash Deshmukh,C009,Information Technology,3,7.13,Hyderabad,Telangana,Cybersecurity,Intermediate,3,0,2,1,0,5,16
+ST1043,Aniket Sahu,C037,CSE (AI & ML),3,7.73,Chennai,Tamil Nadu,Android Developer,Intermediate,0,0,1,1,0,3,12
+ST1044,Pooja Deshmukh,C037,Electrical Engineering,1,7.59,Chennai,Tamil Nadu,Data Analyst,Intermediate,0,0,3,0,0,5,7
+ST1045,Arjun Behera,C057,Information Technology,1,6.98,Raipur,Chhattisgarh,Cybersecurity,Intermediate,0,0,3,0,1,5,8
+ST1046,Harsh Patil,C008,Civil Engineering,1,6.27,Coimbatore,Tamil Nadu,AI/ML Developer,Beginner,0,0,2,0,0,4,14
+ST1047,Vaishnavi Bhat,C037,Information Technology,3,7.83,Chennai,Tamil Nadu,Blockchain Developer,Expert,1,0,3,1,0,5,15
+ST1048,Manav Das,C022,Electronics and Telecommunication,3,8.34,Kochi,Kerala,Blockchain Developer,Advanced,6,1,3,1,1,5,13
+ST1049,Priya Iyer,C007,Civil Engineering,4,8.32,Chennai,Tamil Nadu,DevOps,Advanced,0,0,4,0,0,6,16
+ST1050,Dhruv Kulkarni,C009,Mechanical Engineering,3,8.35,Hyderabad,Telangana,UI/UX Designer,Advanced,0,0,1,0,1,6,13
+ST1051,Kavya Trivedi,C050,CSE (AI & ML),2,7.58,Indore,Madhya Pradesh,IoT Developer,Advanced,5,0,3,1,0,3,17
+ST1052,Aditya Gupta,C034,Computer Science and Engineering,2,7.45,Chandrapur,Maharashtra,AI/ML Developer,Intermediate,0,0,0,1,0,3,10
+ST1053,Rahul Reddy,C026,Electronics and Telecommunication,1,7.86,Visakhapatnam,Andhra Pradesh,IoT Developer,Intermediate,1,0,3,1,0,3,17
+ST1054,Aditya Sharma,C031,Computer Engineering,2,7.32,Pune,Maharashtra,Cybersecurity,Intermediate,3,0,1,1,0,3,12
+ST1055,Sanika Iyer,C029,Computer Science and Engineering,3,7.17,Panaji,Goa,IoT Developer,Intermediate,0,0,2,1,1,5,14
+ST1056,Om Khan,C057,CSE (AI & ML),4,8.96,Raipur,Chhattisgarh,Cybersecurity,Expert,6,1,4,1,0,3,15
+ST1057,Shreyas Kulkarni,C031,Electronics and Telecommunication,2,7.72,Pune,Maharashtra,Cybersecurity,Intermediate,2,0,3,1,0,4,13
+ST1058,Atharv Naidu,C026,Electronics and Telecommunication,3,7.09,Visakhapatnam,Andhra Pradesh,Full Stack Developer,Advanced,0,0,1,1,0,3,11
+ST1059,Rahul Rao,C026,Electronics and Telecommunication,2,8.57,Visakhapatnam,Andhra Pradesh,Cybersecurity,Advanced,6,1,2,1,0,6,17
+ST1060,Isha More,C042,Electronics and Telecommunication,4,7.89,Jaipur,Rajasthan,Cloud Developer,Expert,0,0,6,1,1,5,18
+ST1061,Ananya Menon,C059,Civil Engineering,2,7.9,Panaji,Goa,AI/ML Developer,Advanced,0,0,3,1,1,5,14
+ST1062,Aditi Gowda,C030,Electrical Engineering,1,6.86,Jammu,Jammu and Kashmir,Frontend Developer,Advanced,4,0,4,1,1,3,16
+ST1063,Sneha Roy,C043,Electrical Engineering,3,7.72,Ahmedabad,Gujarat,IoT Developer,Advanced,4,1,2,1,0,6,17
+ST1064,Aniket Verma,C021,Information Technology,4,8.83,Bhopal,Madhya Pradesh,Android Developer,Advanced,0,0,3,1,0,6,11
+ST1065,Advait Sharma,C048,Information Technology,2,7.79,Patna,Bihar,Blockchain Developer,Intermediate,0,0,3,1,1,6,17
+ST1066,Ishaan Gowda,C021,Electrical Engineering,2,6.23,Bhopal,Madhya Pradesh,Frontend Developer,Intermediate,0,0,2,0,1,4,8
+ST1067,Sanika Jain,C012,Mechanical Engineering,2,7.06,Jaipur,Rajasthan,Data Scientist,Advanced,3,0,3,1,1,6,16
+ST1068,Priya Fernandes,C003,Computer Engineering,4,7.15,Nagpur,Maharashtra,UI/UX Designer,Intermediate,3,0,2,0,1,3,13
+ST1069,Yash Gupta,C020,CSE (AI & ML),1,7.67,Indore,Madhya Pradesh,Full Stack Developer,Intermediate,0,0,3,1,1,3,11
+ST1070,Diya Pawar,C018,Mechanical Engineering,3,6.94,Patna,Bihar,AI/ML Developer,Intermediate,1,0,2,1,0,5,14
+ST1071,Sanika Banerjee,C049,Civil Engineering,2,6.65,Lucknow,Uttar Pradesh,Backend Developer,Advanced,0,0,3,0,0,6,12
+ST1072,Karan Jadhav,C027,Information Technology,4,7.97,Raipur,Chhattisgarh,Backend Developer,Expert,4,0,7,1,1,6,15
+ST1073,Shruti Verma,C016,Computer Science and Engineering,3,7.56,Bhubaneswar,Odisha,Cybersecurity,Intermediate,0,0,2,0,1,5,12
+ST1074,Avani Reddy,C006,CSE (AI & ML),4,6.51,Mysuru,Karnataka,UI/UX Designer,Intermediate,0,0,3,1,1,3,12
+ST1075,Nisha Bhat,C046,CSE (AI & ML),4,7.49,Bhubaneswar,Odisha,Backend Developer,Advanced,5,1,4,1,0,6,19
+ST1076,Sanika Shah,C023,Electronics and Telecommunication,1,5.49,Thiruvananthapuram,Kerala,Frontend Developer,Beginner,0,0,0,1,0,6,6
+ST1077,Riya Mishra,C034,Electronics and Telecommunication,2,8.23,Chandrapur,Maharashtra,Backend Developer,Advanced,14,4,5,1,1,6,18
+ST1078,Diya Das,C044,Computer Engineering,2,8.24,Surat,Gujarat,Backend Developer,Advanced,1,0,4,1,1,5,18
+ST1079,Diya Roy,C050,Computer Engineering,1,6.65,Indore,Madhya Pradesh,Data Scientist,Intermediate,0,0,3,0,0,3,7
+ST1080,Anushka Banerjee,C044,Civil Engineering,4,6.85,Surat,Gujarat,UI/UX Designer,Intermediate,0,0,3,0,0,4,7
+ST1081,Sahil Nair,C025,CSE (AI & ML),1,7.96,Guwahati,Assam,Data Scientist,Advanced,1,1,0,0,1,6,12
+ST1082,Aarav Chatterjee,C034,Computer Engineering,3,7.55,Chandrapur,Maharashtra,AI/ML Developer,Advanced,0,0,2,0,0,3,15
+ST1083,Rohan Pawar,C037,Electrical Engineering,2,8.34,Chennai,Tamil Nadu,Data Scientist,Expert,0,0,1,0,1,3,19
+ST1084,Shreyas Pawar,C026,Civil Engineering,2,7.84,Visakhapatnam,Andhra Pradesh,Full Stack Developer,Advanced,0,0,3,1,0,5,14
+ST1085,Manav Joshi,C032,CSE (AI & ML),2,7.26,Mumbai,Maharashtra,AI/ML Developer,Intermediate,5,0,3,0,0,4,12
+ST1086,Sahil Banerjee,C028,Electrical Engineering,1,7.01,Dehradun,Uttarakhand,IoT Developer,Beginner,0,0,1,0,0,6,12
+ST1087,Vaishnavi Gowda,C051,Electrical Engineering,3,7.25,Bhopal,Madhya Pradesh,IoT Developer,Advanced,1,0,1,1,0,3,16
+ST1088,Zara Jain,C008,Electrical Engineering,1,8.82,Coimbatore,Tamil Nadu,Android Developer,Advanced,0,0,4,1,0,5,15
+ST1089,Nikhil Gupta,C019,CSE (AI & ML),4,8.41,Lucknow,Uttar Pradesh,Full Stack Developer,Intermediate,8,1,4,0,0,5,15
+ST1090,Sanika Joshi,C033,CSE (AI & ML),2,7.27,Nagpur,Maharashtra,Android Developer,Advanced,0,0,2,1,1,3,11
+ST1091,Kavya Sahu,C039,Civil Engineering,2,8.19,Hyderabad,Telangana,AI/ML Developer,Advanced,4,2,4,0,0,4,16
+ST1092,Diya Jadhav,C006,Electrical Engineering,3,7.78,Mysuru,Karnataka,Blockchain Developer,Advanced,0,0,4,1,0,3,14
+ST1093,Priya Gupta,C034,Computer Science and Engineering,3,7.47,Chandrapur,Maharashtra,Cybersecurity,Intermediate,1,0,3,0,0,4,15
+ST1094,Atharv Joshi,C016,Information Technology,3,7.79,Bhubaneswar,Odisha,AI/ML Developer,Intermediate,1,0,3,1,1,3,14
+ST1095,Aarav Joshi,C059,Civil Engineering,1,7.41,Panaji,Goa,DevOps,Beginner,0,0,1,0,0,4,11
+ST1096,Varun Shah,C036,Electrical Engineering,2,7.35,Mysuru,Karnataka,Frontend Developer,Intermediate,0,0,2,1,0,5,11
+ST1097,Harsh Yadav,C002,Mechanical Engineering,2,6.79,Mumbai,Maharashtra,Data Analyst,Advanced,7,1,3,1,0,5,10
+ST1098,Harsh Mohanty,C007,Mechanical Engineering,3,7.27,Chennai,Tamil Nadu,Cybersecurity,Intermediate,0,0,2,0,1,3,14
+ST1099,Aditya Bhat,C023,Electronics and Telecommunication,3,7.55,Thiruvananthapuram,Kerala,UI/UX Designer,Advanced,0,0,2,1,1,4,12
+ST1100,Arjun More,C030,Computer Engineering,4,7.86,Jammu,Jammu and Kashmir,Data Analyst,Advanced,0,0,2,0,0,4,14
+ST1101,Neha Joshi,C018,Information Technology,2,8.66,Patna,Bihar,Data Scientist,Advanced,0,0,5,1,0,4,16
+ST1102,Manav Nair,C041,Electronics and Telecommunication,1,6.49,Delhi,Delhi,Cloud Developer,Intermediate,0,0,1,0,0,3,13
+ST1103,Vaishnavi Roy,C031,Computer Science and Engineering,2,7.55,Pune,Maharashtra,DevOps,Intermediate,0,0,2,0,0,3,13
+ST1104,Sahil Iyer,C036,Computer Engineering,3,7.99,Mysuru,Karnataka,Backend Developer,Intermediate,2,0,1,1,0,4,17
+ST1105,Ishaan Mehta,C045,Mechanical Engineering,4,7.45,Kolkata,West Bengal,AI/ML Developer,Intermediate,2,0,2,1,0,6,10
+ST1106,Karan Iyer,C055,Computer Engineering,3,7.55,Guwahati,Assam,Backend Developer,Advanced,7,0,3,1,1,6,17
+ST1107,Sahil Kulkarni,C001,Computer Engineering,1,7.01,Pune,Maharashtra,Backend Developer,Intermediate,0,0,2,0,1,4,16
+ST1108,Meera Chatterjee,C044,Computer Science and Engineering,1,7.71,Surat,Gujarat,Backend Developer,Advanced,0,0,3,1,0,6,10
+ST1109,Shruti Behera,C059,Computer Engineering,3,8.23,Panaji,Goa,Data Analyst,Advanced,5,1,2,0,0,6,18
+ST1110,Zara Roy,C017,Mechanical Engineering,2,9.54,Ranchi,Jharkhand,Blockchain Developer,Advanced,7,1,4,1,0,4,19
+ST1111,Om Pawar,C051,Electronics and Telecommunication,3,6.7,Bhopal,Madhya Pradesh,Frontend Developer,Intermediate,0,0,2,1,0,6,10
+ST1112,Karan Patil,C051,Mechanical Engineering,3,6.5,Bhopal,Madhya Pradesh,Cybersecurity,Intermediate,0,0,2,1,0,3,12
+ST1113,Om Mohanty,C013,Mechanical Engineering,3,6.77,Ahmedabad,Gujarat,DevOps,Intermediate,0,0,2,1,1,5,13
+ST1114,Diya Bhat,C031,Civil Engineering,3,8.58,Pune,Maharashtra,Cloud Developer,Expert,0,0,5,1,1,6,16
+ST1115,Atharv Khan,C045,Mechanical Engineering,3,8.36,Kolkata,West Bengal,Cloud Developer,Advanced,0,0,5,0,0,4,15
+ST1116,Vihaan Patil,C044,CSE (AI & ML),2,8.02,Surat,Gujarat,Backend Developer,Advanced,18,1,2,1,0,6,19
+ST1117,Karan Sinha,C046,Electronics and Telecommunication,4,8.18,Bhubaneswar,Odisha,Full Stack Developer,Expert,6,2,2,1,1,4,17
+ST1118,Sanika Deshmukh,C016,Computer Engineering,2,7.93,Bhubaneswar,Odisha,Data Analyst,Advanced,14,3,3,0,0,6,18
+ST1119,Om Roy,C053,Mechanical Engineering,3,7.82,Thiruvananthapuram,Kerala,Data Scientist,Intermediate,0,0,2,0,0,5,13
+ST1120,Aniket Shetty,C028,Computer Engineering,3,8.27,Dehradun,Uttarakhand,Data Analyst,Intermediate,0,0,1,1,1,4,14
+ST1121,Harsh Shinde,C015,CSE (AI & ML),4,9.27,Kolkata,West Bengal,Cybersecurity,Expert,8,5,5,1,0,6,18
+ST1122,Dhruv Jain,C011,Information Technology,2,7.92,Delhi,Delhi,Cloud Developer,Intermediate,0,0,1,0,0,6,8
+ST1123,Kavya Sharma,C029,Computer Engineering,4,6.66,Panaji,Goa,Cloud Developer,Intermediate,0,0,1,0,1,5,16
+ST1124,Pranav Khan,C013,Information Technology,3,6.12,Ahmedabad,Gujarat,Blockchain Developer,Intermediate,4,1,2,0,1,6,15
+ST1125,Neha Gowda,C052,Civil Engineering,3,7.49,Kochi,Kerala,Data Analyst,Intermediate,0,0,2,0,0,6,11
+ST1126,Yash Banerjee,C022,Information Technology,4,8.28,Kochi,Kerala,Frontend Developer,Advanced,1,0,3,1,1,6,18
+ST1127,Tanvi Pawar,C035,Information Technology,2,7.82,Bengaluru,Karnataka,Data Analyst,Advanced,1,0,3,1,1,5,15
+ST1128,Shruti Mohanty,C020,CSE (AI & ML),4,6.85,Indore,Madhya Pradesh,AI/ML Developer,Advanced,0,0,3,1,0,4,18
+ST1129,Aditya Pawar,C026,Electrical Engineering,4,9.02,Visakhapatnam,Andhra Pradesh,Full Stack Developer,Expert,27,6,1,0,0,3,16
+ST1130,Ananya Chatterjee,C015,CSE (AI & ML),3,7.1,Kolkata,West Bengal,UI/UX Designer,Intermediate,0,0,1,0,0,5,13
+ST1131,Ishaan Chatterjee,C044,Information Technology,3,7.48,Surat,Gujarat,Frontend Developer,Advanced,3,1,2,1,1,3,12
+ST1132,Atharv Singh,C016,Mechanical Engineering,2,7.21,Bhubaneswar,Odisha,Data Scientist,Advanced,1,0,3,1,0,4,18
+ST1133,Aniket Joshi,C037,Civil Engineering,1,8.29,Chennai,Tamil Nadu,Frontend Developer,Advanced,0,0,2,1,1,6,16
+ST1134,Harsh Joshi,C019,Mechanical Engineering,3,7.77,Lucknow,Uttar Pradesh,IoT Developer,Advanced,9,5,3,0,0,3,14
+ST1135,Arjun Kumar,C046,Mechanical Engineering,1,8.5,Bhubaneswar,Odisha,Backend Developer,Advanced,20,4,3,0,1,6,17
+ST1136,Dhruv Shinde,C045,Information Technology,2,8.04,Kolkata,West Bengal,UI/UX Designer,Intermediate,1,1,1,1,0,5,10
+ST1137,Om Iyer,C018,CSE (AI & ML),2,5.81,Patna,Bihar,AI/ML Developer,Intermediate,0,0,3,1,0,3,8
+ST1138,Isha Sharma,C050,Computer Engineering,2,6.81,Indore,Madhya Pradesh,Data Scientist,Intermediate,1,0,3,1,0,5,11
+ST1139,Arjun Trivedi,C027,Civil Engineering,2,7.09,Raipur,Chhattisgarh,Data Analyst,Intermediate,1,0,2,0,1,6,8
+ST1140,Sanika Qureshi,C022,Information Technology,3,7.76,Kochi,Kerala,Cloud Developer,Intermediate,0,0,2,1,0,4,16
+ST1141,Sahil Gowda,C018,Electrical Engineering,2,7.57,Patna,Bihar,Full Stack Developer,Advanced,6,1,5,1,0,6,14
+ST1142,Ananya Khan,C040,Computer Engineering,3,6.89,Warangal,Telangana,UI/UX Designer,Beginner,0,0,1,0,0,6,10
+ST1143,Nisha Trivedi,C047,Civil Engineering,2,8.04,Ranchi,Jharkhand,Data Scientist,Advanced,2,0,3,1,1,3,14
+ST1144,Shruti Reddy,C058,Electrical Engineering,3,7.43,Dehradun,Uttarakhand,Backend Developer,Advanced,0,0,2,1,1,4,16
+ST1145,Tanvi Sharma,C025,Information Technology,3,8.42,Guwahati,Assam,AI/ML Developer,Advanced,1,0,2,0,0,3,13
+ST1146,Ananya Trivedi,C010,Computer Science and Engineering,1,7.04,Warangal,Telangana,Cloud Developer,Beginner,0,0,3,0,0,4,6
+ST1147,Riya Jain,C054,Mechanical Engineering,2,6.65,Chandigarh,Chandigarh,Cybersecurity,Intermediate,2,0,3,1,1,3,12
+ST1148,Yash More,C027,Civil Engineering,4,6.82,Raipur,Chhattisgarh,IoT Developer,Intermediate,0,0,2,0,1,6,13
+ST1149,Rahul Chatterjee,C041,CSE (AI & ML),4,8.96,Delhi,Delhi,IoT Developer,Expert,2,0,4,1,1,5,14
+ST1150,Aarav Kumar,C054,Electrical Engineering,2,8.14,Chandigarh,Chandigarh,Frontend Developer,Intermediate,0,0,1,1,0,6,11
+ST1151,Ishaan Patel,C009,Information Technology,2,7.69,Hyderabad,Telangana,IoT Developer,Intermediate,2,1,2,1,0,6,15
+ST1152,Riya Rao,C034,Computer Science and Engineering,2,7.2,Chandrapur,Maharashtra,Full Stack Developer,Advanced,4,1,1,1,1,4,11
+ST1153,Om Das,C042,Information Technology,2,6.82,Jaipur,Rajasthan,AI/ML Developer,Intermediate,0,0,2,1,0,3,13
+ST1154,Shreya Sharma,C047,Electronics and Telecommunication,3,8.8,Ranchi,Jharkhand,IoT Developer,Advanced,0,0,1,1,1,4,17
+ST1155,Rahul Sinha,C023,Civil Engineering,4,8.54,Thiruvananthapuram,Kerala,AI/ML Developer,Advanced,0,0,3,1,1,3,17
+ST1156,Aarav Kulkarni,C060,Computer Engineering,3,8.13,Jammu,Jammu and Kashmir,Data Analyst,Advanced,0,0,1,1,0,6,17
+ST1157,Sahil Naidu,C037,Computer Engineering,1,7.69,Chennai,Tamil Nadu,Frontend Developer,Intermediate,1,0,1,1,0,6,12
+ST1158,Rohan Verma,C001,Electronics and Telecommunication,2,7.53,Pune,Maharashtra,Blockchain Developer,Intermediate,1,0,0,1,1,5,11
+ST1159,Aniket Singh,C042,Information Technology,4,7.89,Jaipur,Rajasthan,Blockchain Developer,Advanced,5,1,2,1,0,5,13
+ST1160,Sneha Joshi,C008,Information Technology,2,7.76,Coimbatore,Tamil Nadu,Backend Developer,Intermediate,5,2,2,1,1,6,10
+ST1161,Isha Mehta,C002,Electrical Engineering,4,6.46,Mumbai,Maharashtra,Backend Developer,Intermediate,8,0,3,1,1,6,16
+ST1162,Aniket Rao,C009,Civil Engineering,2,7.03,Hyderabad,Telangana,Backend Developer,Advanced,2,0,4,1,1,4,12
+ST1163,Anushka Pawar,C024,Computer Engineering,3,7.99,Chandigarh,Chandigarh,Backend Developer,Intermediate,0,0,2,0,1,6,9
+ST1164,Tanvi Trivedi,C040,CSE (AI & ML),3,8.35,Warangal,Telangana,IoT Developer,Expert,16,4,1,1,0,6,18
+ST1165,Riya Naidu,C049,Computer Science and Engineering,2,7.96,Lucknow,Uttar Pradesh,Cybersecurity,Advanced,1,0,4,1,0,3,15
+ST1166,Ananya Mehta,C044,Computer Engineering,1,6.22,Surat,Gujarat,UI/UX Designer,Intermediate,0,0,1,0,1,3,13
+ST1167,Shruti Shetty,C006,CSE (AI & ML),2,7.63,Mysuru,Karnataka,Blockchain Developer,Advanced,1,0,2,1,0,6,11
+ST1168,Pranav Shah,C026,Electrical Engineering,3,7.21,Visakhapatnam,Andhra Pradesh,Data Analyst,Advanced,6,2,2,0,1,4,18
+ST1169,Akash Gupta,C056,Civil Engineering,2,7.74,Visakhapatnam,Andhra Pradesh,Cloud Developer,Intermediate,0,0,3,1,0,5,15
+ST1170,Arjun Gowda,C003,Electrical Engineering,4,8.13,Nagpur,Maharashtra,UI/UX Designer,Advanced,5,0,3,1,0,5,15
+ST1171,Nikhil Fernandes,C058,Information Technology,3,5.84,Dehradun,Uttarakhand,Frontend Developer,Intermediate,2,0,3,1,0,4,10
+ST1172,Om Verma,C024,Mechanical Engineering,4,7.83,Chandigarh,Chandigarh,Data Analyst,Advanced,2,0,1,0,0,6,12
+ST1173,Zara Mehta,C036,Electronics and Telecommunication,3,7.98,Mysuru,Karnataka,UI/UX Designer,Advanced,0,0,3,1,1,3,17
+ST1174,Atharv Menon,C058,Civil Engineering,1,7.0,Dehradun,Uttarakhand,UI/UX Designer,Intermediate,0,0,3,0,1,4,11
+ST1175,Yash Jadhav,C011,Electronics and Telecommunication,4,7.3,Delhi,Delhi,AI/ML Developer,Intermediate,1,0,2,1,1,4,10
+ST1176,Aarav Banerjee,C003,Electronics and Telecommunication,1,9.03,Nagpur,Maharashtra,UI/UX Designer,Advanced,0,0,4,1,1,5,11
+ST1177,Vaishnavi Joshi,C026,Computer Science and Engineering,2,7.7,Visakhapatnam,Andhra Pradesh,UI/UX Designer,Intermediate,1,0,1,1,0,6,12
+ST1178,Sakshi Yadav,C007,Civil Engineering,1,7.13,Chennai,Tamil Nadu,Full Stack Developer,Intermediate,0,0,2,1,0,4,10
+ST1179,Arjun Yadav,C054,CSE (AI & ML),3,8.05,Chandigarh,Chandigarh,Cloud Developer,Advanced,0,0,2,0,1,6,15
+ST1180,Sahil Sahu,C011,Civil Engineering,3,8.0,Delhi,Delhi,IoT Developer,Advanced,5,1,1,1,1,3,11
+ST1181,Nikhil Patil,C029,Computer Engineering,3,8.18,Panaji,Goa,Backend Developer,Advanced,2,1,1,1,1,3,18
+ST1182,Vaishnavi Banerjee,C059,Civil Engineering,3,6.47,Panaji,Goa,Full Stack Developer,Intermediate,6,1,1,1,0,3,11
+ST1183,Nisha Pawar,C015,Mechanical Engineering,3,8.48,Kolkata,West Bengal,IoT Developer,Intermediate,0,0,4,0,1,5,13
+ST1184,Pranav Qureshi,C035,Electrical Engineering,1,7.49,Bengaluru,Karnataka,Android Developer,Beginner,0,0,0,0,0,5,12
+ST1185,Aditya Yadav,C050,Computer Engineering,3,6.43,Indore,Madhya Pradesh,Cloud Developer,Intermediate,0,0,2,0,0,4,12
+ST1186,Karan Kumar,C049,Electrical Engineering,2,7.77,Lucknow,Uttar Pradesh,Backend Developer,Advanced,1,1,2,1,0,4,18
+ST1187,Arjun Banerjee,C048,Electrical Engineering,2,8.32,Patna,Bihar,AI/ML Developer,Advanced,0,0,4,1,0,5,12
+ST1188,Ananya Patel,C021,Information Technology,3,7.17,Bhopal,Madhya Pradesh,Cloud Developer,Intermediate,0,0,3,1,0,3,17
+ST1189,Manav Deshmukh,C008,Civil Engineering,2,7.25,Coimbatore,Tamil Nadu,Backend Developer,Advanced,11,3,2,1,1,3,13
+ST1190,Shreyas Shinde,C010,Mechanical Engineering,4,7.11,Warangal,Telangana,Android Developer,Intermediate,0,0,2,1,0,3,12
+ST1191,Neha Mishra,C037,Electrical Engineering,4,8.17,Chennai,Tamil Nadu,Data Scientist,Expert,9,2,5,1,1,3,15
+ST1192,Akash Bhat,C006,Computer Science and Engineering,2,7.4,Mysuru,Karnataka,AI/ML Developer,Intermediate,0,0,1,1,0,5,9
+ST1193,Harsh Fernandes,C045,Mechanical Engineering,2,7.28,Kolkata,West Bengal,Backend Developer,Intermediate,0,0,3,1,0,4,9
+ST1194,Dhruv Bhat,C055,CSE (AI & ML),4,7.59,Guwahati,Assam,AI/ML Developer,Advanced,6,1,3,1,1,5,18
+ST1195,Tanvi Gupta,C052,Mechanical Engineering,1,7.68,Kochi,Kerala,DevOps,Intermediate,0,0,3,0,0,6,9
+ST1196,Aniket More,C007,Electronics and Telecommunication,1,7.88,Chennai,Tamil Nadu,Android Developer,Intermediate,0,0,2,0,1,5,16
+ST1197,Manav Shah,C043,Electronics and Telecommunication,3,8.69,Ahmedabad,Gujarat,Cloud Developer,Expert,0,0,6,1,0,6,15
+ST1198,Diya Shetty,C024,Electronics and Telecommunication,2,7.53,Chandigarh,Chandigarh,Frontend Developer,Advanced,0,0,4,1,1,6,18
+ST1199,Rohan Trivedi,C049,Information Technology,3,7.91,Lucknow,Uttar Pradesh,Cloud Developer,Advanced,1,1,3,1,1,3,15
+ST1200,Pooja Shetty,C034,Electronics and Telecommunication,3,7.71,Chandrapur,Maharashtra,Data Analyst,Advanced,0,0,2,1,0,3,18

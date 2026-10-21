@@ -1,0 +1,25 @@
+{
+  "name": "hackbridge-cp-main",
+  "version": "1.0.0",
+  "description": "HackBridge — Intelligent Inter-College Hackathon Collaboration Platform",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "server": "node --watch backend/src/server.js",
+    "client": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "validate": "node scripts/validate-dataset.js",
+    "db:import": "node scripts/import-dataset.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "hackathon",
+    "collaboration",
+    "inter-college",
+    "team-formation",
+    "recommendation-engine",
+    "ddbms"
+  ],
+  "author": "HackBridge Team",
+  "license": "ISC"
+}

@@ -1,0 +1,2924 @@
+team_id,student_id,assigned_role,join_status
+T0001,ST0202,Data Scientist,Accepted
+T0001,ST0332,AI/ML Developer,Accepted
+T0001,ST0539,AI/ML Developer,Accepted
+T0002,ST0902,AI/ML Developer,Accepted
+T0002,ST0722,Data Scientist,Accepted
+T0002,ST0815,AI/ML Developer,Accepted
+T0002,ST1091,AI/ML Developer,Accepted
+T0003,ST0579,AI/ML Developer,Accepted
+T0003,ST0608,AI/ML Developer,Accepted
+T0003,ST0892,AI/ML Developer,Accepted
+T0003,ST0238,Data Scientist,Accepted
+T0003,ST1145,AI/ML Developer,Accepted
+T0004,ST0847,Data Scientist,Accepted
+T0004,ST0134,AI/ML Developer,Accepted
+T0004,ST0986,Backend Developer,Accepted
+T0004,ST0869,AI/ML Developer,Accepted
+T0004,ST0785,Data Scientist,Accepted
+T0005,ST0569,AI/ML Developer,Accepted
+T0005,ST1067,Data Scientist,Accepted
+T0005,ST0453,AI/ML Developer,Accepted
+T0005,ST0179,Data Scientist,Accepted
+T0005,ST0466,Data Analyst,Accepted
+T0006,ST1019,Backend Developer,Accepted
+T0006,ST0986,Backend Developer,Accepted
+T0006,ST1116,Backend Developer,Accepted
+T0006,ST0648,Backend Developer,Accepted
+T0007,ST0556,Cybersecurity,Accepted
+T0007,ST0505,Backend Developer,Accepted
+T0007,ST1135,Backend Developer,Accepted
+T0007,ST0302,Backend Developer,Accepted
+T0007,ST1075,Backend Developer,Accepted
+T0008,ST0412,Backend Developer,Accepted
+T0008,ST0654,Full Stack Developer,Accepted
+T0008,ST0035,Full Stack Developer,Accepted
+T0008,ST0689,Frontend Developer,Accepted
+T0009,ST0132,Backend Developer,Accepted
+T0009,ST0651,Backend Developer,Accepted
+T0009,ST0852,Full Stack Developer,Accepted
+T0010,ST0223,Backend Developer,Accepted
+T0010,ST1161,Backend Developer,Accepted
+T0010,ST1160,Backend Developer,Accepted
+T0010,ST0428,Backend Developer,Accepted
+T0010,ST0587,Backend Developer,Accepted
+T0011,ST1135,Backend Developer,Accepted
+T0011,ST0773,Backend Developer,Accepted
+T0011,ST0892,AI/ML Developer,Accepted
+T0011,ST0531,Backend Developer,Accepted
+T0012,ST0917,Data Scientist,Accepted
+T0012,ST0223,Backend Developer,Accepted
+T0012,ST0492,Full Stack Developer,Accepted
+T0013,ST1019,Backend Developer,Accepted
+T0013,ST0781,Frontend Developer,Accepted
+T0013,ST1116,Backend Developer,Accepted
+T0014,ST0623,Full Stack Developer,Accepted
+T0014,ST0848,Backend Developer,Accepted
+T0014,ST0374,Backend Developer,Accepted
+T0015,ST0302,Backend Developer,Accepted
+T0015,ST1189,Backend Developer,Accepted
+T0015,ST0648,Backend Developer,Accepted
+T0016,ST1135,Backend Developer,Accepted
+T0016,ST0846,Backend Developer,Accepted
+T0016,ST0319,Android Developer,Accepted
+T0016,ST0268,Android Developer,Accepted
+T0017,ST0119,Backend Developer,Accepted
+T0017,ST0199,UI/UX Designer,Accepted
+T0017,ST0219,Backend Developer,Accepted
+T0017,ST0527,Full Stack Developer,Accepted
+T0017,ST1042,Cybersecurity,Accepted
+T0018,ST0214,UI/UX Designer,Accepted
+T0018,ST0139,Full Stack Developer,Accepted
+T0018,ST1106,Backend Developer,Accepted
+T0019,ST0158,Full Stack Developer,Accepted
+T0019,ST0623,Full Stack Developer,Accepted
+T0019,ST0991,Full Stack Developer,Accepted
+T0020,ST0654,Full Stack Developer,Accepted
+T0020,ST1089,Full Stack Developer,Accepted
+T0020,ST1072,Backend Developer,Accepted
+T0020,ST0663,Backend Developer,Accepted
+T0020,ST1182,Full Stack Developer,Accepted
+T0021,ST0261,Full Stack Developer,Accepted
+T0021,ST0251,Data Analyst,Accepted
+T0021,ST1017,Data Analyst,Accepted
+T0022,ST0475,IoT Developer,Accepted
+T0022,ST0505,Backend Developer,Accepted
+T0022,ST0074,IoT Developer,Accepted
+T0022,ST0651,Backend Developer,Accepted
+T0023,ST0558,IoT Developer,Accepted
+T0023,ST0163,Blockchain Developer,Accepted
+T0023,ST0430,Backend Developer,Accepted
+T0024,ST0183,IoT Developer,Accepted
+T0024,ST1097,Data Analyst,Accepted
+T0024,ST0490,IoT Developer,Accepted
+T0025,ST0192,Data Analyst,Accepted
+T0025,ST0915,IoT Developer,Accepted
+T0025,ST0291,Backend Developer,Accepted
+T0026,ST0659,Cybersecurity,Accepted
+T0026,ST0217,Cybersecurity,Accepted
+T0026,ST0064,Data Analyst,Accepted
+T0026,ST0216,UI/UX Designer,Accepted
+T0027,ST0823,Cybersecurity,Accepted
+T0027,ST1059,Cybersecurity,Accepted
+T0027,ST1056,Cybersecurity,Accepted
+T0028,ST1121,Cybersecurity,Accepted
+T0028,ST0611,Cybersecurity,Accepted
+T0028,ST0786,Cybersecurity,Accepted
+T0028,ST0698,Cybersecurity,Accepted
+T0029,ST0372,Cybersecurity,Accepted
+T0029,ST0556,Cybersecurity,Accepted
+T0029,ST1093,Cybersecurity,Accepted
+T0029,ST0504,Cybersecurity,Accepted
+T0030,ST0407,Cybersecurity,Accepted
+T0030,ST0324,Cybersecurity,Accepted
+T0030,ST0709,Cybersecurity,Accepted
+T0030,ST0240,Data Analyst,Accepted
+T0031,ST0520,Blockchain Developer,Accepted
+T0031,ST1110,Blockchain Developer,Accepted
+T0031,ST0901,Blockchain Developer,Accepted
+T0031,ST0778,Blockchain Developer,Accepted
+T0032,ST0029,Blockchain Developer,Accepted
+T0032,ST0346,Blockchain Developer,Accepted
+T0032,ST1048,Blockchain Developer,Accepted
+T0033,ST0195,Blockchain Developer,Accepted
+T0033,ST0431,Blockchain Developer,Accepted
+T0033,ST0667,Blockchain Developer,Accepted
+T0033,ST0992,Blockchain Developer,Accepted
+T0034,ST1159,Blockchain Developer,Accepted
+T0034,ST0467,Blockchain Developer,Accepted
+T0034,ST0249,Blockchain Developer,Accepted
+T0034,ST0201,Blockchain Developer,Accepted
+T0034,ST0941,Android Developer,Accepted
+T0034,ST1027,Blockchain Developer,Accepted
+T0035,ST0849,Blockchain Developer,Accepted
+T0035,ST1047,Blockchain Developer,Accepted
+T0035,ST0112,Blockchain Developer,Accepted
+T0035,ST0971,Blockchain Developer,Accepted
+T0035,ST0748,Cybersecurity,Accepted
+T0036,ST0183,IoT Developer,Accepted
+T0036,ST0047,IoT Developer,Accepted
+T0036,ST0963,IoT Developer,Accepted
+T0037,ST0558,IoT Developer,Accepted
+T0037,ST0612,IoT Developer,Accepted
+T0037,ST0663,Backend Developer,Accepted
+T0037,ST0846,Backend Developer,Accepted
+T0038,ST0915,IoT Developer,Accepted
+T0038,ST0572,IoT Developer,Accepted
+T0038,ST0982,IoT Developer,Accepted
+T0039,ST0810,IoT Developer,Accepted
+T0039,ST0473,IoT Developer,Accepted
+T0039,ST0686,IoT Developer,Accepted
+T0039,ST0566,IoT Developer,Accepted
+T0040,ST0312,IoT Developer,Accepted
+T0040,ST0509,IoT Developer,Accepted
+T0040,ST0768,IoT Developer,Accepted
+T0040,ST0475,IoT Developer,Accepted
+T0040,ST0074,IoT Developer,Accepted
+T0041,ST0991,Full Stack Developer,Accepted
+T0041,ST0911,Full Stack Developer,Accepted
+T0041,ST0390,IoT Developer,Accepted
+T0042,ST0261,Full Stack Developer,Accepted
+T0042,ST0945,IoT Developer,Accepted
+T0042,ST0810,IoT Developer,Accepted
+T0042,ST0898,IoT Developer,Accepted
+T0043,ST0074,IoT Developer,Accepted
+T0043,ST0572,IoT Developer,Accepted
+T0043,ST1164,IoT Developer,Accepted
+T0043,ST0158,Full Stack Developer,Accepted
+T0044,ST0461,IoT Developer,Accepted
+T0044,ST0114,Full Stack Developer,Accepted
+T0044,ST0558,IoT Developer,Accepted
+T0044,ST1063,IoT Developer,Accepted
+T0045,ST0852,Full Stack Developer,Accepted
+T0045,ST1129,Full Stack Developer,Accepted
+T0045,ST0492,Full Stack Developer,Accepted
+T0046,ST1118,Data Analyst,Accepted
+T0046,ST0459,Cloud Developer,Accepted
+T0046,ST0436,AI/ML Developer,Accepted
+T0047,ST1015,Data Analyst,Accepted
+T0047,ST0044,Cloud Developer,Accepted
+T0047,ST0121,IoT Developer,Accepted
+T0048,ST0179,Data Scientist,Accepted
+T0048,ST0387,IoT Developer,Accepted
+T0048,ST0208,UI/UX Designer,Accepted
+T0048,ST1029,Cloud Developer,Accepted
+T0049,ST0261,Full Stack Developer,Accepted
+T0049,ST0390,IoT Developer,Accepted
+T0049,ST0860,Backend Developer,Accepted
+T0050,ST0759,IoT Developer,Accepted
+T0050,ST0556,Cybersecurity,Accepted
+T0050,ST1164,IoT Developer,Accepted
+T0050,ST0207,Data Analyst,Accepted
+T0051,ST0397,Frontend Developer,Accepted
+T0051,ST0720,Frontend Developer,Accepted
+T0051,ST0301,Full Stack Developer,Accepted
+T0051,ST0960,Frontend Developer,Accepted
+T0052,ST0349,Frontend Developer,Accepted
+T0052,ST0944,Frontend Developer,Accepted
+T0052,ST1014,Full Stack Developer,Accepted
+T0052,ST0208,UI/UX Designer,Accepted
+T0053,ST1129,Full Stack Developer,Accepted
+T0053,ST0114,Full Stack Developer,Accepted
+T0053,ST1011,Full Stack Developer,Accepted
+T0053,ST0426,Full Stack Developer,Accepted
+T0054,ST0861,Full Stack Developer,Accepted
+T0054,ST0732,Full Stack Developer,Accepted
+T0054,ST0277,Full Stack Developer,Accepted
+T0054,ST0481,Full Stack Developer,Accepted
+T0055,ST1152,Full Stack Developer,Accepted
+T0055,ST0932,UI/UX Designer,Accepted
+T0055,ST0781,Frontend Developer,Accepted
+T0055,ST0492,Full Stack Developer,Accepted
+T0056,ST0040,AI/ML Developer,Accepted
+T0056,ST1191,Data Scientist,Accepted
+T0056,ST0466,Data Analyst,Accepted
+T0057,ST0722,Data Scientist,Accepted
+T0057,ST0949,Data Scientist,Accepted
+T0057,ST0179,Data Scientist,Accepted
+T0057,ST1168,Data Analyst,Accepted
+T0057,ST0418,Data Scientist,Accepted
+T0058,ST0365,Data Scientist,Accepted
+T0058,ST0315,Data Scientist,Accepted
+T0058,ST0847,Data Scientist,Accepted
+T0058,ST0424,Data Scientist,Accepted
+T0059,ST0660,Data Scientist,Accepted
+T0059,ST0113,Data Scientist,Accepted
+T0059,ST0839,Data Scientist,Accepted
+T0059,ST0708,Data Scientist,Accepted
+T0059,ST0548,AI/ML Developer,Accepted
+T0060,ST0202,Data Scientist,Accepted
+T0060,ST0815,AI/ML Developer,Accepted
+T0060,ST1017,Data Analyst,Accepted
+T0060,ST0645,Data Scientist,Accepted
+T0061,ST0624,DevOps,Accepted
+T0061,ST0221,DevOps,Accepted
+T0061,ST0200,DevOps,Accepted
+T0061,ST0419,DevOps,Accepted
+T0061,ST0969,DevOps,Accepted
+T0062,ST0683,Frontend Developer,Accepted
+T0062,ST0626,DevOps,Accepted
+T0062,ST0775,Cloud Developer,Accepted
+T0063,ST0811,DevOps,Accepted
+T0063,ST0524,DevOps,Accepted
+T0063,ST0265,DevOps,Accepted
+T0063,ST0820,DevOps,Accepted
+T0063,ST0679,Frontend Developer,Accepted
+T0064,ST0322,DevOps,Accepted
+T0064,ST0726,DevOps,Accepted
+T0064,ST0126,DevOps,Accepted
+T0064,ST0616,DevOps,Accepted
+T0064,ST0668,Cloud Developer,Accepted
+T0064,ST0970,DevOps,Accepted
+T0065,ST0719,DevOps,Accepted
+T0065,ST0912,DevOps,Accepted
+T0065,ST0373,DevOps,Accepted
+T0065,ST0606,DevOps,Accepted
+T0066,ST1019,Backend Developer,Accepted
+T0066,ST0651,Backend Developer,Accepted
+T0066,ST0114,Full Stack Developer,Accepted
+T0066,ST0673,Cloud Developer,Accepted
+T0066,ST0462,Frontend Developer,Accepted
+T0067,ST0208,UI/UX Designer,Accepted
+T0067,ST0158,Full Stack Developer,Accepted
+T0067,ST0991,Full Stack Developer,Accepted
+T0067,ST0556,Cybersecurity,Accepted
+T0067,ST0781,Frontend Developer,Accepted
+T0068,ST0357,Android Developer,Accepted
+T0068,ST0119,Backend Developer,Accepted
+T0068,ST1118,Data Analyst,Accepted
+T0068,ST0986,Backend Developer,Accepted
+T0069,ST0623,Full Stack Developer,Accepted
+T0069,ST0848,Backend Developer,Accepted
+T0069,ST0261,Full Stack Developer,Accepted
+T0069,ST1194,AI/ML Developer,Accepted
+T0070,ST0174,Backend Developer,Accepted
+T0070,ST0759,IoT Developer,Accepted
+T0070,ST0503,Cloud Developer,Accepted
+T0071,ST0967,Full Stack Developer,Accepted
+T0071,ST0158,Full Stack Developer,Accepted
+T0071,ST1129,Full Stack Developer,Accepted
+T0071,ST0261,Full Stack Developer,Accepted
+T0071,ST0552,Full Stack Developer,Accepted
+T0072,ST0426,Full Stack Developer,Accepted
+T0072,ST1126,Frontend Developer,Accepted
+T0072,ST1106,Backend Developer,Accepted
+T0072,ST1117,Full Stack Developer,Accepted
+T0072,ST0291,Backend Developer,Accepted
+T0073,ST0293,UI/UX Designer,Accepted
+T0073,ST0715,Blockchain Developer,Accepted
+T0073,ST1131,Frontend Developer,Accepted
+T0073,ST0648,Backend Developer,Accepted
+T0074,ST0571,Frontend Developer,Accepted
+T0074,ST0386,Full Stack Developer,Accepted
+T0074,ST1135,Backend Developer,Accepted
+T0075,ST0277,Full Stack Developer,Accepted
+T0075,ST0606,DevOps,Accepted
+T0075,ST1077,Backend Developer,Accepted
+T0075,ST0322,DevOps,Accepted
+T0075,ST0845,Backend Developer,Accepted
+T0076,ST0722,Data Scientist,Accepted
+T0076,ST0202,Data Scientist,Accepted
+T0076,ST0539,AI/ML Developer,Accepted
+T0077,ST0365,Data Scientist,Accepted
+T0077,ST0708,Data Scientist,Accepted
+T0077,ST0812,Data Scientist,Accepted
+T0078,ST0072,AI/ML Developer,Accepted
+T0078,ST0751,AI/ML Developer,Accepted
+T0078,ST0040,AI/ML Developer,Accepted
+T0079,ST0608,AI/ML Developer,Accepted
+T0079,ST0453,AI/ML Developer,Accepted
+T0079,ST0815,AI/ML Developer,Accepted
+T0080,ST0436,AI/ML Developer,Accepted
+T0080,ST0873,AI/ML Developer,Accepted
+T0080,ST0581,Data Scientist,Accepted
+T0080,ST0847,Data Scientist,Accepted
+T0081,ST0291,Backend Developer,Accepted
+T0081,ST1121,Cybersecurity,Accepted
+T0081,ST0324,Cybersecurity,Accepted
+T0082,ST0648,Backend Developer,Accepted
+T0082,ST0781,Frontend Developer,Accepted
+T0082,ST0850,Backend Developer,Accepted
+T0082,ST0773,Backend Developer,Accepted
+T0082,ST0986,Backend Developer,Accepted
+T0082,ST1019,Backend Developer,Accepted
+T0083,ST0848,Backend Developer,Accepted
+T0083,ST0860,Backend Developer,Accepted
+T0083,ST0064,Data Analyst,Accepted
+T0083,ST0659,Cybersecurity,Accepted
+T0084,ST0238,Data Scientist,Accepted
+T0084,ST0717,Full Stack Developer,Accepted
+T0084,ST0611,Cybersecurity,Accepted
+T0084,ST0827,Cybersecurity,Accepted
+T0084,ST1057,Cybersecurity,Accepted
+T0084,ST0449,Blockchain Developer,Accepted
+T0085,ST1077,Backend Developer,Accepted
+T0085,ST0132,Backend Developer,Accepted
+T0085,ST1075,Backend Developer,Accepted
+T0085,ST1189,Backend Developer,Accepted
+T0086,ST0949,Data Scientist,Accepted
+T0086,ST1037,Frontend Developer,Accepted
+T0086,ST0958,Full Stack Developer,Accepted
+T0086,ST0334,UI/UX Designer,Accepted
+T0086,ST0306,Data Scientist,Accepted
+T0087,ST0848,Backend Developer,Accepted
+T0087,ST0648,Backend Developer,Accepted
+T0087,ST1189,Backend Developer,Accepted
+T0088,ST1077,Backend Developer,Accepted
+T0088,ST0132,Backend Developer,Accepted
+T0088,ST0302,Backend Developer,Accepted
+T0088,ST0850,Backend Developer,Accepted
+T0088,ST1160,Backend Developer,Accepted
+T0089,ST1019,Backend Developer,Accepted
+T0089,ST1135,Backend Developer,Accepted
+T0089,ST0505,Backend Developer,Accepted
+T0089,ST0860,Backend Developer,Accepted
+T0089,ST1116,Backend Developer,Accepted
+T0090,ST0986,Backend Developer,Accepted
+T0090,ST0291,Backend Developer,Accepted
+T0090,ST0781,Frontend Developer,Accepted
+T0090,ST0430,Backend Developer,Accepted
+T0090,ST0531,Backend Developer,Accepted
+T0091,ST0158,Full Stack Developer,Accepted
+T0091,ST0543,Full Stack Developer,Accepted
+T0091,ST0114,Full Stack Developer,Accepted
+T0092,ST0388,Android Developer,Accepted
+T0092,ST0430,Backend Developer,Accepted
+T0092,ST0221,DevOps,Accepted
+T0092,ST0279,Frontend Developer,Accepted
+T0093,ST0799,Backend Developer,Accepted
+T0093,ST1129,Full Stack Developer,Accepted
+T0093,ST0846,Backend Developer,Accepted
+T0094,ST0991,Full Stack Developer,Accepted
+T0094,ST0663,Backend Developer,Accepted
+T0094,ST0552,Full Stack Developer,Accepted
+T0094,ST1182,Full Stack Developer,Accepted
+T0095,ST0623,Full Stack Developer,Accepted
+T0095,ST0433,Full Stack Developer,Accepted
+T0095,ST1078,Backend Developer,Accepted
+T0096,ST0649,IoT Developer,Accepted
+T0096,ST0291,Backend Developer,Accepted
+T0096,ST0509,IoT Developer,Accepted
+T0096,ST0898,IoT Developer,Accepted
+T0096,ST0074,IoT Developer,Accepted
+T0096,ST0793,Data Analyst,Accepted
+T0097,ST0183,IoT Developer,Accepted
+T0097,ST0878,IoT Developer,Accepted
+T0097,ST1121,Cybersecurity,Accepted
+T0097,ST0611,Cybersecurity,Accepted
+T0097,ST0653,Cloud Developer,Accepted
+T0098,ST0475,IoT Developer,Accepted
+T0098,ST1063,IoT Developer,Accepted
+T0098,ST0047,IoT Developer,Accepted
+T0098,ST0915,IoT Developer,Accepted
+T0099,ST0390,IoT Developer,Accepted
+T0099,ST0485,Data Analyst,Accepted
+T0099,ST0336,Data Analyst,Accepted
+T0099,ST0318,Cloud Developer,Accepted
+T0100,ST0982,IoT Developer,Accepted
+T0100,ST0490,IoT Developer,Accepted
+T0100,ST1134,IoT Developer,Accepted
+T0100,ST1017,Data Analyst,Accepted
+T0100,ST0533,AI/ML Developer,Accepted
+T0101,ST1056,Cybersecurity,Accepted
+T0101,ST0659,Cybersecurity,Accepted
+T0101,ST0786,Cybersecurity,Accepted
+T0101,ST0324,Cybersecurity,Accepted
+T0102,ST0823,Cybersecurity,Accepted
+T0102,ST0372,Cybersecurity,Accepted
+T0102,ST0124,Cybersecurity,Accepted
+T0103,ST0213,Cybersecurity,Accepted
+T0103,ST0407,Cybersecurity,Accepted
+T0103,ST1059,Cybersecurity,Accepted
+T0103,ST0556,Cybersecurity,Accepted
+T0104,ST0748,Cybersecurity,Accepted
+T0104,ST0307,Cybersecurity,Accepted
+T0104,ST0611,Cybersecurity,Accepted
+T0105,ST0709,Cybersecurity,Accepted
+T0105,ST0771,Cybersecurity,Accepted
+T0105,ST0827,Cybersecurity,Accepted
+T0105,ST0625,Cybersecurity,Accepted
+T0106,ST0520,Blockchain Developer,Accepted
+T0106,ST0715,Blockchain Developer,Accepted
+T0106,ST1110,Blockchain Developer,Accepted
+T0107,ST0901,Blockchain Developer,Accepted
+T0107,ST0182,Blockchain Developer,Accepted
+T0107,ST0339,Blockchain Developer,Accepted
+T0107,ST0778,Blockchain Developer,Accepted
+T0107,ST0992,Blockchain Developer,Accepted
+T0107,ST0249,Blockchain Developer,Accepted
+T0108,ST0667,Blockchain Developer,Accepted
+T0108,ST0346,Blockchain Developer,Accepted
+T0108,ST1124,Blockchain Developer,Accepted
+T0109,ST0431,Blockchain Developer,Accepted
+T0109,ST0024,Blockchain Developer,Accepted
+T0109,ST0467,Blockchain Developer,Accepted
+T0109,ST0671,Blockchain Developer,Accepted
+T0110,ST0828,Blockchain Developer,Accepted
+T0110,ST0253,Blockchain Developer,Accepted
+T0110,ST0547,Blockchain Developer,Accepted
+T0111,ST0047,IoT Developer,Accepted
+T0111,ST0387,IoT Developer,Accepted
+T0111,ST0963,IoT Developer,Accepted
+T0111,ST0028,IoT Developer,Accepted
+T0111,ST0390,IoT Developer,Accepted
+T0111,ST0283,IoT Developer,Accepted
+T0112,ST0490,IoT Developer,Accepted
+T0112,ST0048,IoT Developer,Accepted
+T0112,ST0475,IoT Developer,Accepted
+T0112,ST0676,IoT Developer,Accepted
+T0112,ST0878,IoT Developer,Accepted
+T0112,ST1180,IoT Developer,Accepted
+T0113,ST0183,IoT Developer,Accepted
+T0113,ST0612,IoT Developer,Accepted
+T0113,ST0074,IoT Developer,Accepted
+T0113,ST0558,IoT Developer,Accepted
+T0113,ST0740,IoT Developer,Accepted
+T0113,ST0566,IoT Developer,Accepted
+T0114,ST0768,IoT Developer,Accepted
+T0114,ST1134,IoT Developer,Accepted
+T0114,ST1164,IoT Developer,Accepted
+T0114,ST0982,IoT Developer,Accepted
+T0114,ST0561,IoT Developer,Accepted
+T0115,ST0915,IoT Developer,Accepted
+T0115,ST0461,IoT Developer,Accepted
+T0115,ST0473,IoT Developer,Accepted
+T0115,ST0927,IoT Developer,Accepted
+T0115,ST1051,IoT Developer,Accepted
+T0115,ST0759,IoT Developer,Accepted
+T0116,ST0261,Full Stack Developer,Accepted
+T0116,ST0461,IoT Developer,Accepted
+T0116,ST0183,IoT Developer,Accepted
+T0116,ST1164,IoT Developer,Accepted
+T0116,ST0283,IoT Developer,Accepted
+T0116,ST0649,IoT Developer,Accepted
+T0117,ST0927,IoT Developer,Accepted
+T0117,ST0158,Full Stack Developer,Accepted
+T0117,ST0387,IoT Developer,Accepted
+T0117,ST1015,Data Analyst,Accepted
+T0117,ST0474,Backend Developer,Accepted
+T0117,ST1151,IoT Developer,Accepted
+T0118,ST0898,IoT Developer,Accepted
+T0118,ST0774,Frontend Developer,Accepted
+T0118,ST0374,Backend Developer,Accepted
+T0119,ST0074,IoT Developer,Accepted
+T0119,ST1053,IoT Developer,Accepted
+T0119,ST0810,IoT Developer,Accepted
+T0119,ST0196,IoT Developer,Accepted
+T0119,ST0982,IoT Developer,Accepted
+T0120,ST0490,IoT Developer,Accepted
+T0120,ST0241,IoT Developer,Accepted
+T0120,ST0945,IoT Developer,Accepted
+T0120,ST0572,IoT Developer,Accepted
+T0121,ST1118,Data Analyst,Accepted
+T0121,ST0759,IoT Developer,Accepted
+T0121,ST1164,IoT Developer,Accepted
+T0122,ST0390,IoT Developer,Accepted
+T0122,ST0107,Data Analyst,Accepted
+T0122,ST0768,IoT Developer,Accepted
+T0123,ST0261,Full Stack Developer,Accepted
+T0123,ST0781,Frontend Developer,Accepted
+T0123,ST0475,IoT Developer,Accepted
+T0124,ST1147,Cybersecurity,Accepted
+T0124,ST0241,IoT Developer,Accepted
+T0124,ST0436,AI/ML Developer,Accepted
+T0125,ST0649,IoT Developer,Accepted
+T0125,ST0446,Data Analyst,Accepted
+T0125,ST1171,Frontend Developer,Accepted
+T0125,ST0444,Data Analyst,Accepted
+T0126,ST0543,Full Stack Developer,Accepted
+T0126,ST0426,Full Stack Developer,Accepted
+T0126,ST0114,Full Stack Developer,Accepted
+T0126,ST0911,Full Stack Developer,Accepted
+T0127,ST0720,Frontend Developer,Accepted
+T0127,ST1141,Full Stack Developer,Accepted
+T0127,ST0732,Full Stack Developer,Accepted
+T0128,ST0861,Full Stack Developer,Accepted
+T0128,ST1129,Full Stack Developer,Accepted
+T0128,ST0386,Full Stack Developer,Accepted
+T0128,ST0158,Full Stack Developer,Accepted
+T0129,ST0991,Full Stack Developer,Accepted
+T0129,ST0781,Frontend Developer,Accepted
+T0129,ST0738,Full Stack Developer,Accepted
+T0130,ST1011,Full Stack Developer,Accepted
+T0130,ST0542,Full Stack Developer,Accepted
+T0130,ST0960,Frontend Developer,Accepted
+T0131,ST0179,Data Scientist,Accepted
+T0131,ST0949,Data Scientist,Accepted
+T0131,ST0418,Data Scientist,Accepted
+T0131,ST0238,Data Scientist,Accepted
+T0131,ST1168,Data Analyst,Accepted
+T0132,ST0839,Data Scientist,Accepted
+T0132,ST0847,Data Scientist,Accepted
+T0132,ST0722,Data Scientist,Accepted
+T0132,ST1191,Data Scientist,Accepted
+T0133,ST0365,Data Scientist,Accepted
+T0133,ST0285,Data Scientist,Accepted
+T0133,ST0040,AI/ML Developer,Accepted
+T0133,ST0812,Data Scientist,Accepted
+T0133,ST1109,Data Analyst,Accepted
+T0134,ST0236,Data Scientist,Accepted
+T0134,ST0631,Data Scientist,Accepted
+T0134,ST0276,Data Analyst,Accepted
+T0135,ST0718,Data Scientist,Accepted
+T0135,ST0117,Data Scientist,Accepted
+T0135,ST1143,Data Scientist,Accepted
+T0135,ST0064,Data Analyst,Accepted
+T0135,ST0869,AI/ML Developer,Accepted
+T0136,ST0933,DevOps,Accepted
+T0136,ST0969,DevOps,Accepted
+T0136,ST0970,DevOps,Accepted
+T0136,ST0560,DevOps,Accepted
+T0137,ST0912,DevOps,Accepted
+T0137,ST0626,DevOps,Accepted
+T0137,ST0668,Cloud Developer,Accepted
+T0137,ST0200,DevOps,Accepted
+T0137,ST0265,DevOps,Accepted
+T0138,ST0378,DevOps,Accepted
+T0138,ST0789,Full Stack Developer,Accepted
+T0138,ST0439,Cloud Developer,Accepted
+T0138,ST0522,Cloud Developer,Accepted
+T0138,ST0473,IoT Developer,Accepted
+T0139,ST0126,DevOps,Accepted
+T0139,ST0765,Cloud Developer,Accepted
+T0139,ST0443,DevOps,Accepted
+T0139,ST0043,DevOps,Accepted
+T0140,ST0950,Cloud Developer,Accepted
+T0140,ST1019,Backend Developer,Accepted
+T0140,ST0980,Cloud Developer,Accepted
+T0140,ST0719,DevOps,Accepted
+T0140,ST0673,Cloud Developer,Accepted
+T0141,ST0781,Frontend Developer,Accepted
+T0141,ST0852,Full Stack Developer,Accepted
+T0141,ST0623,Full Stack Developer,Accepted
+T0142,ST0599,UI/UX Designer,Accepted
+T0142,ST0261,Full Stack Developer,Accepted
+T0142,ST1077,Backend Developer,Accepted
+T0142,ST0543,Full Stack Developer,Accepted
+T0143,ST0648,Backend Developer,Accepted
+T0143,ST0939,Backend Developer,Accepted
+T0143,ST1135,Backend Developer,Accepted
+T0143,ST0300,Backend Developer,Accepted
+T0144,ST0297,Full Stack Developer,Accepted
+T0144,ST1037,Frontend Developer,Accepted
+T0144,ST0692,Frontend Developer,Accepted
+T0144,ST0708,Data Scientist,Accepted
+T0145,ST0119,Backend Developer,Accepted
+T0145,ST0158,Full Stack Developer,Accepted
+T0145,ST0505,Backend Developer,Accepted
+T0145,ST0503,Cloud Developer,Accepted
+T0145,ST0130,Cloud Developer,Accepted
+T0146,ST0679,Frontend Developer,Accepted
+T0146,ST0696,Data Analyst,Accepted
+T0146,ST1011,Full Stack Developer,Accepted
+T0146,ST0848,Backend Developer,Accepted
+T0146,ST0293,UI/UX Designer,Accepted
+T0146,ST1019,Backend Developer,Accepted
+T0147,ST0430,Backend Developer,Accepted
+T0147,ST0114,Full Stack Developer,Accepted
+T0147,ST0571,Frontend Developer,Accepted
+T0147,ST0038,UI/UX Designer,Accepted
+T0148,ST0158,Full Stack Developer,Accepted
+T0148,ST1129,Full Stack Developer,Accepted
+T0148,ST1077,Backend Developer,Accepted
+T0149,ST0789,Full Stack Developer,Accepted
+T0149,ST0951,Full Stack Developer,Accepted
+T0149,ST1106,Backend Developer,Accepted
+T0150,ST0433,Full Stack Developer,Accepted
+T0150,ST1010,Frontend Developer,Accepted
+T0150,ST0302,Backend Developer,Accepted
+T0151,ST0202,Data Scientist,Accepted
+T0151,ST0579,AI/ML Developer,Accepted
+T0151,ST0365,Data Scientist,Accepted
+T0152,ST0040,AI/ML Developer,Accepted
+T0152,ST0539,AI/ML Developer,Accepted
+T0152,ST1021,AI/ML Developer,Accepted
+T0153,ST0614,AI/ML Developer,Accepted
+T0153,ST0569,AI/ML Developer,Accepted
+T0153,ST1070,AI/ML Developer,Accepted
+T0153,ST0238,Data Scientist,Accepted
+T0154,ST0902,AI/ML Developer,Accepted
+T0154,ST1175,AI/ML Developer,Accepted
+T0154,ST0838,AI/ML Developer,Accepted
+T0154,ST0804,Data Analyst,Accepted
+T0155,ST1091,AI/ML Developer,Accepted
+T0155,ST1085,AI/ML Developer,Accepted
+T0155,ST0949,Data Scientist,Accepted
+T0156,ST0860,Backend Developer,Accepted
+T0156,ST0850,Backend Developer,Accepted
+T0156,ST0848,Backend Developer,Accepted
+T0157,ST0986,Backend Developer,Accepted
+T0157,ST1135,Backend Developer,Accepted
+T0157,ST1075,Backend Developer,Accepted
+T0157,ST1077,Backend Developer,Accepted
+T0158,ST0302,Backend Developer,Accepted
+T0158,ST1019,Backend Developer,Accepted
+T0158,ST0430,Backend Developer,Accepted
+T0158,ST0939,Backend Developer,Accepted
+T0159,ST0300,Backend Developer,Accepted
+T0159,ST0792,Cybersecurity,Accepted
+T0159,ST0291,Backend Developer,Accepted
+T0159,ST0881,Data Analyst,Accepted
+T0160,ST0651,Backend Developer,Accepted
+T0160,ST0909,Backend Developer,Accepted
+T0160,ST1116,Backend Developer,Accepted
+T0161,ST1077,Backend Developer,Accepted
+T0161,ST0781,Frontend Developer,Accepted
+T0161,ST0601,Backend Developer,Accepted
+T0161,ST1116,Backend Developer,Accepted
+T0162,ST0430,Backend Developer,Accepted
+T0162,ST0986,Backend Developer,Accepted
+T0162,ST1189,Backend Developer,Accepted
+T0163,ST1067,Data Scientist,Accepted
+T0163,ST1162,Backend Developer,Accepted
+T0163,ST0846,Backend Developer,Accepted
+T0163,ST1161,Backend Developer,Accepted
+T0164,ST0663,Backend Developer,Accepted
+T0164,ST0302,Backend Developer,Accepted
+T0164,ST0374,Backend Developer,Accepted
+T0165,ST0773,Backend Developer,Accepted
+T0165,ST1160,Backend Developer,Accepted
+T0165,ST0538,Backend Developer,Accepted
+T0165,ST1089,Full Stack Developer,Accepted
+T0165,ST1135,Backend Developer,Accepted
+T0166,ST0542,Full Stack Developer,Accepted
+T0166,ST1019,Backend Developer,Accepted
+T0166,ST0543,Full Stack Developer,Accepted
+T0167,ST0799,Backend Developer,Accepted
+T0167,ST0527,Full Stack Developer,Accepted
+T0167,ST1129,Full Stack Developer,Accepted
+T0168,ST0860,Backend Developer,Accepted
+T0168,ST0622,Full Stack Developer,Accepted
+T0168,ST0293,UI/UX Designer,Accepted
+T0169,ST0789,Full Stack Developer,Accepted
+T0169,ST0114,Full Stack Developer,Accepted
+T0169,ST0174,Backend Developer,Accepted
+T0169,ST0967,Full Stack Developer,Accepted
+T0170,ST0457,Full Stack Developer,Accepted
+T0170,ST0119,Backend Developer,Accepted
+T0170,ST0846,Backend Developer,Accepted
+T0170,ST0247,DevOps,Accepted
+T0171,ST0982,IoT Developer,Accepted
+T0171,ST1077,Backend Developer,Accepted
+T0171,ST1040,AI/ML Developer,Accepted
+T0171,ST0967,Full Stack Developer,Accepted
+T0171,ST0368,IoT Developer,Accepted
+T0171,ST0478,Backend Developer,Accepted
+T0172,ST1164,IoT Developer,Accepted
+T0172,ST1134,IoT Developer,Accepted
+T0172,ST0390,IoT Developer,Accepted
+T0173,ST0490,IoT Developer,Accepted
+T0173,ST0668,Cloud Developer,Accepted
+T0173,ST0430,Backend Developer,Accepted
+T0173,ST0761,Cloud Developer,Accepted
+T0174,ST0074,IoT Developer,Accepted
+T0174,ST0261,Full Stack Developer,Accepted
+T0174,ST0768,IoT Developer,Accepted
+T0174,ST0810,IoT Developer,Accepted
+T0174,ST0612,IoT Developer,Accepted
+T0174,ST1015,Data Analyst,Accepted
+T0175,ST0505,Backend Developer,Accepted
+T0175,ST0241,IoT Developer,Accepted
+T0175,ST0231,IoT Developer,Accepted
+T0175,ST0898,IoT Developer,Accepted
+T0175,ST0160,Data Analyst,Accepted
+T0175,ST0436,AI/ML Developer,Accepted
+T0176,ST0823,Cybersecurity,Accepted
+T0176,ST0142,Cybersecurity,Accepted
+T0176,ST0611,Cybersecurity,Accepted
+T0177,ST0097,Cybersecurity,Accepted
+T0177,ST0240,Data Analyst,Accepted
+T0177,ST1054,Cybersecurity,Accepted
+T0177,ST0869,AI/ML Developer,Accepted
+T0178,ST0900,Cloud Developer,Accepted
+T0178,ST0936,Data Analyst,Accepted
+T0178,ST0264,UI/UX Designer,Accepted
+T0179,ST0659,Cybersecurity,Accepted
+T0179,ST0324,Cybersecurity,Accepted
+T0179,ST0910,Cybersecurity,Accepted
+T0180,ST0556,Cybersecurity,Accepted
+T0180,ST0307,Cybersecurity,Accepted
+T0180,ST0504,Cybersecurity,Accepted
+T0180,ST0560,DevOps,Accepted
+T0181,ST0029,Blockchain Developer,Accepted
+T0181,ST0901,Blockchain Developer,Accepted
+T0181,ST0041,Blockchain Developer,Accepted
+T0181,ST0908,Blockchain Developer,Accepted
+T0182,ST0311,Blockchain Developer,Accepted
+T0182,ST0099,Blockchain Developer,Accepted
+T0182,ST0281,Backend Developer,Accepted
+T0182,ST1048,Blockchain Developer,Accepted
+T0182,ST0496,Blockchain Developer,Accepted
+T0183,ST1159,Blockchain Developer,Accepted
+T0183,ST0249,Blockchain Developer,Accepted
+T0183,ST0431,Blockchain Developer,Accepted
+T0183,ST0024,Blockchain Developer,Accepted
+T0183,ST0392,Blockchain Developer,Accepted
+T0184,ST0715,Blockchain Developer,Accepted
+T0184,ST0520,Blockchain Developer,Accepted
+T0184,ST0671,Blockchain Developer,Accepted
+T0185,ST1020,Blockchain Developer,Accepted
+T0185,ST0224,Blockchain Developer,Accepted
+T0185,ST0195,Blockchain Developer,Accepted
+T0185,ST0109,Blockchain Developer,Accepted
+T0186,ST0183,IoT Developer,Accepted
+T0186,ST0241,IoT Developer,Accepted
+T0186,ST0196,IoT Developer,Accepted
+T0186,ST0390,IoT Developer,Accepted
+T0187,ST0982,IoT Developer,Accepted
+T0187,ST0475,IoT Developer,Accepted
+T0187,ST1164,IoT Developer,Accepted
+T0188,ST0878,IoT Developer,Accepted
+T0188,ST0386,Full Stack Developer,Accepted
+T0188,ST0774,Frontend Developer,Accepted
+T0189,ST0028,IoT Developer,Accepted
+T0189,ST0740,IoT Developer,Accepted
+T0189,ST0768,IoT Developer,Accepted
+T0190,ST0612,IoT Developer,Accepted
+T0190,ST0566,IoT Developer,Accepted
+T0190,ST0649,IoT Developer,Accepted
+T0190,ST0473,IoT Developer,Accepted
+T0191,ST1141,Full Stack Developer,Accepted
+T0191,ST0261,Full Stack Developer,Accepted
+T0191,ST0057,Full Stack Developer,Accepted
+T0191,ST0623,Full Stack Developer,Accepted
+T0191,ST0074,IoT Developer,Accepted
+T0191,ST0789,Full Stack Developer,Accepted
+T0192,ST0759,IoT Developer,Accepted
+T0192,ST0475,IoT Developer,Accepted
+T0192,ST1164,IoT Developer,Accepted
+T0192,ST1118,Data Analyst,Accepted
+T0192,ST1181,Backend Developer,Accepted
+T0193,ST0991,Full Stack Developer,Accepted
+T0193,ST1129,Full Stack Developer,Accepted
+T0193,ST0492,Full Stack Developer,Accepted
+T0193,ST0982,IoT Developer,Accepted
+T0194,ST0544,Frontend Developer,Accepted
+T0194,ST0945,IoT Developer,Accepted
+T0194,ST0740,IoT Developer,Accepted
+T0194,ST1134,IoT Developer,Accepted
+T0194,ST0397,Frontend Developer,Accepted
+T0194,ST0459,Cloud Developer,Accepted
+T0195,ST0852,Full Stack Developer,Accepted
+T0195,ST0911,Full Stack Developer,Accepted
+T0195,ST1011,Full Stack Developer,Accepted
+T0196,ST1118,Data Analyst,Accepted
+T0196,ST1164,IoT Developer,Accepted
+T0196,ST0302,Backend Developer,Accepted
+T0196,ST1017,Data Analyst,Accepted
+T0196,ST0296,Data Analyst,Accepted
+T0197,ST0377,Data Analyst,Accepted
+T0197,ST0135,Frontend Developer,Accepted
+T0197,ST0074,IoT Developer,Accepted
+T0197,ST0428,Backend Developer,Accepted
+T0198,ST0982,IoT Developer,Accepted
+T0198,ST1097,Data Analyst,Accepted
+T0198,ST0863,Data Analyst,Accepted
+T0198,ST0130,Cloud Developer,Accepted
+T0199,ST0107,Data Analyst,Accepted
+T0199,ST0044,Cloud Developer,Accepted
+T0199,ST0916,Cloud Developer,Accepted
+T0199,ST0156,Data Scientist,Accepted
+T0200,ST0991,Full Stack Developer,Accepted
+T0200,ST0665,DevOps,Accepted
+T0200,ST0393,IoT Developer,Accepted
+T0201,ST1129,Full Stack Developer,Accepted
+T0201,ST0543,Full Stack Developer,Accepted
+T0201,ST1011,Full Stack Developer,Accepted
+T0201,ST0301,Full Stack Developer,Accepted
+T0202,ST1141,Full Stack Developer,Accepted
+T0202,ST0114,Full Stack Developer,Accepted
+T0202,ST0861,Full Stack Developer,Accepted
+T0203,ST0991,Full Stack Developer,Accepted
+T0203,ST0426,Full Stack Developer,Accepted
+T0203,ST1152,Full Stack Developer,Accepted
+T0204,ST0781,Frontend Developer,Accepted
+T0204,ST0158,Full Stack Developer,Accepted
+T0204,ST0738,Full Stack Developer,Accepted
+T0204,ST0152,Full Stack Developer,Accepted
+T0205,ST0340,Full Stack Developer,Accepted
+T0205,ST0489,Full Stack Developer,Accepted
+T0205,ST1182,Full Stack Developer,Accepted
+T0205,ST0623,Full Stack Developer,Accepted
+T0206,ST0660,Data Scientist,Accepted
+T0206,ST0179,Data Scientist,Accepted
+T0206,ST0949,Data Scientist,Accepted
+T0206,ST0156,Data Scientist,Accepted
+T0207,ST0839,Data Scientist,Accepted
+T0207,ST0418,Data Scientist,Accepted
+T0207,ST0722,Data Scientist,Accepted
+T0208,ST0236,Data Scientist,Accepted
+T0208,ST0040,AI/ML Developer,Accepted
+T0208,ST0749,Data Analyst,Accepted
+T0208,ST1143,Data Scientist,Accepted
+T0209,ST0365,Data Scientist,Accepted
+T0209,ST0708,Data Scientist,Accepted
+T0209,ST0315,Data Scientist,Accepted
+T0209,ST0113,Data Scientist,Accepted
+T0210,ST0202,Data Scientist,Accepted
+T0210,ST0238,Data Scientist,Accepted
+T0210,ST0539,AI/ML Developer,Accepted
+T0210,ST1138,Data Scientist,Accepted
+T0211,ST0126,DevOps,Accepted
+T0211,ST0200,DevOps,Accepted
+T0211,ST0419,DevOps,Accepted
+T0211,ST0265,DevOps,Accepted
+T0212,ST0560,DevOps,Accepted
+T0212,ST1177,UI/UX Designer,Accepted
+T0212,ST0184,DevOps,Accepted
+T0212,ST0973,Cloud Developer,Accepted
+T0212,ST0324,Cybersecurity,Accepted
+T0213,ST0726,DevOps,Accepted
+T0213,ST0476,DevOps,Accepted
+T0213,ST0765,Cloud Developer,Accepted
+T0213,ST0113,Data Scientist,Accepted
+T0214,ST0674,DevOps,Accepted
+T0214,ST0626,DevOps,Accepted
+T0214,ST0933,DevOps,Accepted
+T0215,ST0322,DevOps,Accepted
+T0215,ST0811,DevOps,Accepted
+T0215,ST0665,DevOps,Accepted
+T0216,ST0158,Full Stack Developer,Accepted
+T0216,ST0119,Backend Developer,Accepted
+T0216,ST0939,Backend Developer,Accepted
+T0217,ST1011,Full Stack Developer,Accepted
+T0217,ST0478,Backend Developer,Accepted
+T0217,ST0850,Backend Developer,Accepted
+T0217,ST0773,Backend Developer,Accepted
+T0218,ST0208,UI/UX Designer,Accepted
+T0218,ST0846,Backend Developer,Accepted
+T0218,ST0546,Full Stack Developer,Accepted
+T0218,ST1131,Frontend Developer,Accepted
+T0219,ST0991,Full Stack Developer,Accepted
+T0219,ST1135,Backend Developer,Accepted
+T0219,ST0623,Full Stack Developer,Accepted
+T0220,ST1136,UI/UX Designer,Accepted
+T0220,ST1194,AI/ML Developer,Accepted
+T0220,ST0300,Backend Developer,Accepted
+T0221,ST0539,AI/ML Developer,Accepted
+T0221,ST0773,Backend Developer,Accepted
+T0221,ST0789,Full Stack Developer,Accepted
+T0221,ST0285,Data Scientist,Accepted
+T0221,ST0219,Backend Developer,Accepted
+T0221,ST0862,AI/ML Developer,Accepted
+T0222,ST0651,Backend Developer,Accepted
+T0222,ST0706,AI/ML Developer,Accepted
+T0222,ST0135,Frontend Developer,Accepted
+T0223,ST0967,Full Stack Developer,Accepted
+T0223,ST0860,Backend Developer,Accepted
+T0223,ST1191,Data Scientist,Accepted
+T0223,ST0082,UI/UX Designer,Accepted
+T0224,ST0986,Backend Developer,Accepted
+T0224,ST0478,Backend Developer,Accepted
+T0224,ST0663,Backend Developer,Accepted
+T0224,ST0369,UI/UX Designer,Accepted
+T0224,ST0531,Backend Developer,Accepted
+T0224,ST0911,Full Stack Developer,Accepted
+T0225,ST0781,Frontend Developer,Accepted
+T0225,ST1011,Full Stack Developer,Accepted
+T0225,ST0322,DevOps,Accepted
+T0225,ST0673,Cloud Developer,Accepted
+T0225,ST0506,UI/UX Designer,Accepted
+T0225,ST0132,Backend Developer,Accepted
+T0226,ST0352,AI/ML Developer,Accepted
+T0226,ST1085,AI/ML Developer,Accepted
+T0226,ST0039,AI/ML Developer,Accepted
+T0227,ST0815,AI/ML Developer,Accepted
+T0227,ST0579,AI/ML Developer,Accepted
+T0227,ST0070,AI/ML Developer,Accepted
+T0228,ST0672,AI/ML Developer,Accepted
+T0228,ST0902,AI/ML Developer,Accepted
+T0228,ST1091,AI/ML Developer,Accepted
+T0228,ST0365,Data Scientist,Accepted
+T0229,ST0862,AI/ML Developer,Accepted
+T0229,ST0614,AI/ML Developer,Accepted
+T0229,ST1194,AI/ML Developer,Accepted
+T0229,ST0488,AI/ML Developer,Accepted
+T0230,ST0453,AI/ML Developer,Accepted
+T0230,ST0892,AI/ML Developer,Accepted
+T0230,ST0202,Data Scientist,Accepted
+T0231,ST0531,Backend Developer,Accepted
+T0231,ST0324,Cybersecurity,Accepted
+T0231,ST0330,Backend Developer,Accepted
+T0231,ST0520,Blockchain Developer,Accepted
+T0232,ST0773,Backend Developer,Accepted
+T0232,ST1189,Backend Developer,Accepted
+T0232,ST0179,Data Scientist,Accepted
+T0233,ST0850,Backend Developer,Accepted
+T0233,ST0302,Backend Developer,Accepted
+T0233,ST0132,Backend Developer,Accepted
+T0234,ST0986,Backend Developer,Accepted
+T0234,ST1019,Backend Developer,Accepted
+T0234,ST1116,Backend Developer,Accepted
+T0235,ST0860,Backend Developer,Accepted
+T0235,ST0625,Cybersecurity,Accepted
+T0235,ST0909,Backend Developer,Accepted
+T0236,ST0132,Backend Developer,Accepted
+T0236,ST1040,AI/ML Developer,Accepted
+T0236,ST1116,Backend Developer,Accepted
+T0236,ST0892,AI/ML Developer,Accepted
+T0237,ST0291,Backend Developer,Accepted
+T0237,ST0539,AI/ML Developer,Accepted
+T0237,ST0773,Backend Developer,Accepted
+T0237,ST1194,AI/ML Developer,Accepted
+T0238,ST0645,Data Scientist,Accepted
+T0238,ST0238,Data Scientist,Accepted
+T0238,ST1135,Backend Developer,Accepted
+T0238,ST0365,Data Scientist,Accepted
+T0238,ST0708,Data Scientist,Accepted
+T0239,ST0986,Backend Developer,Accepted
+T0239,ST0202,Data Scientist,Accepted
+T0239,ST0991,Full Stack Developer,Accepted
+T0239,ST1129,Full Stack Developer,Accepted
+T0239,ST0848,Backend Developer,Accepted
+T0240,ST1189,Backend Developer,Accepted
+T0240,ST0846,Backend Developer,Accepted
+T0240,ST0302,Backend Developer,Accepted
+T0240,ST0651,Backend Developer,Accepted
+T0240,ST0531,Backend Developer,Accepted
+T0241,ST0132,Backend Developer,Accepted
+T0241,ST1170,UI/UX Designer,Accepted
+T0241,ST0773,Backend Developer,Accepted
+T0241,ST0158,Full Stack Developer,Accepted
+T0242,ST0119,Backend Developer,Accepted
+T0242,ST1089,Full Stack Developer,Accepted
+T0242,ST0489,Full Stack Developer,Accepted
+T0243,ST0991,Full Stack Developer,Accepted
+T0243,ST0738,Full Stack Developer,Accepted
+T0243,ST0654,Full Stack Developer,Accepted
+T0244,ST0911,Full Stack Developer,Accepted
+T0244,ST0789,Full Stack Developer,Accepted
+T0244,ST0860,Backend Developer,Accepted
+T0244,ST0261,Full Stack Developer,Accepted
+T0245,ST1129,Full Stack Developer,Accepted
+T0245,ST1135,Backend Developer,Accepted
+T0245,ST1019,Backend Developer,Accepted
+T0245,ST0433,Full Stack Developer,Accepted
+T0246,ST0461,IoT Developer,Accepted
+T0246,ST0696,Data Analyst,Accepted
+T0246,ST0768,IoT Developer,Accepted
+T0246,ST0585,IoT Developer,Accepted
+T0247,ST0047,IoT Developer,Accepted
+T0247,ST0390,IoT Developer,Accepted
+T0247,ST0898,IoT Developer,Accepted
+T0247,ST0283,IoT Developer,Accepted
+T0248,ST1164,IoT Developer,Accepted
+T0248,ST0183,IoT Developer,Accepted
+T0248,ST0490,IoT Developer,Accepted
+T0249,ST0982,IoT Developer,Accepted
+T0249,ST0412,Backend Developer,Accepted
+T0249,ST0164,Cloud Developer,Accepted
+T0250,ST0945,IoT Developer,Accepted
+T0250,ST0336,Data Analyst,Accepted
+T0250,ST0558,IoT Developer,Accepted
+T0250,ST0028,IoT Developer,Accepted
+T0251,ST0625,Cybersecurity,Accepted
+T0251,ST0910,Cybersecurity,Accepted
+T0251,ST0307,Cybersecurity,Accepted
+T0251,ST1121,Cybersecurity,Accepted
+T0252,ST0988,Cybersecurity,Accepted
+T0252,ST0324,Cybersecurity,Accepted
+T0252,ST0687,Cybersecurity,Accepted
+T0253,ST0659,Cybersecurity,Accepted
+T0253,ST0611,Cybersecurity,Accepted
+T0253,ST1056,Cybersecurity,Accepted
+T0253,ST0407,Cybersecurity,Accepted
+T0254,ST0771,Cybersecurity,Accepted
+T0254,ST0474,Backend Developer,Accepted
+T0254,ST0581,Data Scientist,Accepted
+T0254,ST0262,Cybersecurity,Accepted
+T0254,ST1104,Backend Developer,Accepted
+T0255,ST1059,Cybersecurity,Accepted
+T0255,ST0709,Cybersecurity,Accepted
+T0255,ST0556,Cybersecurity,Accepted
+T0255,ST0786,Cybersecurity,Accepted
+T0255,ST0432,Cybersecurity,Accepted
+T0255,ST0142,Cybersecurity,Accepted
+T0256,ST0901,Blockchain Developer,Accepted
+T0256,ST0029,Blockchain Developer,Accepted
+T0256,ST0182,Blockchain Developer,Accepted
+T0257,ST0849,Blockchain Developer,Accepted
+T0257,ST1110,Blockchain Developer,Accepted
+T0257,ST0195,Blockchain Developer,Accepted
+T0257,ST1048,Blockchain Developer,Accepted
+T0258,ST0520,Blockchain Developer,Accepted
+T0258,ST0715,Blockchain Developer,Accepted
+T0258,ST0992,Blockchain Developer,Accepted
+T0258,ST0431,Blockchain Developer,Accepted
+T0259,ST0667,Blockchain Developer,Accepted
+T0259,ST0778,Blockchain Developer,Accepted
+T0259,ST0099,Blockchain Developer,Accepted
+T0260,ST0671,Blockchain Developer,Accepted
+T0260,ST0278,Blockchain Developer,Accepted
+T0260,ST1124,Blockchain Developer,Accepted
+T0261,ST0982,IoT Developer,Accepted
+T0261,ST0047,IoT Developer,Accepted
+T0261,ST0490,IoT Developer,Accepted
+T0262,ST0183,IoT Developer,Accepted
+T0262,ST0074,IoT Developer,Accepted
+T0262,ST0768,IoT Developer,Accepted
+T0263,ST0558,IoT Developer,Accepted
+T0263,ST0740,IoT Developer,Accepted
+T0263,ST0390,IoT Developer,Accepted
+T0263,ST1149,IoT Developer,Accepted
+T0264,ST0387,IoT Developer,Accepted
+T0264,ST0963,IoT Developer,Accepted
+T0264,ST0878,IoT Developer,Accepted
+T0265,ST1104,Backend Developer,Accepted
+T0265,ST0561,IoT Developer,Accepted
+T0265,ST0265,DevOps,Accepted
+T0266,ST0261,Full Stack Developer,Accepted
+T0266,ST0543,Full Stack Developer,Accepted
+T0266,ST0047,IoT Developer,Accepted
+T0267,ST0991,Full Stack Developer,Accepted
+T0267,ST1129,Full Stack Developer,Accepted
+T0267,ST0121,IoT Developer,Accepted
+T0267,ST0461,IoT Developer,Accepted
+T0267,ST0852,Full Stack Developer,Accepted
+T0268,ST0686,IoT Developer,Accepted
+T0268,ST1068,UI/UX Designer,Accepted
+T0268,ST0462,Frontend Developer,Accepted
+T0268,ST0618,Data Analyst,Accepted
+T0268,ST0774,Frontend Developer,Accepted
+T0269,ST0810,IoT Developer,Accepted
+T0269,ST1011,Full Stack Developer,Accepted
+T0269,ST0196,IoT Developer,Accepted
+T0270,ST0489,Full Stack Developer,Accepted
+T0270,ST0279,Frontend Developer,Accepted
+T0270,ST1152,Full Stack Developer,Accepted
+T0271,ST0074,IoT Developer,Accepted
+T0271,ST0579,AI/ML Developer,Accepted
+T0271,ST0686,IoT Developer,Accepted
+T0272,ST0261,Full Stack Developer,Accepted
+T0272,ST0047,IoT Developer,Accepted
+T0272,ST0982,IoT Developer,Accepted
+T0272,ST0390,IoT Developer,Accepted
+T0273,ST0183,IoT Developer,Accepted
+T0273,ST0387,IoT Developer,Accepted
+T0273,ST0207,Data Analyst,Accepted
+T0273,ST0898,IoT Developer,Accepted
+T0274,ST0283,IoT Developer,Accepted
+T0274,ST0336,Data Analyst,Accepted
+T0274,ST0251,Data Analyst,Accepted
+T0274,ST0025,AI/ML Developer,Accepted
+T0275,ST0231,IoT Developer,Accepted
+T0275,ST1129,Full Stack Developer,Accepted
+T0275,ST1068,UI/UX Designer,Accepted
+T0275,ST0878,IoT Developer,Accepted
+T0276,ST1011,Full Stack Developer,Accepted
+T0276,ST1117,Full Stack Developer,Accepted
+T0276,ST0492,Full Stack Developer,Accepted
+T0277,ST0114,Full Stack Developer,Accepted
+T0277,ST0991,Full Stack Developer,Accepted
+T0277,ST0152,Full Stack Developer,Accepted
+T0278,ST0781,Frontend Developer,Accepted
+T0278,ST0952,Frontend Developer,Accepted
+T0278,ST0506,UI/UX Designer,Accepted
+T0278,ST0433,Full Stack Developer,Accepted
+T0279,ST0543,Full Stack Developer,Accepted
+T0279,ST0277,Full Stack Developer,Accepted
+T0279,ST0655,Full Stack Developer,Accepted
+T0280,ST0340,Full Stack Developer,Accepted
+T0280,ST0789,Full Stack Developer,Accepted
+T0280,ST0162,Full Stack Developer,Accepted
+T0281,ST0660,Data Scientist,Accepted
+T0281,ST1168,Data Analyst,Accepted
+T0281,ST0179,Data Scientist,Accepted
+T0281,ST0285,Data Scientist,Accepted
+T0281,ST0025,AI/ML Developer,Accepted
+T0282,ST0722,Data Scientist,Accepted
+T0282,ST0315,Data Scientist,Accepted
+T0282,ST0424,Data Scientist,Accepted
+T0283,ST1015,Data Analyst,Accepted
+T0283,ST0202,Data Scientist,Accepted
+T0283,ST1085,AI/ML Developer,Accepted
+T0283,ST0793,Data Analyst,Accepted
+T0283,ST0226,Data Scientist,Accepted
+T0284,ST0365,Data Scientist,Accepted
+T0284,ST0236,Data Scientist,Accepted
+T0284,ST0238,Data Scientist,Accepted
+T0284,ST0839,Data Scientist,Accepted
+T0284,ST0614,AI/ML Developer,Accepted
+T0285,ST0873,AI/ML Developer,Accepted
+T0285,ST1038,AI/ML Developer,Accepted
+T0285,ST0645,Data Scientist,Accepted
+T0285,ST0847,Data Scientist,Accepted
+T0285,ST0632,Data Scientist,Accepted
+T0286,ST0726,DevOps,Accepted
+T0286,ST0265,DevOps,Accepted
+T0286,ST0616,DevOps,Accepted
+T0286,ST0322,DevOps,Accepted
+T0286,ST0126,DevOps,Accepted
+T0286,ST0668,Cloud Developer,Accepted
+T0287,ST0811,DevOps,Accepted
+T0287,ST0200,DevOps,Accepted
+T0287,ST0933,DevOps,Accepted
+T0288,ST0378,DevOps,Accepted
+T0288,ST0305,DevOps,Accepted
+T0288,ST0373,DevOps,Accepted
+T0288,ST0626,DevOps,Accepted
+T0288,ST0918,DevOps,Accepted
+T0289,ST0970,DevOps,Accepted
+T0289,ST0419,DevOps,Accepted
+T0289,ST0969,DevOps,Accepted
+T0289,ST0079,Cloud Developer,Accepted
+T0290,ST0912,DevOps,Accepted
+T0290,ST0244,DevOps,Accepted
+T0290,ST0043,DevOps,Accepted
+T0290,ST0442,DevOps,Accepted
+T0290,ST0039,AI/ML Developer,Accepted
+T0291,ST0860,Backend Developer,Accepted
+T0291,ST0114,Full Stack Developer,Accepted
+T0291,ST0158,Full Stack Developer,Accepted
+T0292,ST0430,Backend Developer,Accepted
+T0292,ST0773,Backend Developer,Accepted
+T0292,ST0799,Backend Developer,Accepted
+T0292,ST1129,Full Stack Developer,Accepted
+T0293,ST0459,Cloud Developer,Accepted
+T0293,ST0261,Full Stack Developer,Accepted
+T0293,ST0892,AI/ML Developer,Accepted
+T0293,ST0986,Backend Developer,Accepted
+T0294,ST0852,Full Stack Developer,Accepted
+T0294,ST0208,UI/UX Designer,Accepted
+T0294,ST1011,Full Stack Developer,Accepted
+T0295,ST0991,Full Stack Developer,Accepted
+T0295,ST0019,Cloud Developer,Accepted
+T0295,ST0543,Full Stack Developer,Accepted
+T0295,ST1116,Backend Developer,Accepted
+T0296,ST0538,Backend Developer,Accepted
+T0296,ST0991,Full Stack Developer,Accepted
+T0296,ST0861,Full Stack Developer,Accepted
+T0296,ST0301,Full Stack Developer,Accepted
+T0296,ST0789,Full Stack Developer,Accepted
+T0297,ST0430,Backend Developer,Accepted
+T0297,ST0158,Full Stack Developer,Accepted
+T0297,ST0277,Full Stack Developer,Accepted
+T0297,ST0356,Full Stack Developer,Accepted
+T0297,ST0625,Cybersecurity,Accepted
+T0298,ST0773,Backend Developer,Accepted
+T0298,ST1135,Backend Developer,Accepted
+T0298,ST0967,Full Stack Developer,Accepted
+T0298,ST1077,Backend Developer,Accepted
+T0298,ST0651,Backend Developer,Accepted
+T0299,ST0132,Backend Developer,Accepted
+T0299,ST1129,Full Stack Developer,Accepted
+T0299,ST0852,Full Stack Developer,Accepted
+T0299,ST0543,Full Stack Developer,Accepted
+T0300,ST0738,Full Stack Developer,Accepted
+T0300,ST0492,Full Stack Developer,Accepted
+T0300,ST0850,Backend Developer,Accepted
+T0300,ST0800,Full Stack Developer,Accepted
+T0301,ST0892,AI/ML Developer,Accepted
+T0301,ST0722,Data Scientist,Accepted
+T0301,ST0614,AI/ML Developer,Accepted
+T0301,ST0869,AI/ML Developer,Accepted
+T0302,ST0365,Data Scientist,Accepted
+T0302,ST0202,Data Scientist,Accepted
+T0302,ST0539,AI/ML Developer,Accepted
+T0303,ST1085,AI/ML Developer,Accepted
+T0303,ST1094,AI/ML Developer,Accepted
+T0303,ST0070,AI/ML Developer,Accepted
+T0303,ST0025,AI/ML Developer,Accepted
+T0303,ST0949,Data Scientist,Accepted
+T0304,ST0579,AI/ML Developer,Accepted
+T0304,ST0440,AI/ML Developer,Accepted
+T0304,ST0040,AI/ML Developer,Accepted
+T0304,ST0714,Data Scientist,Accepted
+T0304,ST0545,AI/ML Developer,Accepted
+T0305,ST0453,AI/ML Developer,Accepted
+T0305,ST0361,AI/ML Developer,Accepted
+T0305,ST0815,AI/ML Developer,Accepted
+T0306,ST0860,Backend Developer,Accepted
+T0306,ST0412,Backend Developer,Accepted
+T0306,ST0699,Backend Developer,Accepted
+T0306,ST1118,Data Analyst,Accepted
+T0306,ST0302,Backend Developer,Accepted
+T0307,ST0132,Backend Developer,Accepted
+T0307,ST1077,Backend Developer,Accepted
+T0307,ST0909,Backend Developer,Accepted
+T0308,ST0850,Backend Developer,Accepted
+T0308,ST0986,Backend Developer,Accepted
+T0308,ST1019,Backend Developer,Accepted
+T0308,ST0291,Backend Developer,Accepted
+T0308,ST0625,Cybersecurity,Accepted
+T0309,ST0651,Backend Developer,Accepted
+T0309,ST0848,Backend Developer,Accepted
+T0309,ST1161,Backend Developer,Accepted
+T0310,ST0648,Backend Developer,Accepted
+T0310,ST1189,Backend Developer,Accepted
+T0310,ST1116,Backend Developer,Accepted
+T0311,ST0773,Backend Developer,Accepted
+T0311,ST0376,Data Scientist,Accepted
+T0311,ST0080,Data Scientist,Accepted
+T0312,ST0986,Backend Developer,Accepted
+T0312,ST0781,Frontend Developer,Accepted
+T0312,ST1116,Backend Developer,Accepted
+T0312,ST1019,Backend Developer,Accepted
+T0313,ST0848,Backend Developer,Accepted
+T0313,ST0648,Backend Developer,Accepted
+T0313,ST0706,AI/ML Developer,Accepted
+T0313,ST1189,Backend Developer,Accepted
+T0314,ST0302,Backend Developer,Accepted
+T0314,ST1040,AI/ML Developer,Accepted
+T0314,ST1194,AI/ML Developer,Accepted
+T0315,ST0132,Backend Developer,Accepted
+T0315,ST0291,Backend Developer,Accepted
+T0315,ST0300,Backend Developer,Accepted
+T0315,ST0645,Data Scientist,Accepted
+T0316,ST0158,Full Stack Developer,Accepted
+T0316,ST0663,Backend Developer,Accepted
+T0316,ST1135,Backend Developer,Accepted
+T0317,ST0599,UI/UX Designer,Accepted
+T0317,ST1129,Full Stack Developer,Accepted
+T0317,ST1019,Backend Developer,Accepted
+T0317,ST0297,Full Stack Developer,Accepted
+T0318,ST0623,Full Stack Developer,Accepted
+T0318,ST0911,Full Stack Developer,Accepted
+T0318,ST0426,Full Stack Developer,Accepted
+T0318,ST0799,Backend Developer,Accepted
+T0319,ST0717,Full Stack Developer,Accepted
+T0319,ST0720,Frontend Developer,Accepted
+T0319,ST0556,Cybersecurity,Accepted
+T0320,ST0114,Full Stack Developer,Accepted
+T0320,ST1182,Full Stack Developer,Accepted
+T0320,ST0357,Android Developer,Accepted
+T0321,ST0686,IoT Developer,Accepted
+T0321,ST0645,Data Scientist,Accepted
+T0321,ST0390,IoT Developer,Accepted
+T0321,ST1151,IoT Developer,Accepted
+T0321,ST0183,IoT Developer,Accepted
+T0322,ST0192,Data Analyst,Accepted
+T0322,ST1097,Data Analyst,Accepted
+T0322,ST0945,IoT Developer,Accepted
+T0323,ST1194,AI/ML Developer,Accepted
+T0323,ST1171,Frontend Developer,Accepted
+T0323,ST0202,Data Scientist,Accepted
+T0323,ST0542,Full Stack Developer,Accepted
+T0324,ST1164,IoT Developer,Accepted
+T0324,ST0915,IoT Developer,Accepted
+T0324,ST0047,IoT Developer,Accepted
+T0325,ST1109,Data Analyst,Accepted
+T0325,ST0780,Data Analyst,Accepted
+T0325,ST0361,AI/ML Developer,Accepted
+T0325,ST0499,Cloud Developer,Accepted
+T0325,ST0225,IoT Developer,Accepted
+T0325,ST0773,Backend Developer,Accepted
+T0326,ST0748,Cybersecurity,Accepted
+T0326,ST1042,Cybersecurity,Accepted
+T0326,ST0823,Cybersecurity,Accepted
+T0327,ST0213,Cybersecurity,Accepted
+T0327,ST0307,Cybersecurity,Accepted
+T0327,ST0142,Cybersecurity,Accepted
+T0327,ST0372,Cybersecurity,Accepted
+T0328,ST0786,Cybersecurity,Accepted
+T0328,ST0556,Cybersecurity,Accepted
+T0328,ST0611,Cybersecurity,Accepted
+T0328,ST0625,Cybersecurity,Accepted
+T0329,ST0659,Cybersecurity,Accepted
+T0329,ST1121,Cybersecurity,Accepted
+T0329,ST1056,Cybersecurity,Accepted
+T0330,ST1059,Cybersecurity,Accepted
+T0330,ST0910,Cybersecurity,Accepted
+T0330,ST0324,Cybersecurity,Accepted
+T0331,ST0195,Blockchain Developer,Accepted
+T0331,ST1124,Blockchain Developer,Accepted
+T0331,ST1048,Blockchain Developer,Accepted
+T0332,ST0520,Blockchain Developer,Accepted
+T0332,ST0715,Blockchain Developer,Accepted
+T0332,ST1159,Blockchain Developer,Accepted
+T0332,ST0667,Blockchain Developer,Accepted
+T0333,ST0182,Blockchain Developer,Accepted
+T0333,ST0778,Blockchain Developer,Accepted
+T0333,ST0431,Blockchain Developer,Accepted
+T0334,ST0099,Blockchain Developer,Accepted
+T0334,ST1110,Blockchain Developer,Accepted
+T0334,ST0203,Blockchain Developer,Accepted
+T0334,ST0777,Blockchain Developer,Accepted
+T0335,ST0849,Blockchain Developer,Accepted
+T0335,ST0992,Blockchain Developer,Accepted
+T0335,ST0392,Blockchain Developer,Accepted
+T0336,ST0566,IoT Developer,Accepted
+T0336,ST0492,Full Stack Developer,Accepted
+T0336,ST0180,IoT Developer,Accepted
+T0336,ST0849,Blockchain Developer,Accepted
+T0337,ST0183,IoT Developer,Accepted
+T0337,ST0768,IoT Developer,Accepted
+T0337,ST0558,IoT Developer,Accepted
+T0337,ST1134,IoT Developer,Accepted
+T0338,ST0686,IoT Developer,Accepted
+T0338,ST0915,IoT Developer,Accepted
+T0338,ST0509,IoT Developer,Accepted
+T0339,ST0612,IoT Developer,Accepted
+T0339,ST0927,IoT Developer,Accepted
+T0339,ST0963,IoT Developer,Accepted
+T0340,ST0649,IoT Developer,Accepted
+T0340,ST0312,IoT Developer,Accepted
+T0340,ST0434,IoT Developer,Accepted
+T0340,ST0204,IoT Developer,Accepted
+T0341,ST0261,Full Stack Developer,Accepted
+T0341,ST0911,Full Stack Developer,Accepted
+T0341,ST1011,Full Stack Developer,Accepted
+T0342,ST1051,IoT Developer,Accepted
+T0342,ST0623,Full Stack Developer,Accepted
+T0342,ST0152,Full Stack Developer,Accepted
+T0343,ST0991,Full Stack Developer,Accepted
+T0343,ST1118,Data Analyst,Accepted
+T0343,ST0461,IoT Developer,Accepted
+T0343,ST1129,Full Stack Developer,Accepted
+T0344,ST0982,IoT Developer,Accepted
+T0344,ST0852,Full Stack Developer,Accepted
+T0344,ST0738,Full Stack Developer,Accepted
+T0345,ST0768,IoT Developer,Accepted
+T0345,ST1089,Full Stack Developer,Accepted
+T0345,ST0572,IoT Developer,Accepted
+T0345,ST0492,Full Stack Developer,Accepted
+T0346,ST0285,Data Scientist,Accepted
+T0346,ST0192,Data Analyst,Accepted
+T0346,ST0759,IoT Developer,Accepted
+T0346,ST1024,Cloud Developer,Accepted
+T0347,ST0982,IoT Developer,Accepted
+T0347,ST1051,IoT Developer,Accepted
+T0347,ST1038,AI/ML Developer,Accepted
+T0347,ST0343,Data Analyst,Accepted
+T0347,ST0464,IoT Developer,Accepted
+T0347,ST0134,AI/ML Developer,Accepted
+T0348,ST0261,Full Stack Developer,Accepted
+T0348,ST0336,Data Analyst,Accepted
+T0348,ST0390,IoT Developer,Accepted
+T0349,ST0436,AI/ML Developer,Accepted
+T0349,ST0556,Cybersecurity,Accepted
+T0349,ST1127,Data Analyst,Accepted
+T0349,ST0618,Data Analyst,Accepted
+T0350,ST1017,Data Analyst,Accepted
+T0350,ST0485,Data Analyst,Accepted
+T0350,ST0461,IoT Developer,Accepted
+T0350,ST1118,Data Analyst,Accepted
+T0350,ST0927,IoT Developer,Accepted
+T0351,ST0397,Frontend Developer,Accepted
+T0351,ST0861,Full Stack Developer,Accepted
+T0351,ST0991,Full Stack Developer,Accepted
+T0351,ST0158,Full Stack Developer,Accepted
+T0352,ST0114,Full Stack Developer,Accepted
+T0352,ST0135,Frontend Developer,Accepted
+T0352,ST0643,Frontend Developer,Accepted
+T0353,ST0277,Full Stack Developer,Accepted
+T0353,ST0817,Full Stack Developer,Accepted
+T0353,ST0774,Frontend Developer,Accepted
+T0354,ST0692,Frontend Developer,Accepted
+T0354,ST0738,Full Stack Developer,Accepted
+T0354,ST0623,Full Stack Developer,Accepted
+T0354,ST0954,Frontend Developer,Accepted
+T0354,ST0799,Backend Developer,Accepted
+T0354,ST1048,Blockchain Developer,Accepted
+T0355,ST0543,Full Stack Developer,Accepted
+T0355,ST0720,Frontend Developer,Accepted
+T0355,ST1089,Full Stack Developer,Accepted
+T0355,ST0381,Frontend Developer,Accepted
+T0355,ST0216,UI/UX Designer,Accepted
+T0355,ST0556,Cybersecurity,Accepted
+T0356,ST0236,Data Scientist,Accepted
+T0356,ST0722,Data Scientist,Accepted
+T0356,ST0315,Data Scientist,Accepted
+T0356,ST0365,Data Scientist,Accepted
+T0356,ST1168,Data Analyst,Accepted
+T0357,ST0502,Data Scientist,Accepted
+T0357,ST0645,Data Scientist,Accepted
+T0357,ST0877,AI/ML Developer,Accepted
+T0357,ST0049,Data Scientist,Accepted
+T0357,ST0059,Data Scientist,Accepted
+T0358,ST0714,Data Scientist,Accepted
+T0358,ST1015,Data Analyst,Accepted
+T0358,ST0876,Data Analyst,Accepted
+T0358,ST0243,AI/ML Developer,Accepted
+T0359,ST0660,Data Scientist,Accepted
+T0359,ST0202,Data Scientist,Accepted
+T0359,ST1191,Data Scientist,Accepted
+T0360,ST0708,Data Scientist,Accepted
+T0360,ST0238,Data Scientist,Accepted
+T0360,ST0179,Data Scientist,Accepted
+T0360,ST0113,Data Scientist,Accepted
+T0360,ST0812,Data Scientist,Accepted
+T0361,ST0200,DevOps,Accepted
+T0361,ST0665,DevOps,Accepted
+T0361,ST0679,Frontend Developer,Accepted
+T0361,ST0626,DevOps,Accepted
+T0361,ST0624,DevOps,Accepted
+T0361,ST0265,DevOps,Accepted
+T0362,ST0543,Full Stack Developer,Accepted
+T0362,ST0100,Cloud Developer,Accepted
+T0362,ST1041,DevOps,Accepted
+T0362,ST0920,IoT Developer,Accepted
+T0362,ST1181,Backend Developer,Accepted
+T0363,ST0970,DevOps,Accepted
+T0363,ST0126,DevOps,Accepted
+T0363,ST0442,DevOps,Accepted
+T0364,ST0726,DevOps,Accepted
+T0364,ST0322,DevOps,Accepted
+T0364,ST0820,DevOps,Accepted
+T0364,ST0842,Cloud Developer,Accepted
+T0365,ST0912,DevOps,Accepted
+T0365,ST0811,DevOps,Accepted
+T0365,ST0079,Cloud Developer,Accepted
+T0365,ST0969,DevOps,Accepted
+T0365,ST0305,DevOps,Accepted
+T0366,ST0815,AI/ML Developer,Accepted
+T0366,ST0599,UI/UX Designer,Accepted
+T0366,ST0965,Cloud Developer,Accepted
+T0366,ST0625,Cybersecurity,Accepted
+T0367,ST0430,Backend Developer,Accepted
+T0367,ST0158,Full Stack Developer,Accepted
+T0367,ST1135,Backend Developer,Accepted
+T0367,ST0613,UI/UX Designer,Accepted
+T0368,ST0860,Backend Developer,Accepted
+T0368,ST0708,Data Scientist,Accepted
+T0368,ST0543,Full Stack Developer,Accepted
+T0368,ST0903,UI/UX Designer,Accepted
+T0368,ST0236,Data Scientist,Accepted
+T0369,ST0909,Backend Developer,Accepted
+T0369,ST1191,Data Scientist,Accepted
+T0369,ST1106,Backend Developer,Accepted
+T0369,ST0130,Cloud Developer,Accepted
+T0369,ST0773,Backend Developer,Accepted
+T0369,ST0967,Full Stack Developer,Accepted
+T0370,ST0132,Backend Developer,Accepted
+T0370,ST0478,Backend Developer,Accepted
+T0370,ST0848,Backend Developer,Accepted
+T0370,ST0357,Android Developer,Accepted
+T0370,ST1019,Backend Developer,Accepted
+T0371,ST0967,Full Stack Developer,Accepted
+T0371,ST0302,Backend Developer,Accepted
+T0371,ST0852,Full Stack Developer,Accepted
+T0371,ST0625,Cybersecurity,Accepted
+T0372,ST0789,Full Stack Developer,Accepted
+T0372,ST0277,Full Stack Developer,Accepted
+T0372,ST0648,Backend Developer,Accepted
+T0373,ST0911,Full Stack Developer,Accepted
+T0373,ST1068,UI/UX Designer,Accepted
+T0373,ST1131,Frontend Developer,Accepted
+T0373,ST0238,Data Scientist,Accepted
+T0374,ST1019,Backend Developer,Accepted
+T0374,ST1116,Backend Developer,Accepted
+T0374,ST0715,Blockchain Developer,Accepted
+T0374,ST0057,Full Stack Developer,Accepted
+T0375,ST0114,Full Stack Developer,Accepted
+T0375,ST1106,Backend Developer,Accepted
+T0375,ST1117,Full Stack Developer,Accepted
+T0375,ST0960,Frontend Developer,Accepted
+T0376,ST0722,Data Scientist,Accepted
+T0376,ST0708,Data Scientist,Accepted
+T0376,ST0815,AI/ML Developer,Accepted
+T0376,ST0113,Data Scientist,Accepted
+T0377,ST0579,AI/ML Developer,Accepted
+T0377,ST0453,AI/ML Developer,Accepted
+T0377,ST0025,AI/ML Developer,Accepted
+T0377,ST0977,Data Scientist,Accepted
+T0377,ST0352,AI/ML Developer,Accepted
+T0378,ST0892,AI/ML Developer,Accepted
+T0378,ST0672,AI/ML Developer,Accepted
+T0378,ST0070,AI/ML Developer,Accepted
+T0378,ST0440,AI/ML Developer,Accepted
+T0378,ST0539,AI/ML Developer,Accepted
+T0379,ST0902,AI/ML Developer,Accepted
+T0379,ST0706,AI/ML Developer,Accepted
+T0379,ST1105,AI/ML Developer,Accepted
+T0379,ST0581,Data Scientist,Accepted
+T0380,ST0365,Data Scientist,Accepted
+T0380,ST0869,AI/ML Developer,Accepted
+T0380,ST1017,Data Analyst,Accepted
+T0380,ST0384,AI/ML Developer,Accepted
+T0381,ST0543,Full Stack Developer,Accepted
+T0381,ST0773,Backend Developer,Accepted
+T0381,ST0845,Backend Developer,Accepted
+T0381,ST0152,Full Stack Developer,Accepted
+T0382,ST1077,Backend Developer,Accepted
+T0382,ST0137,Backend Developer,Accepted
+T0382,ST0848,Backend Developer,Accepted
+T0382,ST0291,Backend Developer,Accepted
+T0383,ST0556,Cybersecurity,Accepted
+T0383,ST0651,Backend Developer,Accepted
+T0383,ST0505,Backend Developer,Accepted
+T0383,ST0781,Frontend Developer,Accepted
+T0384,ST0132,Backend Developer,Accepted
+T0384,ST0300,Backend Developer,Accepted
+T0384,ST1129,Full Stack Developer,Accepted
+T0384,ST0179,Data Scientist,Accepted
+T0385,ST1116,Backend Developer,Accepted
+T0385,ST0648,Backend Developer,Accepted
+T0385,ST0302,Backend Developer,Accepted
+T0386,ST0860,Backend Developer,Accepted
+T0386,ST0781,Frontend Developer,Accepted
+T0386,ST0505,Backend Developer,Accepted
+T0387,ST0852,Full Stack Developer,Accepted
+T0387,ST1089,Full Stack Developer,Accepted
+T0387,ST0841,Backend Developer,Accepted
+T0388,ST1019,Backend Developer,Accepted
+T0388,ST0132,Backend Developer,Accepted
+T0388,ST0773,Backend Developer,Accepted
+T0389,ST0291,Backend Developer,Accepted
+T0389,ST0909,Backend Developer,Accepted
+T0389,ST0850,Backend Developer,Accepted
+T0389,ST0579,AI/ML Developer,Accepted
+T0389,ST0625,Cybersecurity,Accepted
+T0390,ST0209,Android Developer,Accepted
+T0390,ST0827,Cybersecurity,Accepted
+T0390,ST0240,Data Analyst,Accepted
+T0390,ST1139,Data Analyst,Accepted
+T0390,ST0388,Android Developer,Accepted
+T0390,ST0651,Backend Developer,Accepted
+T0391,ST0158,Full Stack Developer,Accepted
+T0391,ST0425,Full Stack Developer,Accepted
+T0391,ST0139,Full Stack Developer,Accepted
+T0391,ST1012,Backend Developer,Accepted
+T0391,ST0451,Backend Developer,Accepted
+T0392,ST1129,Full Stack Developer,Accepted
+T0392,ST0426,Full Stack Developer,Accepted
+T0392,ST0430,Backend Developer,Accepted
+T0393,ST0542,Full Stack Developer,Accepted
+T0393,ST0291,Backend Developer,Accepted
+T0393,ST0277,Full Stack Developer,Accepted
+T0394,ST0663,Backend Developer,Accepted
+T0394,ST1072,Backend Developer,Accepted
+T0394,ST1019,Backend Developer,Accepted
+T0394,ST0911,Full Stack Developer,Accepted
+T0394,ST1162,Backend Developer,Accepted
+T0395,ST0114,Full Stack Developer,Accepted
+T0395,ST0623,Full Stack Developer,Accepted
+T0395,ST1135,Backend Developer,Accepted
+T0396,ST0107,Data Analyst,Accepted
+T0396,ST0207,Data Analyst,Accepted
+T0396,ST1077,Backend Developer,Accepted
+T0396,ST0368,IoT Developer,Accepted
+T0396,ST1118,Data Analyst,Accepted
+T0397,ST0686,IoT Developer,Accepted
+T0397,ST1015,Data Analyst,Accepted
+T0397,ST0302,Backend Developer,Accepted
+T0397,ST0612,IoT Developer,Accepted
+T0397,ST0696,Data Analyst,Accepted
+T0398,ST1164,IoT Developer,Accepted
+T0398,ST0490,IoT Developer,Accepted
+T0398,ST0047,IoT Developer,Accepted
+T0399,ST0291,Backend Developer,Accepted
+T0399,ST1097,Data Analyst,Accepted
+T0399,ST0927,IoT Developer,Accepted
+T0399,ST1168,Data Analyst,Accepted
+T0399,ST0473,IoT Developer,Accepted
+T0400,ST0183,IoT Developer,Accepted
+T0400,ST0768,IoT Developer,Accepted
+T0400,ST0074,IoT Developer,Accepted
+T0400,ST1134,IoT Developer,Accepted
+T0401,ST0687,Cybersecurity,Accepted
+T0401,ST0869,AI/ML Developer,Accepted
+T0401,ST1057,Cybersecurity,Accepted
+T0402,ST0213,Cybersecurity,Accepted
+T0402,ST0659,Cybersecurity,Accepted
+T0402,ST1121,Cybersecurity,Accepted
+T0402,ST0625,Cybersecurity,Accepted
+T0403,ST0786,Cybersecurity,Accepted
+T0403,ST0611,Cybersecurity,Accepted
+T0403,ST0709,Cybersecurity,Accepted
+T0403,ST0682,Cybersecurity,Accepted
+T0404,ST1059,Cybersecurity,Accepted
+T0404,ST0827,Cybersecurity,Accepted
+T0404,ST0108,Cybersecurity,Accepted
+T0405,ST0823,Cybersecurity,Accepted
+T0405,ST0255,Cybersecurity,Accepted
+T0405,ST0771,Cybersecurity,Accepted
+T0406,ST0715,Blockchain Developer,Accepted
+T0406,ST0778,Blockchain Developer,Accepted
+T0406,ST1159,Blockchain Developer,Accepted
+T0406,ST0346,Blockchain Developer,Accepted
+T0406,ST0182,Blockchain Developer,Accepted
+T0407,ST1110,Blockchain Developer,Accepted
+T0407,ST0671,Blockchain Developer,Accepted
+T0407,ST0520,Blockchain Developer,Accepted
+T0407,ST0667,Blockchain Developer,Accepted
+T0407,ST1158,Blockchain Developer,Accepted
+T0408,ST0195,Blockchain Developer,Accepted
+T0408,ST0908,Blockchain Developer,Accepted
+T0408,ST0099,Blockchain Developer,Accepted
+T0408,ST0201,Blockchain Developer,Accepted
+T0408,ST0777,Blockchain Developer,Accepted
+T0409,ST0029,Blockchain Developer,Accepted
+T0409,ST0849,Blockchain Developer,Accepted
+T0409,ST0249,Blockchain Developer,Accepted
+T0409,ST0206,Blockchain Developer,Accepted
+T0409,ST0041,Blockchain Developer,Accepted
+T0409,ST0024,Blockchain Developer,Accepted
+T0410,ST0897,Blockchain Developer,Accepted
+T0410,ST0851,Frontend Developer,Accepted
+T0410,ST0861,Full Stack Developer,Accepted
+T0410,ST0784,AI/ML Developer,Accepted
+T0411,ST0074,IoT Developer,Accepted
+T0411,ST0982,IoT Developer,Accepted
+T0411,ST0566,IoT Developer,Accepted
+T0412,ST0649,IoT Developer,Accepted
+T0412,ST0558,IoT Developer,Accepted
+T0412,ST1180,IoT Developer,Accepted
+T0412,ST1149,IoT Developer,Accepted
+T0413,ST0473,IoT Developer,Accepted
+T0413,ST0490,IoT Developer,Accepted
+T0413,ST0048,IoT Developer,Accepted
+T0413,ST1097,Data Analyst,Accepted
+T0413,ST0464,IoT Developer,Accepted
+T0413,ST0927,IoT Developer,Accepted
+T0414,ST1134,IoT Developer,Accepted
+T0414,ST0612,IoT Developer,Accepted
+T0414,ST0810,IoT Developer,Accepted
+T0414,ST0183,IoT Developer,Accepted
+T0414,ST0390,IoT Developer,Accepted
+T0415,ST0283,IoT Developer,Accepted
+T0415,ST0788,UI/UX Designer,Accepted
+T0415,ST0537,Full Stack Developer,Accepted
+T0416,ST0623,Full Stack Developer,Accepted
+T0416,ST0945,IoT Developer,Accepted
+T0416,ST0302,Backend Developer,Accepted
+T0417,ST0261,Full Stack Developer,Accepted
+T0417,ST0991,Full Stack Developer,Accepted
+T0417,ST0461,IoT Developer,Accepted
+T0417,ST1129,Full Stack Developer,Accepted
+T0418,ST0505,Backend Developer,Accepted
+T0418,ST0625,Cybersecurity,Accepted
+T0418,ST0646,IoT Developer,Accepted
+T0418,ST0841,Backend Developer,Accepted
+T0418,ST1005,Frontend Developer,Accepted
+T0419,ST0982,IoT Developer,Accepted
+T0419,ST0686,IoT Developer,Accepted
+T0419,ST0114,Full Stack Developer,Accepted
+T0420,ST0492,Full Stack Developer,Accepted
+T0420,ST1013,Full Stack Developer,Accepted
+T0420,ST0283,IoT Developer,Accepted
+T0420,ST0911,Full Stack Developer,Accepted
+T0421,ST0261,Full Stack Developer,Accepted
+T0421,ST1172,Data Analyst,Accepted
+T0421,ST0960,Frontend Developer,Accepted
+T0421,ST1157,Frontend Developer,Accepted
+T0422,ST1118,Data Analyst,Accepted
+T0422,ST0991,Full Stack Developer,Accepted
+T0422,ST0759,IoT Developer,Accepted
+T0422,ST0207,Data Analyst,Accepted
+T0423,ST0911,Full Stack Developer,Accepted
+T0423,ST0485,Data Analyst,Accepted
+T0423,ST1051,IoT Developer,Accepted
+T0423,ST0950,Cloud Developer,Accepted
+T0424,ST0696,Data Analyst,Accepted
+T0424,ST0649,IoT Developer,Accepted
+T0424,ST0490,IoT Developer,Accepted
+T0424,ST0474,Backend Developer,Accepted
+T0425,ST0241,IoT Developer,Accepted
+T0425,ST0618,Data Analyst,Accepted
+T0425,ST0183,IoT Developer,Accepted
+T0426,ST1129,Full Stack Developer,Accepted
+T0426,ST0781,Frontend Developer,Accepted
+T0426,ST0277,Full Stack Developer,Accepted
+T0426,ST0717,Full Stack Developer,Accepted
+T0427,ST1141,Full Stack Developer,Accepted
+T0427,ST0991,Full Stack Developer,Accepted
+T0427,ST1062,Frontend Developer,Accepted
+T0428,ST1159,Blockchain Developer,Accepted
+T0428,ST0490,IoT Developer,Accepted
+T0428,ST0681,Data Scientist,Accepted
+T0428,ST0698,Cybersecurity,Accepted
+T0429,ST0114,Full Stack Developer,Accepted
+T0429,ST0543,Full Stack Developer,Accepted
+T0429,ST0732,Full Stack Developer,Accepted
+T0430,ST0091,Frontend Developer,Accepted
+T0430,ST0397,Frontend Developer,Accepted
+T0430,ST0158,Full Stack Developer,Accepted
+T0431,ST0025,AI/ML Developer,Accepted
+T0431,ST0156,Data Scientist,Accepted
+T0431,ST0040,AI/ML Developer,Accepted
+T0431,ST0614,AI/ML Developer,Accepted
+T0432,ST0365,Data Scientist,Accepted
+T0432,ST0238,Data Scientist,Accepted
+T0432,ST0113,Data Scientist,Accepted
+T0432,ST0949,Data Scientist,Accepted
+T0433,ST0722,Data Scientist,Accepted
+T0433,ST1081,Data Scientist,Accepted
+T0433,ST0660,Data Scientist,Accepted
+T0434,ST0236,Data Scientist,Accepted
+T0434,ST0179,Data Scientist,Accepted
+T0434,ST0424,Data Scientist,Accepted
+T0434,ST0117,Data Scientist,Accepted
+T0434,ST0847,Data Scientist,Accepted
+T0434,ST1172,Data Analyst,Accepted
+T0435,ST0708,Data Scientist,Accepted
+T0435,ST0594,Data Analyst,Accepted
+T0435,ST0579,AI/ML Developer,Accepted
+T0435,ST0860,Backend Developer,Accepted
+T0435,ST1161,Backend Developer,Accepted
+T0435,ST1132,Data Scientist,Accepted
+T0436,ST0606,DevOps,Accepted
+T0436,ST0624,DevOps,Accepted
+T0436,ST0811,DevOps,Accepted
+T0436,ST0419,DevOps,Accepted
+T0436,ST0079,Cloud Developer,Accepted
+T0437,ST0200,DevOps,Accepted
+T0437,ST0933,DevOps,Accepted
+T0437,ST0970,DevOps,Accepted
+T0437,ST0126,DevOps,Accepted
+T0437,ST0912,DevOps,Accepted
+T0438,ST0373,DevOps,Accepted
+T0438,ST0560,DevOps,Accepted
+T0438,ST0499,Cloud Developer,Accepted
+T0438,ST0056,Data Scientist,Accepted
+T0438,ST0795,DevOps,Accepted
+T0439,ST1006,Cloud Developer,Accepted
+T0439,ST0039,AI/ML Developer,Accepted
+T0439,ST0020,Data Scientist,Accepted
+T0439,ST0616,DevOps,Accepted
+T0439,ST0918,DevOps,Accepted
+T0439,ST1165,Cybersecurity,Accepted
+T0440,ST0221,DevOps,Accepted
+T0440,ST0842,Cloud Developer,Accepted
+T0440,ST0973,Cloud Developer,Accepted
+T0440,ST0291,Backend Developer,Accepted
+T0440,ST1199,Cloud Developer,Accepted
+T0441,ST0852,Full Stack Developer,Accepted
+T0441,ST0543,Full Stack Developer,Accepted
+T0441,ST0430,Backend Developer,Accepted
+T0441,ST0208,UI/UX Designer,Accepted
+T0442,ST0848,Backend Developer,Accepted
+T0442,ST0599,UI/UX Designer,Accepted
+T0442,ST0736,Full Stack Developer,Accepted
+T0443,ST1077,Backend Developer,Accepted
+T0443,ST1191,Data Scientist,Accepted
+T0443,ST0277,Full Stack Developer,Accepted
+T0444,ST0357,Android Developer,Accepted
+T0444,ST0556,Cybersecurity,Accepted
+T0444,ST1170,UI/UX Designer,Accepted
+T0444,ST0911,Full Stack Developer,Accepted
+T0445,ST0158,Full Stack Developer,Accepted
+T0445,ST0623,Full Stack Developer,Accepted
+T0445,ST0860,Backend Developer,Accepted
+T0446,ST0773,Backend Developer,Accepted
+T0446,ST0986,Backend Developer,Accepted
+T0446,ST0219,Backend Developer,Accepted
+T0446,ST1106,Backend Developer,Accepted
+T0446,ST0848,Backend Developer,Accepted
+T0447,ST1135,Backend Developer,Accepted
+T0447,ST0478,Backend Developer,Accepted
+T0447,ST0132,Backend Developer,Accepted
+T0447,ST1161,Backend Developer,Accepted
+T0448,ST1129,Full Stack Developer,Accepted
+T0448,ST0860,Backend Developer,Accepted
+T0448,ST0625,Cybersecurity,Accepted
+T0449,ST1011,Full Stack Developer,Accepted
+T0449,ST0845,Backend Developer,Accepted
+T0449,ST0152,Full Stack Developer,Accepted
+T0449,ST0651,Backend Developer,Accepted
+T0450,ST1117,Full Stack Developer,Accepted
+T0450,ST0543,Full Stack Developer,Accepted
+T0450,ST0305,DevOps,Accepted
+T0451,ST0365,Data Scientist,Accepted
+T0451,ST0579,AI/ML Developer,Accepted
+T0451,ST0725,AI/ML Developer,Accepted
+T0452,ST0332,AI/ML Developer,Accepted
+T0452,ST0453,AI/ML Developer,Accepted
+T0452,ST0722,Data Scientist,Accepted
+T0452,ST0706,AI/ML Developer,Accepted
+T0453,ST0892,AI/ML Developer,Accepted
+T0453,ST0862,AI/ML Developer,Accepted
+T0453,ST0949,Data Scientist,Accepted
+T0453,ST0040,AI/ML Developer,Accepted
+T0454,ST0581,Data Scientist,Accepted
+T0454,ST0025,AI/ML Developer,Accepted
+T0454,ST0080,Data Scientist,Accepted
+T0454,ST0179,Data Scientist,Accepted
+T0455,ST0902,AI/ML Developer,Accepted
+T0455,ST1105,AI/ML Developer,Accepted
+T0455,ST0815,AI/ML Developer,Accepted
+T0455,ST0608,AI/ML Developer,Accepted
+T0456,ST0848,Backend Developer,Accepted
+T0456,ST0625,Cybersecurity,Accepted
+T0456,ST1189,Backend Developer,Accepted
+T0456,ST0556,Cybersecurity,Accepted
+T0457,ST1116,Backend Developer,Accepted
+T0457,ST0850,Backend Developer,Accepted
+T0457,ST0531,Backend Developer,Accepted
+T0457,ST0372,Cybersecurity,Accepted
+T0458,ST0432,Cybersecurity,Accepted
+T0458,ST0709,Cybersecurity,Accepted
+T0458,ST0538,Backend Developer,Accepted
+T0458,ST0242,Data Analyst,Accepted
+T0459,ST1161,Backend Developer,Accepted
+T0459,ST0324,Cybersecurity,Accepted
+T0459,ST0939,Backend Developer,Accepted
+T0460,ST1135,Backend Developer,Accepted
+T0460,ST0179,Data Scientist,Accepted
+T0460,ST0445,Full Stack Developer,Accepted
+T0460,ST0073,AI/ML Developer,Accepted
+T0461,ST1189,Backend Developer,Accepted
+T0461,ST1019,Backend Developer,Accepted
+T0461,ST0781,Frontend Developer,Accepted
+T0461,ST0539,AI/ML Developer,Accepted
+T0462,ST0860,Backend Developer,Accepted
+T0462,ST0478,Backend Developer,Accepted
+T0462,ST0261,Full Stack Developer,Accepted
+T0462,ST1013,Full Stack Developer,Accepted
+T0463,ST0939,Backend Developer,Accepted
+T0463,ST1072,Backend Developer,Accepted
+T0463,ST0991,Full Stack Developer,Accepted
+T0463,ST0543,Full Stack Developer,Accepted
+T0464,ST1117,Full Stack Developer,Accepted
+T0464,ST0430,Backend Developer,Accepted
+T0464,ST0538,Backend Developer,Accepted
+T0464,ST1067,Data Scientist,Accepted
+T0465,ST0623,Full Stack Developer,Accepted
+T0465,ST0911,Full Stack Developer,Accepted
+T0465,ST0738,Full Stack Developer,Accepted
+T0466,ST0374,Backend Developer,Accepted
+T0466,ST1089,Full Stack Developer,Accepted
+T0466,ST0090,Backend Developer,Accepted
+T0466,ST0152,Full Stack Developer,Accepted
+T0467,ST1129,Full Stack Developer,Accepted
+T0467,ST0158,Full Stack Developer,Accepted
+T0467,ST0119,Backend Developer,Accepted
+T0467,ST0654,Full Stack Developer,Accepted
+T0467,ST0623,Full Stack Developer,Accepted
+T0468,ST0991,Full Stack Developer,Accepted
+T0468,ST0911,Full Stack Developer,Accepted
+T0468,ST0114,Full Stack Developer,Accepted
+T0468,ST0291,Backend Developer,Accepted
+T0468,ST0543,Full Stack Developer,Accepted
+T0468,ST0430,Backend Developer,Accepted
+T0469,ST0426,Full Stack Developer,Accepted
+T0469,ST1012,Backend Developer,Accepted
+T0469,ST0340,Full Stack Developer,Accepted
+T0470,ST0132,Backend Developer,Accepted
+T0470,ST0451,Backend Developer,Accepted
+T0470,ST0663,Backend Developer,Accepted
+T0470,ST0848,Backend Developer,Accepted
+T0470,ST0474,Backend Developer,Accepted
+T0470,ST0717,Full Stack Developer,Accepted
+T0471,ST0768,IoT Developer,Accepted
+T0471,ST0927,IoT Developer,Accepted
+T0471,ST1164,IoT Developer,Accepted
+T0471,ST0183,IoT Developer,Accepted
+T0472,ST0047,IoT Developer,Accepted
+T0472,ST1134,IoT Developer,Accepted
+T0472,ST0509,IoT Developer,Accepted
+T0473,ST0686,IoT Developer,Accepted
+T0473,ST0759,IoT Developer,Accepted
+T0473,ST1180,IoT Developer,Accepted
+T0474,ST0982,IoT Developer,Accepted
+T0474,ST0915,IoT Developer,Accepted
+T0474,ST1015,Data Analyst,Accepted
+T0474,ST1063,IoT Developer,Accepted
+T0474,ST0028,IoT Developer,Accepted
+T0474,ST0336,Data Analyst,Accepted
+T0475,ST0241,IoT Developer,Accepted
+T0475,ST0221,DevOps,Accepted
+T0475,ST0743,IoT Developer,Accepted
+T0475,ST0872,Cloud Developer,Accepted
+T0476,ST0611,Cybersecurity,Accepted
+T0476,ST0213,Cybersecurity,Accepted
+T0476,ST1121,Cybersecurity,Accepted
+T0476,ST0786,Cybersecurity,Accepted
+T0477,ST0097,Cybersecurity,Accepted
+T0477,ST0600,Cybersecurity,Accepted
+T0477,ST0793,Data Analyst,Accepted
+T0478,ST1056,Cybersecurity,Accepted
+T0478,ST0771,Cybersecurity,Accepted
+T0478,ST0372,Cybersecurity,Accepted
+T0478,ST0709,Cybersecurity,Accepted
+T0478,ST0468,Cybersecurity,Accepted
+T0478,ST1054,Cybersecurity,Accepted
+T0479,ST0988,Cybersecurity,Accepted
+T0479,ST0281,Backend Developer,Accepted
+T0479,ST0823,Cybersecurity,Accepted
+T0479,ST1059,Cybersecurity,Accepted
+T0479,ST0792,Cybersecurity,Accepted
+T0479,ST0266,Cloud Developer,Accepted
+T0480,ST0659,Cybersecurity,Accepted
+T0480,ST0910,Cybersecurity,Accepted
+T0480,ST1042,Cybersecurity,Accepted
+T0480,ST0348,Cybersecurity,Accepted
+T0480,ST0365,Data Scientist,Accepted
+T0480,ST0504,Cybersecurity,Accepted
+T0481,ST0671,Blockchain Developer,Accepted
+T0481,ST0991,Full Stack Developer,Accepted
+T0481,ST0106,AI/ML Developer,Accepted
+T0481,ST0308,Frontend Developer,Accepted
+T0482,ST1110,Blockchain Developer,Accepted
+T0482,ST0849,Blockchain Developer,Accepted
+T0482,ST0715,Blockchain Developer,Accepted
+T0482,ST0520,Blockchain Developer,Accepted
+T0483,ST0431,Blockchain Developer,Accepted
+T0483,ST0992,Blockchain Developer,Accepted
+T0483,ST0182,Blockchain Developer,Accepted
+T0483,ST0778,Blockchain Developer,Accepted
+T0484,ST0029,Blockchain Developer,Accepted
+T0484,ST0667,Blockchain Developer,Accepted
+T0484,ST0195,Blockchain Developer,Accepted
+T0484,ST0299,Blockchain Developer,Accepted
+T0485,ST0112,Blockchain Developer,Accepted
+T0485,ST0249,Blockchain Developer,Accepted
+T0485,ST0851,Frontend Developer,Accepted
+T0486,ST0649,IoT Developer,Accepted
+T0486,ST0558,IoT Developer,Accepted
+T0486,ST0473,IoT Developer,Accepted
+T0487,ST0390,IoT Developer,Accepted
+T0487,ST0612,IoT Developer,Accepted
+T0487,ST0074,IoT Developer,Accepted
+T0488,ST0384,AI/ML Developer,Accepted
+T0488,ST0938,DevOps,Accepted
+T0488,ST1062,Frontend Developer,Accepted
+T0488,ST0843,UI/UX Designer,Accepted
+T0489,ST1087,IoT Developer,Accepted
+T0489,ST1180,IoT Developer,Accepted
+T0489,ST0121,IoT Developer,Accepted
+T0490,ST0982,IoT Developer,Accepted
+T0490,ST0048,IoT Developer,Accepted
+T0490,ST0878,IoT Developer,Accepted
+T0491,ST0444,Data Analyst,Accepted
+T0491,ST0312,IoT Developer,Accepted
+T0491,ST0162,Full Stack Developer,Accepted
+T0492,ST0505,Backend Developer,Accepted
+T0492,ST0152,Full Stack Developer,Accepted
+T0492,ST0558,IoT Developer,Accepted
+T0492,ST0759,IoT Developer,Accepted
+T0493,ST0387,IoT Developer,Accepted
+T0493,ST0846,Backend Developer,Accepted
+T0493,ST0773,Backend Developer,Accepted
+T0493,ST0663,Backend Developer,Accepted
+T0494,ST0261,Full Stack Developer,Accepted
+T0494,ST0183,IoT Developer,Accepted
+T0494,ST0991,Full Stack Developer,Accepted
+T0494,ST0490,IoT Developer,Accepted
+T0494,ST0852,Full Stack Developer,Accepted
+T0495,ST0686,IoT Developer,Accepted
+T0495,ST0911,Full Stack Developer,Accepted
+T0495,ST1118,Data Analyst,Accepted
+T0495,ST0241,IoT Developer,Accepted
+T0496,ST0261,Full Stack Developer,Accepted
+T0496,ST0759,IoT Developer,Accepted
+T0496,ST0207,Data Analyst,Accepted
+T0497,ST0208,UI/UX Designer,Accepted
+T0497,ST0982,IoT Developer,Accepted
+T0497,ST0489,Full Stack Developer,Accepted
+T0497,ST0622,Full Stack Developer,Accepted
+T0498,ST0205,IoT Developer,Accepted
+T0498,ST0175,Frontend Developer,Accepted
+T0498,ST0397,Frontend Developer,Accepted
+T0499,ST0781,Frontend Developer,Accepted
+T0499,ST0025,AI/ML Developer,Accepted
+T0499,ST0837,Frontend Developer,Accepted
+T0499,ST0696,Data Analyst,Accepted
+T0500,ST1118,Data Analyst,Accepted
+T0500,ST0991,Full Stack Developer,Accepted
+T0500,ST0160,Data Analyst,Accepted
+T0500,ST0543,Full Stack Developer,Accepted
+T0500,ST0842,Cloud Developer,Accepted
+T0501,ST1129,Full Stack Developer,Accepted
+T0501,ST0543,Full Stack Developer,Accepted
+T0501,ST0308,Frontend Developer,Accepted
+T0501,ST0732,Full Stack Developer,Accepted
+T0502,ST0720,Frontend Developer,Accepted
+T0502,ST0397,Frontend Developer,Accepted
+T0502,ST1011,Full Stack Developer,Accepted
+T0502,ST0643,Frontend Developer,Accepted
+T0502,ST0091,Frontend Developer,Accepted
+T0503,ST0216,UI/UX Designer,Accepted
+T0503,ST0896,Frontend Developer,Accepted
+T0503,ST0133,Frontend Developer,Accepted
+T0503,ST0492,Full Stack Developer,Accepted
+T0504,ST0114,Full Stack Developer,Accepted
+T0504,ST0277,Full Stack Developer,Accepted
+T0504,ST1089,Full Stack Developer,Accepted
+T0504,ST0552,Full Stack Developer,Accepted
+T0504,ST0120,Full Stack Developer,Accepted
+T0504,ST0559,UI/UX Designer,Accepted
+T0505,ST0135,Frontend Developer,Accepted
+T0505,ST1141,Full Stack Developer,Accepted
+T0505,ST0991,Full Stack Developer,Accepted
+T0506,ST0660,Data Scientist,Accepted
+T0506,ST0847,Data Scientist,Accepted
+T0506,ST0418,Data Scientist,Accepted
+T0506,ST0631,Data Scientist,Accepted
+T0506,ST0892,AI/ML Developer,Accepted
+T0506,ST0025,AI/ML Developer,Accepted
+T0507,ST0708,Data Scientist,Accepted
+T0507,ST0156,Data Scientist,Accepted
+T0507,ST0197,Data Scientist,Accepted
+T0507,ST0435,Data Scientist,Accepted
+T0507,ST0285,Data Scientist,Accepted
+T0507,ST0641,Data Scientist,Accepted
+T0508,ST0365,Data Scientist,Accepted
+T0508,ST0117,Data Scientist,Accepted
+T0508,ST0424,Data Scientist,Accepted
+T0508,ST1168,Data Analyst,Accepted
+T0508,ST0306,Data Scientist,Accepted
+T0508,ST0420,Data Scientist,Accepted
+T0509,ST0179,Data Scientist,Accepted
+T0509,ST0238,Data Scientist,Accepted
+T0509,ST1109,Data Analyst,Accepted
+T0509,ST0315,Data Scientist,Accepted
+T0509,ST0186,AI/ML Developer,Accepted
+T0510,ST1191,Data Scientist,Accepted
+T0510,ST0722,Data Scientist,Accepted
+T0510,ST0839,Data Scientist,Accepted
+T0510,ST0202,Data Scientist,Accepted
+T0510,ST0664,Data Scientist,Accepted
+T0511,ST0811,DevOps,Accepted
+T0511,ST0668,Cloud Developer,Accepted
+T0511,ST0560,DevOps,Accepted
+T0512,ST0624,DevOps,Accepted
+T0512,ST0200,DevOps,Accepted
+T0512,ST0820,DevOps,Accepted
+T0512,ST0219,Backend Developer,Accepted
+T0513,ST0126,DevOps,Accepted
+T0513,ST0665,DevOps,Accepted
+T0513,ST0221,DevOps,Accepted
+T0513,ST0912,DevOps,Accepted
+T0514,ST0378,DevOps,Accepted
+T0514,ST0079,Cloud Developer,Accepted
+T0514,ST0522,Cloud Developer,Accepted
+T0515,ST0419,DevOps,Accepted
+T0515,ST0606,DevOps,Accepted
+T0515,ST0616,DevOps,Accepted
+T0516,ST0158,Full Stack Developer,Accepted
+T0516,ST0208,UI/UX Designer,Accepted
+T0516,ST0114,Full Stack Developer,Accepted
+T0516,ST0789,Full Stack Developer,Accepted
+T0516,ST0599,UI/UX Designer,Accepted
+T0517,ST0543,Full Stack Developer,Accepted
+T0517,ST1116,Backend Developer,Accepted
+T0517,ST0135,Frontend Developer,Accepted
+T0517,ST1031,Frontend Developer,Accepted
+T0517,ST0759,IoT Developer,Accepted
+T0518,ST0738,Full Stack Developer,Accepted
+T0518,ST1118,Data Analyst,Accepted
+T0518,ST0556,Cybersecurity,Accepted
+T0518,ST0119,Backend Developer,Accepted
+T0519,ST1013,Full Stack Developer,Accepted
+T0519,ST0911,Full Stack Developer,Accepted
+T0519,ST0397,Frontend Developer,Accepted
+T0519,ST0932,UI/UX Designer,Accepted
+T0519,ST0781,Frontend Developer,Accepted
+T0520,ST1129,Full Stack Developer,Accepted
+T0520,ST0717,Full Stack Developer,Accepted
+T0520,ST0774,Frontend Developer,Accepted
+T0521,ST1191,Data Scientist,Accepted
+T0521,ST0986,Backend Developer,Accepted
+T0521,ST0132,Backend Developer,Accepted
+T0522,ST0773,Backend Developer,Accepted
+T0522,ST0846,Backend Developer,Accepted
+T0522,ST0990,UI/UX Designer,Accepted
+T0523,ST0848,Backend Developer,Accepted
+T0523,ST0789,Full Stack Developer,Accepted
+T0523,ST1170,UI/UX Designer,Accepted
+T0523,ST0967,Full Stack Developer,Accepted
+T0524,ST0158,Full Stack Developer,Accepted
+T0524,ST0478,Backend Developer,Accepted
+T0524,ST0291,Backend Developer,Accepted
+T0524,ST1116,Backend Developer,Accepted
+T0525,ST0430,Backend Developer,Accepted
+T0525,ST1019,Backend Developer,Accepted
+T0525,ST0648,Backend Developer,Accepted
+T0525,ST0412,Backend Developer,Accepted
+T0526,ST0579,AI/ML Developer,Accepted
+T0526,ST0722,Data Scientist,Accepted
+T0526,ST0365,Data Scientist,Accepted
+T0526,ST0672,AI/ML Developer,Accepted
+T0527,ST0847,Data Scientist,Accepted
+T0527,ST0862,AI/ML Developer,Accepted
+T0527,ST0040,AI/ML Developer,Accepted
+T0527,ST0352,AI/ML Developer,Accepted
+T0528,ST0892,AI/ML Developer,Accepted
+T0528,ST0902,AI/ML Developer,Accepted
+T0528,ST0949,Data Scientist,Accepted
+T0528,ST1001,AI/ML Developer,Accepted
+T0529,ST0608,AI/ML Developer,Accepted
+T0529,ST1085,AI/ML Developer,Accepted
+T0529,ST0179,Data Scientist,Accepted
+T0529,ST0453,AI/ML Developer,Accepted
+T0530,ST0615,AI/ML Developer,Accepted
+T0530,ST0315,Data Scientist,Accepted
+T0530,ST0488,AI/ML Developer,Accepted
+T0530,ST0324,Cybersecurity,Accepted
+T0531,ST1019,Backend Developer,Accepted
+T0531,ST0860,Backend Developer,Accepted
+T0531,ST1189,Backend Developer,Accepted
+T0531,ST0505,Backend Developer,Accepted
+T0531,ST1160,Backend Developer,Accepted
+T0532,ST0986,Backend Developer,Accepted
+T0532,ST0648,Backend Developer,Accepted
+T0532,ST0651,Backend Developer,Accepted
+T0533,ST0179,Data Scientist,Accepted
+T0533,ST0850,Backend Developer,Accepted
+T0533,ST0158,Full Stack Developer,Accepted
+T0533,ST0709,Cybersecurity,Accepted
+T0533,ST0478,Backend Developer,Accepted
+T0534,ST0302,Backend Developer,Accepted
+T0534,ST0846,Backend Developer,Accepted
+T0534,ST0852,Full Stack Developer,Accepted
+T0534,ST0142,Cybersecurity,Accepted
+T0535,ST1011,Full Stack Developer,Accepted
+T0535,ST0412,Backend Developer,Accepted
+T0535,ST1116,Backend Developer,Accepted
+T0535,ST0773,Backend Developer,Accepted
+T0536,ST1077,Backend Developer,Accepted
+T0536,ST0986,Backend Developer,Accepted
+T0536,ST0291,Backend Developer,Accepted
+T0536,ST1019,Backend Developer,Accepted
+T0536,ST0848,Backend Developer,Accepted
+T0536,ST0781,Frontend Developer,Accepted
+T0537,ST1075,Backend Developer,Accepted
+T0537,ST0939,Backend Developer,Accepted
+T0537,ST0991,Full Stack Developer,Accepted
+T0537,ST1160,Backend Developer,Accepted
+T0537,ST1135,Backend Developer,Accepted
+T0537,ST0581,Data Scientist,Accepted
+T0538,ST1106,Backend Developer,Accepted
+T0538,ST1116,Backend Developer,Accepted
+T0538,ST0587,Backend Developer,Accepted
+T0538,ST1161,Backend Developer,Accepted
+T0538,ST0847,Data Scientist,Accepted
+T0538,ST1109,Data Analyst,Accepted
+T0539,ST0132,Backend Developer,Accepted
+T0539,ST0773,Backend Developer,Accepted
+T0539,ST0648,Backend Developer,Accepted
+T0539,ST0300,Backend Developer,Accepted
+T0540,ST0430,Backend Developer,Accepted
+T0540,ST0845,Backend Developer,Accepted
+T0540,ST0137,Backend Developer,Accepted
+T0541,ST0430,Backend Developer,Accepted
+T0541,ST1062,Frontend Developer,Accepted
+T0541,ST0607,Android Developer,Accepted
+T0541,ST0314,UI/UX Designer,Accepted
+T0542,ST0623,Full Stack Developer,Accepted
+T0542,ST0489,Full Stack Developer,Accepted
+T0542,ST1072,Backend Developer,Accepted
+T0543,ST0543,Full Stack Developer,Accepted
+T0543,ST0599,UI/UX Designer,Accepted
+T0543,ST1186,Backend Developer,Accepted
+T0543,ST0860,Backend Developer,Accepted
+T0544,ST1075,Backend Developer,Accepted
+T0544,ST0529,Backend Developer,Accepted
+T0544,ST1152,Full Stack Developer,Accepted
+T0545,ST1135,Backend Developer,Accepted
+T0545,ST0301,Full Stack Developer,Accepted
+T0545,ST0162,Full Stack Developer,Accepted
+T0546,ST1164,IoT Developer,Accepted
+T0546,ST0982,IoT Developer,Accepted
+T0546,ST0585,IoT Developer,Accepted
+T0547,ST0927,IoT Developer,Accepted
+T0547,ST0490,IoT Developer,Accepted
+T0547,ST1097,Data Analyst,Accepted
+T0548,ST1063,IoT Developer,Accepted
+T0548,ST0898,IoT Developer,Accepted
+T0548,ST0434,IoT Developer,Accepted
+T0548,ST0155,IoT Developer,Accepted
+T0549,ST0390,IoT Developer,Accepted
+T0549,ST0183,IoT Developer,Accepted
+T0549,ST0074,IoT Developer,Accepted
+T0549,ST0261,Full Stack Developer,Accepted
+T0550,ST0558,IoT Developer,Accepted
+T0550,ST0047,IoT Developer,Accepted
+T0550,ST0283,IoT Developer,Accepted
+T0550,ST0605,IoT Developer,Accepted
+T0551,ST0611,Cybersecurity,Accepted
+T0551,ST0910,Cybersecurity,Accepted
+T0551,ST0659,Cybersecurity,Accepted
+T0552,ST1054,Cybersecurity,Accepted
+T0552,ST0097,Cybersecurity,Accepted
+T0552,ST0946,Cybersecurity,Accepted
+T0553,ST0213,Cybersecurity,Accepted
+T0553,ST1121,Cybersecurity,Accepted
+T0553,ST0556,Cybersecurity,Accepted
+T0554,ST1056,Cybersecurity,Accepted
+T0554,ST0324,Cybersecurity,Accepted
+T0554,ST0786,Cybersecurity,Accepted
+T0555,ST0307,Cybersecurity,Accepted
+T0555,ST0823,Cybersecurity,Accepted
+T0555,ST0600,Cybersecurity,Accepted
+T0556,ST1048,Blockchain Developer,Accepted
+T0556,ST0346,Blockchain Developer,Accepted
+T0556,ST0029,Blockchain Developer,Accepted
+T0557,ST1110,Blockchain Developer,Accepted
+T0557,ST0182,Blockchain Developer,Accepted
+T0557,ST0431,Blockchain Developer,Accepted
+T0558,ST0992,Blockchain Developer,Accepted
+T0558,ST0901,Blockchain Developer,Accepted
+T0558,ST0195,Blockchain Developer,Accepted
+T0558,ST1124,Blockchain Developer,Accepted
+T0559,ST0715,Blockchain Developer,Accepted
+T0559,ST0778,Blockchain Developer,Accepted
+T0559,ST0201,Blockchain Developer,Accepted
+T0559,ST1167,Blockchain Developer,Accepted
+T0560,ST0099,Blockchain Developer,Accepted
+T0560,ST0520,Blockchain Developer,Accepted
+T0560,ST0249,Blockchain Developer,Accepted
+T0561,ST0241,IoT Developer,Accepted
+T0561,ST0183,IoT Developer,Accepted
+T0561,ST0464,IoT Developer,Accepted
+T0561,ST0686,IoT Developer,Accepted
+T0561,ST1134,IoT Developer,Accepted
+T0562,ST1164,IoT Developer,Accepted
+T0562,ST0434,IoT Developer,Accepted
+T0562,ST0055,IoT Developer,Accepted
+T0562,ST0390,IoT Developer,Accepted
+T0563,ST0649,IoT Developer,Accepted
+T0563,ST0612,IoT Developer,Accepted
+T0563,ST1180,IoT Developer,Accepted
+T0563,ST0490,IoT Developer,Accepted
+T0563,ST0475,IoT Developer,Accepted
+T0564,ST0074,IoT Developer,Accepted
+T0564,ST0740,IoT Developer,Accepted
+T0564,ST0196,IoT Developer,Accepted
+T0564,ST0473,IoT Developer,Accepted
+T0564,ST0759,IoT Developer,Accepted
+T0564,ST1051,IoT Developer,Accepted
+T0565,ST0982,IoT Developer,Accepted
+T0565,ST0810,IoT Developer,Accepted
+T0565,ST0963,IoT Developer,Accepted
+T0566,ST0492,Full Stack Developer,Accepted
+T0566,ST0558,IoT Developer,Accepted
+T0566,ST0981,Frontend Developer,Accepted
+T0567,ST0261,Full Stack Developer,Accepted
+T0567,ST0759,IoT Developer,Accepted
+T0567,ST0852,Full Stack Developer,Accepted
+T0568,ST0618,Data Analyst,Accepted
+T0568,ST0444,Data Analyst,Accepted
+T0568,ST0720,Frontend Developer,Accepted
+T0569,ST0842,Cloud Developer,Accepted
+T0569,ST0505,Backend Developer,Accepted
+T0569,ST0074,IoT Developer,Accepted
+T0570,ST1013,Full Stack Developer,Accepted
+T0570,ST0219,Backend Developer,Accepted
+T0570,ST0300,Backend Developer,Accepted
+T0570,ST1182,Full Stack Developer,Accepted
+T0571,ST0505,Backend Developer,Accepted
+T0571,ST0768,IoT Developer,Accepted
+T0571,ST1097,Data Analyst,Accepted
+T0571,ST0241,IoT Developer,Accepted
+T0572,ST0261,Full Stack Developer,Accepted
+T0572,ST0461,IoT Developer,Accepted
+T0572,ST1118,Data Analyst,Accepted
+T0572,ST1147,Cybersecurity,Accepted
+T0572,ST0114,Full Stack Developer,Accepted
+T0572,ST1091,AI/ML Developer,Accepted
+T0573,ST0192,Data Analyst,Accepted
+T0573,ST0759,IoT Developer,Accepted
+T0573,ST0579,AI/ML Developer,Accepted
+T0573,ST0848,Backend Developer,Accepted
+T0573,ST0336,Data Analyst,Accepted
+T0574,ST1164,IoT Developer,Accepted
+T0574,ST0047,IoT Developer,Accepted
+T0574,ST0927,IoT Developer,Accepted
+T0574,ST0412,Backend Developer,Accepted
+T0575,ST0025,AI/ML Developer,Accepted
+T0575,ST0475,IoT Developer,Accepted
+T0575,ST0690,Data Analyst,Accepted
+T0575,ST0478,Backend Developer,Accepted
+T0576,ST1117,Full Stack Developer,Accepted
+T0576,ST0340,Full Stack Developer,Accepted
+T0576,ST0679,Frontend Developer,Accepted
+T0576,ST1182,Full Stack Developer,Accepted
+T0577,ST0543,Full Stack Developer,Accepted
+T0577,ST1129,Full Stack Developer,Accepted
+T0577,ST1141,Full Stack Developer,Accepted
+T0577,ST0481,Full Stack Developer,Accepted
+T0577,ST0738,Full Stack Developer,Accepted
+T0578,ST1011,Full Stack Developer,Accepted
+T0578,ST0135,Frontend Developer,Accepted
+T0578,ST0114,Full Stack Developer,Accepted
+T0578,ST0781,Frontend Developer,Accepted
+T0578,ST0489,Full Stack Developer,Accepted
+T0579,ST0397,Frontend Developer,Accepted
+T0579,ST0571,Frontend Developer,Accepted
+T0579,ST0308,Frontend Developer,Accepted
+T0580,ST1062,Frontend Developer,Accepted
+T0580,ST0623,Full Stack Developer,Accepted
+T0580,ST0952,Frontend Developer,Accepted
+T0581,ST0722,Data Scientist,Accepted
+T0581,ST0949,Data Scientist,Accepted
+T0581,ST0179,Data Scientist,Accepted
+T0581,ST0238,Data Scientist,Accepted
+T0582,ST0197,Data Scientist,Accepted
+T0582,ST0708,Data Scientist,Accepted
+T0582,ST0040,AI/ML Developer,Accepted
+T0583,ST1109,Data Analyst,Accepted
+T0583,ST0812,Data Scientist,Accepted
+T0583,ST0718,Data Scientist,Accepted
+T0584,ST0236,Data Scientist,Accepted
+T0584,ST0315,Data Scientist,Accepted
+T0584,ST0117,Data Scientist,Accepted
+T0584,ST0641,Data Scientist,Accepted
+T0584,ST0645,Data Scientist,Accepted
+T0585,ST0660,Data Scientist,Accepted
+T0585,ST0424,Data Scientist,Accepted
+T0585,ST0839,Data Scientist,Accepted
+T0585,ST0156,Data Scientist,Accepted
+T0586,ST0200,DevOps,Accepted
+T0586,ST0560,DevOps,Accepted
+T0586,ST1006,Cloud Developer,Accepted
+T0587,ST0221,DevOps,Accepted
+T0587,ST0265,DevOps,Accepted
+T0587,ST0247,DevOps,Accepted
+T0587,ST0410,UI/UX Designer,Accepted
+T0588,ST0726,DevOps,Accepted
+T0588,ST0126,DevOps,Accepted
+T0588,ST0668,Cloud Developer,Accepted
+T0588,ST0373,DevOps,Accepted
+T0589,ST0964,Cloud Developer,Accepted
+T0589,ST0989,DevOps,Accepted
+T0589,ST0244,DevOps,Accepted
+T0589,ST1041,DevOps,Accepted
+T0590,ST0624,DevOps,Accepted
+T0590,ST0970,DevOps,Accepted
+T0590,ST0115,DevOps,Accepted
+T0591,ST0599,UI/UX Designer,Accepted
+T0591,ST0651,Backend Developer,Accepted
+T0591,ST0630,Full Stack Developer,Accepted
+T0592,ST0654,Full Stack Developer,Accepted
+T0592,ST0494,Android Developer,Accepted
+T0592,ST0708,Data Scientist,Accepted
+T0593,ST0119,Backend Developer,Accepted
+T0593,ST1170,UI/UX Designer,Accepted
+T0593,ST1019,Backend Developer,Accepted
+T0593,ST1129,Full Stack Developer,Accepted
+T0594,ST0789,Full Stack Developer,Accepted
+T0594,ST1161,Backend Developer,Accepted
+T0594,ST0848,Backend Developer,Accepted
+T0595,ST0478,Backend Developer,Accepted
+T0595,ST0663,Backend Developer,Accepted
+T0595,ST0430,Backend Developer,Accepted
+T0595,ST0773,Backend Developer,Accepted
+T0596,ST0967,Full Stack Developer,Accepted
+T0596,ST0648,Backend Developer,Accepted
+T0596,ST1170,UI/UX Designer,Accepted
+T0596,ST0492,Full Stack Developer,Accepted
+T0597,ST0305,DevOps,Accepted
+T0597,ST0773,Backend Developer,Accepted
+T0597,ST0852,Full Stack Developer,Accepted
+T0597,ST0651,Backend Developer,Accepted
+T0598,ST0277,Full Stack Developer,Accepted
+T0598,ST0132,Backend Developer,Accepted
+T0598,ST0861,Full Stack Developer,Accepted
+T0599,ST1191,Data Scientist,Accepted
+T0599,ST0293,UI/UX Designer,Accepted
+T0599,ST1135,Backend Developer,Accepted
+T0599,ST1116,Backend Developer,Accepted
+T0600,ST0789,Full Stack Developer,Accepted
+T0600,ST0986,Backend Developer,Accepted
+T0600,ST0430,Backend Developer,Accepted
+T0600,ST1019,Backend Developer,Accepted
+T0601,ST0581,Data Scientist,Accepted
+T0601,ST0608,AI/ML Developer,Accepted
+T0601,ST1040,AI/ML Developer,Accepted
+T0601,ST0045,Cybersecurity,Pending
+T0601,ST1073,Cybersecurity,Rejected
+T0602,ST1019,Backend Developer,Accepted
+T0602,ST1116,Backend Developer,Accepted
+T0602,ST0266,Cloud Developer,Rejected
+T0602,ST0834,UI/UX Designer,Rejected
+T0603,ST1189,Backend Developer,Accepted
+T0603,ST0027,Android Developer,Pending
+T0603,ST0971,Blockchain Developer,Pending
+T0604,ST1019,Backend Developer,Accepted
+T0604,ST0357,Android Developer,Accepted
+T0604,ST0651,Backend Developer,Accepted
+T0604,ST0462,Frontend Developer,Pending
+T0605,ST1063,IoT Developer,Accepted
+T0605,ST0640,Blockchain Developer,Pending
+T0605,ST0863,Data Analyst,Pending
+T0605,ST0579,AI/ML Developer,Rejected
+T0606,ST1121,Cybersecurity,Accepted
+T0606,ST0611,Cybersecurity,Accepted
+T0606,ST1059,Cybersecurity,Accepted
+T0606,ST0910,Cybersecurity,Accepted
+T0606,ST1073,Cybersecurity,Rejected
+T0607,ST0024,Blockchain Developer,Accepted
+T0607,ST0658,Blockchain Developer,Rejected
+T0607,ST0136,Android Developer,Rejected
+T0608,ST0074,IoT Developer,Accepted
+T0608,ST0047,IoT Developer,Accepted
+T0608,ST0887,UI/UX Designer,Rejected
+T0608,ST0719,DevOps,Pending
+T0608,ST0207,Data Analyst,Pending
+T0609,ST0261,Full Stack Developer,Accepted
+T0609,ST0952,Frontend Developer,Accepted
+T0609,ST1000,IoT Developer,Pending
+T0610,ST0933,DevOps,Accepted
+T0610,ST1030,AI/ML Developer,Accepted
+T0610,ST0124,Cybersecurity,Accepted
+T0610,ST0304,Cybersecurity,Accepted
+T0610,ST0738,Full Stack Developer,Accepted
+T0610,ST1063,IoT Developer,Pending
+T0611,ST0543,Full Stack Developer,Accepted
+T0611,ST1129,Full Stack Developer,Accepted
+T0611,ST0340,Full Stack Developer,Accepted
+T0611,ST0623,Full Stack Developer,Accepted
+T0611,ST0602,Backend Developer,Rejected
+T0612,ST0202,Data Scientist,Accepted
+T0612,ST0236,Data Scientist,Accepted
+T0612,ST1084,Full Stack Developer,Pending
+T0612,ST0854,Full Stack Developer,Rejected
+T0613,ST0912,DevOps,Accepted
+T0613,ST0970,DevOps,Accepted
+T0613,ST1076,Frontend Developer,Rejected
+T0614,ST0478,Backend Developer,Accepted
+T0614,ST1135,Backend Developer,Accepted
+T0614,ST0591,Data Analyst,Rejected
+T0615,ST0789,Full Stack Developer,Accepted
+T0615,ST0191,Cloud Developer,Pending
+T0615,ST0434,IoT Developer,Rejected
+T0615,ST1078,Backend Developer,Pending
+T0616,ST0902,AI/ML Developer,Accepted
+T0616,ST0862,AI/ML Developer,Accepted
+T0616,ST0579,AI/ML Developer,Accepted
+T0616,ST0336,Data Analyst,Pending
+T0617,ST0648,Backend Developer,Accepted
+T0617,ST0543,Full Stack Developer,Accepted
+T0617,ST0986,Backend Developer,Accepted
+T0617,ST0109,Blockchain Developer,Pending
+T0617,ST0585,IoT Developer,Pending
+T0618,ST0132,Backend Developer,Accepted
+T0618,ST0909,Backend Developer,Accepted
+T0618,ST0939,Backend Developer,Accepted
+T0618,ST0815,AI/ML Developer,Accepted
+T0618,ST0156,Data Scientist,Accepted
+T0618,ST0715,Blockchain Developer,Pending
+T0618,ST0786,Cybersecurity,Rejected
+T0619,ST0119,Backend Developer,Accepted
+T0619,ST0738,Full Stack Developer,Accepted
+T0619,ST0986,Backend Developer,Accepted
+T0619,ST1186,Backend Developer,Accepted
+T0619,ST0926,AI/ML Developer,Rejected
+T0619,ST1056,Cybersecurity,Pending
+T0619,ST0918,DevOps,Pending
+T0620,ST0686,IoT Developer,Accepted
+T0620,ST0461,IoT Developer,Accepted
+T0620,ST0312,IoT Developer,Accepted
+T0620,ST0261,Full Stack Developer,Accepted
+T0620,ST0492,Full Stack Developer,Accepted
+T0620,ST0236,Data Scientist,Accepted
+T0620,ST0875,Frontend Developer,Pending
+T0621,ST0748,Cybersecurity,Accepted
+T0621,ST0611,Cybersecurity,Accepted
+T0621,ST0391,Cybersecurity,Accepted
+T0621,ST0300,Backend Developer,Accepted
+T0621,ST0725,AI/ML Developer,Accepted
+T0621,ST1046,AI/ML Developer,Rejected
+T0621,ST1049,DevOps,Pending
+T0622,ST0182,Blockchain Developer,Accepted
+T0622,ST1110,Blockchain Developer,Accepted
+T0622,ST0467,Blockchain Developer,Accepted
+T0622,ST0041,Blockchain Developer,Accepted
+T0622,ST1136,UI/UX Designer,Rejected
+T0622,ST0334,UI/UX Designer,Pending
+T0623,ST0878,IoT Developer,Accepted
+T0623,ST1110,Blockchain Developer,Rejected
+T0624,ST0183,IoT Developer,Accepted
+T0624,ST1129,Full Stack Developer,Accepted
+T0624,ST0945,IoT Developer,Accepted
+T0624,ST0426,Full Stack Developer,Accepted
+T0624,ST0114,Full Stack Developer,Accepted
+T0624,ST1037,Frontend Developer,Accepted
+T0624,ST0191,Cloud Developer,Pending
+T0625,ST0261,Full Stack Developer,Accepted
+T0625,ST0442,DevOps,Rejected
+T0625,ST0335,Data Analyst,Rejected
+T0626,ST0301,Full Stack Developer,Accepted
+T0626,ST0720,Frontend Developer,Accepted
+T0626,ST0404,Full Stack Developer,Accepted
+T0626,ST0825,Android Developer,Pending
+T0626,ST1150,Frontend Developer,Rejected
+T0627,ST0708,Data Scientist,Accepted
+T0627,ST0839,Data Scientist,Accepted
+T0627,ST0812,Data Scientist,Accepted
+T0627,ST0179,Data Scientist,Accepted
+T0627,ST0797,UI/UX Designer,Rejected
+T0627,ST0103,Backend Developer,Pending
+T0627,ST0954,Frontend Developer,Pending
+T0628,ST0811,DevOps,Accepted
+T0628,ST0200,DevOps,Accepted
+T0628,ST0719,DevOps,Accepted
+T0628,ST0933,DevOps,Accepted
+T0628,ST0854,Full Stack Developer,Pending
+T0628,ST0877,AI/ML Developer,Rejected
+T0628,ST0785,Data Scientist,Pending
+T0629,ST0158,Full Stack Developer,Accepted
+T0629,ST0718,Data Scientist,Pending
+T0629,ST0641,Data Scientist,Pending
+T0630,ST0852,Full Stack Developer,Accepted
+T0630,ST0703,Full Stack Developer,Accepted
+T0630,ST0017,Full Stack Developer,Rejected
+T0630,ST0441,Frontend Developer,Rejected
+T0630,ST1110,Blockchain Developer,Pending
+T0631,ST0579,AI/ML Developer,Accepted
+T0631,ST0708,Data Scientist,Accepted
+T0631,ST0440,AI/ML Developer,Accepted
+T0631,ST0039,AI/ML Developer,Accepted
+T0631,ST1171,Frontend Developer,Rejected
+T0632,ST0291,Backend Developer,Accepted
+T0632,ST0564,Backend Developer,Pending
+T0632,ST0331,Data Scientist,Rejected
+T0632,ST0815,AI/ML Developer,Rejected
+T0633,ST0781,Frontend Developer,Accepted
+T0633,ST0505,Backend Developer,Accepted
+T0633,ST0221,DevOps,Pending
+T0633,ST0451,Backend Developer,Rejected
+T0633,ST0485,Data Analyst,Rejected
+T0634,ST0852,Full Stack Developer,Accepted
+T0634,ST1078,Backend Developer,Pending
+T0634,ST0045,Cybersecurity,Rejected
+T0634,ST0010,IoT Developer,Rejected
+T0635,ST0768,IoT Developer,Accepted
+T0635,ST0083,AI/ML Developer,Rejected
+T0636,ST0786,Cybersecurity,Accepted
+T0636,ST1152,Full Stack Developer,Rejected
+T0637,ST0182,Blockchain Developer,Accepted
+T0637,ST0181,Frontend Developer,Rejected
+T0637,ST0535,Blockchain Developer,Pending
+T0638,ST0047,IoT Developer,Accepted
+T0638,ST0490,IoT Developer,Accepted
+T0638,ST0473,IoT Developer,Accepted
+T0638,ST0028,IoT Developer,Accepted
+T0638,ST0090,Backend Developer,Pending
+T0639,ST0261,Full Stack Developer,Accepted
+T0639,ST1164,IoT Developer,Accepted
+T0639,ST0077,Backend Developer,Pending
+T0639,ST0589,Full Stack Developer,Rejected
+T0639,ST1038,AI/ML Developer,Pending
+T0640,ST0759,IoT Developer,Accepted
+T0640,ST0478,Backend Developer,Accepted
+T0640,ST0780,Data Analyst,Accepted
+T0640,ST0498,Data Scientist,Pending
+T0640,ST0361,AI/ML Developer,Pending
+T0640,ST1118,Data Analyst,Rejected
+T0641,ST1129,Full Stack Developer,Accepted
+T0641,ST0543,Full Stack Developer,Accepted
+T0641,ST0336,Data Analyst,Pending
+T0641,ST0839,Data Scientist,Rejected
+T0642,ST1085,AI/ML Developer,Accepted
+T0642,ST0226,Data Scientist,Accepted
+T0642,ST0437,Data Scientist,Accepted
+T0642,ST0951,Full Stack Developer,Pending
+T0643,ST0126,DevOps,Accepted
+T0643,ST0419,DevOps,Accepted
+T0643,ST0726,DevOps,Accepted
+T0643,ST1179,Cloud Developer,Rejected
+T0643,ST1155,AI/ML Developer,Pending
+T0644,ST0860,Backend Developer,Accepted
+T0644,ST0706,AI/ML Developer,Accepted
+T0644,ST0293,UI/UX Designer,Accepted
+T0644,ST0036,IoT Developer,Rejected
+T0645,ST0789,Full Stack Developer,Accepted
+T0645,ST0219,Backend Developer,Accepted
+T0645,ST1129,Full Stack Developer,Accepted
+T0645,ST1046,AI/ML Developer,Rejected
+T0645,ST0403,UI/UX Designer,Rejected
+T0646,ST0287,AI/ML Developer,Accepted
+T0646,ST0515,UI/UX Designer,Pending
+T0646,ST0140,Cloud Developer,Rejected
+T0647,ST0850,Backend Developer,Accepted
+T0647,ST1135,Backend Developer,Accepted
+T0647,ST0515,UI/UX Designer,Rejected
+T0647,ST0718,Data Scientist,Rejected
+T0648,ST0939,Backend Developer,Accepted
+T0648,ST1025,Full Stack Developer,Rejected
+T0649,ST0158,Full Stack Developer,Accepted
+T0649,ST0527,Full Stack Developer,Accepted
+T0649,ST0664,Data Scientist,Pending
+T0649,ST0118,IoT Developer,Pending
+T0649,ST1016,Frontend Developer,Rejected
+T0650,ST0183,IoT Developer,Accepted
+T0650,ST0686,IoT Developer,Accepted
+T0650,ST0932,UI/UX Designer,Pending
+T0651,ST0611,Cybersecurity,Accepted
+T0651,ST1112,Cybersecurity,Accepted
+T0651,ST0207,Data Analyst,Rejected
+T0652,ST0643,Frontend Developer,Accepted
+T0652,ST0201,Blockchain Developer,Accepted
+T0652,ST0522,Cloud Developer,Pending
+T0653,ST0074,IoT Developer,Accepted
+T0653,ST0691,Cloud Developer,Rejected
+T0653,ST0924,UI/UX Designer,Pending
+T0653,ST0137,Backend Developer,Rejected
+T0654,ST0283,IoT Developer,Accepted
+T0654,ST0261,Full Stack Developer,Accepted
+T0654,ST0158,Full Stack Developer,Accepted
+T0654,ST1108,Backend Developer,Rejected
+T0654,ST0959,IoT Developer,Pending
+T0655,ST0911,Full Stack Developer,Accepted
+T0655,ST0738,Full Stack Developer,Accepted
+T0655,ST0430,Backend Developer,Accepted
+T0655,ST0114,Full Stack Developer,Accepted
+T0655,ST0462,Frontend Developer,Accepted
+T0655,ST0505,Backend Developer,Accepted
+T0655,ST0596,UI/UX Designer,Rejected
+T0655,ST0582,Data Analyst,Pending
+T0655,ST1038,AI/ML Developer,Pending
+T0656,ST0114,Full Stack Developer,Accepted
+T0656,ST0426,Full Stack Developer,Accepted
+T0656,ST0984,Data Analyst,Rejected
+T0657,ST0202,Data Scientist,Accepted
+T0657,ST1103,DevOps,Pending
+T0657,ST0683,Frontend Developer,Pending
+T0657,ST1117,Full Stack Developer,Pending
+T0658,ST0811,DevOps,Accepted
+T0658,ST0726,DevOps,Accepted
+T0658,ST0378,DevOps,Accepted
+T0658,ST0912,DevOps,Accepted
+T0658,ST0916,Cloud Developer,Pending
+T0658,ST0628,Data Analyst,Rejected
+T0658,ST0688,UI/UX Designer,Rejected
+T0659,ST0119,Backend Developer,Accepted
+T0659,ST1129,Full Stack Developer,Rejected
+T0660,ST0648,Backend Developer,Accepted
+T0660,ST0661,Frontend Developer,Rejected
+T0660,ST1180,IoT Developer,Rejected
+T0660,ST0447,Cybersecurity,Rejected
+T0661,ST0332,AI/ML Developer,Accepted
+T0661,ST0040,AI/ML Developer,Accepted
+T0661,ST0902,AI/ML Developer,Accepted
+T0661,ST0706,AI/ML Developer,Accepted
+T0661,ST1028,Data Scientist,Pending
+T0661,ST0599,UI/UX Designer,Rejected
+T0661,ST0790,AI/ML Developer,Pending
+T0662,ST0291,Backend Developer,Accepted
+T0662,ST0651,Backend Developer,Accepted
+T0662,ST0302,Backend Developer,Accepted
+T0662,ST0556,Cybersecurity,Accepted
+T0662,ST1031,Frontend Developer,Pending
+T0662,ST1161,Backend Developer,Pending
+T0663,ST0848,Backend Developer,Accepted
+T0663,ST1089,Full Stack Developer,Pending
+T0663,ST0640,Blockchain Developer,Pending
+T0664,ST0991,Full Stack Developer,Accepted
+T0664,ST1182,Full Stack Developer,Accepted
+T0664,ST0802,AI/ML Developer,Pending
+T0665,ST0074,IoT Developer,Accepted
+T0665,ST0612,IoT Developer,Accepted
+T0665,ST0921,DevOps,Pending
+T0665,ST0009,Frontend Developer,Pending
+T0665,ST1192,AI/ML Developer,Pending
+T0666,ST0407,Cybersecurity,Accepted
+T0666,ST0625,Cybersecurity,Accepted
+T0666,ST0634,Android Developer,Pending
+T0666,ST0145,Frontend Developer,Rejected
+T0667,ST1110,Blockchain Developer,Accepted
+T0667,ST0306,Data Scientist,Pending
+T0667,ST0892,AI/ML Developer,Rejected
+T0667,ST1033,Frontend Developer,Pending
+T0668,ST0475,IoT Developer,Accepted
+T0668,ST0241,IoT Developer,Accepted
+T0668,ST0566,IoT Developer,Accepted
+T0668,ST1180,IoT Developer,Accepted
+T0668,ST1151,IoT Developer,Accepted
+T0668,ST0532,IoT Developer,Accepted
+T0668,ST1199,Cloud Developer,Pending
+T0669,ST0911,Full Stack Developer,Accepted
+T0669,ST0047,IoT Developer,Accepted
+T0669,ST1048,Blockchain Developer,Rejected
+T0670,ST0192,Data Analyst,Accepted
+T0670,ST0160,Data Analyst,Accepted
+T0670,ST1017,Data Analyst,Accepted
+T0670,ST0612,IoT Developer,Accepted
+T0670,ST0464,IoT Developer,Rejected
+T0670,ST0411,Blockchain Developer,Pending
+T0670,ST0101,Frontend Developer,Pending
+T0671,ST0991,Full Stack Developer,Accepted
+T0671,ST0277,Full Stack Developer,Accepted
+T0671,ST0114,Full Stack Developer,Accepted
+T0671,ST0356,Full Stack Developer,Rejected
+T0671,ST0675,Data Scientist,Rejected
+T0672,ST0179,Data Scientist,Accepted
+T0672,ST1081,Data Scientist,Accepted
+T0672,ST0113,Data Scientist,Accepted
+T0672,ST1168,Data Analyst,Accepted
+T0672,ST1132,Data Scientist,Accepted
+T0672,ST0782,Data Scientist,Rejected
+T0672,ST0497,Android Developer,Rejected
+T0673,ST0933,DevOps,Accepted
+T0673,ST0819,Android Developer,Pending
+T0673,ST0655,Full Stack Developer,Rejected
+T0674,ST0903,UI/UX Designer,Accepted
+T0674,ST0793,Data Analyst,Accepted
+T0674,ST1129,Full Stack Developer,Accepted
+T0674,ST0318,Cloud Developer,Accepted
+T0674,ST0071,Data Scientist,Rejected
+T0674,ST0060,Cybersecurity,Rejected
+T0675,ST0207,Data Analyst,Accepted
+T0675,ST1191,Data Scientist,Accepted
+T0675,ST0376,Data Scientist,Rejected
+T0676,ST0581,Data Scientist,Accepted
+T0676,ST0614,AI/ML Developer,Accepted
+T0676,ST0118,IoT Developer,Pending
+T0677,ST0848,Backend Developer,Accepted
+T0677,ST1190,Android Developer,Rejected
+T0677,ST1177,UI/UX Designer,Pending
+T0677,ST0761,Cloud Developer,Pending
+T0678,ST0781,Frontend Developer,Accepted
+T0678,ST1022,Android Developer,Pending
+T0678,ST1174,UI/UX Designer,Rejected
+T0678,ST0097,Cybersecurity,Pending
+T0679,ST0433,Full Stack Developer,Accepted
+T0679,ST0651,Backend Developer,Rejected
+T0679,ST0958,Full Stack Developer,Pending
+T0680,ST0047,IoT Developer,Accepted
+T0680,ST0390,IoT Developer,Accepted
+T0680,ST0649,IoT Developer,Accepted
+T0680,ST1164,IoT Developer,Accepted
+T0680,ST0960,Frontend Developer,Rejected
+T0680,ST0622,Full Stack Developer,Rejected
+T0681,ST0659,Cybersecurity,Accepted
+T0681,ST0862,AI/ML Developer,Pending
+T0681,ST1173,UI/UX Designer,Rejected
+T0681,ST0878,IoT Developer,Pending
+T0682,ST0029,Blockchain Developer,Accepted
+T0682,ST0715,Blockchain Developer,Accepted
+T0682,ST0992,Blockchain Developer,Accepted
+T0682,ST0099,Blockchain Developer,Accepted
+T0682,ST0473,IoT Developer,Rejected
+T0682,ST1131,Frontend Developer,Rejected
+T0683,ST0612,IoT Developer,Accepted
+T0683,ST1134,IoT Developer,Accepted
+T0683,ST1037,Frontend Developer,Rejected
+T0683,ST0280,Cloud Developer,Pending
+T0684,ST0991,Full Stack Developer,Accepted
+T0684,ST0579,AI/ML Developer,Accepted
+T0684,ST1173,UI/UX Designer,Pending
+T0685,ST0461,IoT Developer,Accepted
+T0685,ST0205,IoT Developer,Accepted
+T0685,ST0374,Backend Developer,Pending
+T0685,ST0516,Blockchain Developer,Rejected
+T0685,ST0505,Backend Developer,Pending
+T0686,ST0543,Full Stack Developer,Accepted
+T0686,ST1141,Full Stack Developer,Accepted
+T0686,ST0991,Full Stack Developer,Accepted
+T0686,ST1011,Full Stack Developer,Accepted
+T0686,ST0297,Full Stack Developer,Pending
+T0686,ST0063,Full Stack Developer,Pending
+T0687,ST0645,Data Scientist,Accepted
+T0687,ST0306,Data Scientist,Accepted
+T0687,ST0641,Data Scientist,Accepted
+T0687,ST0608,AI/ML Developer,Accepted
+T0687,ST0198,Cloud Developer,Pending
+T0687,ST0820,DevOps,Rejected
+T0687,ST0020,Data Scientist,Rejected
+T0688,ST0616,DevOps,Accepted
+T0688,ST0419,DevOps,Accepted
+T0688,ST1155,AI/ML Developer,Pending
+T0688,ST0718,Data Scientist,Rejected
+T0688,ST0468,Cybersecurity,Pending
+T0689,ST1170,UI/UX Designer,Accepted
+T0689,ST0852,Full Stack Developer,Accepted
+T0689,ST0598,IoT Developer,Rejected
+T0690,ST0916,Cloud Developer,Accepted
+T0690,ST0289,Frontend Developer,Accepted
+T0690,ST0135,Frontend Developer,Accepted
+T0690,ST0800,Full Stack Developer,Accepted
+T0690,ST0322,DevOps,Accepted
+T0690,ST0835,Frontend Developer,Pending
+T0690,ST0357,Android Developer,Rejected
+T0691,ST0202,Data Scientist,Accepted
+T0691,ST0539,AI/ML Developer,Accepted
+T0691,ST0453,AI/ML Developer,Accepted
+T0691,ST0585,IoT Developer,Rejected
+T0691,ST0357,Android Developer,Pending
+T0691,ST0224,Blockchain Developer,Rejected
+T0692,ST1135,Backend Developer,Accepted
+T0692,ST1116,Backend Developer,Accepted
+T0692,ST0505,Backend Developer,Accepted
+T0692,ST0852,Full Stack Developer,Accepted
+T0692,ST0372,Cybersecurity,Accepted
+T0692,ST0727,Cybersecurity,Rejected
+T0693,ST1019,Backend Developer,Accepted
+T0693,ST0202,Data Scientist,Pending
+T0693,ST1151,IoT Developer,Pending
+T0693,ST0300,Backend Developer,Rejected
+T0694,ST0426,Full Stack Developer,Accepted
+T0694,ST0410,UI/UX Designer,Rejected
+T0695,ST1164,IoT Developer,Accepted
+T0695,ST0047,IoT Developer,Accepted
+T0695,ST0368,IoT Developer,Accepted
+T0695,ST0878,IoT Developer,Accepted
+T0695,ST0642,UI/UX Designer,Pending
+T0695,ST0228,Android Developer,Rejected
+T0696,ST0213,Cybersecurity,Accepted
+T0696,ST0771,Cybersecurity,Accepted
+T0696,ST0307,Cybersecurity,Accepted
+T0696,ST0406,UI/UX Designer,Pending
+T0696,ST0731,Cloud Developer,Pending
+T0697,ST0520,Blockchain Developer,Accepted
+T0697,ST1048,Blockchain Developer,Accepted
+T0697,ST1123,Cloud Developer,Pending
+T0698,ST0591,Data Analyst,Accepted
+T0698,ST1007,Data Analyst,Accepted
+T0698,ST0329,DevOps,Accepted
+T0698,ST0893,Blockchain Developer,Accepted
+T0698,ST0036,IoT Developer,Accepted
+T0698,ST0844,Full Stack Developer,Pending
+T0699,ST0208,UI/UX Designer,Accepted
+T0699,ST0759,IoT Developer,Accepted
+T0699,ST1060,Cloud Developer,Rejected
+T0700,ST0261,Full Stack Developer,Accepted
+T0700,ST0237,Android Developer,Rejected
+T0700,ST1052,AI/ML Developer,Rejected
+T0700,ST1121,Cybersecurity,Pending
+T0701,ST0135,Frontend Developer,Accepted
+T0701,ST0277,Full Stack Developer,Accepted
+T0701,ST0708,Data Scientist,Pending
+T0701,ST0210,DevOps,Rejected
+T0701,ST1168,Data Analyst,Pending
+T0702,ST0660,Data Scientist,Accepted
+T0702,ST0793,Data Analyst,Rejected
+T0702,ST0657,Cloud Developer,Pending
+T0703,ST0019,Cloud Developer,Accepted
+T0703,ST0443,DevOps,Accepted
+T0703,ST0719,DevOps,Accepted
+T0703,ST0704,Data Analyst,Rejected
+T0703,ST0590,Frontend Developer,Pending
+T0704,ST0663,Backend Developer,Accepted
+T0704,ST0563,Cybersecurity,Rejected
+T0705,ST1091,AI/ML Developer,Accepted
+T0705,ST1109,Data Analyst,Accepted
+T0705,ST0352,AI/ML Developer,Accepted
+T0705,ST0315,Data Scientist,Rejected
+T0705,ST0775,Cloud Developer,Pending
+T0705,ST0885,Data Scientist,Rejected
+T0706,ST1091,AI/ML Developer,Accepted
+T0706,ST0949,Data Scientist,Accepted
+T0706,ST0072,AI/ML Developer,Accepted
+T0706,ST0877,AI/ML Developer,Pending
+T0707,ST0137,Backend Developer,Accepted
+T0707,ST0267,UI/UX Designer,Pending
+T0707,ST0859,Frontend Developer,Rejected
+T0708,ST0300,Backend Developer,Accepted
+T0708,ST1077,Backend Developer,Accepted
+T0708,ST0047,IoT Developer,Pending
+T0708,ST0209,Android Developer,Pending
+T0709,ST1135,Backend Developer,Accepted
+T0709,ST1163,Backend Developer,Accepted
+T0709,ST0311,Blockchain Developer,Pending
+T0709,ST1107,Backend Developer,Rejected
+T0709,ST1032,Data Scientist,Rejected
+T0710,ST0768,IoT Developer,Accepted
+T0710,ST0026,UI/UX Designer,Rejected
+T0710,ST0257,Cloud Developer,Pending
+T0710,ST0638,Blockchain Developer,Pending
+T0711,ST0771,Cybersecurity,Accepted
+T0711,ST1121,Cybersecurity,Accepted
+T0711,ST0786,Cybersecurity,Accepted
+T0711,ST0032,Android Developer,Rejected
+T0711,ST1186,Backend Developer,Rejected
+T0712,ST0520,Blockchain Developer,Accepted
+T0712,ST0758,UI/UX Designer,Rejected
+T0712,ST0956,Data Analyst,Pending
+T0712,ST0229,DevOps,Pending
+T0713,ST0048,IoT Developer,Accepted
+T0713,ST0759,IoT Developer,Pending
+T0713,ST0608,AI/ML Developer,Pending
+T0713,ST0481,Full Stack Developer,Pending
+T0714,ST0571,Frontend Developer,Accepted
+T0714,ST0410,UI/UX Designer,Rejected
+T0714,ST0442,DevOps,Rejected
+T0715,ST0261,Full Stack Developer,Accepted
+T0715,ST0436,AI/ML Developer,Accepted
+T0715,ST0459,Cloud Developer,Accepted
+T0715,ST0927,IoT Developer,Accepted
+T0715,ST0495,Blockchain Developer,Rejected
+T0715,ST0331,Data Scientist,Pending
+T0715,ST0791,Blockchain Developer,Pending
+T0716,ST0720,Frontend Developer,Accepted
+T0716,ST0397,Frontend Developer,Accepted
+T0716,ST0158,Full Stack Developer,Accepted
+T0716,ST0528,Blockchain Developer,Rejected
+T0716,ST0806,Android Developer,Rejected
+T0717,ST0949,Data Scientist,Accepted
+T0717,ST1081,Data Scientist,Accepted
+T0717,ST0260,Data Scientist,Accepted
+T0717,ST0907,Data Scientist,Rejected
+T0717,ST0179,Data Scientist,Pending
+T0717,ST1031,Frontend Developer,Pending
+T0718,ST0221,DevOps,Accepted
+T0718,ST1008,Cybersecurity,Rejected
+T0719,ST0815,AI/ML Developer,Accepted
+T0719,ST1106,Backend Developer,Accepted
+T0719,ST0097,Cybersecurity,Accepted
+T0719,ST0491,Android Developer,Pending
+T0719,ST0538,Backend Developer,Rejected
+T0720,ST0789,Full Stack Developer,Accepted
+T0720,ST0723,Full Stack Developer,Pending

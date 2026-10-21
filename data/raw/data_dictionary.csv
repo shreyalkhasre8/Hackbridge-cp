@@ -1,0 +1,95 @@
+file_name,column_name,data_type,primary_key,foreign_key,nullable,description
+colleges.csv,college_id,string,Yes,,No,College identifier.
+colleges.csv,college_name,string,No,,No,Fictional engineering college name; no real affiliation implied.
+colleges.csv,city,string,No,,No,College or event city; students use college city.
+colleges.csv,state,string,No,,No,Indian state or union territory corresponding to city.
+colleges.csv,college_type,string,No,,No,"Private, Government or Autonomous; simplified institutional classification."
+skills.csv,skill_id,string,Yes,,No,Unique technical skill identifier.
+skills.csv,skill_name,string,No,,No,Canonical case-sensitive skill name.
+skills.csv,skill_category,string,No,,No,Technical skill category.
+students.csv,student_id,string,Yes,,No,Unique synthetic student identifier.
+students.csv,student_name,string,No,,No,Fictional Indian-style full name; not a real identity.
+students.csv,college_id,string,No,colleges.college_id,No,College identifier.
+students.csv,branch,string,No,,No,Engineering degree branch.
+students.csv,year,integer,No,,No,"Current study year, 1 to 4."
+students.csv,cgpa,decimal,No,,No,Current CGPA on a 10-point scale.
+students.csv,city,string,No,,No,College or event city; students use college city.
+students.csv,state,string,No,,No,Indian state or union territory corresponding to city.
+students.csv,primary_role,string,No,,No,Preferred technical contribution role.
+students.csv,experience_level,string,No,,No,Latent technical proficiency category; not inferred solely from participation count.
+students.csv,hackathons_participated,integer,No,,No,Count of student rows in hackathon_participation; historical events only.
+students.csv,hackathons_won,integer,No,,No,Count of historical Winner outcomes.
+students.csv,projects_completed,integer,No,,No,Count of Completed project records.
+students.csv,github_available,integer,No,,No,1 if a GitHub profile is available; otherwise 0.
+students.csv,portfolio_available,integer,No,,No,1 if a portfolio is available; otherwise 0.
+students.csv,preferred_team_size,integer,No,,No,"Preferred number of accepted members, 3 to 6."
+students.csv,availability_hours_per_week,integer,No,,No,Estimated weekly hours available for collaboration.
+student_skills.csv,student_id,string,Yes,students.student_id,No,Unique synthetic student identifier.
+student_skills.csv,skill_id,string,Yes,skills.skill_id,No,Unique technical skill identifier.
+student_skills.csv,proficiency_level,string,No,,No,"Beginner, Intermediate, Advanced or Expert."
+student_skills.csv,experience_months,integer,No,,No,Months of experience with this skill.
+hackathons.csv,hackathon_id,string,Yes,,No,Unique hackathon identifier.
+hackathons.csv,hackathon_name,string,No,,No,Fictional event name.
+hackathons.csv,organizer,string,No,,No,Fictional organizing body.
+hackathons.csv,mode,string,No,,No,"Online, Offline or Hybrid."
+hackathons.csv,city,string,No,,No,College or event city; students use college city.
+hackathons.csv,state,string,No,,No,Indian state or union territory corresponding to city.
+hackathons.csv,domain,string,No,,No,Canonical hackathon domain.
+hackathons.csv,difficulty_level,string,No,,No,"Beginner, Intermediate or Advanced."
+hackathons.csv,team_min_size,integer,No,,No,Minimum permitted accepted team members.
+hackathons.csv,team_max_size,integer,No,,No,Maximum permitted accepted team members.
+hackathons.csv,registration_deadline,date,No,,No,"Registration closing date, ISO YYYY-MM-DD, seven days before start."
+hackathons.csv,start_date,date,No,,No,"Event start date, ISO YYYY-MM-DD."
+hackathons.csv,end_date,date,No,,No,"Event end date, ISO YYYY-MM-DD."
+hackathons.csv,prize_pool,integer,No,,No,Total nominal prize pool in Indian rupees (INR).
+hackathons.csv,experience_required,string,No,,No,Required technical experience tier.
+hackathon_required_skills.csv,hackathon_id,string,Yes,hackathons.hackathon_id,No,Unique hackathon identifier.
+hackathon_required_skills.csv,skill_id,string,Yes,skills.skill_id,No,Unique technical skill identifier.
+hackathon_required_skills.csv,importance_weight,integer,No,,No,"Required skill importance, integer 1 to 5."
+projects.csv,project_id,string,Yes,,No,Unique project identifier.
+projects.csv,student_id,string,No,students.student_id,No,Unique synthetic student identifier.
+projects.csv,project_title,string,No,,No,"Synthetic project title; unique identity is project_id, not title."
+projects.csv,project_domain,string,No,,No,Canonical project domain.
+projects.csv,technology_stack,string,No,,Yes,Semicolon-separated skill names actually present in the owner skill profile; empty for missing-skill profiles.
+projects.csv,difficulty_level,string,No,,No,"Beginner, Intermediate or Advanced."
+projects.csv,project_status,string,No,,No,Completed or Ongoing.
+teams.csv,team_id,string,Yes,,No,Unique team identifier; team roster belongs to one event.
+teams.csv,team_name,string,No,,No,Fictional unique team display name.
+teams.csv,leader_student_id,string,No,students.student_id,No,Student identifier of an accepted team member who leads the team.
+teams.csv,hackathon_id,string,No,hackathons.hackathon_id,No,Unique hackathon identifier.
+teams.csv,team_size,integer,No,,No,Count of Accepted membership rows only; excludes Pending and Rejected.
+teams.csv,team_status,string,No,,No,"Forming, Complete, Registered, Participated, Finalist or Winner; Runner-up maps to Finalist."
+teams.csv,experience_score,decimal,No,,No,"Mean member latent technical ability times 100; synthetic feature, not an observed assessment."
+teams.csv,skill_diversity_score,decimal,No,,No,"Number of distinct accepted-member skill categories divided by 10, capped at 100."
+team_members.csv,team_id,string,Yes,teams.team_id,No,Unique team identifier; team roster belongs to one event.
+team_members.csv,student_id,string,Yes,students.student_id,No,Unique synthetic student identifier.
+team_members.csv,assigned_role,string,No,,No,"Member technical role, consistent with student primary_role."
+team_members.csv,join_status,string,No,,No,"Pending, Accepted or Rejected; pending/rejected are applications only."
+hackathon_participation.csv,participation_id,string,Yes,,No,Unique student-event-team participation identifier.
+hackathon_participation.csv,student_id,string,No,students.student_id,No,Unique synthetic student identifier.
+hackathon_participation.csv,hackathon_id,string,No,hackathons.hackathon_id,No,Unique hackathon identifier.
+hackathon_participation.csv,team_id,string,No,teams.team_id,No,Unique team identifier; team roster belongs to one event.
+hackathon_participation.csv,role,string,No,,No,Technical contribution role during the event.
+hackathon_participation.csv,result,string,No,,No,"Participant, Shortlisted, Finalist, Runner-up or Winner; team members share the outcome."
+hackathon_participation.csv,performance_score,decimal,No,,No,"Synthetic team performance 0 to 100 from skill coverage, ability and Gaussian noise; shared by team members."
+mentors.csv,mentor_id,string,Yes,,No,Unique mentor identifier.
+mentors.csv,mentor_name,string,No,,No,Fictional Indian-style mentor name.
+mentors.csv,specialization,string,No,,No,Primary expertise domain from hackathon domain vocabulary.
+mentors.csv,years_of_experience,integer,No,,No,"Professional experience, 3 to 20 years."
+mentors.csv,industry,string,No,,No,Broad professional industry.
+mentors.csv,max_teams,integer,No,,No,Maximum simultaneously assigned current teams.
+mentors.csv,rating,decimal,No,,No,Synthetic mentor rating on a 5-point scale.
+mentor_skills.csv,mentor_id,string,Yes,mentors.mentor_id,No,Unique mentor identifier.
+mentor_skills.csv,skill_id,string,Yes,skills.skill_id,No,Unique technical skill identifier.
+mentor_skills.csv,proficiency_score,integer,No,,No,"Mentor skill proficiency, integer 1 to 10."
+team_mentor_mapping.csv,team_id,string,Yes,teams.team_id,No,Unique team identifier; team roster belongs to one event.
+team_mentor_mapping.csv,mentor_id,string,Yes,mentors.mentor_id,No,Unique mentor identifier.
+team_mentor_mapping.csv,mentor_team_match_score,decimal,No,,No,0 to 100: 65% weighted required-skill proficiency + 25% domain fit + 10% rating normalized to 100.
+team_hackathon_compatibility.csv,team_id,string,Yes,teams.team_id,No,Unique team identifier; team roster belongs to one event.
+team_hackathon_compatibility.csv,hackathon_id,string,Yes,hackathons.hackathon_id,No,Unique hackathon identifier.
+team_hackathon_compatibility.csv,skill_match_percentage,decimal,No,,No,"Weighted required-skill coverage using strongest accepted member per skill; Beginner=.25, Intermediate=.5, Advanced=.8, Expert=1; absent=0."
+team_hackathon_compatibility.csv,experience_match_percentage,integer,No,,No,"100*team experience_score/required threshold; capped at 100; thresholds 25, 50, 75."
+team_hackathon_compatibility.csv,domain_match_percentage,integer,No,,No,"Mean member fraction of projects in the candidate event domain, multiplied by 100; no projects=0."
+team_hackathon_compatibility.csv,team_completeness_percentage,integer,No,,No,"100*accepted size/minimum for undersized teams, capped at 100; oversized teams use 100*maximum/size."
+team_hackathon_compatibility.csv,overall_compatibility_score,decimal,No,,No,Rounded to two decimals: .45*skill + .20*experience + .20*domain + .15*completeness.
+team_hackathon_compatibility.csv,recommended,integer,No,,No,"1 if rounded overall_compatibility_score >=70, else 0; rule label, not a real preference."

@@ -1,0 +1,181 @@
+hackathon_id,hackathon_name,organizer,mode,city,state,domain,difficulty_level,team_min_size,team_max_size,registration_deadline,start_date,end_date,prize_pool,experience_required
+H001,AI/ML Sprint 001,Pune Innovation Collective 1,Offline,Pune,Maharashtra,AI/ML,Intermediate,3,5,2025-02-03,2025-02-10,2025-02-12,100000,Intermediate
+H002,FinTech Sprint 002,Ahmedabad Innovation Collective 2,Hybrid,Ahmedabad,Gujarat,FinTech,Beginner,3,5,2025-02-08,2025-02-15,2025-02-17,500000,Beginner
+H003,HealthTech Sprint 003,Bhubaneswar Innovation Collective 3,Online,Bhubaneswar,Odisha,HealthTech,Intermediate,3,4,2025-02-13,2025-02-20,2025-02-22,25000,Intermediate
+H004,EdTech Sprint 004,Bhubaneswar Innovation Collective 4,Offline,Bhubaneswar,Odisha,EdTech,Advanced,3,5,2025-02-18,2025-02-25,2025-02-27,50000,Advanced
+H005,Agriculture Sprint 005,Surat Innovation Collective 5,Online,Surat,Gujarat,Agriculture,Intermediate,3,4,2025-02-23,2025-03-02,2025-03-04,50000,Intermediate
+H006,Cybersecurity Buildathon 006,Bhubaneswar Innovation Collective 6,Hybrid,Bhubaneswar,Odisha,Cybersecurity,Advanced,3,6,2025-02-28,2025-03-07,2025-03-09,500000,Advanced
+H007,Blockchain Innovation Jam 007,Coimbatore Innovation Collective 7,Online,Coimbatore,Tamil Nadu,Blockchain,Intermediate,3,6,2025-03-05,2025-03-12,2025-03-14,50000,Intermediate
+H008,IoT Buildathon 008,Dehradun Innovation Collective 8,Online,Dehradun,Uttarakhand,IoT,Intermediate,3,6,2025-03-10,2025-03-17,2025-03-19,100000,Intermediate
+H009,Smart Cities Challenge 009,Jammu Innovation Collective 1,Online,Jammu,Jammu and Kashmir,Smart Cities,Advanced,3,4,2025-03-15,2025-03-22,2025-03-24,100000,Advanced
+H010,Sustainability Challenge 010,Jammu Innovation Collective 2,Hybrid,Jammu,Jammu and Kashmir,Sustainability,Intermediate,3,4,2025-03-20,2025-03-27,2025-03-29,100000,Intermediate
+H011,Web Development Innovation Jam 011,Delhi Innovation Collective 3,Online,Delhi,Delhi,Web Development,Beginner,3,4,2025-03-25,2025-04-01,2025-04-03,200000,Beginner
+H012,Data Science Innovation Jam 012,Ahmedabad Innovation Collective 4,Hybrid,Ahmedabad,Gujarat,Data Science,Intermediate,3,5,2025-03-30,2025-04-06,2025-04-08,500000,Intermediate
+H013,Cloud Computing Challenge 013,Visakhapatnam Innovation Collective 5,Online,Visakhapatnam,Andhra Pradesh,Cloud Computing,Intermediate,3,6,2025-04-04,2025-04-11,2025-04-13,500000,Intermediate
+H014,Social Impact Challenge 014,Lucknow Innovation Collective 6,Hybrid,Lucknow,Uttar Pradesh,Social Impact,Intermediate,3,5,2025-04-09,2025-04-16,2025-04-18,50000,Intermediate
+H015,Open Innovation Sprint 015,Mysuru Innovation Collective 7,Online,Mysuru,Karnataka,Open Innovation,Intermediate,3,5,2025-04-14,2025-04-21,2025-04-23,100000,Intermediate
+H016,AI/ML Innovation Jam 016,Delhi Innovation Collective 8,Online,Delhi,Delhi,AI/ML,Intermediate,3,4,2025-04-19,2025-04-26,2025-04-28,50000,Intermediate
+H017,FinTech Sprint 017,Surat Innovation Collective 1,Online,Surat,Gujarat,FinTech,Intermediate,3,6,2025-04-24,2025-05-01,2025-05-03,25000,Intermediate
+H018,HealthTech Sprint 018,Guwahati Innovation Collective 2,Hybrid,Guwahati,Assam,HealthTech,Intermediate,3,5,2025-04-29,2025-05-06,2025-05-08,100000,Intermediate
+H019,EdTech Sprint 019,Pune Innovation Collective 3,Offline,Pune,Maharashtra,EdTech,Intermediate,3,4,2025-05-04,2025-05-11,2025-05-13,25000,Intermediate
+H020,Agriculture Innovation Jam 020,Panaji Innovation Collective 4,Hybrid,Panaji,Goa,Agriculture,Beginner,3,6,2025-05-09,2025-05-16,2025-05-18,500000,Beginner
+H021,Cybersecurity Buildathon 021,Kolkata Innovation Collective 5,Hybrid,Kolkata,West Bengal,Cybersecurity,Advanced,3,4,2025-05-14,2025-05-21,2025-05-23,500000,Advanced
+H022,Blockchain Innovation Jam 022,Chandigarh Innovation Collective 6,Offline,Chandigarh,Chandigarh,Blockchain,Advanced,3,6,2025-05-19,2025-05-26,2025-05-28,200000,Advanced
+H023,IoT Buildathon 023,Patna Innovation Collective 7,Online,Patna,Bihar,IoT,Advanced,3,6,2025-05-24,2025-05-31,2025-06-02,500000,Advanced
+H024,Smart Cities Sprint 024,Jammu Innovation Collective 8,Offline,Jammu,Jammu and Kashmir,Smart Cities,Intermediate,3,6,2025-05-29,2025-06-05,2025-06-07,25000,Intermediate
+H025,Sustainability Challenge 025,Pune Innovation Collective 1,Online,Pune,Maharashtra,Sustainability,Intermediate,3,4,2025-06-03,2025-06-10,2025-06-12,100000,Intermediate
+H026,Web Development Challenge 026,Bhubaneswar Innovation Collective 2,Offline,Bhubaneswar,Odisha,Web Development,Intermediate,3,4,2025-06-08,2025-06-15,2025-06-17,500000,Intermediate
+H027,Data Science Innovation Jam 027,Jaipur Innovation Collective 3,Hybrid,Jaipur,Rajasthan,Data Science,Intermediate,3,6,2025-06-13,2025-06-20,2025-06-22,200000,Intermediate
+H028,Cloud Computing Sprint 028,Chandrapur Innovation Collective 4,Offline,Chandrapur,Maharashtra,Cloud Computing,Advanced,3,5,2025-06-18,2025-06-25,2025-06-27,25000,Advanced
+H029,Social Impact Buildathon 029,Chandigarh Innovation Collective 5,Offline,Chandigarh,Chandigarh,Social Impact,Intermediate,3,5,2025-06-23,2025-06-30,2025-07-02,50000,Intermediate
+H030,Open Innovation Sprint 030,Lucknow Innovation Collective 6,Hybrid,Lucknow,Uttar Pradesh,Open Innovation,Intermediate,3,6,2025-06-28,2025-07-05,2025-07-07,100000,Intermediate
+H031,AI/ML Buildathon 031,Guwahati Innovation Collective 7,Hybrid,Guwahati,Assam,AI/ML,Intermediate,3,4,2025-07-03,2025-07-10,2025-07-12,25000,Intermediate
+H032,FinTech Sprint 032,Chandrapur Innovation Collective 8,Hybrid,Chandrapur,Maharashtra,FinTech,Advanced,3,4,2025-07-08,2025-07-15,2025-07-17,50000,Advanced
+H033,HealthTech Buildathon 033,Nagpur Innovation Collective 1,Online,Nagpur,Maharashtra,HealthTech,Intermediate,3,5,2025-07-13,2025-07-20,2025-07-22,100000,Intermediate
+H034,EdTech Buildathon 034,Nagpur Innovation Collective 2,Hybrid,Nagpur,Maharashtra,EdTech,Intermediate,3,4,2025-07-18,2025-07-25,2025-07-27,100000,Intermediate
+H035,Agriculture Innovation Jam 035,Bhopal Innovation Collective 3,Offline,Bhopal,Madhya Pradesh,Agriculture,Advanced,3,6,2025-07-23,2025-07-30,2025-08-01,200000,Advanced
+H036,Cybersecurity Innovation Jam 036,Mumbai Innovation Collective 4,Online,Mumbai,Maharashtra,Cybersecurity,Intermediate,3,4,2025-07-28,2025-08-04,2025-08-06,500000,Intermediate
+H037,Blockchain Challenge 037,Chandigarh Innovation Collective 5,Hybrid,Chandigarh,Chandigarh,Blockchain,Intermediate,3,5,2025-08-02,2025-08-09,2025-08-11,50000,Intermediate
+H038,IoT Innovation Jam 038,Dehradun Innovation Collective 6,Hybrid,Dehradun,Uttarakhand,IoT,Intermediate,3,5,2025-08-07,2025-08-14,2025-08-16,500000,Intermediate
+H039,Smart Cities Sprint 039,Delhi Innovation Collective 7,Hybrid,Delhi,Delhi,Smart Cities,Beginner,3,6,2025-08-12,2025-08-19,2025-08-21,50000,Beginner
+H040,Sustainability Sprint 040,Guwahati Innovation Collective 8,Hybrid,Guwahati,Assam,Sustainability,Advanced,3,6,2025-08-17,2025-08-24,2025-08-26,500000,Advanced
+H041,Web Development Buildathon 041,Jammu Innovation Collective 1,Online,Jammu,Jammu and Kashmir,Web Development,Intermediate,3,4,2025-08-22,2025-08-29,2025-08-31,25000,Intermediate
+H042,Data Science Innovation Jam 042,Hyderabad Innovation Collective 2,Offline,Hyderabad,Telangana,Data Science,Intermediate,3,4,2025-08-27,2025-09-03,2025-09-05,500000,Intermediate
+H043,Cloud Computing Challenge 043,Ahmedabad Innovation Collective 3,Online,Ahmedabad,Gujarat,Cloud Computing,Intermediate,3,6,2025-09-01,2025-09-08,2025-09-10,100000,Intermediate
+H044,Social Impact Buildathon 044,Visakhapatnam Innovation Collective 4,Offline,Visakhapatnam,Andhra Pradesh,Social Impact,Beginner,3,4,2025-09-06,2025-09-13,2025-09-15,200000,Beginner
+H045,Open Innovation Innovation Jam 045,Jaipur Innovation Collective 5,Online,Jaipur,Rajasthan,Open Innovation,Intermediate,3,6,2025-09-11,2025-09-18,2025-09-20,25000,Intermediate
+H046,AI/ML Buildathon 046,Coimbatore Innovation Collective 6,Offline,Coimbatore,Tamil Nadu,AI/ML,Advanced,3,4,2025-09-16,2025-09-23,2025-09-25,50000,Advanced
+H047,FinTech Innovation Jam 047,Raipur Innovation Collective 7,Online,Raipur,Chhattisgarh,FinTech,Intermediate,3,4,2025-09-21,2025-09-28,2025-09-30,25000,Intermediate
+H048,HealthTech Innovation Jam 048,Indore Innovation Collective 8,Offline,Indore,Madhya Pradesh,HealthTech,Beginner,3,5,2025-09-26,2025-10-03,2025-10-05,200000,Beginner
+H049,EdTech Buildathon 049,Coimbatore Innovation Collective 1,Online,Coimbatore,Tamil Nadu,EdTech,Advanced,3,4,2025-10-01,2025-10-08,2025-10-10,25000,Advanced
+H050,Agriculture Sprint 050,Mumbai Innovation Collective 2,Offline,Mumbai,Maharashtra,Agriculture,Intermediate,3,4,2025-10-06,2025-10-13,2025-10-15,100000,Intermediate
+H051,Cybersecurity Challenge 051,Thiruvananthapuram Innovation Collective 3,Hybrid,Thiruvananthapuram,Kerala,Cybersecurity,Intermediate,3,6,2025-10-11,2025-10-18,2025-10-20,50000,Intermediate
+H052,Blockchain Innovation Jam 052,Chandigarh Innovation Collective 4,Offline,Chandigarh,Chandigarh,Blockchain,Intermediate,3,4,2025-10-16,2025-10-23,2025-10-25,25000,Intermediate
+H053,IoT Challenge 053,Pune Innovation Collective 5,Hybrid,Pune,Maharashtra,IoT,Advanced,3,4,2025-10-21,2025-10-28,2025-10-30,500000,Advanced
+H054,Smart Cities Challenge 054,Kochi Innovation Collective 6,Hybrid,Kochi,Kerala,Smart Cities,Advanced,3,5,2025-10-26,2025-11-02,2025-11-04,200000,Advanced
+H055,Sustainability Sprint 055,Panaji Innovation Collective 7,Offline,Panaji,Goa,Sustainability,Advanced,3,4,2025-10-31,2025-11-07,2025-11-09,100000,Advanced
+H056,Web Development Buildathon 056,Bhopal Innovation Collective 8,Online,Bhopal,Madhya Pradesh,Web Development,Intermediate,3,4,2025-11-05,2025-11-12,2025-11-14,200000,Intermediate
+H057,Data Science Sprint 057,Mysuru Innovation Collective 1,Hybrid,Mysuru,Karnataka,Data Science,Intermediate,3,5,2025-11-10,2025-11-17,2025-11-19,500000,Intermediate
+H058,Cloud Computing Sprint 058,Guwahati Innovation Collective 2,Online,Guwahati,Assam,Cloud Computing,Advanced,3,6,2025-11-15,2025-11-22,2025-11-24,50000,Advanced
+H059,Social Impact Innovation Jam 059,Ahmedabad Innovation Collective 3,Hybrid,Ahmedabad,Gujarat,Social Impact,Advanced,3,4,2025-11-20,2025-11-27,2025-11-29,500000,Advanced
+H060,Open Innovation Challenge 060,Warangal Innovation Collective 4,Offline,Warangal,Telangana,Open Innovation,Advanced,3,5,2025-11-25,2025-12-02,2025-12-04,100000,Advanced
+H061,AI/ML Challenge 061,Mysuru Innovation Collective 5,Offline,Mysuru,Karnataka,AI/ML,Advanced,3,6,2025-11-30,2025-12-07,2025-12-09,200000,Advanced
+H062,FinTech Challenge 062,Raipur Innovation Collective 6,Hybrid,Raipur,Chhattisgarh,FinTech,Intermediate,3,6,2025-12-05,2025-12-12,2025-12-14,500000,Intermediate
+H063,HealthTech Challenge 063,Hyderabad Innovation Collective 7,Offline,Hyderabad,Telangana,HealthTech,Advanced,3,4,2025-12-10,2025-12-17,2025-12-19,200000,Advanced
+H064,EdTech Challenge 064,Ahmedabad Innovation Collective 8,Online,Ahmedabad,Gujarat,EdTech,Intermediate,3,4,2025-12-15,2025-12-22,2025-12-24,100000,Intermediate
+H065,Agriculture Buildathon 065,Mysuru Innovation Collective 1,Online,Mysuru,Karnataka,Agriculture,Beginner,3,6,2025-12-20,2025-12-27,2025-12-29,25000,Beginner
+H066,Cybersecurity Buildathon 066,Bhubaneswar Innovation Collective 2,Hybrid,Bhubaneswar,Odisha,Cybersecurity,Intermediate,3,4,2025-12-25,2026-01-01,2026-01-03,50000,Intermediate
+H067,Blockchain Challenge 067,Surat Innovation Collective 3,Online,Surat,Gujarat,Blockchain,Advanced,3,4,2025-12-30,2026-01-06,2026-01-08,25000,Advanced
+H068,IoT Challenge 068,Chandigarh Innovation Collective 4,Online,Chandigarh,Chandigarh,IoT,Advanced,3,4,2026-01-04,2026-01-11,2026-01-13,50000,Advanced
+H069,Smart Cities Challenge 069,Pune Innovation Collective 5,Hybrid,Pune,Maharashtra,Smart Cities,Advanced,3,4,2026-01-09,2026-01-16,2026-01-18,50000,Advanced
+H070,Sustainability Buildathon 070,Visakhapatnam Innovation Collective 6,Hybrid,Visakhapatnam,Andhra Pradesh,Sustainability,Advanced,3,6,2026-01-14,2026-01-21,2026-01-23,50000,Advanced
+H071,Web Development Innovation Jam 071,Dehradun Innovation Collective 7,Hybrid,Dehradun,Uttarakhand,Web Development,Intermediate,3,6,2026-01-19,2026-01-26,2026-01-28,50000,Intermediate
+H072,Data Science Buildathon 072,Patna Innovation Collective 8,Offline,Patna,Bihar,Data Science,Beginner,3,6,2026-01-24,2026-01-31,2026-02-02,100000,Beginner
+H073,Cloud Computing Buildathon 073,Ahmedabad Innovation Collective 1,Hybrid,Ahmedabad,Gujarat,Cloud Computing,Beginner,3,6,2026-01-29,2026-02-05,2026-02-07,25000,Beginner
+H074,Social Impact Buildathon 074,Mysuru Innovation Collective 2,Online,Mysuru,Karnataka,Social Impact,Intermediate,3,6,2026-02-03,2026-02-10,2026-02-12,25000,Intermediate
+H075,Open Innovation Innovation Jam 075,Chennai Innovation Collective 3,Offline,Chennai,Tamil Nadu,Open Innovation,Intermediate,3,4,2026-02-08,2026-02-15,2026-02-17,100000,Intermediate
+H076,AI/ML Sprint 076,Panaji Innovation Collective 4,Hybrid,Panaji,Goa,AI/ML,Beginner,3,5,2026-02-13,2026-02-20,2026-02-22,100000,Beginner
+H077,FinTech Challenge 077,Kolkata Innovation Collective 5,Hybrid,Kolkata,West Bengal,FinTech,Advanced,3,4,2026-02-18,2026-02-25,2026-02-27,25000,Advanced
+H078,HealthTech Innovation Jam 078,Coimbatore Innovation Collective 6,Online,Coimbatore,Tamil Nadu,HealthTech,Intermediate,3,6,2026-02-23,2026-03-02,2026-03-04,200000,Intermediate
+H079,EdTech Innovation Jam 079,Guwahati Innovation Collective 7,Hybrid,Guwahati,Assam,EdTech,Advanced,3,5,2026-02-28,2026-03-07,2026-03-09,25000,Advanced
+H080,Agriculture Challenge 080,Chandigarh Innovation Collective 8,Offline,Chandigarh,Chandigarh,Agriculture,Intermediate,3,6,2026-03-05,2026-03-12,2026-03-14,50000,Intermediate
+H081,Cybersecurity Challenge 081,Chandrapur Innovation Collective 1,Online,Chandrapur,Maharashtra,Cybersecurity,Intermediate,3,4,2026-03-10,2026-03-17,2026-03-19,500000,Intermediate
+H082,Blockchain Buildathon 082,Visakhapatnam Innovation Collective 2,Offline,Visakhapatnam,Andhra Pradesh,Blockchain,Beginner,3,6,2026-03-15,2026-03-22,2026-03-24,25000,Beginner
+H083,IoT Challenge 083,Chennai Innovation Collective 3,Hybrid,Chennai,Tamil Nadu,IoT,Advanced,3,6,2026-03-20,2026-03-27,2026-03-29,200000,Advanced
+H084,Smart Cities Sprint 084,Dehradun Innovation Collective 4,Hybrid,Dehradun,Uttarakhand,Smart Cities,Advanced,3,5,2026-03-25,2026-04-01,2026-04-03,100000,Advanced
+H085,Sustainability Buildathon 085,Jaipur Innovation Collective 5,Hybrid,Jaipur,Rajasthan,Sustainability,Beginner,3,4,2026-03-30,2026-04-06,2026-04-08,100000,Beginner
+H086,Web Development Buildathon 086,Bhopal Innovation Collective 6,Hybrid,Bhopal,Madhya Pradesh,Web Development,Intermediate,3,4,2026-04-04,2026-04-11,2026-04-13,100000,Intermediate
+H087,Data Science Challenge 087,Patna Innovation Collective 7,Offline,Patna,Bihar,Data Science,Beginner,3,6,2026-04-09,2026-04-16,2026-04-18,500000,Beginner
+H088,Cloud Computing Innovation Jam 088,Delhi Innovation Collective 8,Offline,Delhi,Delhi,Cloud Computing,Advanced,3,6,2026-04-14,2026-04-21,2026-04-23,500000,Advanced
+H089,Social Impact Innovation Jam 089,Ranchi Innovation Collective 1,Online,Ranchi,Jharkhand,Social Impact,Advanced,3,4,2026-04-19,2026-04-26,2026-04-28,50000,Advanced
+H090,Open Innovation Buildathon 090,Mysuru Innovation Collective 2,Online,Mysuru,Karnataka,Open Innovation,Intermediate,3,5,2026-04-24,2026-05-01,2026-05-03,500000,Intermediate
+H091,AI/ML Sprint 091,Delhi Innovation Collective 3,Online,Delhi,Delhi,AI/ML,Intermediate,3,4,2026-04-29,2026-05-06,2026-05-08,500000,Intermediate
+H092,FinTech Sprint 092,Mumbai Innovation Collective 4,Offline,Mumbai,Maharashtra,FinTech,Beginner,3,4,2026-05-04,2026-05-11,2026-05-13,100000,Beginner
+H093,HealthTech Innovation Jam 093,Indore Innovation Collective 5,Offline,Indore,Madhya Pradesh,HealthTech,Intermediate,3,4,2026-05-09,2026-05-16,2026-05-18,200000,Intermediate
+H094,EdTech Challenge 094,Warangal Innovation Collective 6,Offline,Warangal,Telangana,EdTech,Advanced,3,6,2026-05-14,2026-05-21,2026-05-23,500000,Advanced
+H095,Agriculture Buildathon 095,Visakhapatnam Innovation Collective 7,Hybrid,Visakhapatnam,Andhra Pradesh,Agriculture,Intermediate,3,6,2026-05-19,2026-05-26,2026-05-28,500000,Intermediate
+H096,Cybersecurity Challenge 096,Chandrapur Innovation Collective 8,Offline,Chandrapur,Maharashtra,Cybersecurity,Intermediate,3,6,2026-05-24,2026-05-31,2026-06-02,500000,Intermediate
+H097,Blockchain Innovation Jam 097,Chennai Innovation Collective 1,Hybrid,Chennai,Tamil Nadu,Blockchain,Intermediate,3,5,2026-05-29,2026-06-05,2026-06-07,200000,Intermediate
+H098,IoT Buildathon 098,Pune Innovation Collective 2,Offline,Pune,Maharashtra,IoT,Beginner,3,4,2026-06-03,2026-06-10,2026-06-12,50000,Beginner
+H099,Smart Cities Challenge 099,Warangal Innovation Collective 3,Hybrid,Warangal,Telangana,Smart Cities,Intermediate,3,6,2026-06-08,2026-06-15,2026-06-17,25000,Intermediate
+H100,Sustainability Sprint 100,Delhi Innovation Collective 4,Offline,Delhi,Delhi,Sustainability,Beginner,3,5,2026-06-13,2026-06-20,2026-06-22,200000,Beginner
+H101,Web Development Sprint 101,Mumbai Innovation Collective 5,Hybrid,Mumbai,Maharashtra,Web Development,Beginner,3,6,2026-06-18,2026-06-25,2026-06-27,100000,Beginner
+H102,Data Science Buildathon 102,Panaji Innovation Collective 6,Online,Panaji,Goa,Data Science,Intermediate,3,6,2026-06-23,2026-06-30,2026-07-02,200000,Intermediate
+H103,Cloud Computing Buildathon 103,Raipur Innovation Collective 7,Online,Raipur,Chhattisgarh,Cloud Computing,Advanced,3,4,2026-06-28,2026-07-05,2026-07-07,100000,Advanced
+H104,Social Impact Sprint 104,Surat Innovation Collective 8,Online,Surat,Gujarat,Social Impact,Intermediate,3,5,2026-07-03,2026-07-10,2026-07-12,500000,Intermediate
+H105,Open Innovation Challenge 105,Patna Innovation Collective 1,Hybrid,Patna,Bihar,Open Innovation,Intermediate,3,5,2026-07-08,2026-07-15,2026-07-17,200000,Intermediate
+H106,AI/ML Challenge 106,Coimbatore Innovation Collective 2,Online,Coimbatore,Tamil Nadu,AI/ML,Advanced,3,4,2026-07-13,2026-07-20,2026-07-22,50000,Advanced
+H107,FinTech Challenge 107,Visakhapatnam Innovation Collective 3,Hybrid,Visakhapatnam,Andhra Pradesh,FinTech,Advanced,3,5,2026-07-18,2026-07-25,2026-07-27,500000,Advanced
+H108,HealthTech Challenge 108,Jammu Innovation Collective 4,Online,Jammu,Jammu and Kashmir,HealthTech,Advanced,3,6,2026-07-23,2026-07-30,2026-08-01,50000,Advanced
+H109,EdTech Sprint 109,Mysuru Innovation Collective 5,Online,Mysuru,Karnataka,EdTech,Intermediate,3,4,2026-07-28,2026-08-04,2026-08-06,50000,Intermediate
+H110,Agriculture Sprint 110,Indore Innovation Collective 6,Offline,Indore,Madhya Pradesh,Agriculture,Intermediate,3,5,2026-08-02,2026-08-09,2026-08-11,50000,Intermediate
+H111,Cybersecurity Challenge 111,Chennai Innovation Collective 7,Offline,Chennai,Tamil Nadu,Cybersecurity,Intermediate,3,4,2026-08-07,2026-08-14,2026-08-16,200000,Intermediate
+H112,Blockchain Buildathon 112,Jaipur Innovation Collective 8,Online,Jaipur,Rajasthan,Blockchain,Beginner,3,4,2026-08-12,2026-08-19,2026-08-21,500000,Beginner
+H113,IoT Challenge 113,Guwahati Innovation Collective 1,Online,Guwahati,Assam,IoT,Advanced,3,6,2026-08-17,2026-08-24,2026-08-26,100000,Advanced
+H114,Smart Cities Sprint 114,Guwahati Innovation Collective 2,Online,Guwahati,Assam,Smart Cities,Intermediate,3,4,2026-08-22,2026-08-29,2026-08-31,50000,Intermediate
+H115,Sustainability Sprint 115,Bhubaneswar Innovation Collective 3,Hybrid,Bhubaneswar,Odisha,Sustainability,Intermediate,3,6,2026-08-27,2026-09-03,2026-09-05,25000,Intermediate
+H116,Web Development Innovation Jam 116,Hyderabad Innovation Collective 4,Hybrid,Hyderabad,Telangana,Web Development,Intermediate,3,5,2026-09-01,2026-09-08,2026-09-10,50000,Intermediate
+H117,Data Science Challenge 117,Visakhapatnam Innovation Collective 5,Online,Visakhapatnam,Andhra Pradesh,Data Science,Advanced,3,5,2026-09-06,2026-09-13,2026-09-15,200000,Advanced
+H118,Cloud Computing Buildathon 118,Bhubaneswar Innovation Collective 6,Online,Bhubaneswar,Odisha,Cloud Computing,Beginner,3,4,2026-09-11,2026-09-18,2026-09-20,25000,Beginner
+H119,Social Impact Innovation Jam 119,Bengaluru Innovation Collective 7,Offline,Bengaluru,Karnataka,Social Impact,Advanced,3,6,2026-09-16,2026-09-23,2026-09-25,100000,Advanced
+H120,Open Innovation Challenge 120,Ahmedabad Innovation Collective 8,Hybrid,Ahmedabad,Gujarat,Open Innovation,Advanced,3,4,2026-09-21,2026-09-28,2026-09-30,25000,Advanced
+H121,AI/ML Innovation Jam 121,Jaipur Innovation Collective 1,Offline,Jaipur,Rajasthan,AI/ML,Advanced,3,5,2026-10-21,2026-10-28,2026-10-30,25000,Advanced
+H122,FinTech Buildathon 122,Mumbai Innovation Collective 2,Online,Mumbai,Maharashtra,FinTech,Advanced,3,4,2026-10-26,2026-11-02,2026-11-04,50000,Advanced
+H123,HealthTech Challenge 123,Surat Innovation Collective 3,Online,Surat,Gujarat,HealthTech,Intermediate,3,6,2026-10-31,2026-11-07,2026-11-09,25000,Intermediate
+H124,EdTech Buildathon 124,Jammu Innovation Collective 4,Offline,Jammu,Jammu and Kashmir,EdTech,Intermediate,3,5,2026-11-05,2026-11-12,2026-11-14,200000,Intermediate
+H125,Agriculture Challenge 125,Bhubaneswar Innovation Collective 5,Offline,Bhubaneswar,Odisha,Agriculture,Advanced,3,5,2026-11-10,2026-11-17,2026-11-19,500000,Advanced
+H126,Cybersecurity Challenge 126,Panaji Innovation Collective 6,Hybrid,Panaji,Goa,Cybersecurity,Advanced,3,5,2026-11-15,2026-11-22,2026-11-24,200000,Advanced
+H127,Blockchain Sprint 127,Lucknow Innovation Collective 7,Offline,Lucknow,Uttar Pradesh,Blockchain,Advanced,3,5,2026-11-20,2026-11-27,2026-11-29,200000,Advanced
+H128,IoT Sprint 128,Guwahati Innovation Collective 8,Online,Guwahati,Assam,IoT,Intermediate,3,6,2026-11-25,2026-12-02,2026-12-04,200000,Intermediate
+H129,Smart Cities Challenge 129,Raipur Innovation Collective 1,Offline,Raipur,Chhattisgarh,Smart Cities,Intermediate,3,4,2026-11-30,2026-12-07,2026-12-09,25000,Intermediate
+H130,Sustainability Challenge 130,Coimbatore Innovation Collective 2,Offline,Coimbatore,Tamil Nadu,Sustainability,Intermediate,3,5,2026-12-05,2026-12-12,2026-12-14,25000,Intermediate
+H131,Web Development Innovation Jam 131,Surat Innovation Collective 3,Online,Surat,Gujarat,Web Development,Beginner,3,5,2026-12-10,2026-12-17,2026-12-19,500000,Beginner
+H132,Data Science Challenge 132,Warangal Innovation Collective 4,Offline,Warangal,Telangana,Data Science,Advanced,3,5,2026-12-15,2026-12-22,2026-12-24,100000,Advanced
+H133,Cloud Computing Buildathon 133,Mysuru Innovation Collective 5,Online,Mysuru,Karnataka,Cloud Computing,Intermediate,3,5,2026-12-20,2026-12-27,2026-12-29,100000,Intermediate
+H134,Social Impact Challenge 134,Raipur Innovation Collective 6,Offline,Raipur,Chhattisgarh,Social Impact,Advanced,3,4,2026-12-25,2027-01-01,2027-01-03,200000,Advanced
+H135,Open Innovation Challenge 135,Raipur Innovation Collective 7,Offline,Raipur,Chhattisgarh,Open Innovation,Intermediate,3,4,2026-12-30,2027-01-06,2027-01-08,500000,Intermediate
+H136,AI/ML Sprint 136,Mumbai Innovation Collective 8,Hybrid,Mumbai,Maharashtra,AI/ML,Advanced,3,5,2027-01-04,2027-01-11,2027-01-13,25000,Advanced
+H137,FinTech Buildathon 137,Warangal Innovation Collective 1,Offline,Warangal,Telangana,FinTech,Intermediate,3,6,2027-01-09,2027-01-16,2027-01-18,100000,Intermediate
+H138,HealthTech Sprint 138,Guwahati Innovation Collective 2,Offline,Guwahati,Assam,HealthTech,Intermediate,3,5,2027-01-14,2027-01-21,2027-01-23,200000,Intermediate
+H139,EdTech Sprint 139,Visakhapatnam Innovation Collective 3,Offline,Visakhapatnam,Andhra Pradesh,EdTech,Intermediate,3,6,2027-01-19,2027-01-26,2027-01-28,500000,Intermediate
+H140,Agriculture Buildathon 140,Jammu Innovation Collective 4,Hybrid,Jammu,Jammu and Kashmir,Agriculture,Intermediate,3,6,2027-01-24,2027-01-31,2027-02-02,50000,Intermediate
+H141,Cybersecurity Challenge 141,Bhubaneswar Innovation Collective 5,Online,Bhubaneswar,Odisha,Cybersecurity,Intermediate,3,5,2027-01-29,2027-02-05,2027-02-07,25000,Intermediate
+H142,Blockchain Challenge 142,Jaipur Innovation Collective 6,Hybrid,Jaipur,Rajasthan,Blockchain,Advanced,3,5,2027-02-03,2027-02-10,2027-02-12,200000,Advanced
+H143,IoT Sprint 143,Ahmedabad Innovation Collective 7,Hybrid,Ahmedabad,Gujarat,IoT,Intermediate,3,6,2027-02-08,2027-02-15,2027-02-17,50000,Intermediate
+H144,Smart Cities Innovation Jam 144,Hyderabad Innovation Collective 8,Online,Hyderabad,Telangana,Smart Cities,Advanced,3,6,2027-02-13,2027-02-20,2027-02-22,50000,Advanced
+H145,Sustainability Sprint 145,Nagpur Innovation Collective 1,Offline,Nagpur,Maharashtra,Sustainability,Intermediate,3,5,2027-02-18,2027-02-25,2027-02-27,50000,Intermediate
+H146,Web Development Challenge 146,Patna Innovation Collective 2,Offline,Patna,Bihar,Web Development,Advanced,3,4,2027-02-23,2027-03-02,2027-03-04,50000,Advanced
+H147,Data Science Buildathon 147,Patna Innovation Collective 3,Online,Patna,Bihar,Data Science,Beginner,3,4,2027-02-28,2027-03-07,2027-03-09,100000,Beginner
+H148,Cloud Computing Buildathon 148,Chandrapur Innovation Collective 4,Offline,Chandrapur,Maharashtra,Cloud Computing,Intermediate,3,5,2027-03-05,2027-03-12,2027-03-14,25000,Intermediate
+H149,Social Impact Buildathon 149,Bhubaneswar Innovation Collective 5,Offline,Bhubaneswar,Odisha,Social Impact,Beginner,3,6,2027-03-10,2027-03-17,2027-03-19,100000,Beginner
+H150,Open Innovation Innovation Jam 150,Bhubaneswar Innovation Collective 6,Hybrid,Bhubaneswar,Odisha,Open Innovation,Advanced,3,5,2027-03-15,2027-03-22,2027-03-24,200000,Advanced
+H151,AI/ML Innovation Jam 151,Ahmedabad Innovation Collective 7,Hybrid,Ahmedabad,Gujarat,AI/ML,Advanced,3,6,2027-03-20,2027-03-27,2027-03-29,50000,Advanced
+H152,FinTech Buildathon 152,Mumbai Innovation Collective 8,Hybrid,Mumbai,Maharashtra,FinTech,Beginner,3,5,2027-03-25,2027-04-01,2027-04-03,500000,Beginner
+H153,HealthTech Innovation Jam 153,Raipur Innovation Collective 1,Online,Raipur,Chhattisgarh,HealthTech,Intermediate,3,4,2027-03-30,2027-04-06,2027-04-08,25000,Intermediate
+H154,EdTech Innovation Jam 154,Indore Innovation Collective 2,Offline,Indore,Madhya Pradesh,EdTech,Intermediate,3,6,2027-04-04,2027-04-11,2027-04-13,100000,Intermediate
+H155,Agriculture Sprint 155,Jammu Innovation Collective 3,Online,Jammu,Jammu and Kashmir,Agriculture,Intermediate,3,4,2027-04-09,2027-04-16,2027-04-18,50000,Intermediate
+H156,Cybersecurity Sprint 156,Dehradun Innovation Collective 4,Online,Dehradun,Uttarakhand,Cybersecurity,Intermediate,3,4,2027-04-14,2027-04-21,2027-04-23,500000,Intermediate
+H157,Blockchain Challenge 157,Coimbatore Innovation Collective 5,Offline,Coimbatore,Tamil Nadu,Blockchain,Beginner,3,6,2027-04-19,2027-04-26,2027-04-28,500000,Beginner
+H158,IoT Sprint 158,Kochi Innovation Collective 6,Hybrid,Kochi,Kerala,IoT,Intermediate,3,5,2027-04-24,2027-05-01,2027-05-03,100000,Intermediate
+H159,Smart Cities Buildathon 159,Coimbatore Innovation Collective 7,Hybrid,Coimbatore,Tamil Nadu,Smart Cities,Intermediate,3,5,2027-04-29,2027-05-06,2027-05-08,25000,Intermediate
+H160,Sustainability Sprint 160,Thiruvananthapuram Innovation Collective 8,Online,Thiruvananthapuram,Kerala,Sustainability,Intermediate,3,5,2027-05-04,2027-05-11,2027-05-13,200000,Intermediate
+H161,Web Development Buildathon 161,Coimbatore Innovation Collective 1,Online,Coimbatore,Tamil Nadu,Web Development,Beginner,3,6,2027-05-09,2027-05-16,2027-05-18,100000,Beginner
+H162,Data Science Innovation Jam 162,Surat Innovation Collective 2,Online,Surat,Gujarat,Data Science,Beginner,3,6,2027-05-14,2027-05-21,2027-05-23,50000,Beginner
+H163,Cloud Computing Challenge 163,Chennai Innovation Collective 3,Hybrid,Chennai,Tamil Nadu,Cloud Computing,Beginner,3,5,2027-05-19,2027-05-26,2027-05-28,200000,Beginner
+H164,Social Impact Sprint 164,Lucknow Innovation Collective 4,Hybrid,Lucknow,Uttar Pradesh,Social Impact,Intermediate,3,4,2027-05-24,2027-05-31,2027-06-02,200000,Intermediate
+H165,Open Innovation Challenge 165,Panaji Innovation Collective 5,Online,Panaji,Goa,Open Innovation,Intermediate,3,5,2027-05-29,2027-06-05,2027-06-07,500000,Intermediate
+H166,AI/ML Challenge 166,Bengaluru Innovation Collective 6,Offline,Bengaluru,Karnataka,AI/ML,Intermediate,3,4,2027-06-03,2027-06-10,2027-06-12,200000,Intermediate
+H167,FinTech Sprint 167,Bhubaneswar Innovation Collective 7,Online,Bhubaneswar,Odisha,FinTech,Beginner,3,5,2027-06-08,2027-06-15,2027-06-17,50000,Beginner
+H168,HealthTech Challenge 168,Patna Innovation Collective 8,Online,Patna,Bihar,HealthTech,Advanced,3,4,2027-06-13,2027-06-20,2027-06-22,200000,Advanced
+H169,EdTech Innovation Jam 169,Raipur Innovation Collective 1,Online,Raipur,Chhattisgarh,EdTech,Advanced,3,6,2027-06-18,2027-06-25,2027-06-27,100000,Advanced
+H170,Agriculture Challenge 170,Visakhapatnam Innovation Collective 2,Hybrid,Visakhapatnam,Andhra Pradesh,Agriculture,Beginner,3,5,2027-06-23,2027-06-30,2027-07-02,200000,Beginner
+H171,Cybersecurity Innovation Jam 171,Jaipur Innovation Collective 3,Hybrid,Jaipur,Rajasthan,Cybersecurity,Advanced,3,5,2027-06-28,2027-07-05,2027-07-07,25000,Advanced
+H172,Blockchain Challenge 172,Thiruvananthapuram Innovation Collective 4,Online,Thiruvananthapuram,Kerala,Blockchain,Intermediate,3,4,2027-07-03,2027-07-10,2027-07-12,200000,Intermediate
+H173,IoT Sprint 173,Coimbatore Innovation Collective 5,Offline,Coimbatore,Tamil Nadu,IoT,Beginner,3,5,2027-07-08,2027-07-15,2027-07-17,50000,Beginner
+H174,Smart Cities Sprint 174,Chennai Innovation Collective 6,Online,Chennai,Tamil Nadu,Smart Cities,Intermediate,3,4,2027-07-13,2027-07-20,2027-07-22,25000,Intermediate
+H175,Sustainability Sprint 175,Thiruvananthapuram Innovation Collective 7,Online,Thiruvananthapuram,Kerala,Sustainability,Intermediate,3,6,2027-07-18,2027-07-25,2027-07-27,200000,Intermediate
+H176,Web Development Challenge 176,Chandrapur Innovation Collective 8,Offline,Chandrapur,Maharashtra,Web Development,Intermediate,3,5,2027-07-23,2027-07-30,2027-08-01,25000,Intermediate
+H177,Data Science Innovation Jam 177,Pune Innovation Collective 1,Offline,Pune,Maharashtra,Data Science,Intermediate,3,4,2027-07-28,2027-08-04,2027-08-06,25000,Intermediate
+H178,Cloud Computing Innovation Jam 178,Nagpur Innovation Collective 2,Offline,Nagpur,Maharashtra,Cloud Computing,Beginner,3,4,2027-08-02,2027-08-09,2027-08-11,100000,Beginner
+H179,Social Impact Challenge 179,Chennai Innovation Collective 3,Hybrid,Chennai,Tamil Nadu,Social Impact,Beginner,3,5,2027-08-07,2027-08-14,2027-08-16,50000,Beginner
+H180,Open Innovation Innovation Jam 180,Bengaluru Innovation Collective 4,Offline,Bengaluru,Karnataka,Open Innovation,Advanced,3,4,2027-08-12,2027-08-19,2027-08-21,100000,Advanced
